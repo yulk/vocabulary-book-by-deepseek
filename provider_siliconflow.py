@@ -10,7 +10,7 @@ headers = {
     "Content-Type": "application/json"
 }
 
-def call_siliconflow_chat(prompt, system=None, format="text", model="deepseek-ai/DeepSeek-V3"):
+def call_siliconflow_chat(prompt, system=None, format="text", model="deepseek-ai/DeepSeek-V2.5"):
     payload = {
         "model": model,
         "messages": [],
@@ -37,7 +37,7 @@ def call_siliconflow_chat(prompt, system=None, format="text", model="deepseek-ai
 
     try:
         response = requests.request("POST", URL, json=payload, headers=headers)
-        print(response.text)
+        #print(response.text)
         return response.json()["choices"][0]["message"]["content"]
     except Exception as e:
         print(e)
@@ -47,5 +47,5 @@ def call_siliconflow_chat(prompt, system=None, format="text", model="deepseek-ai
 if __name__ == "__main__":
     print(os.environ['SILICONFLOW_API_KEY'])
     #response = call_siliconflow_chat("天空为什么是蓝色的")
-    response = call_siliconflow_chat("天空为什么是蓝色的", system="You are a helpful assistant designed to output JSON.", format="json_object")
+    response = call_siliconflow_chat("天空为什么是蓝色的,output JSON", system="You are a helpful assistant designed to output JSON.", format="json_object")
     print(response)

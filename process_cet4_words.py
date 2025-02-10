@@ -47,7 +47,7 @@ word_system_prompt = """
 - 要求使用简单的词汇，100 个单词以内。
 - 英文故事后面附带对应的中文翻译。
 """
-
+word_draw_system = "You are a helpful assistant designed to output JSON."
 word_draw_prompt = """
 根据以下对单词 "{word}" 的定义和示例，创建一个用于生成有助于记忆该单词的prompt。
 ```
@@ -75,12 +75,24 @@ word_draw_json_format = """
 def process_word(word, word_mean):
     #print(word_draw_prompt.format(word=word, mean=word_mean, json_format=word_draw_json_format % word))
     #sys.exit()
-    #res_text = call_siliconflow_chat(word, system=word_system_prompt)
-    draw_prompt = call_siliconflow_chat(word_draw_prompt.format(word=word, mean=word_mean, json_format=word_draw_json_format % word), system=None, format="json_object")
-    #print(res_text)
-    print(draw_prompt)
-    sys.exit()
-    return res_text, draw_prompt
+    res_text = call_siliconflow_chat(word, system=word_system_prompt)
+    while res_text == None:
+        print(f"ERROR:  res_text({word}) is None, retrying...")
+        res_text = call_siliconflow_chat(word, system=word_system_prompt)
+
+    while True:  
+        draw_res_text = call_siliconflow_chat(word_draw_prompt.format(word=word, mean=word_mean, json_format=word_draw_json_format % word), system=word_draw_system, format="json_object")
+        if draw_res_text == None:
+            print(f"ERROR:  draw_res_text({word}) is None, retrying...")
+            continue
+        try:
+            draw_res = json.loads(draw_res_text)
+            return res_text, draw_res['explanation'] , draw_res['prompt']
+        except Exception as e:
+            print(f"ERROR:  draw_res_text({word}) is not valid json, retrying...")
+            continue
+    
+    return None, None, None
 
 def main():
     # 确保结果目录存在
@@ -102,13 +114,17 @@ def main():
                 word_name = word['word']
                 word_mean = word['mean']
                 word_phonetic_symbol = word['phonetic_symbol']
-                analysis, draw_prompt = process_word(word_name, word_mean)
+                analysis, draw_explain, draw_prompt = process_word(word_name, word_mean)
                
                 processed_words.append({
                     "word": word_name,
                     "analysis": analysis,
+                    "draw_explain": draw_explain,
                     "draw_prompt": draw_prompt
                 })
+
+                if len(processed_words) >=2:
+                    break
             
                 
             
@@ -116,6 +132,7 @@ def main():
             result_path = os.path.join(result_dir, filename)
             with open(result_path, 'w', encoding='utf-8') as f:
                 json.dump(processed_words, f, ensure_ascii=False, indent=2)
+            print(f"处理完成：{result_path}")
     
     print("处理完成！")
 
