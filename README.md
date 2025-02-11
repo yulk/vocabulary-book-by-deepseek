@@ -3,7 +3,7 @@
 ## Run
 
 ```
-env $(grep -v '^#' .env | xargs)  python3.8 provider_siliconflow.py
+./prun.sh process_cet4_words.py
 ```
 
 ## 需求
@@ -16,5 +16,5 @@ env $(grep -v '^#' .env | xargs)  python3.8 provider_siliconflow.py
 
 ### Task2
 用 Python 写一个 cet4 单词助记图片生成工具， 详细需求如下：
-1、 读取每一个 data/cet4/目录下 每个JSON文件中的所有单词，对每个单词调用OpenAI的接口生成该单词的图片。
-3、 生成的图片文件保存到 result/cet4_imgs/目录下，文件名称格式为：{first_letter_of_word}/{word}.png
+1、 读取每一个 data/cet4/目录下 每个JSON文件中的所有单词，对每个单词调用replicate的接口(接口具体实现在provider_replicate.py:replicate_run)生成该单词的图片。
+2、 生成的图片文件保存到 result/cet4_imgs/目录下，文件名称格式为：{first_letter_of_word}/{word}.jpg。如果对应图片文件已存在，则跳过本图片文件的生成。
