@@ -15,6 +15,8 @@
 3、 生成的单词信息保存到 result/cet4/目录下，分别为： A.json B.json ... Z.json
 
 ### Task2
-用 Python 写一个 cet4 单词助记图片生成工具， 详细需求如下：
-1、 读取每一个 data/cet4/目录下 每个JSON文件中的所有单词，对每个单词调用replicate的接口(接口具体实现在provider_replicate.py:replicate_run)生成该单词的图片。
-2、 生成的图片文件保存到 result/cet4_imgs/目录下，文件名称格式为：{first_letter_of_word}/{word}.jpg。如果对应图片文件已存在，则跳过本图片文件的生成。
+用 Python3.8 写一个单词助记图片生成工具gen_words_img.py， 详细需求如下：
+1、读取每一个 result/cet4/目录下 每个JSON文件中的所有单词信息，每个单词信息包括word、analysis、draw_explain、draw_prompt 4个字段。
+2、对每个单词调用replicate的接口(接口具体实现在provider_replicate.py:replicate_run)生成该单词的图片。
+3、生成的图片文件保存到 result/cet4_imgs/目录下，文件名称格式为：{first_letter_of_word}/{word}.jpg。如果对应图片文件已存在，则跳过本图片文件的生成。
+4、假设所有依赖库已经安装。
