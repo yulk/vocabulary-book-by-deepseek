@@ -15,13 +15,21 @@ article_dir = 'result/cet4_articles'
 for letter in [chr(ord('a') + i) for i in range(26)]:
     upper_letter = letter.upper()
     json_path = os.path.join(word_analysis_dir, f'{upper_letter}.json')
+    word_data_path = os.path.join(word_data_dir, f'{upper_letter}.json')
+
     
     if not os.path.exists(json_path):
         continue
     
-    # 读取单词数据
-    with open(json_path, 'r', encoding='utf-8') as f:
+    # 读取单词原始数据
+    words_data_map = {}
+    with open(word_data_path, 'r', encoding='utf-8') as f:
         words_data = json.load(f)
+        for word in words_data:
+            words_data_map[word['word']] = word
+    # 读取单词分析数据
+    with open(json_path, 'r', encoding='utf-8') as f:
+        words_ana_data = json.load(f)
     
     # 准备Markdown内容
     content = f"""---
@@ -38,10 +46,23 @@ tags:
 """
     content += "\n"
 
-    for word in words_data:
+    for i in range(0, len(words_ana_data)):
+        word = words_ana_data[i]
+        word_org_data = words_data_map.get(word['word'], {})
         analysis = word.get('analysis', '')
-        content += f"""## {word['word']}
+        content += f"""## {i+1}. {word['word']}
+
+**音标**：{word_org_data['phonetic_symbol']}
+
+**释义**：{word_org_data['mean']}
+
 {analysis}
+
+### 助记图像
+
+{word['draw_explain']}
+
+![{word['word']}](../cet4_imgs/{letter}/{word['word']}.jpg)
 
 """
 
