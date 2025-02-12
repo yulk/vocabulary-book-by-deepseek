@@ -114,7 +114,7 @@ def word_check_valide(word):
             print(f"ERROR:  word({word}) is not little letter or big letter, skipping...")
             assert False
 
-def main():
+def main(word_file=None):
     # 确保结果目录存在
     result_dir = os.path.join(os.getcwd(), 'result', 'cet4')
     if not os.path.exists(result_dir):
@@ -138,6 +138,8 @@ def main():
     # 处理每个单词
     for filename in os.listdir(data_dir):
         if filename.endswith('.json'):
+            if word_file and word_file != filename:
+                continue
             # 读取源文件
             word_list_path = os.path.join(data_dir, filename)
             logging.info(f"processing file: {word_list_path}")
@@ -187,7 +189,11 @@ def main():
                 word_mean = word['mean']
                 word_phonetic_symbol = word['phonetic_symbol']
                 
-                with open(os.path.join(result_dir, word_name[0], f"{word_name}.json"), 'r', encoding='utf-8') as f:
+                word_file = os.path.join(result_dir, word_name[0].lower(), f"{word_name}.json")
+                if not os.path.exists(word_file):
+                    print(f"file not exists: {word_file}, skipping...")
+                    continue
+                with open(word_file, 'r', encoding='utf-8') as f:
                     processed_word = json.load(f)
                     assert word_name == processed_word['word']
                     word['analysis'] = processed_word['analysis']
@@ -204,4 +210,5 @@ def main():
     logging.info(f"finish process all files")
 
 if __name__ == "__main__":
-    main()
+    word_file = sys.argv[1] if len(sys.argv) > 1 else None
+    main(word_file)

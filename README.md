@@ -2,8 +2,22 @@
 
 ## Run
 
+**串行处理**
 ```
 ./prun.sh process_cet4_words.py
+```
+
+**只处理一个文件**
+```
+./prun.sh process_cet4_words.py A.json
+```
+
+**并发处理所有文件**
+
+```bash
+for letter in {A..Z}; do 
+    ./prun.sh process_cet4_words.py ${letter}.json &
+done
 ```
 
 ## 需求
