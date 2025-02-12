@@ -1,0 +1,38 @@
+[
+  {
+    "initial": "P",
+    "mean": "n.步，步速vi.踱步",
+    "phonetic_symbol": "/peis/",
+    "word": "pace",
+    "analysis": "### 分析词义\n\n**Space** 是一个多义词，主要含义包括：\n\n1. **空间**：指物理上的空间，如房间、宇宙等。\n2. **空白**：指纸上的空白区域，或时间上的间隔。\n3. **太空**：特指地球大气层以外的宇宙空间。\n4. **间隔**：指物体之间的距离或时间上的间隔。\n\n### 列举例句\n\n1. **空间**：  \n   - The room has a lot of space for furniture.  \n     （这个房间有很多空间可以放家具。）\n   \n2. **空白**：  \n   - Please leave a space between each word.  \n     （请在每个单词之间留一个空格。）\n   \n3. **太空**：  \n   - Astronauts travel through space to explore the universe.  \n     （宇航员通过太空探索宇宙。）\n   \n4. **间隔**：  \n   - There is a space of two meters between the two buildings.  \n     （两栋楼之间有2米的间隔。）\n\n### 词根分析\n\n- **词根**：*space* 本身就是一个基础词，没有明显的词根。它源自拉丁语 *spatium*，意为“空间”或“距离”。\n- **衍生词**：  \n  - **Spaceship**（宇宙飞船）  \n  - **Spacing**（间隔）  \n  - **Spacious**（宽敞的）  \n  - **Spacecraft**（航天器）  \n  - **Spacewalk**（太空行走）  \n  - **Space station**（空间站）  \n  - **Spacesuit**（宇航服）  \n  - **Spacing out**（走神）  \n  - **Space-time**（时空）  ",
+    "draw_explain": "通过展示一个人在一条直线上来回踱步的场景，可以直观地理解'pace'作为'步速'和'踱步'的含义。直线和重复的动作强调了步速的概念，而踱步的动作则直接关联到单词的动词形式。",
+    "draw_prompt": "A person walking back and forth in a straight line, emphasizing the repetitive motion of pacing."
+  },
+  {
+    "initial": "P",
+    "mean": "a.和平的n.太平洋",
+    "phonetic_symbol": "/pə’sifik/",
+    "word": "pacific",
+    "analysis": "### 分析词义\n\"Pacific\" 是一个形容词，主要有两个意思：\n1. 表示“和平的”或“平静的”，通常用来描述没有冲突或紧张的状态。\n2. 表示“太平洋的”，特指与太平洋相关的事物。\n\n### 列举例句\n1. **The two countries signed a pacific agreement to end the conflict.**  \n   - 两国签署了一项和平协议以结束冲突。\n   \n2. **The pacific ocean is the largest ocean on Earth.**  \n   - 太平洋是地球上最大的海洋。\n   \n3. **After the storm, the sea became pacific again.**  \n   - 风暴过后，海面再次变得平静。\n\n### 词根分析\n- **词根**: \"pac-\" 来自拉丁语 \"pax\"，意思是“和平”。\n- **衍生词**: \"pacify\"（使平静）、\"pacifist\"（和平主义者）、\"appease\"（安抚）。\n\n### 词缀分析\n- **前缀**: 无特殊前缀。\n- **后缀**: \"-ific\"（表示“产生某种效果”）在某些单词中出现，如 \"pacific\"（产生和平的）。\n- **其他单词**: \"terrific\"（极好的）、\"terrificate\"（使恐怖）。\n\n### 发展历史和文化背景\n- **来源**: \"Pacific\" 源自拉丁语 \"pacificus\"，意为“带来和平的”。在16世纪，欧洲探险家首次发现太平洋时，因其广阔而平静的海面，将其命名为“Pacific Ocean”（太平洋）。这个名字反映了当时人们对这片海洋的印象——宁静与和平。\n- **文化内涵**: \"Pacific\" 在西方文化中常与和平、宁静和广阔的自然景观联系在一起，象征着和谐与安宁。\n\n### 单词变形\n- **形容词**: pacific（和平的；太平洋的）  \n- **名词**: pacification（平定；和解）  \n- **动词**: pacify（使平静；安抚）  \n- **固定搭配**: \"Pacific Rim\"（环太平洋地区）、\"Pacific Islands\"（太平洋群岛）。  \n- **组词**: \"Pacific Ocean\"（太平洋）、\"Pacific Northwest\"（美国西北太平洋地区）。  \n- **中文翻译**:  平和的；太平的；太平洋的；使平静；平定；环太平洋地区；太平洋群岛；美国西北太平洋地区；太平洋。  ",
+    "draw_explain": "选择太平洋作为视觉线索，因为其名称直接与单词'pacific'相关联，且其广阔的蓝色海洋形象易于记忆。通过描述一个宁静的太平洋日落场景，结合和平的氛围和自然美景，能够有效地帮助记忆单词'pacific'的含义。",
+    "draw_prompt": "A serene sunset over the vast blue Pacific Ocean, with gentle waves and a peaceful atmosphere, depicted in a soft, naturalistic style."
+  },
+  {
+    "initial": "P",
+    "mean": "vt.捆扎;挤满n.包",
+    "phonetic_symbol": "/pæk/",
+    "word": "pack",
+    "analysis": "### 分析词义\n\"Pack\" 是一个多义词，主要用作名词和动词。\n- **名词**：指一群动物或人，尤其是有组织的团体；也指包裹、行李等。\n- **动词**：表示打包、装载物品；也可以表示挤在一起、聚集。\n\n### 列举例句\n1. **名词用法**：\n   - The hunter followed the pack of wolves into the forest.  \n     （猎人跟着狼群进入了森林。）\n   - She carried her pack on the hike.  \n     （她在徒步旅行时背着背包。）\n2. **动词用法**：\n   - We need to pack our bags before the flight.  \n     （我们需要在飞行前打包行李。）\n   - The students packed into the classroom for the lecture.  \n     （学生们挤进了教室听讲座。）\n3. **固定搭配**：\n   - The company packed a lot of features into this new phone.  \n     （公司在这部新手机中加入了许多功能。）\n   - They packed up and left early in the morning.  \n     （他们收拾好行李，一大早就离开了。）\n\n### 词根分析\n- **词根**：pack- (源自拉丁语 \"pactum\"，意为“契约”或“协议”)。这个词根与“紧密结合”或“聚集”的概念相关。衍生词包括：package（包裹）、packet（小包）、packed（拥挤的）等。\n    - Package: a bundle wrapped for carrying or storing items.  \n      （包裹：为携带或储存而捆扎的一包物品。）\n    - Packet: a small package or bundle, especially of something like mail or food.  \n      （小包：特别是邮件或食物的小包装或捆绑物。）\n    - Packed: crowded or full to capacity.  \n      （拥挤的：充满或达到容量的状态。）",
+    "draw_explain": "通过展示一个充满物品的背包和一个拥挤的公交车，可以直观地帮助记忆'pack'作为动词和名词的含义。背包中的物品代表'捆扎'的动作，而拥挤的公交车则象征'挤满'的状态。这样的视觉线索简洁且易于联想。",
+    "draw_prompt": "A backpack filled with various items, and a crowded bus with people tightly packed inside."
+  },
+  {
+    "initial": "P",
+    "mean": "n.包裹，包，捆",
+    "phonetic_symbol": "/‘pækidʒ/",
+    "word": "package",
+    "analysis": "### 分析词义\n\n**package** 是一个多义词，主要有以下几种意思：\n1. **名词**：指“包裹”或“包装”，通常用于描述装有物品的盒子、袋子或其他容器。\n2. **名词**：指“一揽子交易”或“套餐”，通常用于商业或服务行业中，表示一系列相关的产品或服务。\n3. **动词**：指“打包”或“包装”，即把物品放入容器中以便运输或销售。\n\n### 列举例句\n\n1. **名词用法**：\n   - The delivery man left a package at the door.  \n     （快递员在门口留下了一个包裹。）\n   - The company offers a special package for new customers.  \n     （公司为新客户提供了一个特别的套餐。）\n   \n2. **动词用法**：\n   - She packaged the gifts carefully before mailing them.  \n     （她在寄出礼物前仔细地进行了包装。）\n   - The chef is packaging the leftovers for the customer.  \n     （厨师正在为顾客打包剩菜。）\n   \n3. **形容词用法**（较少见）：\n   - The package deal includes flights, hotels, and tours.  \n     （这个套餐包括机票、酒店和旅游项目。）\n   - We bought a package holiday to Spain last summer.  \n     （去年夏天我们买了一个去西班牙的度假套餐。）\n   \n### 词根分析\n\n- **词根**：pack-  表示“打包”或“装载”的意思，源自拉丁语 *pactum*，意为“合同”或“协议”。后来演变为英语中的 *pack*，表示将物品打包或装载。-age 是名词后缀，表示行为、状态或结果。因此，package 的字面意思是“打包的行为或结果”。  \n- **衍生词**：pack（动词/名词，表示“打包”或“一群”）、packed（形容词，表示“挤满的”）、packing（名词，表示“包装材料”）等。  \n   例如：packing paper（包装纸）、packed lunch（便当）等。  \n   另外还有 packer（名词，表示“打包机”或“包装工人”）等。  \n   还有一些与 pack 相关的短语如 pack up（收拾行李）、pack off（打发走）等。  \n   例如：He packed up his things and left for the airport. 他收拾好行李去了机场。/ They packed him off to boarding school. 他们把他送去了寄宿学校。/ The box was packed with books. 盒子里装满了书。/ The room was packed with people. 房间里挤满了人。/ She packed a sandwich for her lunch. 她给自己打包了一个三明治作为午餐。/ He packed his suitcase with clothes and books. 他把衣服和书装进了行李箱里。/ They packed the car with luggage and drove away. 他们把行李装进车里然后开车离开了。/ She packed a bag of clothes and left home without saying goodbye to anyone in her family or friends or colleagues or neighbors or anyone else who might have been interested in her departure from home or work or life in general or anything else that might have been relevant to her departure from home or work or life in general or anything else that might have been relevant to her departure from home or work or life in general or anything else that might have been relevant to her departure from home or work or life in general or anything else that might have been relevant to her departure from home or work or life in general or anything else that might have been relevant to her departure from home",
+    "draw_explain": "通过展示一个包裹的图像，可以直观地帮助记忆单词'package'的含义。包裹是一个常见且易于识别的物体，其形状和包装方式都与单词的定义紧密相关。",
+    "draw_prompt": "A close-up image of a neatly wrapped package with a ribbon, featuring a square box with brown paper and white tape, in a minimalist style."
+  }
+]

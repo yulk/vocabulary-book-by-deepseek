@@ -1,0 +1,74 @@
+[
+  {
+    "initial": "A",
+    "mean": "vt.丢弃;放弃，抛弃",
+    "phonetic_symbol": "/ə’bændən/",
+    "word": "abandon",
+    "analysis": "### 分析词义\n\"Abandon\" 是一个动词，意思是“放弃”或“抛弃”。它通常指完全放弃某物或某人，不再对其负责或关心。\n\n### 列举例句\n1. **场景一：个人生活**  \n   - He decided to abandon his career in law and pursue a life in music.  \n     *他决定放弃律师职业，追求音乐生活。*\n\n2. **场景二：情感关系**  \n   - She felt abandoned by her friends when they stopped contacting her.  \n     *当朋友们不再联系她时，她感到被抛弃了。*\n\n3. **场景三：项目管理**  \n   - The company had to abandon the project due to lack of funding.  \n     *由于资金不足，公司不得不放弃这个项目。*\n\n### 词根分析\n- **词根：** \"bandon\" 源自拉丁语 \"bannire\"，意为“宣布”或“命令”。在古法语中演变为 \"abandoner\"，意为“放弃”或“交出”。\n- **衍生词：** abandonment（名词形式）、abandoned（形容词形式）。\n\n### 词缀分析\n- **前缀：** 无前缀。\n- **后缀：** -ment（名词后缀）、-ed（形容词后缀）。\n- **相同后缀的单词：** enjoyment（享受）、movement（运动）、excited（兴奋的）。\n\n### 发展历史和文化背景\n\"Abandon\" 最早出现在14世纪的英语中，源自法语 \"abandoner\"，进一步追溯到拉丁语 \"bannire\"。在法律和文学中，\"abandonment\" 常用于描述对某物或某人的完全放弃，例如遗弃儿童或废弃财产。在现代文化中，这个词常与情感上的失落和孤独感联系在一起。\n\n### 单词变形\n- **名词：** abandonment（遗弃；放弃）  \n- **形容词：** abandoned（被遗弃的；放任的）  \n- **动词时态：** abandons, abandoning, abandoned  \n- **固定搭配：** abandon oneself to (沉溺于)、with abandon (尽情地)  \n  - He abandoned himself to despair after the loss of his job.  \n    *失去工作后，他陷入了绝望之中。*  \n  - They danced with abandon at the party.  \n    *他们在派对上尽情地跳舞。*",
+    "draw_explain": "通过展示一个被遗弃的破旧房屋，可以直观地传达'abandon'的含义，即丢弃或放弃某物。这种场景能够清晰地展示出被抛弃的状态，帮助记忆单词的含义。",
+    "draw_prompt": "A decaying, abandoned house in the middle of a desolate field, with broken windows and overgrown vegetation, under a cloudy sky."
+  },
+  {
+    "initial": "A",
+    "mean": "ad.在船(车)上;上船",
+    "phonetic_symbol": "/ə’bɔ:d/",
+    "word": "aboard",
+    "analysis": "### 分析词义\n\"Aboard\" 是一个副词和介词，意思是“在（船、飞机、火车、公共汽车等）上”或“登上（交通工具）”。它通常用于描述某人或某物在交通工具内部或在进入交通工具的过程中。\n\n### 列举例句\n1. **场景一：登机**\n   - The passengers were asked to board the plane at Gate 12.\n   - 乘客们被要求在12号登机口登机。\n\n2. **场景二：船上**\n   - The captain announced that we were all safely aboard the ship.\n   - 船长宣布我们都已经安全登船。\n\n3. **场景三：火车**\n   - Please make sure your luggage is securely aboard before the train departs.\n   - 请确保您的行李在火车出发前已经安全上车。\n\n### 词根分析\n- **词根**: \"board\" 源自中古英语的 \"bord\"，意为“木板”或“甲板”，后来引申为“在（交通工具）上”。\n- **衍生单词**: \"board\" (名词/动词), \"boarding\" (名词/形容词)。\n\n### 词缀分析\n- **前缀**: \"a-\" 是一个表示“在...上”或“进入...中”的前缀，类似于 \"on\" 或 \"in\"。例如：\"aside\" (在旁边), \"ashore\" (在岸上)。\n- **后缀**: 无后缀，单词本身是一个基础词汇。\n- **相同前缀的单词**: \"asleep\" (睡着), \"awake\" (醒着)。\n\n### 发展历史和文化背景\n\"Aboard\" 这个词的历史可以追溯到中古英语时期，最初与“木板”相关，后来随着航海和交通工具的发展，逐渐演变为描述人在交通工具上的状态。在现代英语中，它广泛用于描述登机、登船等场景，是航空、航海等领域常用的词汇。\n\n### 单词变形\n- **名词形式**: N/A（无对应名词形式）。\n- **动词形式**: N/A（无对应动词形式）。\n- **形容词形式**: N/A（无对应形容词形式）。\n- **副词形式**: aboard（本身即为副词）。\n- **固定搭配**: go aboard (登上), come aboard (加入), welcome aboard (欢迎登机/船)。\n- **组词**: boarding pass (登机牌), boarding school (寄宿学校)。",
+    "draw_explain": "该prompt通过展示一个人正在登上船的场景，突出了'aboard'这个词的核心含义，即'在船上'或'上船'。船的图像和登船的动作是与该词紧密相关的视觉线索，有助于记忆。",
+    "draw_prompt": "A person stepping onto a boat, with a clear view of the deck and the water in the background, in a realistic and detailed style."
+  },
+  {
+    "initial": "A",
+    "mean": "a.绝对的;纯粹的",
+    "phonetic_symbol": "/‘æbsəlu:t/",
+    "word": "absolute",
+    "analysis": "### 分析词义\n\n**Absolute** 是一个形容词，意思是“绝对的”或“完全的”。它表示没有任何限制、条件或例外的状态。这个词通常用于强调某事物的纯粹性、彻底性或无条件性。\n\n### 列举例句\n\n1. **场景一：科学**\n   - The scientist demanded absolute precision in his experiments.\n   - 科学家在他的实验中要求绝对的精确度。\n\n2. **场景二：道德**\n   - In some cultures, there are absolute rules about what is right and wrong.\n   - 在一些文化中，关于对与错有绝对的规定。\n\n3. **场景三：个人信仰**\n   - She had absolute faith in her friend's honesty.\n   - 她对朋友的诚实有着绝对的信任。\n\n### 词根分析\n\n- **词根**: *absolutus* (拉丁语)，意为“自由的，不受限制的”。\n- **衍生词**: \n  - **Absolve**: 赦免，解除（动词）。\n  - **Absolution**: 赦免，宽恕（名词）。\n  - **Absolutely**: 绝对地，完全地（副词）。\n\n### 词缀分析\n\n- **前缀**: *ab-* (拉丁语)，表示“离开”或“脱离”。\n- **后缀**: *-ute* (拉丁语)，用于构成形容词。\n- **相同词缀的单词**: \n  - **Abolish**: 废除（动词）。\n  - **Abstain**: 戒除（动词）。\n\n### 发展历史和文化背景\n\n**Absolute**一词源自拉丁语 *absolutus*，最初用于法律和宗教语境中，表示“解除义务”或“赦免”。随着时间的推移，这个词的意义扩展到表示任何形式的完全或无条件的状态。在哲学和伦理学中，“绝对”常用于讨论道德原则或真理的普遍性和不变性。在现代英语中，它广泛应用于各种语境，从科学到日常生活，强调事物的纯粹性和彻底性。\n\n### 单词变形\n\n- **名词形式**: Absoluteness（绝对性）。\n- **副词形式**: Absolutely（绝对地，完全地）。\n- **固定搭配**: \n  - Absolute zero: 绝对零度。\n  - Absolute majority: 绝对多数。",
+    "draw_explain": "选择一个完全封闭的立方体作为视觉线索，因为它象征着‘绝对’的完整性和不可分割性。立方体的每个面都是相同的，没有例外，这与‘绝对’的定义相符。通过使用简单的几何形状和单一的颜色，强调了纯粹和绝对的特性。",
+    "draw_prompt": "A perfectly symmetrical cube with all sides identical, rendered in a single solid color, placed against a plain white background."
+  },
+  {
+    "initial": "A",
+    "mean": "ad.完全地;绝对地",
+    "phonetic_symbol": "/‘æbsəlu:tli/",
+    "word": "absolutely",
+    "analysis": "### 分析词义\n\"Absolutely\" 是一个副词，表示完全地、绝对地或毫无疑问地。它通常用来强调某事的确定性或肯定性。\n\n### 列举例句\n1. **场景一：肯定回答**\n   - **例句**: \"Do you want to go to the party tonight?\" \"Absolutely!\"\n   - **中文翻译**: \"你今晚想去派对吗？\" \"当然！\"\n   \n2. **场景二：强调同意**\n   - **例句**: \"That was an amazing performance.\" \"Absolutely, I couldn't agree more.\"\n   - **中文翻译**: \"那是一场精彩的表演。\" \"绝对没错，我完全同意。\"\n   \n3. **场景三：表达完全否定**\n   - **例句**: \"Is it possible to finish the project by tomorrow?\" \"Absolutely not, it's impossible.\"\n   - **中文翻译**: \"明天之前能完成这个项目吗？\" \"绝对不行，这不可能。\"\n\n### 词根分析\n- **词根**: \"abs-\" 源自拉丁语，意为“远离”或“脱离”。\"-solute\" 也源自拉丁语，意为“释放”或“解开”。结合在一起，\"absolutely\" 的字面意思是“完全释放”或“完全解开”，引申为“完全地”或“绝对地”。\n- **衍生单词**: \n  - Absolute (形容词): 绝对的，完全的。\n  - Absolution (名词): 赦免，宽恕。\n  - Absolve (动词): 赦免，解除（责任）。\n\n### 词缀分析\n- **前缀**: 无特定前缀。\n- **后缀**: \"-ly\" 是常见的副词后缀，表示方式或程度。例如：friendly (友好的), quickly (迅速地)。\n- **相同后缀的单词**: \n  - Completely (完全地)。\n  - Totally (完全地)。\n  - Definitely (明确地)。\n\n### 发展历史和文化背景\n\"Absolutely\" 源自拉丁语的 \"absolutus\"，最初用于宗教语境中表示赦免或解脱。随着时间的推移，这个词逐渐被广泛应用于日常语言中，用来表达强烈的肯定或否定。在现代英语中，它常用于口语交流中以加强语气，尤其是在回答问题时表达强烈的同意或不同意。在欧美文化中，使用 \"absolutely\" 可以显示出说话者的自信和果断态度。例如在商业谈判中使用这个词可以传达出坚定的立场和决心。同时这个词也常出现在日常对话中用来表示对某人观点或建议的强烈认同例如朋友之间讨论某个话题时可以说I absolutely agree with you!来表达自己对对方观点的完全赞同和支持.此外在书面语和正式场合中也可以使用absolutely来强调自己的观点或立场例如在写邮件时可以说I absolutely believe that this is the best solution for our problem.总之absolutely是一个非常实用且表达力强的词汇能够帮助我们更好地进行语言交流和沟通.最后需要注意的是在使用absolutely时要注意场合和语气以免给人留下过于强势或者不礼貌的印象.总之通过以上分析我们可以看出absolutely不仅是一个简单的副词更是一个充满历史和文化内涵的词汇值得我们深入学习和掌握.",
+    "draw_explain": "通过展示一个完全被冰覆盖的物体，强调了'absolutely'所表达的'完全地;绝对地'的含义。冰的透明和覆盖特性象征着完全和绝对的覆盖，使得这个视觉线索与单词的定义紧密相关。",
+    "draw_prompt": "A completely frozen object, covered in transparent ice, symbolizing total and absolute coverage, with a clean and crisp appearance."
+  },
+  {
+    "initial": "A",
+    "mean": "vt.吸收;使专心",
+    "phonetic_symbol": "/əb’sɔ:b/",
+    "word": "absorb",
+    "analysis": "### 分析词义\n\n**Absorb** 是一个动词，意思是“吸收”或“吸取”。它可以指物理上的吸收，比如吸收水分或光线，也可以指精神上的吸收，比如吸收知识或信息。此外，absorb 还可以表示“使全神贯注”或“使沉浸其中”，即某人或某事完全吸引了注意力，以至于忽略了周围的一切。\n\n### 列举例句\n\n1. **The sponge absorbs water quickly.**  \n   *海绵能快速吸水。*\n   \n2. **She was so absorbed in her book that she didn't hear the phone ring.**  \n   *她看书看得太入神了，连电话响都没听见。*\n   \n3. **The company is trying to absorb new technologies to stay competitive.**  \n   *公司正在努力吸收新技术以保持竞争力。*\n\n### 词根分析\n\n- **词根**: -sorb-  \n  -sorb- 源自拉丁语 \"sorbere\"，意思是“吸取”或“吸收”。\n\n- **衍生词**:  \n  - **Absorption**: 名词，表示“吸收”或“专注”。  \n  - **Absorptive**: 形容词，表示“有吸收力的”或“吸收性的”。  \n  - **Sorbent**: 形容词，表示“有吸附力的”。  \n  - **Sorption**: 名词，表示“吸附作用”。\n\n### 词缀分析\n\n- **前缀**: ab-  \n  ab- 是一个拉丁前缀，表示“离开”或“从……中”。在这里，ab- 表示“从……中吸取”。\n  \n- **后缀**: -ed (在 absorb 的过去式 absorbed 中)  \n  -ed 是动词的过去式后缀，表示动作已经完成。\n  \n- **相同前缀的单词**:  \n  - Abandon: 放弃  \n  - Abduct: 绑架  \n  - Abbreviate: 缩写  \n  \n- **相同后缀的单词**:  \n  - Loved: 爱过的  \n  - Walked: 走过的  \n  - Talked: 说过的  \n    ",
+    "draw_explain": "通过视觉线索，选择一个能够直观体现'吸收'和'使专心'概念的场景。使用海绵吸收液体的图像，因为海绵吸收液体的过程与'absorb'的吸收含义直接相关。同时，海绵在吸收时几乎完全专注于这一过程，这与'使专心'的含义相吻合。这个图像简洁且易于记忆，能够有效帮助记住单词'absorb'。",
+    "draw_prompt": "A sponge completely immersed in a pool of liquid, visibly absorbing the liquid into its porous surface, with a clean and focused visual style."
+  },
+  {
+    "initial": "A",
+    "mean": "n.摘要",
+    "phonetic_symbol": "/’æbstrækt/",
+    "word": "abstract",
+    "analysis": "### 分析词义\n\n\"Abstract\" 是一个多义词，可以用作形容词和名词。\n\n- **形容词**：抽象的，不具体的，理论上的。例如，“抽象艺术”指的是不直接描绘现实世界的艺术形式。\n- **名词**：摘要，概要。通常指一篇文章或报告的简短总结。\n\n### 列举例句\n\n1. **场景1：艺术**  \n   - 例句：Abstract art focuses on form and color rather than realistic images.  \n   - 中文翻译：抽象艺术注重形式和颜色，而不是写实的图像。\n\n2. **场景2：学术**  \n   - 例句：Please submit an abstract of your research paper before the deadline.  \n   - 中文翻译：请在截止日期前提交研究论文的摘要。\n\n3. **场景3：哲学**  \n   - 例句：The concept of justice is abstract and difficult to define precisely.  \n   - 中文翻译：正义的概念是抽象的，很难精确地定义。\n\n### 词根分析\n\n- **词根**：拉丁语 \"abs\"（离开）+ \"trahere\"（拉），字面意思是“拉走”或“抽离”。这个概念在英语中演变为“从具体中抽离出来”的意思，即“抽象”。\n- **衍生单词**：abstraction（名词，抽象概念）；abstracted（形容词，心不在焉的）；abstractly（副词，抽象地）。\n\n### 词缀分析\n\n- **后缀**：-ion（名词后缀）；-ed（形容词后缀）；-ly（副词后缀）。这些后缀用于构建单词的不同形式和词性。例如：abstraction, abstracted, abstractly.\n- **相同词缀的其他单词**：action, reaction, collection, connection, happily, sadly.\n\n### 发展历史和文化背景\n\n\"Abstract\" 源自拉丁语 \"abstractus\"，最初用于哲学和逻辑学领域，表示从具体事物中提取出普遍概念的过程。19世纪末至20世纪初，随着现代艺术的兴起，\"abstract\" 被广泛用于描述非具象的艺术形式，如抽象表现主义。在学术界，摘要（abstract）成为论文和报告的标准组成部分，帮助读者快速了解内容要点。欧美文化中，抽象思维和理论研究被高度重视，这与 \"abstract\" 一词的广泛使用密切相关。",
+    "draw_explain": "通过展示一份文档的顶部，突出显示一个简洁的摘要部分，可以帮助记忆'abstract'作为'摘要'的含义。视觉上，摘要通常位于文档的开头，用简短的文字概括全文，这与'abstract'的定义紧密相关。",
+    "draw_prompt": "A top view of a document with a highlighted section labeled 'Abstract' at the beginning, containing concise summary text in a clean, modern typography style."
+  },
+  {
+    "initial": "A",
+    "mean": "a.丰富的;大量的",
+    "phonetic_symbol": "/ə’bΛndənt/",
+    "word": "abundant",
+    "analysis": "### 分析词义\n\n\"Abundant\" 是一个形容词，意思是“丰富的”、“大量的”或“充足的”。它通常用来描述某物在数量上非常充足，远超过所需或期望。\n\n### 列举例句\n\n1. **场景：自然景观**\n   - The Amazon rainforest is abundant in biodiversity.\n   - 亚马逊雨林的生物多样性非常丰富。\n\n2. **场景：经济资源**\n   - The country is abundant in natural resources such as oil and gas.\n   - 这个国家拥有丰富的自然资源，如石油和天然气。\n\n3. **场景：食物供应**\n   - The market has an abundant supply of fresh fruits and vegetables.\n   - 市场上新鲜水果和蔬菜的供应非常充足。\n\n### 词根分析\n\n- **词根**: \"abund-\" 来自拉丁语 \"abundare\"，意思是“溢出”或“充满”。\n- **衍生单词**: \n  - Abundance (名词): 丰富，充裕。\n  - Abundantly (副词): 丰富地，大量地。\n\n### 词缀分析\n\n- **后缀**: \"-ant\" 是一个形容词后缀，表示“具有…性质的”或“处于…状态的”。\n- **相同后缀的单词**: \n  - Important (重要的)。\n  - Pleasant (愉快的)。\n  - Constant (持续的)。\n\n### 发展历史和文化背景\n\n\"Abundant\" 这个词源于拉丁语 \"abundantem\"，最初用于描述某物超出正常或期望的数量。在英语中，它常用于描述自然资源、财富、食物等物质的丰富程度，也用于比喻意义的丰富，如知识、经验等。在欧美文化中，\"abundant\" 常与繁荣、富足和幸福联系在一起，象征着丰饶和满足。",
+    "draw_explain": "为了帮助记忆'abundant'这个单词，选择了一个充满大量水果的果园场景。水果的丰富和多样性直接关联到'abundant'的含义，即丰富的、大量的。通过视觉上看到大量的水果，可以直观地理解并记住这个单词的意思。",
+    "draw_prompt": "A vibrant orchard filled with a variety of ripe fruits, creating a lush and bountiful scene."
+  },
+  {
+    "initial": "A",
+    "mean": "vt.滥用;虐待n.滥用",
+    "phonetic_symbol": "/ə’bju:z,ə’bju:s/",
+    "word": "abuse",
+    "analysis": "### 分析词义\n\n\"Abuse\" 是一个英语单词，意思是“滥用”或“虐待”。它可以指对某物或某人的不当使用或伤害，包括身体、情感、心理或性方面的虐待。\n\n### 列举例句\n\n1. **场景一：身体虐待**\n   - **例句**: \"She reported the physical abuse to the authorities.\"\n   - **中文翻译**: 她向当局报告了身体虐待。\n\n2. **场景二：情感虐待**\n   - **例句**: \"The emotional abuse from her partner made her feel worthless.\"\n   - **中文翻译**: 她伴侣的情感虐待让她感到毫无价值。\n\n3. **场景三：药物滥用**\n   - **例句**: \"Drug abuse can lead to serious health problems.\"\n   - **中文翻译**: 药物滥用可能导致严重的健康问题。\n\n### 词根分析\n\n- **词根**: \"abus-\" 源自拉丁语 \"abuti\"，意思是“滥用”或“误用”。\n- **衍生单词**: \n  - \"abusive\" (形容词): 虐待的，辱骂的。\n  - \"abusively\" (副词): 虐待地，辱骂地。\n  - \"abuser\" (名词): 施虐者，滥用者。\n\n### 词缀分析\n\n- **后缀**: \"-e\" 是动词后缀，表示动作的完成或状态的持续。\n- **相同后缀的单词**: \n  - \"use\" (使用) -> \"used\" (使用过的)。\n  - \"dispose\" (处理) -> \"disposed\" (处理过的)。\n\n### 发展历史和文化背景\n\n\"Abuse\" 这个词源自拉丁语 \"abuti\"，最初的意思是“滥用”或“误用”。随着时间的推移，这个词的含义扩展到包括对人的身体、情感和心理的虐待。在现代社会中，“abuse”是一个非常重要的词汇，因为它涉及到人权和法律问题，特别是在家庭暴力和儿童保护领域。\n\n### 单词变形\n\n- **名词形式**: abuse (滥用，虐待)。\n- **动词形式**: abuse (滥用，虐待)。\n- **形容词形式**: abusive (虐待的，辱骂的)。\n- **副词形式**: abusively (虐待地，辱骂地)。\n- **固定搭配**: \n  - \"child abuse\" (儿童虐待)。",
+    "draw_explain": "这个prompt通过展示一个破碎的玻璃杯和一个被撕裂的玩具熊，直观地表达了'abuse'这个词的含义。破碎的玻璃杯象征着物质的滥用，而被撕裂的玩具熊则象征着情感或身体上的虐待。这种视觉对比强烈且易于记忆，能够帮助用户快速联想到'abuse'这个词的双重含义。",
+    "draw_prompt": "A shattered glass cup lying on a table next to a torn teddy bear, both in a dimly lit room with a somber atmosphere."
+  }
+]

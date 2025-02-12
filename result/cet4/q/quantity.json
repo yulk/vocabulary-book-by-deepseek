@@ -1,0 +1,6 @@
+{
+  "word": "quantity",
+  "analysis": "### 分析词义\n\"Quantity\" 是一个名词，主要用来表示数量或数额。它通常用于描述事物的多少或大小，可以指具体的数字，也可以指某种程度的量。\n\n### 列举例句\n1. **购物场景**：\n   - \"The store offers a large quantity of fresh fruits and vegetables.\"\n     - 中文翻译：“这家商店提供大量的新鲜水果和蔬菜。”\n2. **生产场景**：\n   - \"The factory produces a high quantity of cars each month.\"\n     - 中文翻译：“这家工厂每个月生产大量的汽车。”\n3. **学术场景**：\n   - \"In physics, we study the relationship between mass, velocity, and quantity.\"\n     - 中文翻译：“在物理学中，我们研究质量、速度和数量之间的关系。”\n\n### 词根分析\n- **词根**：quant- (来自拉丁语 \"quantus\"，意思是“多少”)\n- **衍生单词**：\n  - quantify (动词，表示“量化”)\n  - quantitative (形容词，表示“定量的”)\n  - quantifier (名词，表示“量词”)\n\n### 词缀分析\n- **后缀**：-ity (表示名词，意为“状态或性质”)\n- **相同后缀的单词**：\n  - reality (现实)\n  - creativity (创造力)\n  - possibility (可能性)\n\n### 发展历史和文化背景\n\"Quantity\" 源自拉丁语 \"quantitas\"，进一步追溯到 \"quantus\"，意思是“多少”。这个词在科学、商业和日常生活中广泛使用，特别是在需要精确测量和描述数量的场合。在欧美文化中，精确的数量描述被视为高效沟通的重要部分。例如，在商业谈判中，明确的产品数量有助于避免误解和纠纷。此外，在科学研究中，量化数据是进行分析和得出结论的基础。因此，\"quantity\" 这个词在欧美文化中具有重要的实用价值。",
+  "draw_explain": "通过展示一堆不同大小的苹果，可以直观地展示'quantity'这个单词的含义，即数量或分量。苹果的大小和数量变化可以帮助记忆者将视觉信息与单词的定义直接关联起来。",
+  "draw_prompt": "A pile of apples with varying sizes, arranged in a visually appealing manner, showing the concept of quantity through the number and size of the apples."
+}

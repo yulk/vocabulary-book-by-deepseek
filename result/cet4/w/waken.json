@@ -1,0 +1,6 @@
+{
+  "word": "waken",
+  "analysis": "### 分析词义\n\"Waken\" 是一个动词，意思是“醒来”或“唤醒”。它通常用于描述从睡眠状态中恢复意识，或者通过外部刺激（如声音、光线等）使某人从睡眠中醒来。\n\n### 列举例句\n1. **场景一：早晨的唤醒**\n   - The loud alarm clock always wakens me up at 6 a.m.\n   - 闹钟总是在早上6点把我吵醒。\n\n2. **场景二：自然唤醒**\n   - She wakens naturally with the first rays of sunlight.\n   - 她随着第一缕阳光自然醒来。\n\n3. **场景三：唤醒他人**\n   - Please waken the children before we leave for the airport.\n   - 在我们去机场之前，请叫醒孩子们。\n\n### 词根分析\n- **词根**: \"wake\"，源自中古英语的 \"waken\"，意为“醒来”。\n- **衍生单词**: \n  - awake (形容词/动词): 醒着的/唤醒\n  - awaken (动词): 唤醒，使觉醒\n  - waking (形容词): 醒着的，清醒的\n\n### 词缀分析\n- **前缀**: 无前缀。\n- **后缀**: \"en\"，通常用于将形容词或名词转化为动词，表示“使成为”或“变得”。例如：\"shorten\"（缩短），\"strengthen\"（加强）。\n- **相同后缀的单词**: \n  - brighten (使变亮)\n  - soften (使变软)\n  - darken (使变暗)\n\n### 发展历史和文化背景\n\"Waken\" 源自古老的日耳曼语 \"wakon\"，意为“醒来”。这个词在英语中的使用可以追溯到中古英语时期。在现代英语中，\"waken\" 和 \"wake\" 常常可以互换使用，但 \"waken\" 更常用于正式文体或被动语态中。在欧美文化中，早晨的唤醒仪式（如使用闹钟、自然光等）是日常生活中的一部分，反映了人们对时间管理和健康生活的重视。",
+  "draw_explain": "该prompt通过描绘一个闹钟在早晨响起的场景，结合阳光和窗帘的元素，形象地表达了'waken'的含义。闹钟是唤醒的象征，阳光和窗帘则暗示了早晨和醒来的环境，这样的视觉线索能够帮助记忆单词'waken'。",
+  "draw_prompt": "A digital alarm clock ringing on a bedside table, with sunlight streaming through partially open curtains, creating a warm and bright morning atmosphere."
+}

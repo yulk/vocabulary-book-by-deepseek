@@ -1,0 +1,38 @@
+[
+  {
+    "initial": "N",
+    "mean": "n.钉;指甲vt.钉",
+    "phonetic_symbol": "/neil/",
+    "word": "nail",
+    "analysis": "### 分析词义\n\n\"Nail\" 是一个多义词，主要有以下几种含义：\n\n1. **名词**：指甲，指人类手指和脚趾末端的硬质角质层。\n2. **名词**：钉子，一种用于固定物体的小金属棒。\n3. **动词**：钉住，指用钉子将物体固定在一起。\n4. **动词**：确定，指明确地确定某事或某人。\n\n### 列举例句\n\n1. **名词 - 指甲**  \n   - She painted her nails with a bright red color.  \n     *她用鲜红色涂了指甲。*  \n   \n2. **名词 - 钉子**  \n   - He hammered a nail into the wall to hang the picture.  \n     *他用锤子把钉子钉进墙里挂画。*  \n   \n3. **动词 - 钉住**  \n   - The carpenter nailed the two pieces of wood together.  \n     *木匠把两块木头钉在一起。*  \n   \n4. **动词 - 确定**  \n   - The detective nailed the suspect after hours of interrogation.  \n     *经过数小时的审讯，侦探确定了嫌疑人。*\n\n### 词根分析\n\n- **词根**: \"nail\" 本身是一个独立的单词，没有明显的词根结构。它可能与古英语中的 \"nægel\" 相关，意为“指甲”或“钉子”。这个词源可以追溯到原始日耳曼语 \"*nakla-\"，意为“爪子”或“爪状物”。这个概念可能与动物的爪子有关，后来演变为指人类的指甲和金属钉子。",
+    "draw_explain": "通过展示一个钉子和一个人手指上的指甲，可以直观地帮助记忆'nail'这个单词的两个主要含义。钉子是常见的物品，容易与'nail'的'钉'义项关联；而指甲则是人体的一部分，容易与'nail'的'指甲'义项关联。这种视觉上的对比和联系有助于加深记忆。",
+    "draw_prompt": "A close-up of a metal nail on a wooden surface next to a hand showing a human nail, both in sharp focus, with a clean and minimalist style."
+  },
+  {
+    "initial": "N",
+    "mean": "a.裸体的;无遮敝的",
+    "phonetic_symbol": "/‘neikid/",
+    "word": "naked",
+    "analysis": "### 分析词义\n\n\"Naked\" 是一个形容词，用来描述没有穿衣服或没有覆盖物的事物。它通常指人或动物没有衣物遮盖，也可以用来形容物体没有装饰或掩饰。\n\n### 列举例句\n\n1. **场景一：描述人**\n   - **例句**: She walked out of the water, completely naked.\n   - **中文翻译**: 她从水中走出来，完全赤裸。\n\n2. **场景二：描述物体**\n   - **例句**: The table was naked of any decoration.\n   - **中文翻译**: 这张桌子没有任何装饰。\n\n3. **场景三：比喻用法**\n   - **例句**: The truth was naked for everyone to see.\n   - **中文翻译**: 真相赤裸裸地展现在每个人面前。\n\n### 词根分析\n\n- **词根**: \"nud-\" 来自拉丁语 \"nudus\"，意思是“裸露的”。\n- **衍生单词**: \n  - nude (形容词，裸体的)\n  - nudity (名词，裸体状态)\n  - nudism (名词，裸体主义)\n\n### 词缀分析\n\n- **后缀**: \"-ed\" 是形容词后缀，表示“具有……特征的”。例如：naked, nakedness (名词形式)。\n- **相同词缀的单词**: \n  - wicked (邪恶的)\n  - naked (赤裸的)\n  - wickedly (邪恶地)\n  这些单词都使用了 \"-ed\" 或其变形来构成形容词或副词。\n  例如：wicked（邪恶的）→ wickedly（邪恶地）；naked（赤裸的）→ nakedness（赤裸状态）。此外，wicked还可以作为动词使用，表示“使……变得邪恶”。例如：The bad news wicked his mood.（坏消息让他的心情变得糟糕了）。而naked则通常只作为形容词使用，表示“赤裸的”或“无遮掩的”。例如：The truth is naked.（真相是赤裸裸的）。此外，naked还可以与其他单词组合形成新的词汇，如naked eye（肉眼）、naked truth（赤裸裸的事实）等。这些词汇都保留了naked的基本含义——无遮掩、无掩饰的状态。同时，wicked和naked在某些情况下也可以互换使用，但它们所表达的具体含义和语境有所不同。例如：wicked smile（邪恶的微笑）和naked smile（毫无掩饰的微笑）虽然都表示一种表情状态，但前者更强调表情的负面性质和潜在的危险性；而后者则更强调表情的真实性和坦率性。总之，通过分析wicked和naked这两个单词及其相关词汇的使用方法和语境差异可以帮助我们更好地理解和掌握它们的用法并提高英语表达能力！",
+    "draw_explain": "该prompt通过描绘一个裸体的人站在自然环境中，强调了'naked'这个词的核心含义——'裸体的'。视觉上，裸体的人与周围的自然环境形成对比，突出了无遮蔽的状态，有助于记忆该单词的含义。",
+    "draw_prompt": "A bare human body standing in a serene natural landscape, with sunlight highlighting the skin, emphasizing the absence of clothing."
+  },
+  {
+    "initial": "N",
+    "mean": "n.名字;名誉vt.说出",
+    "phonetic_symbol": "/‘neim/",
+    "word": "name",
+    "analysis": "### 分析词义\n\n**name** 是一个英语名词和动词，具有以下含义：\n\n- **名词 (noun)**: 名字，名称。用于指代人、事物、地点等的标识符。\n- **动词 (verb)**: 命名，给...取名；提名，任命。\n\n### 列举例句\n\n1. **场景一：介绍自己**\n   - **例句**: \"My name is John.\"\n   - **中文翻译**: \"我的名字是约翰。\"\n   \n2. **场景二：命名事物**\n   - **例句**: \"The scientist named the new species after his mentor.\"\n   - **中文翻译**: \"科学家以他的导师的名字命名了这个新物种。\"\n   \n3. **场景三：提名某人**\n   - **例句**: \"She was named as the new CEO of the company.\"\n   - **中文翻译**: \"她被任命为公司的新首席执行官。\"\n\n### 词根分析\n\n- **词根**: name 源自拉丁语的“nomen”，意为“名字”。这个词根在英语中直接保留了其基本含义。\n- **衍生单词**: 由“name”衍生出的单词较少，但常见的包括：namely（即，也就是）。例如：\"Only one person can do it, namely you.\"（只有一个人能做这件事，那就是你。）\n\n### 词缀分析\n\n- **前缀**: 无前缀。name 本身是一个基本词汇，没有添加前缀或后缀来改变其基本含义。\n- **后缀**: 无后缀。name 通常不与其他后缀结合使用来形成新的词汇形式。然而，它可以与其他词结合形成复合词，如 first name（名字）和 last name（姓氏）。例如：\"My first name is John, and my last name is Smith.\"（我的名字是约翰，姓氏是史密斯。）\n    - **相关单词**: first name, last name, middle name, family name.（名字、姓氏、中间名、家族名）等复合词都与“name”相关联。例如：\"What's your family name?\"（你的姓氏是什么？）或 \"My middle name is James.\"（我的中间名是詹姆斯。）等都是常见的表达方式。",
+    "draw_explain": "通过展示一个带有名字标签的物品，可以直观地联想到'name'这个单词的含义。名字标签是日常生活中常见的物品，能够直接与'名字'这一概念相关联。此外，标签上的文字和物品的结合，也能暗示'说出'这一动词含义。整体图像简洁明了，易于记忆。",
+    "draw_prompt": "A close-up of a name tag attached to a shirt, with bold, clear text displaying a person's name. The scene is simple and modern, focusing on the clarity and directness of the name tag."
+  },
+  {
+    "initial": "N",
+    "mean": "ad.即，也就是",
+    "phonetic_symbol": "/‘neimli/",
+    "word": "namely",
+    "analysis": "### 分析词义\n\"Namely\" 是一个副词，意思是“即”或“也就是”，用于引出更具体的信息或解释。它通常用于正式或书面语中，用来进一步说明前面提到的内容。\n\n### 列举例句\n1. **场景一：学术讨论**\n   - The professor mentioned two key points, namely, the importance of data analysis and the need for continuous learning.\n   - 教授提到了两个关键点，即数据分析的重要性和持续学习的必要性。\n\n2. **场景二：商业报告**\n   - The company has three main objectives for this year, namely, increasing market share, improving customer satisfaction, and reducing operational costs.\n   - 公司今年的三大主要目标，即增加市场份额、提高客户满意度和降低运营成本。\n\n3. **场景三：日常对话**\n   - There are two options for dinner tonight, namely, Italian or Chinese cuisine.\n   - 今晚晚餐有两个选择，即意大利菜或中餐。\n\n### 词根分析\n\"Namely\" 没有明显的词根，它是一个独立的单词，源自中古英语的 \"nameli\"，进一步追溯到古英语的 \"nama\"（名字）和 \"lic\"（像）。\n\n### 词缀分析\n\"Namely\" 没有常见的词缀结构，它是一个基础词汇，没有前缀、后缀或中缀。\n\n### 发展历史和文化背景\n\"Namely\" 这个词的历史可以追溯到古英语时期，最初与“名字”有关。随着语言的发展，它的意思逐渐演变为“即”或“也就是”，用于提供更详细的信息。在现代英语中，它常用于正式的书面语和演讲中，以避免重复并提供更清晰的信息。\n\n### 单词变形\n- **副词形式**：namely（即）\n- **无其他变形**：\"Namely\" 是一个副词，没有其他形式的变化。\n\n### 记忆辅助\n1. **联想记忆**：将 \"namely\" 与“名字”联系起来，记住它在句子中引出具体的名字或信息。\n2. **重复使用**：在不同的句子中多次使用 \"namely\"，以加深记忆。\n3. **阅读练习**：通过阅读包含 \"namely\" 的句子或段落，熟悉其在不同语境中的用法。",
+    "draw_explain": "通过展示一个标签或标志，直接指向某个事物，可以直观地理解'namely'的含义，即'即，也就是'。标签或标志的使用强调了直接指向和说明的含义，这与'namely'的定义紧密相关。",
+    "draw_prompt": "A clear label or sign pointing directly to an object, with bold, clean text and a simple, modern design style."
+  }
+]

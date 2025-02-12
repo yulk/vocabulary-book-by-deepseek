@@ -1,6 +1,7 @@
 import os
 import sys
 import json
+import time
 from provider_siliconflow import call_siliconflow_chat
 
 import logging
@@ -83,12 +84,14 @@ def process_word(word, word_mean):
     res_text = call_siliconflow_chat(word, system=word_system_prompt)
     while res_text == None:
         print(f"ERROR:  res_text({word}) is None, retrying...")
+        time.sleep(5)
         res_text = call_siliconflow_chat(word, system=word_system_prompt)
 
     while True:  
         draw_res_text = call_siliconflow_chat(word_draw_prompt.format(word=word, mean=word_mean, json_format=word_draw_json_format % word), system=word_draw_system, format="json_object")
         if draw_res_text == None:
             print(f"ERROR:  draw_res_text({word}) is None, retrying...")
+            time.sleep(5)
             continue
         try:
             draw_res = json.loads(draw_res_text)

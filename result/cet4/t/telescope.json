@@ -1,0 +1,6 @@
+{
+  "word": "telescope",
+  "analysis": "### 分析词义\n\"Telescope\" 是一个名词，指的是一种用于观察远处物体的光学仪器。它通过使用透镜或反射镜系统来放大远处的物体，使它们看起来更近、更清晰。\n\n### 列举例句\n1. **场景一：天文观测**\n   - **例句**: The astronomer used a telescope to observe the stars.\n   - **中文翻译**: 天文学家使用望远镜观察星星。\n\n2. **场景二：旅游**\n   - **例句**: During the safari, we used a telescope to spot animals in the distance.\n   - **中文翻译**: 在野生动物园期间，我们用望远镜发现了远处的动物。\n\n3. **场景三：教育**\n   - **例句**: The teacher brought a telescope to the classroom to show the students the moon's surface.\n   - **中文翻译**: 老师把望远镜带到教室，向学生们展示月球的表面。\n\n### 词根分析\n- **词根**: \"tele-\" 表示“远”或“远程”，\"-scope\" 表示“观察”或“视野”。\n- **衍生单词**: \n  - **Television**: 电视（远程图像传输）。\n  - **Telegraph**: 电报（远程通信）。\n  - **Telescope**: 望远镜（远程观察）。\n\n### 词缀分析\n- **词缀**: \"tele-\"（前缀，表示“远程”）和 \"-scope\"（后缀，表示“观察”）。\n- **相同词缀的单词**: \n  - **Microscope**: 显微镜（微观观察）。\n  - **Periscope**: 潜望镜（从封闭空间内观察外部）。\n\n### 发展历史和文化背景\n\"Telescope\"一词最早出现在17世纪初，源自希腊语 \"tele-\"（远）和 \"skopos\"（观察者）。第一台实用的望远镜是由荷兰眼镜制造商汉斯·利普希在1608年发明的。伽利略·伽利莱在1609年改进了这一发明，并用它来观测天体，从而彻底改变了天文学的发展进程。望远镜的发明不仅在天文学上有着重要意义，还在航海、军事等领域发挥了重要作用。在欧美文化中，望远镜象征着探索和发现的精神。",
+  "draw_explain": "望远镜是一种用于观察远处物体的光学仪器，其主要特征是长筒形状和用于观察的目镜。通过描述一个长筒形状的物体，并强调其用于观察远处物体的功能，可以直观地联想到'telescope'这个单词。",
+  "draw_prompt": "A long cylindrical tube with a lens at one end, pointing towards a distant object in the night sky, illuminated by stars."
+}

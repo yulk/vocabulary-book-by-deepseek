@@ -1,0 +1,6 @@
+{
+  "word": "technical",
+  "analysis": "### 分析词义\n\"Technical\" 是一个形容词，用来描述与特定领域或行业相关的技术性、专业性或复杂性。它通常用于指那些需要专门知识或技能的事物。\n\n### 列举例句\n1. **场景一：工程领域**  \n   - The engineer explained the technical details of the new machine.  \n     （工程师解释了新机器的技术细节。）\n\n2. **场景二：计算机科学**  \n   - This software has a lot of technical issues that need to be fixed.  \n     （这款软件有很多需要修复的技术问题。）\n\n3. **场景三：体育解说**  \n   - The commentator provided a technical analysis of the player's performance.  \n     （解说员对选手的表现进行了技术分析。）\n\n### 词根分析\n- **词根**：tech- (源自希腊语 tekhnē，意为“技艺、技术”)  \n- **衍生词**：technology (技术), technician (技师), techno- (前缀，表示“技术”)  \n\n### 词缀分析\n- **后缀**：-al (表示形容词，意为“与……有关的”)  \n- **相同后缀的单词**：personal (个人的), natural (自然的), cultural (文化的)  \n\n### 发展历史和文化背景\n\"Technical\" 源自希腊语 \"tekhnē\"，意为“技艺”或“技术”。在中世纪拉丁语中演变为 \"technicus\"，最终在英语中成为 \"technical\"。这个词在工业革命后变得尤为重要，因为技术的快速发展使得许多行业需要专门的技术知识。在现代社会中，\"technical\" 常用于描述与科学、工程、计算机等领域相关的内容。\n [^1^]: https://www.etymonline.com/word/technical",
+  "draw_explain": "通过展示一个技术图纸或蓝图，可以直观地与单词 'technical' 的技术含义相关联。图纸或蓝图通常包含复杂的线条、符号和精确的测量，这些都是技术领域的典型特征。这样的视觉线索能够帮助记忆 'technical' 这个单词的技术含义。",
+  "draw_prompt": "A detailed technical blueprint of a complex machine, featuring precise measurements, intricate lines, and engineering symbols, rendered in a clean, professional style."
+}

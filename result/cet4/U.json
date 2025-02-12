@@ -1,0 +1,38 @@
+[
+  {
+    "initial": "U",
+    "mean": "a.最后的，最终的",
+    "phonetic_symbol": "/‘Λltimit/",
+    "word": "ultimate",
+    "analysis": "### 分析词义\n\"Ultimate\" 是一个形容词，表示“最终的”、“极限的”或“最根本的”。它通常用来描述某个事物的最高程度或最终结果。\n\n### 列举例句\n1. **场景一：体育比赛**\n   - The team's ultimate goal is to win the championship.\n   - 这个队的最终目标是赢得冠军。\n\n2. **场景二：个人目标**\n   - Her ultimate dream is to become a successful entrepreneur.\n   - 她最终的梦想是成为一名成功的企业家。\n\n3. **场景三：科技发展**\n   - The ultimate solution to this problem is still under research.\n   - 这个问题的最终解决方案仍在研究中。\n\n### 词根分析\n- **词根**: \"ultim-\" 源自拉丁语 \"ultimus\"，意为“最后的”或“最远的”。\n- **衍生词**: \n  - \"Ultimate\" (形容词) - 最终的\n  - \"Ultimately\" (副词) - 最终地\n  - \"Ulterior\" (形容词) - 更远的，隐秘的\n\n### 词缀分析\n- **前缀**: 无前缀。\n- **后缀**: \"-ate\" 是后缀，表示形容词。\n- **相同后缀的单词**: \n  - \"Separate\" (分开的)\n  - \"Activate\" (激活的)\n  - \"Coordinate\" (协调的)\n\n### 发展历史和文化背景\n\"Ultimate\" 源自拉丁语 \"ultimus\"，最初用于描述位置上的“最远”，后来引申为时间或程度上的“最终”。在现代英语中，它常用于强调某事物的极限或最终状态，广泛应用于各种语境，如体育、科技、个人目标等。在欧美文化中，\"ultimate\" 常用于强调目标的重要性或事物的极致状态。\n\n### 单词变形\n- **形容词**: Ultimate (最终的)\n- **副词**: Ultimately (最终地)\n- **名词**: Ultimatum (最后通牒)\n- **固定搭配**: \n  - Ultimate goal (最终目标)\n  - Ultimate solution (最终解决方案)",
+    "draw_explain": "通过展示一系列逐渐接近终点的图像，帮助记忆'ultimate'的含义。从起始点到终点，图像的顺序和变化强调了'最终'的概念，使学习者能够直观地理解单词的含义。",
+    "draw_prompt": "A series of images showing a journey from the starting point to the final destination, with each image progressively closer to the end, emphasizing the 'final' aspect of the journey."
+  },
+  {
+    "initial": "U",
+    "mean": "a.不省人事的",
+    "phonetic_symbol": "/Λn’kɔʃəs/",
+    "word": "unconscious",
+    "analysis": "### 分析词义\n\n**Unconscious** 是一个形容词，表示“无意识的”或“失去知觉的”。它描述的是一种状态，即一个人没有意识到周围发生的事情，或者处于昏迷状态。\n\n### 列举例句\n\n1. **场景一：医疗**\n   - The patient was unconscious after the accident.\n   - 病人在事故后失去了知觉。\n\n2. **场景二：心理学**\n   - Many of our behaviors are driven by unconscious motives.\n   - 我们的许多行为是由无意识动机驱动的。\n\n3. **场景三：日常对话**\n   - She was so tired that she fell unconscious on the couch.\n   - 她太累了，以至于在沙发上失去了知觉。\n\n### 词根分析\n\n- **词根**: *sci* (来自拉丁语 *scire*，意为“知道”)\n- **衍生单词**: conscious (有意识的), science (科学), prescient (有先见之明的)\n\n### 词缀分析\n\n- **前缀**: *un-* (表示否定)\n- **后缀**: *-less* (表示“没有”或“缺乏”)，但在这个词中没有 *-less*。\n- **相同前缀的单词**: unable, unhappy, unaware, uninterested\n- **相同后缀的单词**: careless, hopeless, useless, countless\n\n### 发展历史和文化背景\n\n**Unconscious** 这个词源于拉丁语 *inconscius*，由 *in-*（不）和 *conscius*（有意识的）组成。在心理学中，特别是弗洛伊德的精神分析理论中，“无意识”（unconscious）是一个核心概念，指的是那些我们没有意识到但影响我们行为和情感的心理过程。在医学上，这个词常用来描述昏迷或失去知觉的状态。\n\n### 单词变形\n\n- **形容词**: unconscious (无意识的)\n- **副词**: unconsciously (无意识地) [注意：副词形式通常在形容词后加 *-ly*]\n- **名词**: unconsciousness (无意识状态) [注意：名词形式通常在形容词后加 *-ness*]\n- **固定搭配**: fall unconscious (失去知觉), become unconscious (变得无意识) [注意：这些是常见的动词短语]",
+    "draw_explain": "通过描绘一个昏迷的人躺在医院的病床上，周围是医疗设备，这样的场景能够直观地与'unconscious'（不省人事的）这个单词的含义相关联。视觉上，昏迷的人和医疗设备都是独特且易于记忆的元素，有助于加深对单词的理解和记忆。",
+    "draw_prompt": "A person lying unconscious on a hospital bed, surrounded by medical equipment, with a dim and quiet atmosphere."
+  },
+  {
+    "initial": "U",
+    "mean": "vt.揭开…的盖子",
+    "phonetic_symbol": "/Λn’kΛvə/",
+    "word": "uncover",
+    "analysis": "### 分析词义\n\n**Uncover** 是一个动词，意思是“揭开”、“揭露”或“发现”。它通常用于描述移除覆盖物以揭示隐藏的事物，或者揭示某个被隐瞒的真相。\n\n### 列举例句\n\n1. **The detective uncovered the truth behind the mystery.**  \n   侦探揭开了谜团背后的真相。\n\n2. **She uncovered the painting to reveal its beauty.**  \n   她揭开了画作，展示了它的美丽。\n\n3. **Scientists have uncovered new evidence about the ancient civilization.**  \n   科学家们发现了关于古代文明的新证据。\n\n### 词根分析\n\n- **词根**: *cover*  \n  *cover* 是“覆盖”的意思，而 *un-* 是一个前缀，表示“相反”或“否定”。因此，*uncover* 的意思就是“揭开覆盖物”或“揭示隐藏的事物”。\n\n- **衍生单词**:  \n  - *cover*: 覆盖  \n  - *discover*: 发现（dis- 表示“分开”，与 uncover 类似）  \n  - *recover*: 恢复（re- 表示“再次”）  \n  - *recovered*: 恢复的（形容词形式）  \n  - *recovery*: 恢复（名词形式）  \n\n### 词缀分析\n\n- **前缀**: *un-*  \n  *un-* 是一个常见的前缀，表示“否定”、“相反”或“去除”。例如：  \n  - *unlock*: 解锁（去掉锁）  \n  - *unhappy*: 不快乐（否定 happy）  \n  - *untie*: 解开（去掉绑缚）  \n\n- **后缀**: *无*  \n  在 *uncover* 中没有明显的后缀，因为它是一个简单的动词形式。但可以参考其他动词的后缀变化，如：  \n  - *-ed*: covered, uncovered（过去分词形式）  \n  - *-ing*: covering, uncovering（现在分词形式）  \n\n### 发展历史和文化背景\n\n- **造词来源**: *uncover* 由拉丁语前缀 *un-*（表示“否定”或“去除”）和英语单词 *cover*（覆盖）组合而成。这种构词法在英语中非常常见，尤其是在动词中使用前缀来改变词义。例如，*discover*（发现）也是类似的构词方式。  \n- **文化内涵**: *uncover* 在文学和新闻中经常用于描述揭示真相或隐藏的事实，尤其是在侦探小说或调查报道中。它也常用于科学领域，表示发现新事物或揭示未知现象。在日常生活中，它也可以用于描述移除遮盖物的行为。例如，揭开锅盖、揭露秘密等。",
+    "draw_explain": "通过展示一个盖子被揭开的场景，这个prompt能够直观地帮助记忆'uncover'这个单词的含义。盖子是一个与'揭开'动作直接相关的物体，易于想象和关联。",
+    "draw_prompt": "A close-up of a lid being lifted off a container, revealing its contents. The lid is metallic with a smooth, shiny surface, and the container is wooden with visible grain. The scene is softly lit, emphasizing the moment of discovery."
+  },
+  {
+    "initial": "U",
+    "mean": "vt.经历，经受，忍受",
+    "phonetic_symbol": "/Λndə’gəu/",
+    "word": "undergo",
+    "analysis": "### 分析词义\n\n**Undergo** 是一个动词，意思是“经历”或“经受”，通常指经历某种过程、变化或困难。它强调的是被动地接受某种经历或过程，而不是主动地去做某事。\n\n### 列举例句\n\n1. **The patient will undergo surgery tomorrow.**  \n   - 病人明天将接受手术。\n\n2. **The company underwent significant changes after the merger.**  \n   - 公司合并后经历了重大变化。\n\n3. **She had to undergo a series of tests before getting the job.**  \n   - 她在得到这份工作之前必须经历一系列的测试。\n\n### 词根分析\n\n- **词根**: *under-* + *-go*  \n  - *under-* 表示“在……之下”或“在……过程中”。  \n  - *-go* 表示“去”或“进行”。  \n  因此，*undergo* 的字面意思是“在……之下进行”，引申为“经历”或“经受”。\n\n### 词缀分析\n\n- **前缀**: *under-*  \n  - *under-* 表示“在……之下”或“不足”。  \n- **后缀**: 无明显后缀。  \n- **其他单词**:  \n  - *underground* (地下的)  \n  - *underline* (在……之下划线)  \n  - *undertake* (承担)  \n- **相同前缀的单词**:  \n  - *underwater* (水下的)  \n  - *undersized* (尺寸不足的)  \n  - *underdeveloped* (欠发达的)  \n- **相同后缀的单词**: N/A（无明显后缀）。",
+    "draw_explain": "通过展示一个人正在经历手术或治疗的过程，可以直观地理解'undergo'的含义，即经历或经受某种过程。这种视觉线索直接关联到单词的定义，有助于记忆。",
+    "draw_prompt": "A person lying on an operating table, undergoing a medical procedure with doctors and nurses in surgical attire around them, in a clean and bright hospital setting."
+  }
+]

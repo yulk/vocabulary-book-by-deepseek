@@ -17,6 +17,7 @@
 ```bash
 for letter in {A..Z}; do 
     ./prun.sh process_cet4_words.py ${letter}.json &
+    sleep 10
 done
 ```
 

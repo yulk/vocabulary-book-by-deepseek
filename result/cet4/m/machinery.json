@@ -1,0 +1,6 @@
+{
+  "word": "machinery",
+  "analysis": "### 分析词义\n\n**machinery** 是一个名词，指的是机器、机械设备或整个机械系统的总称。它通常用于描述复杂的、由多个部件组成的机器或设备，或者指代一个组织或系统中的运作机制。\n\n### 列举例句\n\n1. **例句**: The factory relies heavily on sophisticated machinery to produce goods efficiently.  \n   **翻译**: 这家工厂严重依赖复杂的机械设备来高效生产商品。\n\n2. **例句**: The government is working on new legislation to regulate the import of heavy machinery.  \n   **翻译**: 政府正在制定新的法规来规范重型机械的进口。\n\n3. **例句**: The machinery of the company's decision-making process needs to be more transparent.  \n   **翻译**: 公司决策过程的机制需要更加透明。\n\n### 词根分析\n\n- **词根**: *machin-* (来自拉丁语 *machina*，意为“机器”)  \n- **衍生词**:  \n  - machine (名词，机器)  \n  - mechanic (名词，机械师)  \n  - mechanical (形容词，机械的)  \n  - mechanism (名词，机制)  \n  - machinist (名词，机械师)  \n  - machinate (动词，策划)  \n  - machination (名词，阴谋)  \n  - machismo (名词，男子气概)  \n  - macho (形容词，强壮的；男子气概的)  \n  - macabre (形容词，可怕的；恐怖的)（虽然这个词与“machine”无关，但拼写相似）。",
+  "draw_explain": "通过展示一个工厂内部的大型机器和齿轮的图像，可以直观地帮助记忆'machinery'这个单词。机器和齿轮是'machinery'的核心视觉元素，能够直接关联到单词的含义。",
+  "draw_prompt": "A high-detail image of a factory interior with large, metallic machines and interlocking gears, illuminated by soft, warm lighting, in a realistic style."
+}

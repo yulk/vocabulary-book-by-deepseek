@@ -1,0 +1,6 @@
+{
+  "word": "underline",
+  "analysis": "### 分析词义\n\n\"Underline\" 是一个动词，意思是“在文字下面画线”，通常用于强调或突出某个词、短语或句子。它也可以用作名词，表示“下划线”。\n\n### 列举例句\n\n1. **场景一：学术写作**\n   - Please underline the main points in the essay.\n   - 请在文章中划出重点。\n\n2. **场景二：编辑校对**\n   - The editor underlined several spelling mistakes in the manuscript.\n   - 编辑在校样中划出了几个拼写错误。\n\n3. **场景三：日常交流**\n   - She underlined her name on the list to make it more noticeable.\n   - 她在名单上划出自己的名字以使其更显眼。\n\n### 词根分析\n\n- **词根**：under- + line  \n  - \"under-\" 表示“在...之下”或“低于...”。  \n  - \"line\" 表示“线”。  \n- **衍生单词**：  \n  - underground（地下的）  \n  - underwater（水下的）  \n  - underline（下划线）  \n  - underestimate（低估）  \n  - underdeveloped（欠发达的）  \n  - undergo（经历）  \n  - undermine（破坏）  \n  - underwear（内衣）  \n  - underpass（地下通道）  \n  - undertake（承担）  \n  - understudy（替角）  \n  - undersell（廉价出售）  ",
+  "draw_explain": "通过视觉线索，将单词'underline'与其含义'划线于…之下'直接关联。使用一个简单的场景，即在文本下方划线，帮助记忆该单词的动词用法。",
+  "draw_prompt": "A clear text with a straight line drawn directly beneath it, emphasizing the word 'underline' in bold."
+}
