@@ -27,7 +27,7 @@ done
 
 ## 需求
 
-Cline 提示次如下：
+Cline 任务提示词如下：
 
 ### Task1
 
