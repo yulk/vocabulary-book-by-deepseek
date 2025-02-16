@@ -1,0 +1,6 @@
+{
+  "word": "blank",
+  "analysis": "### 分析词义\n\n**blank** 是一个多义词，主要用作形容词和名词。\n\n- **形容词**：意为“空白的”或“空虚的”，通常指某物表面没有文字、图案或标记，也可以用来形容人的表情或思维是空白的，没有内容。\n  \n- **名词**：指“空白处”或“空白表格”，常用于填写表格、文件等场合。\n\n### 列举例句\n\n1. **场景1：纸张**  \n   - **例句**: Please fill out the blank form.  \n   - **中文翻译**: 请填写这份空白表格。  \n   \n2. **场景2：表情**  \n   - **例句**: She had a blank expression on her face when she heard the news.  \n   - **中文翻译**: 当她听到这个消息时，脸上露出茫然的表情。  \n   \n3. **场景3：思维**  \n   - **例句**: I stared at the question, my mind completely blank.  \n   - **中文翻译**: 我盯着问题，脑子一片空白。  \n   \n4. **场景4：射击**（blank作为名词时还可以指“空包弹”）  \n   - **例句**: The actor fired a blank to simulate a gunshot.  \n   - **中文翻译**: 演员发射了一颗空包弹来模拟枪声。\n   \n### 词根分析\n- **词根**: \"blank\" 这个词本身没有明显的词根，它是一个独立的单词，源于古法语的 \"blanc\"（白色），后来演变成现代英语的 \"blank\"。它的意义与“空白”或“空虚”相关联。",
+  "draw_explain": "这个prompt通过展示一张空白的纸张，直接与单词'blank'的'空白的'含义相关联。纸张的空白状态是视觉上易于理解和记忆的，能够帮助用户快速记住单词的含义。",
+  "draw_prompt": "A white sheet of paper with no writing or drawings, completely blank and smooth surface."
+}

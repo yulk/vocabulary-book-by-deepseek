@@ -1,0 +1,6 @@
+{
+  "word": "famine",
+  "analysis": "### 分析词义\n\n\"Famine\" 是一个名词，指的是由于长期缺乏食物而导致的严重饥饿和营养不良的情况。这种情况通常发生在粮食产量极低或食物供应中断的地区，可能导致大量人口死亡。\n\n### 列举例句\n\n1. **场景一：历史事件**\n   - During the Irish Potato Famine in the 19th century, millions of people suffered from starvation.\n   - 在19世纪的爱尔兰马铃薯饥荒期间，数百万人遭受饥饿。\n\n2. **场景二：现代社会**\n   - The United Nations is working to prevent famine in war-torn regions.\n   - 联合国正在努力防止战乱地区发生饥荒。\n\n3. **场景三：自然灾害**\n   - A severe drought led to a famine in the African continent.\n   - 一场严重的干旱导致非洲大陆发生饥荒。\n\n### 词根分析\n\n- **词根**: \"fam\" (来自拉丁语 \"fames\"，意为“饥饿”)\n- **衍生单词**: \n  - famished (形容词，意为“非常饥饿的”)\n  - famish (动词，意为“使挨饿”)\n  - famishment (名词，意为“饥饿状态”)\n\n### 词缀分析\n\n- **词缀**: \"ine\" (后缀，表示名词)\n- **相同词缀的单词**: \n  - medicine (药物)\n  - gasoline (汽油)\n  - magazine (杂志)\n\n### 发展历史和文化背景\n\n\"Famine\"一词源自拉丁语 \"fames\"，意为“饥饿”。饥荒在历史上多次发生，尤其是在农业社会中，自然灾害、战争或政治经济问题都可能导致粮食短缺。在欧美文化中，饥荒常被视为人类苦难的象征，许多文学作品和电影都以此为主题来探讨人性和社会问题。例如，爱尔兰马铃薯饥荒不仅导致了大量人口死亡，还引发了大规模移民潮。",
+  "draw_explain": "通过描绘一个干旱的农田和饥饿的人群，这个prompt能够直观地展示'famine'（饥荒）的含义。干旱的农田象征着严重的缺乏，而饥饿的人群则直接关联到饥荒的概念。这样的视觉线索简单且易于记忆，能够有效地帮助用户记住这个单词。",
+  "draw_prompt": "A barren, drought-stricken farmland with cracked earth, surrounded by a group of emaciated people, their faces gaunt and eyes hollow, in a monochromatic, somber tone."
+}

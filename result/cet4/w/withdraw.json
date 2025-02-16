@@ -1,0 +1,6 @@
+{
+  "word": "withdraw",
+  "analysis": "### 分析词义\n\n**withdraw** 是一个动词，意思是“撤退”、“取回”或“撤回”。它可以指从某个地方离开，也可以指收回某种承诺、声明或资金。\n\n### 列举例句\n\n1. **场景一：军事行动**\n   - The army decided to withdraw from the front line after suffering heavy losses.\n   - 军队在遭受重大损失后决定从前线撤退。\n\n2. **场景二：金融交易**\n   - She withdrew $500 from her bank account to buy a new laptop.\n   - 她从银行账户中取出了500美元来买一台新笔记本电脑。\n\n3. **场景三：撤回声明**\n   - The company withdrew its statement after realizing it was based on false information.\n   - 公司在意识到声明基于错误信息后撤回了该声明。\n\n### 词根分析\n\n- **词根**: with- + draw  \n  - **with-**: 表示“向后”或“相反”的意思。  \n  - **draw**: 原意是“拉”或“拖”。  \n  因此，**withdraw** 的字面意思是“向后拉”或“撤回”。  \n  衍生单词：  \n  - **drawer**: 抽屉（名词），因为抽屉是用来拉出来的东西。  \n  - **drawing**: 绘画（名词），因为绘画是一种拉的动作（用笔画线）。  \n  - **withdrawn**: 形容词，表示“内向的”或“退缩的”。  \n\n### 词缀分析\n- **前缀**: with- (表示“向后”或“相反”)  \n- **词根**: draw (表示“拉”)  \n- **后缀**: (无)  \n其他带有前缀 with- 的单词：  \n- **withhold**: v. 扣留；保留（hold = 持有，withhold = 向后持有 = 扣留）。  \n- **withstand**: v. 抵抗；经受住（stand = 站立， withstand = 向后站立 = 抵抗）。  ",
+  "draw_explain": "该prompt通过描绘一个士兵从战场上撤退的场景，直观地展示了'withdraw'的撤退含义。士兵背对着战场，逐渐远离，这个动作直接关联到'withdraw'的撤回和撤退的意思。简洁的图像风格和明确的动作使得记忆更加深刻。",
+  "draw_prompt": "A lone soldier in a desert battlefield, turning his back and walking away from the frontline, with a clear sky and minimalistic landscape."
+}

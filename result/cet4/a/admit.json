@@ -1,0 +1,6 @@
+{
+  "word": "admit",
+  "analysis": "### 分析词义\n\n\"Admit\" 是一个动词，意思是“承认”或“允许进入”。它通常用于表达承认某个事实、错误或接受某人进入某个地方或组织。\n\n### 列举例句\n\n1. **场景一：承认错误**\n   - He admitted his mistake and apologized to the team.\n   - 他承认了自己的错误并向团队道歉。\n\n2. **场景二：允许进入**\n   - The bouncer admitted us into the club after checking our IDs.\n   - 保安检查了我们的身份证后允许我们进入俱乐部。\n\n3. **场景三：接受事实**\n   - She finally admitted that she was wrong about the project's deadline.\n   - 她最终承认了她在项目截止日期上的错误。\n\n### 词根分析\n\n- **词根**: \"mit\" 来自拉丁语，意思是“发送”或“放出”。\n- **衍生单词**: \n  - Emit (发出)\n  - Transmit (传输)\n  - Submit (提交)\n\n### 词缀分析\n\n- **前缀**: \"ad-\" 表示“向”或“朝向”，在某些情况下可以省略或变化为其他形式（如 \"a-\"）。\n- **后缀**: 无特殊后缀，\"admit\" 是一个基本动词形式。\n- **相同词缀的单词**: \n  - Adapt (适应)\n  - Adept (熟练的)\n  - Adjoin (毗连)\n\n### 发展历史和文化背景\n\n\"Admit\" 源自拉丁语 \"admittere\"，由 \"ad-\"（向）和 \"mittere\"（发送）组成。在英语中，它最初用于法律语境，表示“允许进入”或“接受为成员”。随着时间的推移，其含义扩展到包括“承认”某事。在现代英语中，\"admit\" 广泛用于各种语境，从日常对话到正式文件。",
+  "draw_explain": "通过描绘一个带有门禁系统的入口，强调'admit'的'准许进入'含义，同时门禁系统上的标志或按钮可以暗示'承认'的含义，因为需要识别或验证身份才能进入。这种视觉线索直观且易于记忆。",
+  "draw_prompt": "A modern entrance with an access control system, featuring a sign or button that reads 'Admit' in bold letters, set in a clean, minimalist style with soft lighting."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "addition",
+  "analysis": "### 分析词义\n\n\"Addition\" 是一个名词，意思是“增加”或“附加物”。它通常用来描述在某个基础上增加的内容或数量。\n\n### 列举例句\n\n1. **场景一：数学**\n   - **例句**: \"In the addition of 2 and 3, the result is 5.\"\n   - **中文翻译**: “在2和3的加法中，结果是5。”\n\n2. **场景二：建筑**\n   - **例句**: \"The addition to the house will provide more living space.\"\n   - **中文翻译**: “房子的扩建将提供更多的居住空间。”\n\n3. **场景三：烹饪**\n   - **例句**: \"An addition of salt can enhance the flavor of the soup.\"\n   - **中文翻译**: “加盐可以增强汤的味道。”\n\n### 词根分析\n\n- **词根**: \"add-\" 表示“增加”或“添加”。\n- **衍生单词**: \n  - \"add\" (动词，增加)\n  - \"additional\" (形容词，额外的)\n  - \"additive\" (名词，添加剂)\n\n### 词缀分析\n\n- **后缀**: \"-ition\" 是一个名词后缀，表示动作、状态或结果。\n- **相同后缀的单词**: \n  - \"competition\" (竞争)\n  - \"repetition\" (重复)\n  - \"position\" (位置)\n\n### 发展历史和文化背景\n\n\"Addition\" 源自拉丁语 \"additio\"，意为“添加”或“增加”。在数学中，加法是最基本的运算之一，广泛应用于日常生活和各个学科领域。在建筑和文化中，“addition”也常用来描述对已有结构的扩展或改进。\n\n### 单词变形\n\n- **名词形式**: addition (增加)",
+  "draw_explain": "通过展示一个简单的加法算式和一个附加的物品，可以直观地帮助记忆'addition'这个词。加法算式直接关联到'加'的含义，而附加的物品则关联到'附加物'的含义。这种视觉线索简洁明了，易于理解和记忆。",
+  "draw_prompt": "A simple arithmetic equation showing 2 + 2 = 4, with an extra apple placed next to the equation, all in a clean, minimalist style."
+}

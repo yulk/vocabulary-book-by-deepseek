@@ -1,0 +1,6 @@
+{
+  "word": "exit",
+  "analysis": "### 分析词义\n\"Exit\" 是一个英语单词，主要用作名词和动词。\n- **名词**：指“出口”或“离开的地方”。\n- **动词**：指“离开”或“退出”某个地方或状态。\n\n### 列举例句\n1. **场景一：建筑物中的出口**\n   - The exit is located on the right side of the building.\n   - 出口位于建筑物的右侧。\n2. **场景二：离开会议**\n   - He exited the meeting room after the presentation.\n   - 他在演示结束后离开了会议室。\n3. **场景三：退出程序**\n   - Remember to save your work before you exit the application.\n   - 记得在退出应用程序之前保存你的工作。\n\n### 词根分析\n- **词根**：\"it\"，来自拉丁语 \"ire\"，意思是“去”或“走”。\n- **衍生单词**：如 \"initial\"（最初的），\"transit\"（运输），\"transitory\"（短暂的）等。\n\n### 词缀分析\n- **前缀**：无特殊前缀。\n- **后缀**：无特殊后缀。\n- **相同词缀的单词**：无特殊后缀，但与 \"it\" 相关的单词如 \"transit\"（运输），\"initiate\"（开始）等。\n\n### 发展历史和文化背景\n- \"Exit\" 源自拉丁语 \"exitus\"，意为“出去”或“结果”。在中世纪英语中，它被用来描述离开某个地方的行为。在现代英语中，它广泛用于描述离开建筑物、程序、会议等场合。在欧美文化中，特别是在公共场所如剧院、商场等，明确标示出口是非常重要的安全措施。\n\n### 单词变形\n- **名词形式**：exit（出口）；exits（复数形式）。\n- **动词形式**：exit（离开）；exited（过去式）；exiting（现在分词）；exits（第三人称单数）。\n- **固定搭配**：emergency exit（紧急出口）；exit strategy（退出策略）；exit poll（出口民调）。\n- **组词**：no exit（没有出口）；forced exit（强制退出）。\n  中文翻译：紧急出口、退出策略、出口民调、没有出口、强制退出。",
+  "draw_explain": "通过描绘一个明显的出口标志和一个人正在离开的场景，可以直观地帮助记忆'exit'这个词的含义。出口标志是'exit'最直接的视觉表现，而人物的离开动作则强化了'退出'这一动词含义。",
+  "draw_prompt": "A clear exit sign above a door, with a person walking away from the door, in a minimalist style."
+}

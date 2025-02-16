@@ -1,0 +1,6 @@
+{
+  "word": "edge",
+  "analysis": "### 分析词义\n\n\"Edge\" 是一个多义词，主要有两个常见的意思：\n1. **名词**：指物体或表面的边缘、边界或锋利的一侧。例如，刀的锋利部分就是它的“edge”。\n2. **动词**：表示逐渐移动或逼近某事物的边缘或极限。例如，慢慢地接近一个危险的情境。\n\n### 列举例句\n\n1. **名词用法**：\n   - The glass fell off the table and broke at the edge.  \n     （玻璃杯从桌子上掉下来，在边缘摔碎了。）\n   - Be careful with that knife; it has a sharp edge.  \n     （小心那把刀，它有锋利的边缘。）\n   - The company is on the edge of bankruptcy.  \n     （这家公司濒临破产。）\n\n2. **动词用法**：\n   - She edged her way through the crowd to reach the front.  \n     （她从人群中慢慢挤到前面。）\n   - The cat edged closer to the mouse, ready to pounce.  \n     （猫慢慢地靠近老鼠，准备扑上去。）\n   - The country is edging towards a political crisis.  \n     （这个国家正逐渐走向政治危机。）\n\n### 词根分析\n\n- **词根**：\"edge\" 本身是一个独立的词根，源自于古英语的 \"egde\"，意为“边缘”或“刀刃”。这个词根没有明显的衍生形式，但它与一些相关的词汇有联系，如 \"edgy\"（紧张的、急躁的）和 \"edging\"（边缘、边饰）。这些词汇都与“边缘”或“接近极限”的概念有关。\n\n### 词缀分析\n\n- **无明显词缀**：\"edge\" 本身没有明显的词缀结构，但它可以与其他词缀结合形成新的词汇，例如：  \n  - **形容词**：\"edgy\" (edge + y) 表示紧张的、急躁的；  \n  - **名词**：\"edging\" (edge + ing) 表示边缘、边饰；  \n  - **动词**：\"edge\" (本身作为动词使用)。  \n  这些词汇都与“边缘”或“接近极限”的概念有关。",
+  "draw_explain": "通过展示一把锋利的刀和一条路的边缘，这个prompt直观地展示了'edge'的两个主要含义：刀口和边缘。刀的锋利边缘和路的边缘都是易于视觉化的图像，能够帮助记忆单词'edge'的不同含义。",
+  "draw_prompt": "A sharp knife with a gleaming edge next to a narrow road with a clear edge, both in a minimalist, high-contrast style."
+}

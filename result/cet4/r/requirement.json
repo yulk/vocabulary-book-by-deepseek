@@ -1,0 +1,6 @@
+{
+  "word": "requirement",
+  "analysis": "### 分析词义\n\"Requirement\" 是一个名词，指的是某项任务、工作或过程中必须满足的条件、标准或需求。它通常用于描述完成某事所必需的东西或条件。\n\n### 列举例句\n1. **学术场景**: \"One of the requirements for graduation is to complete a thesis.\"  \n   - 中文翻译: \"毕业要求之一是完成一篇论文。\"\n\n2. **工作场景**: \"Meeting the client's requirements is essential for closing the deal.\"  \n   - 中文翻译: \"满足客户的要求对于达成交易至关重要。\"\n\n3. **技术场景**: \"The software has specific system requirements that must be met before installation.\"  \n   - 中文翻译: \"该软件有特定的系统要求，安装前必须满足。\"\n\n### 词根分析\n- **词根**: -quir- (来自拉丁语，意为“寻求”或“要求”)  \n- **衍生词**:  \n  - Acquire (获得)  \n  - Require (要求)  \n  - Query (询问)  \n  - Inquire (询问)  \n  - Quest (探索)  \n\n### 词缀分析\n- **前缀**: re- (表示“再次”或“重新”)  \n- **后缀**: -ment (表示行为、状态或结果)  \n- **相同后缀的单词**:  \n  - Achievement (成就)  \n  - Management (管理)  \n  - Agreement (协议)  \n  - Development (发展)  \n  - Movement (运动)  \n\n### 发展历史和文化背景\n\"Requirement\"一词源自拉丁语的 \"requisitum\"，是动词 \"requirere\"（意为“寻求”或“要求”）的名词形式。在现代英语中，它广泛用于描述完成任务或实现目标所需的必要条件。在商业和技术领域，满足客户或系统的要求是至关重要的。在学术界，毕业要求是学生必须达到的标准。因此，这个词在多个领域中都具有重要意义。",
+  "draw_explain": "通过展示一个具体的'要求'场景，如一份正式的文件或清单，可以帮助记忆'requirement'这个单词。视觉上，这样的图像直接关联到'要求'的概念，简洁明了。",
+  "draw_prompt": "A formal document with a checklist of items, each marked with a checkbox, set against a clean, minimalist background."
+}

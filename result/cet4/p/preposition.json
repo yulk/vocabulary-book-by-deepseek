@@ -1,0 +1,6 @@
+{
+  "word": "preposition",
+  "analysis": "### 分析词义\n\n**Preposition**（介词）是英语中的一种词类，通常用于连接名词、代词或名词短语与句子中的其他部分，以表示时间、地点、方向、方式、原因等关系。介词在句子中通常位于名词或代词之前，用来指示这些名词或代词与其他词之间的关系。\n\n### 列举例句\n\n1. **表示地点**：\n   - The cat is under the table.  \n     （猫在桌子下面。）\n   \n2. **表示时间**：\n   - She will arrive before noon.  \n     （她会在中午之前到达。）\n   \n3. **表示方式**：\n   - He spoke to me in a friendly manner.  \n     （他友好地和我说话。）\n\n### 词根分析\n\n- **词根**：pre- + position  \n  - **pre-**：前缀，表示“在……之前”。  \n  - **position**：名词，表示“位置”或“方位”。  \n\n- **衍生单词**：  \n  - **position**（位置）  \n  - **positional**（位置的，形容词）  \n  - ** prepositionally**（介词地，副词）  \n  - ** prepositioning**（介词的使用，动名词）  \n\n### 词缀分析\n\n- **前缀**：pre-（在……之前）  \n- **后缀**：无后缀，position本身是名词。  \n- **相同前缀的单词**：  \n  - preheat（预热）  \n  - prehistory（史前历史）  \n  - preview（预览）  \n  - prewar（战前的）  \n  - preschool（学龄前的）  \n  - precondition（前提条件）  \n  - prehistoric（史前的）  \n  - premeditated（预谋的）  ",
+  "draw_explain": "通过使用一个包含前置词的简单句子，并强调其位置在句子中的前置特性，可以直观地展示'preposition'的含义。选择一个常见的介词'in'，并将其放在句子的开头，形成一个视觉上明显的前置效果，有助于记忆。",
+  "draw_prompt": "A small red ball 'in' a large blue box, with the word 'in' placed prominently at the beginning of the sentence."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "exclude",
+  "analysis": "### 分析词义\n\n**Exclude** 是一个动词，意思是“排除”、“不包括”或“拒绝接纳”。它通常用于表示将某人或某物从某个群体、范围或过程中剔除出去。\n\n### 列举例句\n\n1. **例句**: The club excludes anyone under the age of 18.  \n   **翻译**: 这个俱乐部不接纳18岁以下的人。\n   \n2. **例句**: The price excludes shipping costs.  \n   **翻译**: 这个价格不包括运费。\n   \n3. **例句**: We cannot exclude the possibility of rain tomorrow.  \n   **翻译**: 我们不能排除明天会下雨的可能性。\n\n### 词根分析\n\n- **词根**: -clud- (来自拉丁语 \"claudere\"，意思是“关闭”或“包含”)。  \n- **衍生单词**:  \n  - Include (包含)  \n  - Conclude (结束，总结)  \n  - Preclude (阻止，排除)  \n  - Seclude (使隔离，使隐退)  \n  - Occlude (封闭，阻塞)  \n  - Recluse (隐士)  \n  - Exclusive (独有的，排外的)  \n  - Inclusive (包括的，包容的)  \n  - Conclusion (结论)  \n  - Exclusion (排除，排斥)  \n\n### 词缀分析\n\n- **前缀**: ex- (表示“向外”或“出”的意思)。  \n- **后缀**: -e。  \n- **相同前缀的单词**: exit, expel, exhale, expand, expose, extract。  \n- **相同后缀的单词**: close, enclose, disclose, disclose, disclose。  \n\n### 发展历史和文化背景",
+  "draw_explain": "通过视觉线索，使用一个被排除在外的物体来帮助记忆单词'exclude'。选择一个独特的物体，如一个被排除在外的苹果，可以清晰地传达'排除在外'的概念。图像风格简洁，易于理解，有助于快速联想和记忆。",
+  "draw_prompt": "A single red apple with a 'no entry' sign on it, placed outside a clear glass bowl filled with green apples. The scene is minimalist, with a white background."
+}

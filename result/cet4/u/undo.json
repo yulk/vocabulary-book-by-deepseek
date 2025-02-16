@@ -1,0 +1,6 @@
+{
+  "word": "undo",
+  "analysis": "### 分析词义\n\n**Undo** 是一个动词，意思是“撤销”或“取消”。它通常用于描述恢复到之前的状态，或者取消已经完成的动作。\n\n### 列举例句\n\n1. **例句**: \"I accidentally deleted the file, but I was able to undo the action.\"  \n   **翻译**: “我不小心删除了文件，但我能够撤销这个操作。”\n\n2. **例句**: \"She decided to undo her decision and stay with her friends.\"  \n   **翻译**: “她决定撤销她的决定，和她的朋友们待在一起。”\n\n3. **例句**: \"He spent hours undoing the knot in the rope.\"  \n   **翻译**: “他花了几个小时解开绳子上的结。”\n\n### 词根分析\n\n- **词根**: -do- (来自拉丁语的 \"do\", 意思是 \"做\")  \n- **衍生单词**:  \n  - **Do**: 做  \n  - **Did**: 做（过去式）  \n  - **Done**: 做（过去分词）  \n  - **Undone**: undo的过去分词形式，表示“未完成的”或“解开的”。\n\n### 词缀分析\n\n- **前缀**: un- (表示否定或相反的动作)  \n- **后缀**: -o (无特定意义，用于连接词根和后缀)  \n- **相同前缀的单词**:  \n  - **Unhappy**: 不快乐的  \n  - **Unlock**: 解锁  \n  - **Untie**: 解开  \n- **相同后缀的单词**: (无特定后缀)",
+  "draw_explain": "通过视觉线索，使用一个解开绳结的图像来帮助记忆'undo'这个单词。绳结的解开直接关联到'undo'的定义之一——解开。这样的图像简洁且易于与单词含义相关联，有助于记忆。",
+  "draw_prompt": "A close-up of a hand carefully untying a complex knot in a thick rope, with the knot starting to come apart, in a realistic and detailed style."
+}

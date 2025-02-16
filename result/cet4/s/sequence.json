@@ -1,0 +1,6 @@
+{
+  "word": "sequence",
+  "analysis": "### 分析词义\n\n\"Sequence\" 是一个名词，指的是一系列按特定顺序排列的事物或事件。它可以用来描述时间、空间或其他逻辑关系上的顺序。\n\n### 列举例句\n\n1. **科学实验**：In a scientific experiment, it's crucial to follow the sequence of steps carefully to ensure accurate results.  \n   **中文翻译**：在科学实验中，严格按照步骤顺序进行是确保结果准确的关键。\n\n2. **电影制作**：The director carefully planned the sequence of scenes to create a seamless narrative flow.  \n   **中文翻译**：导演精心策划了场景的顺序，以创造流畅的叙事流程。\n\n3. **数学问题**：To solve this mathematical problem, you need to understand the sequence of operations.  \n   **中文翻译**：要解决这个数学问题，你需要理解运算的顺序。\n\n### 词根分析\n\n- **词根**: sequ (跟随)  \n- **衍生单词**:  \n  - subsequent (随后的)  \n  - consequence (结果)  \n  - sequential (连续的)  \n  - sequel (续集)  \n  - ensue (接着发生)  \n  - obsequious (谄媚的)  \n  - persecute (迫害)  \n  - execute (执行)  \n  - persecute (迫害)  \n  - obsequies (葬礼仪式)  \n  - obsequiousness (谄媚)  \n  - obsequiousness (谄媚)  \n  - obsequiousness (谄媚)  ",
+  "draw_explain": "通过展示一系列连续排列的数字或物体，可以直观地理解'sequence'的含义。这种视觉线索不仅强调了'连续'的概念，还突出了'次序'的重要性，从而帮助记忆单词。",
+  "draw_prompt": "A row of neatly arranged colorful objects, each labeled with a sequential number, set against a clean white background."
+}

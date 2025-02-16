@@ -1,0 +1,6 @@
+{
+  "word": "pile",
+  "analysis": "### 分析词义\n- **pile**: 名词，表示“一堆”或“一叠”；动词，表示“堆积”或“堆放”。\n\n### 列举例句\n1. **场景一：日常生活**\n   - **例句**: She stacked the books into a neat pile.\n   - **中文翻译**: 她把书整齐地堆成了一叠。\n   \n2. **场景二：建筑工地**\n   - **例句**: The workers piled the bricks on the side of the road.\n   - **中文翻译**: 工人们把砖块堆放在路边。\n   \n3. **场景三：财务管理**\n   - **例句**: He sorted through the pile of invoices to find the one he needed.\n   - **中文翻译**: 他在一堆发票中翻找他需要的那一张。\n\n### 词根分析\n- **词根**: *pil-* (来自拉丁语 *pilare*，意为“堆叠”)。\n- **衍生单词**: \n  1. **pileup** (名词): 堆积，尤指交通事故中的车辆堆积。\n  2. **piling** (名词): 桩，用于建筑基础的木桩或钢桩。\n  3. **empire** (名词): 帝国（与 *pil-* 无关，但展示了词根的多样性）。\n\n### 词缀分析\n- **词缀**: 无明显前缀或后缀，单词本身即为基本形式。\n- **相同词缀的单词**: N/A（无明显前缀或后缀）。\n\n### 发展历史和文化背景\n- **造词来源**: *pile* 源自拉丁语 *pilare*，意为“堆叠”或“堆积”。这个词在中世纪英语中出现，最初用于描述物质的堆叠，后来扩展到其他领域，如财务文件的堆积等。在现代英语中，*pile* 广泛用于描述各种形式的堆积物。\n- **文化内涵**: 在欧美文化中，*pile* 常用于描述杂乱无章的堆积物，如“a pile of papers”（一堆文件），这可能反映了西方社会对组织和效率的重视。此外，*pile* 也常用于描述自然现象，如“a pile of leaves”（一堆树叶），这反映了人们对自然环境的观察和描述。",
+  "draw_explain": "通过展示一个堆叠的物体，如书籍或木块，可以直观地展示单词'pile'的含义。这种视觉线索不仅简单易懂，而且能够直接与单词的'堆叠'和'累积'含义相关联，有助于记忆。",
+  "draw_prompt": "A stack of colorful wooden blocks, neatly piled on a flat surface, with a few blocks slightly tilted for a dynamic and playful look."
+}

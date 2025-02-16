@@ -1,0 +1,6 @@
+{
+  "word": "loan",
+  "analysis": "### 分析词义\n\n**Loan** 是一个名词，表示“贷款”或“借出”的物品。它也可以作为动词使用，表示“借出”或“借贷”。\n\n### 列举例句\n\n1. **He took out a loan to buy a new car.**  \n   *他贷款买了一辆新车。*\n   \n2. **Could you loan me your pen for a moment?**  \n   *你能把你的笔借我用一下吗？*\n   \n3. **The bank offers low-interest loans to students.**  \n   *银行向学生提供低息贷款。*\n\n### 词根分析\n\n- **词根**: **loa-** 来自古英语的 \"lān\"，意思是“借出”。这个词根与拉丁语中的 \"locare\"（放置）有关，但在此处的含义是“给予”或“借出”。\n   \n- **衍生词**: 这个词根衍生出的单词不多，但相关的词汇包括：  \n  - **loaner**: 名词，表示“借出者”或“借出的东西”。  \n  - **loaning**: 名词，表示“借出的行为”。  \n  - **loanword**: 名词，表示“外来词”。（这里的 \"loan\" 指的是从其他语言中借来的词汇）。\n\n### 词缀分析\n\n- **前缀**: 无前缀。  \n- **后缀**:  当作为动词时，可以加上后缀 \"-ing\" 形成名词 \"loaning\"，或者加上 \"-er\" 形成名词 \"loaner\"。  \n- **相同后缀的单词**:  例如：  \n  - **singer** (歌手)：由动词 \"sing\" + \"-er\" 构成。  \n  - **runner** (跑步者)：由动词 \"run\" + \"-er\" 构成。  \n  - **cooker** (炊具)：由动词 \"cook\" + \"-er\" 构成。  \n    这些单词都使用了相同的 \"-er\" 后缀来表示从事某项活动的人或物。",
+  "draw_explain": "通过展示一个银行柜台，柜员正在处理贷款文件，旁边有一个装满现金的袋子，这样的场景能够直观地展示'loan'的含义。银行和现金是贷款的核心元素，易于与单词'loan'相关联。",
+  "draw_prompt": "A bank counter with a teller processing loan documents, next to a bag filled with cash, in a realistic and detailed style."
+}

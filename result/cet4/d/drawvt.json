@@ -1,0 +1,6 @@
+{
+  "word": "drawvt",
+  "analysis": "### 分析词义\n\n“Draw” 是一个多义词，主要用作动词，意思是“画”、“拉”、“吸引”等。它可以表示用笔或其他工具在纸上或其他表面上创作图像，也可以表示物理上的拉动动作，还可以表示吸引某人的注意力或兴趣。\n\n### 列举例句\n\n1. **场景一：绘画**\n   - **例句**: She loves to draw landscapes in her spare time.\n   - **中文翻译**: 她喜欢在闲暇时间画风景。\n\n2. **场景二：拉动物体**\n   - **例句**: He drew the chair closer to the table.\n   - **中文翻译**: 他把椅子拉到桌子旁。\n\n3. **场景三：吸引注意**\n   - **例句**: The movie drew a large audience on its opening night.\n   - **中文翻译**: 这部电影在首映夜吸引了大量观众。\n\n### 词根分析\n\n- **词根**: draw- (源自中古英语 drawen，古英语 dragan，意为“拉”或“拖”)\n- **衍生单词**: drawer (抽屉), drawback (缺点), drawing (图画)\n\n### 词缀分析\n\n- **前缀**: 无前缀。\n- **后缀**: 无后缀。\n- **相关单词**: drawer, drawing, drawback, withdraw (撤回)\n\n### 发展历史和文化背景\n\n“Draw” 这个词的历史可以追溯到古英语时期，最初的意思是“拉”或“拖”。随着时间的推移，它的意义扩展到包括“画”和“吸引”等含义。在艺术领域，“draw” 通常指用铅笔、炭笔或其他工具进行素描或绘画。在日常生活中，它也常用于描述物理上的拉动动作，如拉门、拉椅子等。此外，“draw” 还用于描述某物吸引人们的注意力或兴趣，如电影、展览等。\n\n### 单词变形\n\n- **动词**: draw (画, 拉, 吸引)\n- **名词**: drawing (图画), drawer (抽屉), drawback (缺点)\n- **固定搭配**: draw attention (吸引注意), draw a conclusion (得出结论), draw up (起草, 拉近)",
+  "draw_explain": "该prompt通过描绘一个手握铅笔在纸上画线的场景，直观地展示了'drawvt'的'画,划'含义。同时，通过添加'拖动'的动作，进一步强化了单词的'拖'的含义。整体场景简洁明了，易于与单词的含义相关联。",
+  "draw_prompt": "A hand holding a pencil, dragging it across a piece of paper to draw a straight line, with a faint trail of graphite visible behind the pencil tip."
+}

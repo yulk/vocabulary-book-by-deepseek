@@ -1,0 +1,6 @@
+{
+  "word": "execute",
+  "analysis": "### 分析词义\n\"Execute\" 是一个动词，主要意思是“执行”或“处决”。在不同的上下文中，它可以表示完成某项任务、履行职责，或者在法律或军事背景下指处决某人。\n\n### 列举例句\n1. **执行任务**：The soldier was ordered to execute the mission.  \n   士兵被命令执行任务。  \n2. **处决犯人**：The criminal was executed for his crimes.  \n   罪犯因他的罪行被处决。  \n3. **演奏音乐**：She executed the piece beautifully on the piano.  \n   她在钢琴上优美地演奏了这首曲子。\n\n### 词根分析\n- **词根**：-secut- (来自拉丁语 \"sequi\"，意为“跟随”或“追求”)  \n- **衍生词**：  \n  - **consecutive** (连续的)  \n  - **persecute** (迫害)  \n  - **sequence** (顺序)  \n  - **consequence** (结果)  \n  - **sequel** (续集)  \n  - **sequential** (顺序的)  \n  - **ensue** (接着发生)  \n  - **prosecute** (起诉)  \n  - **subsequent** (随后的)  \n  - **obsequious** (谄媚的)  \n  - **pursue** (追求)  \n  - **pursuit** (追求)  \n  - **ensue** (接着发生)  \n  - **obsequiousness** (谄媚)  \n  - **persecution** (迫害)  \n  - **prosecution** (起诉)  \n  - **sequentiality** (顺序性)  \n  - **subsequence** (随后发生的事)",
+  "draw_explain": "通过展示一个被处决的场景，可以直观地记住'execute'这个词的含义。这个场景包括一个执行者手持武器，指向一个被绑的人，背景是一个昏暗的房间，强调了'execute'的严厉和决定性。",
+  "draw_prompt": "A dark room with a solemn executioner holding a weapon pointed at a bound individual, emphasizing the decisive and severe nature of execution."
+}

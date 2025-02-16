@@ -1,0 +1,6 @@
+{
+  "word": "liter",
+  "analysis": "### 分析词义\n\"Liter\" 是一个英语单词，主要用作名词，表示“升”，是国际单位制中用于测量液体体积的单位。1升等于1000毫升。\n\n### 列举例句\n1. **场景一：购物**  \n   - **例句**: \"I need to buy 2 liters of milk for the recipe.\"  \n   - **中文翻译**: “我需要买2升牛奶来做这个食谱。”\n\n2. **场景二：烹饪**  \n   - **例句**: \"The recipe calls for 500 milliliters, which is half a liter.\"  \n   - **中文翻译**: “这个食谱需要500毫升，也就是半升。”\n\n3. **场景三：科学实验**  \n   - **例句**: \"The scientist measured out 3 liters of water for the experiment.\"  \n   - **中文翻译**: “科学家为实验量出了3升水。”\n\n### 词根分析\n- **词根**: \"litr-\" (源自拉丁语 \"litra\"，意为“磅”或“重量单位”)。在现代用法中，\"litr-\" 表示“升”。\n- **衍生单词**: \"milliliter\" (毫升), \"kiloliter\" (千升)。\n\n### 词缀分析\n- **前缀**: 无特别前缀。\n- **后缀**: \"-er\" (表示单位)。例如，\"milliliter\" (毫升)中的 \"-er\" 表示单位。\n- **相同词缀的单词**: \"kilometer\" (公里), \"gram\" (克)。\n\n### 发展历史和文化背景\n- **造词来源**: \"Liter\" 源自拉丁语 \"litra\"，最初用于衡量重量，后来演变为测量液体体积的单位。在19世纪末，国际度量衡大会（CGPM）正式定义了“升”作为标准体积单位。在欧美文化中，\"liter\" 是日常生活中常用的度量单位之一，广泛应用于食品、饮料和化学实验等领域。\n\n### 单词变形和固定搭配、组词及对应的中文翻译:无特别变形或固定搭配。主要用作名词表示“升”。例如：2 liters of water（2升水）；a liter of juice（1升果汁）等。",
+  "draw_explain": "通过展示一个装满液体的透明玻璃杯，旁边标注'1 liter'的标签，可以直观地帮助记忆'liter'这个单词的含义。透明的玻璃杯和液体能够直接与容量单位'liter'相关联，而旁边的标签则明确指出了具体的容量单位。",
+  "draw_prompt": "A clear glass measuring cup filled with water, with a label reading '1 liter' attached to the side."
+}

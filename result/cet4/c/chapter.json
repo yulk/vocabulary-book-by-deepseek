@@ -1,0 +1,6 @@
+{
+  "word": "chapter",
+  "analysis": "### 分析词义\n\"Chapter\" 是一个名词，主要指书籍、文章或法律文件中的一个部分或章节。它也可以指某个组织或团体的一个分支，或者指人生中的一个阶段。\n\n### 列举例句\n1. **场景一：书籍**\n   - The novel is divided into twelve chapters.\n   - 这本小说分为十二章。\n2. **场景二：组织**\n   - She is the president of the local chapter of the organization.\n   - 她是该组织地方分会的主席。\n3. **场景三：人生阶段**\n   - The birth of their first child marked a new chapter in their lives.\n   - 他们第一个孩子的出生标志着他们生活的新篇章。\n\n### 词根分析\n- **词根**: \"capit-\" 来自拉丁语 \"caput\"，意思是“头”或“章节”。\n- **衍生词**: \n  - **capital** (首都，资本)\n  - **decapitate** (斩首)\n  - **precipitate** ( precipitously ) (仓促的)\n\n### 词缀分析\n- **词缀**: \"chapter\" 没有明显的前缀或后缀，它是一个独立的单词。\n- **相同词缀的单词**: N/A (因为 \"chapter\" 没有明显的词缀)。\n\n### 发展历史和文化背景\n\"Chapter\" 源自拉丁语 \"capitulum\"，意为“小头”或“小章节”。在中世纪的欧洲，书籍通常被分为多个部分，每个部分称为一个 \"chapter\"。这个词后来也被用于描述组织或团体中的分支，以及人生中的不同阶段。在宗教文献中，\"chapter\" 也指祈祷书或圣经中的一段经文。\n\n### 单词变形\n- **名词形式**: chapter (章节)\n- **复数形式**: chapters (章节)\n- **固定搭配**: \n  - chapter and verse (详细说明)\n  - close a chapter (结束一个阶段)\n  - open a new chapter (开始新篇章)",
+  "draw_explain": "选择书本中的一个章节作为视觉线索，因为'chapter'直接与书籍的章节相关联。通过展示一本打开的书，其中一页被特别标记为章节，可以直观地帮助记忆该单词的含义。",
+  "draw_prompt": "An open book with a page marked as a chapter, featuring a distinct chapter number and title, set against a minimalist background with soft lighting."
+}

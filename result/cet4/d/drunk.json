@@ -1,0 +1,6 @@
+{
+  "word": "drunk",
+  "analysis": "### 分析词义\n\n**Drunk** 是一个形容词，用来描述一个人因为饮酒过量而失去控制、行为异常或意识模糊的状态。它也可以作为名词使用，指处于这种状态的人。\n\n### 列举例句\n\n1. **例句**: He was so drunk that he couldn't even stand up straight.  \n   **翻译**: 他喝得酩酊大醉，连站都站不直。\n\n2. **例句**: She woke up with a terrible headache, realizing she had gotten drunk last night.  \n   **翻译**: 她醒来时头痛欲裂，意识到自己昨晚喝醉了。\n\n3. **例句**: The police arrested several drunk drivers last night.  \n   **翻译**: 昨晚警察逮捕了几名酒后驾车的司机。\n\n### 词根分析\n\n- **词根**: *drunk* 源自中古英语的 *drunken*，进一步追溯到古英语的 *druncen*，意为“喝醉的”。这个词与动词 *drink*（喝酒）有直接关联。\n\n### 词缀分析\n\n- **后缀**: *-en* 是一个常见的后缀，用于将动词转化为形容词，表示“被……的”或“处于……状态的”。例如：*soften*（变软）、*strengthen*（加强）。\n- **衍生词**: *drunkard*（酒鬼）、*drunkenness*（醉酒状态）。\n\n### 发展历史和文化背景\n\n- **历史**: *Drunk* 这个词的历史可以追溯到古英语时期，与饮酒文化密切相关。在许多文化中，饮酒是一种社交活动，但过量饮酒可能导致负面后果，如健康问题和社会问题。因此，*drunk* 这个词在英语中有着丰富的文化内涵，常用于描述饮酒过度的状态。\n   - **文化背景**: 在欧美文化中，饮酒是一种常见的社交活动，但酒后驾驶和过量饮酒是被严格禁止和谴责的行为。因此，*drunk* 这个词在法律和社会规范中也有重要地位。\n    - **相关词汇**: *alcoholic*（酒精中毒者）、*intoxicated*（醉酒的）、*sober*（清醒的）。这些词汇都与饮酒和醉酒状态有关。",
+  "draw_explain": "通过描绘一个醉汉的形象，能够直观地与'drunk'这个词的含义相关联。醉汉的面部表情、身体姿态和周围的环境（如酒瓶或酒吧）都能强化'醉的'这一概念，从而帮助记忆。",
+  "draw_prompt": "A cartoonish illustration of a man with a red face, slightly slouched posture, holding a glass of beer, surrounded by empty bottles and a dimly lit bar setting."
+}

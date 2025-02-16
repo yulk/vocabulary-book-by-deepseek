@@ -1,0 +1,6 @@
+{
+  "word": "code",
+  "analysis": "### 分析词义\n\"Code\" 是一个多义词，主要含义包括：\n1. **密码**：用于加密或解密的系统，如密码、编码。\n2. **法规**：指一套规则或法律，如“医疗法规”（medical code）。\n3. **编码**：在计算机科学中，指用特定语言编写的程序或指令。\n\n### 列举例句\n1. **密码**：\n   - The secret agent used a special code to send messages.  \n     （这位特工使用了一种特殊的密码来发送信息。）\n2. **法规**：\n   - The new building code requires all houses to have fire alarms.  \n     （新的建筑法规要求所有房屋都必须安装火灾报警器。）\n3. **编码**：\n   - She spent hours writing the code for the new app.  \n     （她花了几个小时为新应用编写代码。）\n\n### 词根分析\n- **词根**：cod-  \n- **衍生词**：  \n  - decode（解码）  \n  - encode（编码）  \n  - decoder（解码器）  \n  - coding（编码，编程）  \n  - codify（编纂，整理成法典）  \n  - codependent（共依存的）  \n  - codex（法典，古抄本）  \n  - codicil（遗嘱附录）  \n  - codename（代号）  \n  - codeword（暗号，密语）  \n  - codebook（密码本）  \n  - codec（编解码器）  \n  - coddle（娇养，溺爱）  \n  - coda（乐曲的尾声，结尾部分）  \n  - codfish（鳕鱼）  \n  - codling（小鳕鱼，娇生惯养的人）  ",
+  "draw_explain": "通过展示一本古老的法典书籍，封面刻有复杂的符号和图案，能够直观地与'code'的定义'准则;法典;代码'相关联。这种视觉线索不仅强调了'code'的法律和规则含义，还通过书籍的形式暗示了其作为信息或指令的载体。",
+  "draw_prompt": "An ancient leather-bound book with intricate symbols and patterns engraved on the cover, placed on a wooden desk in a dimly lit study, emphasizing the legal and informational aspects of 'code'."
+}

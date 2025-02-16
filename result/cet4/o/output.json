@@ -1,0 +1,6 @@
+{
+  "word": "output",
+  "analysis": "### 分析词义\n\n**Output** 是一个名词，通常指“输出”或“产出”。它可以指计算机程序的输出结果，也可以指生产过程中的产品或结果。此外，它还可以指能源或信息的输出。\n\n### 列举例句\n\n1. **Computer Science Context:**\n   - The program generates a text file as its output.\n   - 程序生成一个文本文件作为其输出。\n\n2. **Production Context:**\n   - The factory's daily output has increased by 20%.\n   - 工厂的日产量增加了20%。\n\n3. **Energy Context:**\n   - The solar panel's output is measured in watts.\n   - 太阳能电池板的输出以瓦特为单位进行测量。\n\n### 词根分析\n\n- **词根:** out- (表示“外面”或“外部”) + put (表示“放置”)\n- **衍生单词:** \n  - outlet (出口)\n  - outside (外面)\n  - outset (开始)\n\n### 词缀分析\n\n- **前缀:** out- (表示“外面”或“外部”)\n- **后缀:** -put (表示“放置”)\n- **相同前缀的单词:** \n  - outdoor (户外的)\n  - outgoing (外向的)\n- **相同后缀的单词:** \n  - input (输入)",
+  "draw_explain": "通过展示一个工厂的图像，强调工厂中输送带上的产品流动，这种视觉线索直接关联到'output'的定义，即产量或输出量。工厂的场景和产品的流动是'output'这个单词的直观体现，有助于记忆。",
+  "draw_prompt": "A bustling factory with conveyor belts carrying finished products, emphasizing the flow of output in a modern industrial setting, vibrant colors, and detailed machinery."
+}

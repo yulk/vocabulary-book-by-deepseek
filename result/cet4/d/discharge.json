@@ -1,0 +1,6 @@
+{
+  "word": "discharge",
+  "analysis": "### 分析词义\n\n**Discharge** 是一个多义词，可以用作动词和名词。\n\n- **动词 (Verb):**\n  - **释放，排放**：指从某个地方或状态中释放出物质、能量或人员。例如，从医院出院，或从容器中排出液体。\n  - **履行，执行**：指完成某项任务或义务。例如，履行职责或义务。\n  - **解雇，开除**：指解除某人的职务或从某个组织中移除。\n\n- **名词 (Noun):**\n  - **排放物**：指从某个源头排出的物质，如废水、废气等。\n  - **出院**：指病人从医院离开的过程。\n  - **解雇**：指某人被解除职务的情况。\n\n### 列举例句\n\n1. **场景一：医院出院**\n   - **英文例句**: The doctor signed the discharge papers, allowing the patient to leave the hospital.\n   - **中文翻译**: 医生签署了出院文件，允许病人离开医院。\n   \n2. **场景二：排放废水**\n   - **英文例句**: The factory was fined for discharging toxic waste into the river.\n   - **中文翻译**: 工厂因向河流排放有毒废物而被罚款。\n   \n3. **场景三：解雇员工**\n   - **英文例句**: He received a discharge letter from his job due to poor performance.\n   - **中文翻译**: 由于表现不佳，他收到了解雇信。\n   \n4. **场景四：履行职责**（较少使用）\n   - **英文例句**: The soldier was praised for discharging his duties with great honor.\n   - **中文翻译**: 这名士兵因光荣地履行职责而受到表扬。",
+  "draw_explain": "选择'discharge'的'排出'含义，因为这是一个更具体且容易通过视觉呈现的定义。通过描绘一个液体从容器中流出的场景，可以直观地展示'排出'的概念，帮助记忆。",
+  "draw_prompt": "A clear, flowing liquid being discharged from a spout of a container, with a smooth and continuous motion, in a realistic and detailed style."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "compute",
+  "analysis": "### 分析词义\n\n\"Compute\" 是一个动词，意思是“计算”或“估算”。它通常用于描述通过数学运算或逻辑推理来得出结果的过程。\n\n### 列举例句\n\n1. **场景一：数学计算**\n   - **例句**: The computer can compute large numbers in seconds.\n   - **中文翻译**: 电脑可以在几秒钟内计算大数。\n\n2. **场景二：估算成本**\n   - **例句**: She had to compute the total cost before making a decision.\n   - **中文翻译**: 她必须在做出决定之前估算总成本。\n\n3. **场景三：逻辑推理**\n   - **例句**: The detective had to compute the probability of the suspect being guilty.\n   - **中文翻译**: 侦探必须计算嫌疑人有罪的概率。\n\n### 词根分析\n\n- **词根**: \"put\" (源自拉丁语 \"putare\"，意为“思考”或“计算”)。\n- **衍生单词**: \n  - \"computer\" (名词，计算机)\n  - \"computation\" (名词，计算)\n  - \"computational\" (形容词，计算的)\n\n### 词缀分析\n\n- **前缀**: \"com-\" (表示“一起”或“完全”)。\n- **后缀**: \"-e\" (动词后缀)。\n- **相同词缀的单词**: \n  - \"combine\" (动词，结合)。\n  - \"complete\" (动词/形容词，完成/完全的)。\n  - \"compose\" (动词，组成)。\n  ",
+  "draw_explain": "通过展示一个计算器和数学公式，可以直观地与单词'compute'的含义'计算'相关联。计算器是计算的工具，而数学公式则是计算的具体表现，这两者的结合能够帮助记忆单词'compute'的含义。",
+  "draw_prompt": "A sleek calculator with glowing buttons sits on a desk, surrounded by colorful mathematical formulas and equations, rendered in a clean, modern style."
+}

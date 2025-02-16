@@ -1,0 +1,6 @@
+{
+  "word": "emphasize",
+  "analysis": "### 分析词义\n\n**Emphasize** 是一个动词，意思是“强调”或“着重指出”。它用于表示在说话或写作中特别强调某一点，使其更加突出或重要。\n\n### 列举例句\n\n1. **场景一：学术演讲**\n   - The professor emphasized the importance of regular exercise.\n   - 教授强调了定期锻炼的重要性。\n\n2. **场景二：商业会议**\n   - The manager emphasized that punctuality is crucial for the team's success.\n   - 经理强调了准时对团队成功的重要性。\n\n3. **场景三：日常对话**\n   - She emphasized how much she appreciated his help.\n   - 她强调了她对他的帮助有多么感激。\n\n### 词根分析\n\n- **词根**: -emphas- (来自希腊语 \"emphanizein\"，意为“使明显”或“使突出”)\n- **衍生单词**: \n  - Emphasis (名词形式，意为“强调”)\n  - Emphatic (形容词形式，意为“强调的”或“有力的”)\n\n### 词缀分析\n\n- **前缀**: 无前缀。\n- **后缀**: -ize (动词后缀，表示“使成为”或“使…化”)。类似的单词有: \n  - Realize (实现)\n  - Organize (组织)\n  - Recognize (认出)\n\n### 发展历史和文化背景\n\n**Emphasize** 源自希腊语 \"emphanizein\"，经过拉丁语 \"emphatizare\" 演变而来。在英语中，它首次出现在16世纪，最初用于文学和学术领域，后来逐渐普及到日常语言中。在欧美文化中，强调某事通常意味着将其置于优先位置，这在教育、商业和个人沟通中都非常重要。\n\n### 单词变形\n\n- **名词**: Emphasis (强调)\n- **形容词**: Emphatic (强调的)\n- **副词**: Emphatically (强调地)\n- **固定搭配**: \n  - Emphasize on (着重于) -> He emphasized on the need for teamwork. (他强调了团队合作的必要性。)",
+  "draw_explain": "该prompt通过展示一个演讲者用手指指向屏幕上的重要信息，强调了'emphasize'的含义。手指的指向动作和屏幕上的重点标记共同构成了一个直观的视觉线索，帮助记忆单词的'强调'含义。",
+  "draw_prompt": "A speaker pointing with a finger at a highlighted text on a screen, emphasizing the importance of the information."
+}

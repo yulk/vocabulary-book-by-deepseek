@@ -1,0 +1,6 @@
+{
+  "word": "draft",
+  "analysis": "### 分析词义\n\n**Draft** 是一个多义词，可以用作名词和动词。\n\n- **名词 (noun)**: 草稿、草案、汇票、通风、征兵。\n- **动词 (verb)**: 起草、草拟、征募、通风。\n\n### 列举例句\n\n1. **名词用法**:\n   - **例句**: He submitted the first draft of his novel to his editor.  \n     **中文翻译**: 他把小说的第一稿提交给了编辑。\n   - **例句**: The draft for the new law is being discussed in the parliament.  \n     **中文翻译**: 新法律的草案正在议会中讨论。\n   - **例句**: There is a strong draft coming from the window.  \n     **中文翻译**: 从窗户吹进来一阵强风。\n   \n2. **动词用法**:\n   - **例句**: She drafted a letter to the company, expressing her concerns.  \n     **中文翻译**: 她起草了一封信给公司，表达她的担忧。\n   - **例句**: The military drafted young men into service during the war.  \n     **中文翻译**: 战争期间，军队征募了年轻人入伍。\n   - **例句**: The architect is drafting the plans for the new building.  \n     **中文翻译**: 建筑师正在为新建筑绘制图纸。\n   \n### 词根分析\n- **词根**: \"draft\" 源自中古英语 \"draught\"，进一步追溯到古英语 \"dræf\"，意为“拖拽”或“拉”。这个词根与“drag”（拖拽）有相似的含义。后来，它的意思逐渐扩展到“草稿”或“草案”等含义。\n- **衍生单词**: draught (英式英语中的拼写，意思与 draft 相同), draughtsman (绘图员), draughts (一种棋类游戏)。",
+  "draw_explain": "通过展示一个正在起草文件的场景，结合纸张和笔的元素，能够直观地帮助记忆'draft'作为动词的含义。同时，汇票作为一个不太直观且复杂的概念被忽略，以保持prompt的简洁和易于理解。",
+  "draw_prompt": "A close-up of a person's hand holding a pen, writing on a piece of paper with the words 'Draft Version' written at the top, in a clean, minimalist workspace with soft lighting."
+}

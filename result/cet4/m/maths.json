@@ -1,0 +1,6 @@
+{
+  "word": "maths",
+  "analysis": "### 分析词义\n\n\"Maths\" 是 \"mathematics\" 的缩写形式，指的是数学。数学是一门研究数量、结构、变化以及空间等概念的学科。它包括算术、代数、几何、统计等多个分支。\n\n### 列举例句\n\n1. **场景一：学校**\n   - **例句**: \"I enjoy solving problems in maths class.\"\n   - **中文翻译**: \"我喜欢在数学课上解决问题。\"\n\n2. **场景二：考试**\n   - **例句**: \"The maths exam was quite challenging this time.\"\n   - **中文翻译**: \"这次的数学考试相当有挑战性。\"\n\n3. **场景三：日常生活**\n   - **例句**: \"Can you help me with this maths homework?\"\n   - **中文翻译**: \"你能帮我做这个数学作业吗？\"\n\n### 词根分析\n\n- **词根**: \"mathem-\" 源自希腊语 \"mathema\"，意思是“学习”或“知识”。\n- **衍生单词**: \n  - mathematics (数学)\n  - mathematician (数学家)\n  - mathematical (数学的)\n\n### 词缀分析\n\n- **前缀**: 无前缀。\n- **后缀**: \"-s\" 是复数形式的后缀，用于名词的复数形式。在 \"maths\" 中，\"-s\" 表示复数形式，尽管在美式英语中通常使用单数形式 \"math\"。\n- **相同词缀的单词**: \n  - books (书)\n  - cats (猫)\n  - dogs (狗)\n\n### 发展历史和文化背景\n\n\"Mathematics\" 源自希腊语 \"mathema\"，意为“学习”或“知识”。数学作为一门学科有着悠久的历史，最早可以追溯到古埃及和巴比伦时期。在古希腊，数学得到了系统的发展，尤其是欧几里得的《几何原本》对后世影响深远。在现代社会，数学在科学、工程、经济等领域都扮演着至关重要的角色。欧美文化中，数学被视为逻辑思维和解决问题能力的重要体现。",
+  "draw_explain": "通过使用数学符号和几何图形的图像，可以直观地与单词'maths'的含义相关联。数学符号和几何图形是数学学科的标志性元素，能够直接触发对数学的记忆。",
+  "draw_prompt": "A colorful image of mathematical symbols and geometric shapes, such as pi, sigma, and triangles, arranged in a creative and artistic manner."
+}

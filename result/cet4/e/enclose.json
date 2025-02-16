@@ -1,0 +1,6 @@
+{
+  "word": "enclose",
+  "analysis": "### 分析词义\n\n**Enclose** 是一个动词，意思是“包围”、“封闭”或“附上”。它可以指物理上的包围，如用围栏将某物围起来，也可以指在信件或包裹中附上某物。\n\n### 列举例句\n\n1. **Physical Enclosure**:  \n   - The garden is enclosed by a high wall.  \n   - 花园被高墙围住。\n\n2. **Attachment in a Letter**:  \n   - I have enclosed my resume with this letter.  \n   - 我在这封信中附上了我的简历。\n\n3. **Protective Enclosure**:  \n   - The delicate artifact was carefully enclosed in foam for shipping.  \n   - 这件易碎的文物被小心地用泡沫包裹以便运输。\n\n### 词根分析\n\n- **词根**: \"clos-\" 来自拉丁语 \"claudere\"，意思是“关闭”。\n- **衍生词**:  \n  - Close (关闭)  \n  - Closure (关闭的状态)  \n  - Disclose (揭露)  \n  - Conclude (结束)  \n  - Include (包括)  \n\n### 词缀分析\n\n- **前缀**: \"en-\" 是一个使役前缀，表示“使成为”或“使处于某种状态”。例如：enable, enrich, enlarge。  \n- **后缀**: \"-e\" 是动词后缀，帮助构成动词形式。例如：move, write, live。  \n- **相同词缀的单词**: enable, endanger, enrich, enlarge.  \n- **中缀**: N/A（无中缀）。  \n- **后缀**: N/A（无后缀）。  \n- **相同后缀的单词**: close, expose, dispose.  \n- **相同前缀的单词**: enable, endanger, enrich, enlarge.  \n- **相同中缀的单词**: N/A（无中缀）。  \n- **相同后缀的单词**: close, expose, dispose.",
+  "draw_explain": "该prompt通过描绘一个被围墙环绕的花园，以及一封信件被装在信封中，形象地展示了'enclose'的两个主要含义：围住和附上。这样的视觉线索直观且易于记忆，能够帮助用户快速联想到单词的含义。",
+  "draw_prompt": "A picturesque garden surrounded by a stone wall, and a neatly sealed letter placed inside an elegant envelope."
+}

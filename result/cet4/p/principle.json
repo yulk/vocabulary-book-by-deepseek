@@ -1,0 +1,6 @@
+{
+  "word": "principle",
+  "analysis": "### 分析词义\n\n\"Principle\" 是一个名词，意思是“原则”或“基本真理”。它指的是一种基本的信念、规则或理论，通常被认为是正确和重要的。\n\n### 列举例句\n\n1. **场景一：商业**  \n   - **例句**: \"The company operates based on the principle of honesty and transparency.\"  \n   - **中文翻译**: \"公司基于诚实和透明的原则运营。\"\n\n2. **场景二：教育**  \n   - **例句**: \"The principle of fairness should be applied in all educational decisions.\"  \n   - **中文翻译**: \"公平的原则应适用于所有教育决策中。\"\n\n3. **场景三：科学**  \n   - **例句**: \"The principle of conservation of energy is a fundamental concept in physics.\"  \n   - **中文翻译**: \"能量守恒原理是物理学中的一个基本概念。\"\n\n### 词根分析\n\n- **词根**: \"prin-\" 源自拉丁语 \"princeps\"，意思是“第一的”或“主要的”。  \n- **衍生单词**: 例如 \"principal\"（主要的，校长）和 \"principled\"（有原则的）。\n\n### 词缀分析\n\n- **后缀**: \"-ple\" 是来自拉丁语的后缀，表示“充满”或“包含”。  \n- **相同词缀的单词**: 例如 \"ample\"（充足的）和 \"sample\"（样本）。\n\n### 发展历史和文化背景\n\n- **造词来源**: \"Principle\" 源自拉丁语 \"principium\"，意为“开始”或“基础”。在古罗马文化中，这个词与领导力和权威有关，因为领导者通常被视为遵循某些基本原则的人。  \n- **文化内涵**: 在西方文化中，原则通常与道德、伦理和个人价值观紧密相关，强调个人或组织应遵循的基本准则。例如，美国的《独立宣言》中提到“人人生而平等”的原则。",
+  "draw_explain": "通过展示一个简洁的场景，即一个法官在法庭上使用公正原则进行判决，这个prompt能够直观地关联到'principle'这个词的含义。法官的形象和法庭的环境都与'原则'这一概念紧密相关，使得记忆更加深刻。",
+  "draw_prompt": "A judge sitting at a courtroom bench, holding a gavel, with a backdrop of a large scale model of justice, emphasizing fairness and principles."
+}

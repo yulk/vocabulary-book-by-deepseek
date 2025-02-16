@@ -1,0 +1,6 @@
+{
+  "word": "setting",
+  "analysis": "### 分析词义\n\n\"Setting\" 是一个多义词，主要用作名词，可以指：\n\n1. **环境**：指故事发生的地点或背景。例如，小说中的场景或舞台剧的布景。\n2. **设置**：指设备或系统的配置或调整。例如，手机或电脑的设置。\n3. **镶嵌**：指宝石或其他装饰品被固定在某个物体上的过程。\n\n### 列举例句\n\n1. **环境**：\n   - The novel is set in a small village in the mountains.  \n     （这本小说以山中的一个小村庄为背景。）\n   - The setting of the play was beautifully designed.  \n     （这出戏的布景设计得很漂亮。）\n   \n2. **设置**：\n   - You can change the brightness setting on your phone.  \n     （你可以更改手机上的亮度设置。）\n   - The new software has a lot of customizable settings.  \n     （这个新软件有很多可自定义的设置。）\n   \n3. **镶嵌**：\n   - The jeweler did a perfect job on the setting of the diamond ring.  \n     （珠宝商在钻石戒指的镶嵌上做得非常完美。）\n   - The setting of the emerald was very intricate.  \n     （这颗祖母绿的镶嵌非常精致。）\n   \n### 词根分析\n\n- **词根**: \"set\"，源自中古英语 \"setten\"，意为“放置”或“设定”。它与古英语 \"setl\" 和拉丁语 \"sedere\"（坐下）有关。\"Set\" 本身是一个基本动词，表示放置或安置某物。加上后缀 \"-ing\" 形成名词 \"setting\"，表示动作的结果或状态。例如：\"inset\"（插入物）、\"upset\"（打乱）等都是由 \"set\" 衍生出来的单词。",
+  "draw_explain": "通过展示一个机械装置的安装和调整过程，以及一个自然环境中的场景，可以帮助记忆'setting'这个词的双重含义。机械装置的图像强调了'安装，调整'的定义，而自然环境的图像则突出了'环境'的定义。这样的视觉线索直接且易于关联到单词的含义。",
+  "draw_prompt": "A close-up of a mechanical device being installed and adjusted, combined with a serene natural landscape featuring mountains, trees, and a clear sky."
+}

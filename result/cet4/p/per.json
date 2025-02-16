@@ -1,0 +1,6 @@
+{
+  "word": "per",
+  "analysis": "### 分析词义\n\"Per\" 是一个拉丁语词根，常用于英语中表示“每”或“通过”的意思。它通常用于描述某种频率、比率或通过某种方式完成某事。\n\n### 列举例句\n1. **例句**: \"The car can travel 20 miles per gallon.\"  \n   **翻译**: \"这辆车每加仑油可以行驶20英里。\"  \n2. **例句**: \"She earns $50 per hour.\"  \n   **翻译**: \"她每小时赚50美元。\"  \n3. **例句**: \"The cake recipe calls for one egg per person.\"  \n   **翻译**: \"蛋糕的食谱要求每人一个鸡蛋。\"\n\n### 词根分析\n- **词根**: \"Per-\"  \n- **衍生单词**:  \n  - **Perfect** (完全的，完美的)  \n  - **Perform** (执行，表演)  \n  - **Perceive** (感知，察觉)  \n  - **Permit** (允许，许可证)  \n  - **Persist** (坚持，持续)\n\n### 词缀分析\n\"Per-\" 本身是一个前缀，没有后缀或中缀。它通常与其他词根结合使用，以表示“通过”或“每”的意思。例如：  \n- **Perimeter** (周长)：per- + meter (测量)  \n- **Perpetual** (永久的)：per- + pet (追求) + -ual (形容词后缀)  \n- **Perform** (执行)：per- + form (形式)  \n- **Permit** (允许)：per- + mit (发送)\n\n### 发展历史和文化背景\n\"Per-\" 源自拉丁语的 \"per\"，意为“通过”或“每”。它在古罗马时期就已经被广泛使用，并随着拉丁语对英语的影响而进入英语词汇中。在现代英语中，\"per\" 仍然保留了其原始含义，并广泛用于描述频率、比率或通过某种方式完成某事。例如，在商业和科学领域中，\"per\" 常用于表示单位价格或比率。在法律文件中，\"per annum\"（每年）也是一个常见的用法。此外，在体育比赛中，\"per game\"（每场比赛）也常用来描述球员的表现。总之，\"per\" 是一个非常基础且实用的前缀，广泛应用于各个领域。",
+  "draw_explain": "通过展示一个分隔成多个等份的圆形物体，每个部分都标有数字或符号，可以直观地理解'per'表示'每'的含义。这种视觉线索直接关联到单词的定义，帮助记忆。",
+  "draw_prompt": "A circular object divided into equal parts, each section labeled with a number or symbol, representing 'per' as 'each' or 'every'."
+}

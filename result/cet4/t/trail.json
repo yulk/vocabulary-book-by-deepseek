@@ -1,0 +1,6 @@
+{
+  "word": "trail",
+  "analysis": "### 分析词义\n\n**trail** 是一个多义词，主要有以下几种意思：\n1. **名词**：小径，小道。例如：山间的小路。\n2. **名词**：痕迹，踪迹。例如：猎人追踪动物留下的痕迹。\n3. **动词**：拖曳，拉长。例如：裙子在地上拖曳。\n4. **动词**：追踪，尾随。例如：警察追踪逃犯。\n\n### 列举例句\n\n1. **名词 - 小径**  \n   - The hikers followed the trail through the forest.  \n     *登山者沿着森林中的小径前进。*  \n   \n2. **名词 - 痕迹**  \n   - The dog lost the trail of the rabbit in the tall grass.  \n     *狗在高草中失去了兔子的踪迹。*  \n   \n3. **动词 - 拖曳**  \n   - She accidentally trailed her coat on the wet floor.  \n     *她不小心把外套拖在了湿漉漉的地板上。*  \n   \n4. **动词 - 追踪**  \n   - The detective trailed the suspect for several days.  \n     *侦探连续几天追踪嫌疑人。*  \n   \n5. **固定搭配 - trail off**（逐渐减弱）  \n   - Her voice trailed off as she saw her ex-boyfriend walking towards her.  \n     *看到前男友朝她走来，她的声音逐渐减弱了。*  \n   \n6. **固定搭配 - blaze a trail**（开辟道路）  \n   - The company blazed a trail in the field of renewable energy.  \n     *这家公司在可再生能源领域开辟了道路。*",
+  "draw_explain": "选择'小径'作为视觉线索，因为它是'trail'最直观和易于想象的含义。通过描绘一条蜿蜒的小径，可以很容易地将图像与单词的含义联系起来，帮助记忆。",
+  "draw_prompt": "A winding dirt path through a lush green forest, with sunlight filtering through the trees, creating a serene and natural scene."
+}

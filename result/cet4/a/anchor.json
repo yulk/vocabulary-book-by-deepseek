@@ -1,0 +1,6 @@
+{
+  "word": "anchor",
+  "analysis": "### 分析词义\n\n**Anchor** 是一个名词和动词，具有以下含义：\n\n- **名词**：指固定船只或其他水上交通工具的装置，通常是重物或带有链条的锚，用于将船固定在水中。\n- **动词**：指使用锚将船固定在水中，或比喻性地指提供稳定性或支持。\n\n### 列举例句\n\n1. **名词用法**：\n   - The boat's anchor was dropped to keep it from drifting away.  \n     *船的锚被放下以防止它漂走。*\n   \n2. **动词用法**：\n   - The captain anchored the ship near the shore.  \n     *船长在岸边抛锚停船。*\n   \n3. **比喻用法**：\n   - Her best friend became her emotional anchor during the difficult time.  \n     *在她困难的时候，她最好的朋友成了她的情感支柱。*\n\n### 词根分析\n\n- **词根**：anch- (源自拉丁语“ancora”，意为“锚”)。\n- **衍生词**：anchorage（名词，锚地）、anchorman（名词，新闻主播）、anchorite（名词，隐士）。\n\n### 词缀分析\n\n- **后缀**：-or（表示人或物）。例如：actor（演员）、conductor（指挥）。\n- **前缀**：无前缀。\n- **中缀**：无中缀。\n   - 例如在单词“anchor”中没有中缀。但类似的中缀可以在一些单词中找到，如“speedometer”中的“o”作为连接字母。 \n   注释: 这个部分可能需要进一步解释中缀的概念和作用,但在此单词中确实没有明显的中缀存在。不过为了完整性,我还是提到了这个概念,尽管它与本单词无关。读者可以忽略这部分内容,专注于其他更有意义的部分即可。",
+  "draw_explain": "锚是用于固定船只的金属装置，通常具有独特的形状和功能。通过描述一个具体的锚的图像，可以直观地帮助记忆单词'anchor'。使用'金属质感'和'海浪背景'这样的视觉线索，可以增强记忆效果，因为这些元素直接关联到锚的实际用途和环境。",
+  "draw_prompt": "a detailed image of a metallic anchor, weathered and slightly rusted, resting on a sandy beach with gentle waves in the background, in a realistic style."
+}

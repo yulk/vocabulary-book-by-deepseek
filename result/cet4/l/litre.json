@@ -1,0 +1,6 @@
+{
+  "word": "litre",
+  "analysis": "### 分析词义\n\n**litre**（升）是一个度量单位，主要用于测量液体的体积。它属于公制单位，常用于科学、烹饪和日常生活中。1 litre 等于 1000 毫升（millilitres）。\n\n### 列举例句\n\n1. **场景：烹饪**  \n   - **例句**: \"Please pour 2 litres of water into the pot.\"  \n   - **中文翻译**: \"请往锅里倒入2升水。\"\n\n2. **场景：超市购物**  \n   - **例句**: \"This bottle contains 1.5 litres of juice.\"  \n   - **中文翻译**: \"这瓶子里装有1.5升的果汁。\"\n\n3. **场景：实验室**  \n   - **例句**: \"The experiment requires exactly 500 millilitres, which is half a litre.\"  \n   - **中文翻译**: \"实验需要正好500毫升，也就是半升。\"\n\n### 词根分析\n\n- **词根**: *litr-* (源自希腊语 *litra*，意为“重量单位”)  \n- **衍生单词**:  \n  - *millilitre* (毫升): 由 *litr-* + *milli-* (千分之一) + *-e* 构成。  \n  - *kilolitre* (千升): 由 *litr-* + *kilo-* (千) + *-e* 构成。  \n  - *centilitre* (厘升): 由 *litr-* + *centi-* (百分之一) + *-e* 构成。\n\n### 词缀分析\n- **后缀**: *-e*（无特殊含义，仅用于构成名词）  \n- **相同后缀的单词**:  \n  - metre (米)  \n  - litre (升)  \n  - gramme (克)  \n- **前缀**: *milli-*、*kilo-*、*centi-*（分别表示千分之一、千、百分之一），这些前缀常用于公制单位的衍生。例如：millimetre（毫米）、kilogramme（千克）、centimetre（厘米）。",
+  "draw_explain": "为了帮助记忆单词'litre'，选择了一个与公升直接相关的视觉线索——一个装满液体的透明玻璃瓶。这个图像不仅直观地展示了公升的容量，而且透明的瓶子可以让用户清晰地看到液体的量，从而更容易将图像与单词'litre'的含义联系起来。",
+  "draw_prompt": "A clear glass bottle filled with liquid, standing upright on a flat surface, with visible measurement markings in liters."
+}

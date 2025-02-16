@@ -1,0 +1,6 @@
+{
+  "word": "occupy",
+  "analysis": "### 分析词义\n\n**Occupy** 是一个动词，意思是“占据”、“占用”或“占领”。它可以指物理上的占据空间，也可以指时间上的占用，或者更抽象的含义，如占据某个职位或地位。\n\n### 列举例句\n\n1. **场景一：物理空间占用**\n   - **例句**: The students occupied the classroom to protest against the new policy.\n   - **中文翻译**: 学生们占据了教室，抗议新政策。\n\n2. **场景二：时间占用**\n   - **例句**: Reading books occupies most of my free time.\n   - **中文翻译**: 阅读书籍占用了我大部分的空闲时间。\n\n3. **场景三：职位或地位**\n   - **例句**: She occupies a senior position in the company.\n   - **中文翻译**: 她在公司担任高级职位。\n\n### 词根分析\n\n- **词根**: -cupy- (来自拉丁语 \"occupare\"，意为“抓住”或“占据”)\n- **衍生单词**: \n  - **Occupation** (名词): 职业，占领\n  - **Occupant** (名词): 居住者，占有人\n  - **Occupational** (形容词): 职业的，工作的\n\n### 词缀分析\n\n- **前缀**: 无特殊前缀\n- **后缀**: -y (表示动作或状态)\n- **相同后缀的单词**: \n  - **Busy** (忙碌的)\n  - **Fussy** (大惊小怪的)\n  - **Nasty** (讨厌的)\n\n### 发展历史和文化背景\n\n**Occupy** 源自拉丁语 \"occupare\"，意为“抓住”或“占据”。在英语中，这个词在中世纪英语中首次出现，并逐渐演变为现代英语中的 \"occupy\"。在20世纪后期，\"Occupy\" 这个词在全球范围内因为“占领华尔街”运动而再次引起广泛关注，成为抗议和表达不满的象征。\n\n### 单词变形\n\n- **动词原形**: Occupy (占据)\n- **过去式**: Occupied (占据过)\n- **过去分词**: Occupied (被占据的)",
+  "draw_explain": "通过展示一个城市被军队占领的场景，这个prompt能够直观地展示'occupy'的'占领'含义。同时，通过强调'占据空间'的概念，如一个人坐在椅子上，可以关联到'占有'的含义。这样的视觉线索简单直接，易于记忆。",
+  "draw_prompt": "A cityscape with soldiers occupying key buildings, and a person sitting in a chair, visually emphasizing the concept of space being taken up."
+}

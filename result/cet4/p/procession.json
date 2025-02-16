@@ -1,0 +1,6 @@
+{
+  "word": "procession",
+  "analysis": "### 分析词义\n\n\"Procession\" 是一个名词，指的是一群人按照一定的顺序或仪式行进，通常伴随着某种庆祝、纪念或宗教活动。这个词强调的是一种有序的、庄重的行进方式。\n\n### 列举例句\n\n1. **场景一：宗教仪式**\n   - The religious procession wound its way through the narrow streets of the old town.\n   - 宗教队伍蜿蜒穿过老城区狭窄的街道。\n\n2. **场景二：婚礼**\n   - The bride walked slowly in the wedding procession, surrounded by her bridesmaids.\n   - 新娘在婚礼队伍中缓缓行走，周围是她的伴娘们。\n\n3. **场景三：葬礼**\n   - The funeral procession moved solemnly towards the cemetery, with people carrying flowers.\n   - 葬礼队伍庄重地向墓地行进，人们手持鲜花。\n\n### 词根分析\n\n- **词根**: \"process-\" 源自拉丁语 \"processus\"，意为“前进、进展”。\n- **衍生词**: \n  - **process**: 过程、进程。\n  - **processionary**: 行进的、行列的。\n  - **processional**: 行进曲、进行曲。\n\n### 词缀分析\n\n- **后缀**: \"-ion\" 是一个名词后缀，表示行为、状态或结果。\n- **相同词缀的单词**: \n  - **collection**: 收集、收藏。\n  - **decision**: 决定、决策。\n  - **vision**: 视力、视野。\n\n### 发展历史和文化背景\n\n\"Procession\" 这个词起源于拉丁语 \"processio\"，最初用于描述军队或游行的行进。随着时间的推移，它被广泛应用于各种宗教和仪式活动中，尤其是在基督教文化中，游行是重要的宗教仪式之一，如复活节游行和圣周游行等。在西方文化中，游行也常用于庆祝节日或纪念重要事件。",
+  "draw_explain": "该prompt通过描绘一个由不同人物组成的队伍，强调了'procession'的核心含义——行列或队伍。使用'marching'和'uniforms'增强了视觉上的统一性和连续性，使得这个场景更容易与单词'procession'关联起来。同时，'colorful flags'增加了视觉吸引力，帮助记忆。",
+  "draw_prompt": "A marching line of people in uniforms, holding colorful flags, moving in a single file along a wide street."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "reverse",
+  "analysis": "### 分析词义\n\n**reverse** 是一个多义词，可以用作动词、名词和形容词。\n\n- **动词**：表示“反转”、“颠倒”或“撤销”。例如，将某物翻转过来，或者撤销某个决定。\n- **名词**：表示“反面”、“相反的情况”或“逆转”。例如，硬币的反面，或者情况突然发生逆转。\n- **形容词**：表示“相反的”或“反向的”。例如，与预期相反的方向或结果。\n\n### 列举例句\n\n1. **动词**：\n   - She decided to reverse her decision and stay in the company.  \n     *她决定撤销她的决定，留在公司里。*\n   \n2. **名词**：\n   - The reverse of the coin shows a different design.  \n     *硬币的反面展示了不同的设计。*\n   \n3. **形容词**：\n   - The reverse gear is used when the car needs to go backwards.  \n     *倒车档用于汽车需要后退时。*\n\n### 词根分析\n\n- **词根**: re- + vers-  \n  - **re-**: 表示“再次”或“返回”的意思。  \n  - **vers-**: 来自拉丁语 \"versus\"，意思是“转向”或“转动”。  \n  衍生单词:  \n  - **version**: 版本（转变成不同形式）  \n  - **verse**: 诗句（转向文字表达）  \n  - **adversary**: 对手（转向对立面）  \n  - **convert**: 转换（转向另一面）  \n  - **diverse**: 多样的（转向不同方向）  \n  - **invert**: 倒置（完全反转）  \n  - **universe**: 宇宙（所有事物转向一个整体）  \n    等等。",
+  "draw_explain": "通过展示一个翻转的物体，可以直观地帮助记忆'reverse'这个单词的含义。选择一个常见的物体，如椅子，通过将其倒置来展示'颠倒'的概念，这样不仅易于理解，还能在视觉上形成强烈的关联。",
+  "draw_prompt": "A chair placed upside down, with its legs pointing upwards, in a minimalist and clean environment."
+}

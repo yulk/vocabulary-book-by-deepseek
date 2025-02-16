@@ -1,0 +1,6 @@
+{
+  "word": "margin",
+  "analysis": "### 分析词义\n\n**Margin** 是一个名词，主要有两个常见的意思：\n\n1. **页边空白**：指书页或纸张边缘的空白区域，通常用于书写注释或标记。\n2. **余地；差额**：指在某个范围或限度内的额外空间，或者指两个数值之间的差额。\n\n### 列举例句\n\n1. **页边空白**：\n   - Please write your notes in the margin of the page.  \n     （请把笔记写在页边空白处。）\n   - The margin of this book is too narrow for annotations.  \n     （这本书的页边空白太窄，不适合做注释。）\n   - He drew a small picture in the margin of his notebook.  \n     （他在笔记本的页边空白处画了一幅小画。）\n\n2. **余地；差额**：\n   - The company operates on a very tight margin.  \n     （这家公司以极小的利润空间运营。）\n   - There is a margin of error in every scientific experiment.  \n     （每项科学实验都存在误差范围。）\n   - The margin between the winner and the second place was only two points.  \n     （第一名和第二名之间的差距只有两分。）\n\n### 词根分析\n\n- **词根**：margin 源自拉丁语 \"margo\"，意思是“边缘”或“边界”。这个词根与“边界”或“边缘”的概念紧密相关。\n- **衍生词**：marginal (形容词，表示“边缘的”或“微小的”)、marginalize (动词，表示“使边缘化”)、marginalia (名词，表示“页边注释”)。\n\n### 词缀分析\n\n- **后缀**：margin 本身没有明显的词缀结构，但它的形容词形式 marginal 使用了后缀 \"-al\"，表示与某事物相关的性质或状态。例如：cultural (文化的)、personal (个人的)。相同后缀的单词还包括：natural (自然的)、educational (教育的)等。",
+  "draw_explain": "通过展示一个打开的书本，页边的空白清晰可见，能够直观地帮助记忆'margin'这个单词的含义。书本的边缘和页边的空白是'margin'最直接的视觉表现，简洁且易于联想。",
+  "draw_prompt": "A close-up of an open book with a white page margin clearly visible, soft lighting, minimalist style."
+}

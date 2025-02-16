@@ -1,0 +1,6 @@
+{
+  "word": "aircraft",
+  "analysis": "### 分析词义\n\n**Aircraft** 是一个名词，指的是任何用于空中飞行的交通工具，包括飞机、直升机、滑翔机、热气球等。它是一个集合名词，通常用来泛指所有类型的飞行器。\n\n### 列举例句\n\n1. **例句**: The airport was filled with various types of aircraft, from small private planes to large commercial jets.  \n   **翻译**: 机场里停满了各种类型的飞行器，从小型私人飞机到大型商用喷气式飞机。\n\n2. **例句**: The pilot carefully inspected the aircraft before taking off.  \n   **翻译**: 飞行员在起飞前仔细检查了飞行器。\n\n3. **例句**: The military aircraft flew over the city, causing a loud noise.  \n   **翻译**: 军用飞机飞过城市，发出巨大的噪音。\n\n### 词根分析\n\n- **词根**: \"air\"（空气）和 \"craft\"（工艺、技能）。  \n- **衍生单词**:  \n  - airplane（飞机）  \n  - helicopter（直升机）  \n  - spacecraft（航天器）  \n  - aircraft carrier（航空母舰）  \n  - airship（飞艇）  \n  - glider（滑翔机）  \n  - drone（无人机）  \n  - jet（喷气式飞机）  \n  - balloon（气球）  \n  - seaplane（水上飞机）  \n  - ultralight aircraft（超轻型飞机）  \n  - biplane（双翼飞机）  \n  - monoplane（单翼飞机）  \n  - triplane（三翼飞机）  \n  - flying boat（飞船）  \n  - amphibious aircraft（水陆两用飞机）  ",
+  "draw_explain": "该prompt通过展示一架现代飞机的图像，能够直观地帮助记忆'aircraft'这个单词。飞机是'aircraft'最典型的代表，图像中的飞机清晰可见，易于与单词含义直接关联。",
+  "draw_prompt": "A sleek, modern airplane flying high in the sky, with a clear blue background and sunlight reflecting off its metallic surface."
+}

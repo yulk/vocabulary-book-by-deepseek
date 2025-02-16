@@ -1,0 +1,6 @@
+{
+  "word": "reduction",
+  "analysis": "### 分析词义\n\n**Reduction** 是一个名词，指的是减少、缩减或降低的过程或结果。它可以用于描述数量、尺寸、强度、成本等方面的减少。\n\n### 列举例句\n\n1. **场景：环保**  \n   - The government implemented a policy aimed at the reduction of carbon emissions.  \n     *政府实施了一项旨在减少碳排放的政策。*\n\n2. **场景：商业**  \n   - The company announced a significant reduction in staff due to financial difficulties.  \n     *由于财务困难，公司宣布大幅裁员。*\n\n3. **场景：化学**  \n   - In this reaction, the reduction of iron oxide produces pure iron.  \n     *在这个反应中，氧化铁的还原产生了纯铁。*\n\n### 词根分析\n\n- **词根：-duct-**  \n  -duct- 来自拉丁语，意为“引导”或“带领”。在 reduction 中，它表示“引导回来”或“带回”，即减少或还原。\n\n- **衍生单词：**  \n  - Conduct (引导)  \n  - Product (产品)  \n  - Introduce (介绍)  \n  - Induce (诱导)  \n\n### 词缀分析\n\n- **前缀：re-**  \n  re- 表示“再次”或“返回”，在 reduction 中表示“再次引导”或“返回”，即减少或还原。\n\n- **后缀：-ion**  \n  -ion 是名词后缀，表示动作、状态或结果。在 reduction 中，它表示减少的动作或结果。",
+  "draw_explain": "这个prompt通过展示一个逐渐变小的物体来直观地表达'reduction'的含义，即减少或缩减。视觉上，从大到小的变化非常直观，易于记忆。",
+  "draw_prompt": "A series of images showing a large object gradually becoming smaller, with a clear contrast between the initial size and the final reduced size, in a minimalist and clean style."
+}

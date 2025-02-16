@@ -1,0 +1,6 @@
+{
+  "word": "remark",
+  "analysis": "### 分析词义\n\n**Remark** 是一个多义词，既可以作为名词，也可以作为动词。\n\n- **名词**：指评论、评语或观察到的事物。例如：“他的发言引起了大家的注意。”\n- **动词**：指发表评论、说或注意到某事。例如：“她对展览的细节进行了评论。”\n\n### 列举例句\n\n1. **场景一：会议中的发言**  \n   - **例句**: \"During the meeting, John made a remark about the new project's timeline.\"  \n   - **中文翻译**: \"在会议上，约翰对新项目的进度发表了评论。\"\n   \n2. **场景二：课堂上的观察**  \n   - **例句**: \"The teacher remarked on the students' improved performance.\"  \n   - **中文翻译**: \"老师对学生们的进步表现进行了评论。\"\n   \n3. **场景三：社交场合的闲聊**  \n   - **例句**: \"She made a remark about the weather, starting a conversation.\"  \n   - **中文翻译**: \"她对天气发表了评论，从而开始了对话。\"\n   \n### 词根分析\n\n- **词根**: *mark* (源自拉丁语 *marcare*，意为“标记”或“做记号”)  \n- **衍生单词**: 例如 *market*（市场）, *marked*（有标记的）, *marker*（记号笔）等。这些单词都与“标记”或“标识”有关。  \n    - *market*: 市场，源于将商品“标记”出售的地方。  \n    - *marked*: 有标记的，表示某物被做了记号。  \n    - *marker*: 记号笔，用于做记号的工具。  \n    这些单词都与“标记”这一核心概念相关联。    \n    通过理解词根 *mark*，我们可以更好地理解与它相关的单词含义和用法。    ",
+  "draw_explain": "这个prompt通过展示一个人在会议中发表评论的场景，突出了'remark'的核心含义——评论或谈论。图像中的麦克风和演讲者强调了交流和表达观点的动作，使得'remark'的含义通过视觉线索变得直观易记。",
+  "draw_prompt": "A professional setting with a person standing at a podium, holding a microphone, and making a comment during a meeting. The scene is clean and modern, with subtle lighting emphasizing the speaker's gesture."
+}

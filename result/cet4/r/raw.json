@@ -1,0 +1,6 @@
+{
+  "word": "raw",
+  "analysis": "### 分析词义\n\n\"Raw\" 是一个形容词，主要用来描述未经处理或未加工的状态。它可以指食物未经烹饪的状态，也可以指数据、材料等未经处理或未准备好的状态。此外，\"raw\" 还可以用来形容某种情感或感觉是原始的、未经修饰的，或者指某人缺乏经验或技能。\n\n### 列举例句\n\n1. **场景：食物**\n   - \"I prefer my steak cooked medium, not raw.\"  \n     - 中文翻译：我更喜欢我的牛排中熟，而不是生的。\n   \n2. **场景：数据**\n   - \"The data we received is still raw and needs to be processed.\"  \n     - 中文翻译：我们收到的数据仍然是原始的，需要进行处理。\n   \n3. **场景：情感**\n   - \"She felt a raw sense of anger after hearing the news.\"  \n     - 中文翻译：听到这个消息后，她感到一种原始的愤怒。\n\n### 词根分析\n\n- **词根**: \"raw\" 本身是一个独立的单词，没有明显的词根。它可能源自中古英语的 \"rawe\"，进一步追溯到古英语的 \"hrēaw\"，意为“生的”或“未加工的”。\n  \n- **衍生单词**:  \n  - \"raw material\"（原材料）  \n  - \"raw data\"（原始数据）  \n  - \"raw deal\"（不公平的待遇）  \n  - \"raw talent\"（天赋）  \n  - \"raw power\"（原始力量）  \n  - \"raw emotion\"（原始情感）  \n  - \"raw silk\"（生丝）  \n  - \"raw hide\"（生皮）  \n  - \"raw recruit\"（新兵）  \n  - \"raw energy\"（原始能量）  \n  - \"raw fish\"（生鱼）  \n  - \"raw meat\"（生肉）  \n  - \"raw sugar\"（粗糖）  \n  - \"raw cotton\"（原棉）  \n  - \"raw wool\"（原毛）  \n  - \"raw milk\"（生牛奶）  ",
+  "draw_explain": "这个prompt通过展示一个未煮过的生肉和未加工的木材，直接关联到'raw'的定义，即'未煮过的;未加工的'。生肉和木材都是日常生活中常见的物品，易于识别和记忆，能够有效地帮助用户记住'raw'这个词的含义。",
+  "draw_prompt": "A close-up of a piece of uncooked meat with visible blood, next to a rough wooden log with bark intact, both in a natural setting."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "adequate",
+  "analysis": "### 分析词义\n\n\"Adequate\" 是一个形容词，意思是“足够的”或“适当的”。它通常用来描述某物或某事达到了最低要求或标准，但不一定超出这个标准。\n\n### 列举例句\n\n1. **场景1：工作表现**\n   - **例句**: \"Her performance was adequate for the job, but she could do better.\"\n   - **中文翻译**: \"她的工作表现对于这份工作来说是足够的，但她可以做得更好。\"\n\n2. **场景2：学校考试**\n   - **例句**: \"He passed the exam with an adequate score.\"\n   - **中文翻译**: \"他以足够的分数通过了考试。\"\n\n3. **场景3：资源分配**\n   - **例句**: \"The company provided adequate resources for the project.\"\n   - **中文翻译**: \"公司为该项目提供了足够的资源。\"\n\n### 词根分析\n\n- **词根**: \"adequ-\" 源自拉丁语 \"ad-\"（表示“到”）和 \"aequus\"（表示“平等”或“相等”）。合起来表示“达到平等”或“达到标准”。\n- **衍生单词**: \n  - **adequacy** (名词): 足够，适当性。\n  - **inadequate** (形容词): 不足的，不适当的。\n  - **inadequacy** (名词): 不足，不适当性。\n\n### 词缀分析\n\n- **后缀**: \"-ate\" 是一个常见的形容词后缀，表示具有某种性质或状态。例如：accurate（准确的），fortunate（幸运的）。\n- **相同后缀的单词**: \n  - accurate: 准确的。\n  - fortunate: 幸运的。\n  - passionate: 热情的。\n\n### 发展历史和文化背景\n\n\"Adequate\" 源自拉丁语 \"adequatus\"，最初用于法律和宗教文本中，表示“相等的”或“相当的”。随着时间的推移，这个词逐渐被广泛应用于日常语言中，用来描述满足基本要求的状态。在现代英语中，它常用于描述某种程度上的满足感或达标状态，但并不强调卓越或超出预期。",
+  "draw_explain": "选择一个装满水的杯子作为视觉线索，因为'adequate'的意思是'足够的'，而一个装满水的杯子正好传达了'足够'的概念。杯子的状态是满的，意味着水量是充足的，这与单词的含义直接相关。简洁的图像风格和明确的场景有助于记忆。",
+  "draw_prompt": "A full glass of water on a simple, clean table, with a serene and minimalist style."
+}

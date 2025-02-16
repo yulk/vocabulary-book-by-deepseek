@@ -1,0 +1,6 @@
+{
+  "word": "figure",
+  "analysis": "### 分析词义\n\n**figure** 是一个多义词，主要含义包括：\n\n1. **名词**：\n   - **数字**：如“1, 2, 3”等。\n   - **人物**：指在某个领域或社会中有影响力的人。\n   - **体形**：指人的身体轮廓或形状。\n   - **图形**：如几何图形、图表等。\n\n2. **动词**：\n   - **计算**：进行数学运算。\n   - **认为，推测**：在心中形成某种看法或判断。\n   - **出现，扮演角色**：在某个场合或事件中出现或扮演某种角色。\n\n### 列举例句\n\n1. **名词用法**：\n   - **数字**：The figure for the year's profit is quite impressive. (今年的利润数字相当可观。)\n   - **人物**：She is a prominent figure in the fashion industry. (她是时尚界的重要人物。)\n   - **体形**：He has an athletic figure. (他有着运动员的体形。)\n   - **图形**：The teacher drew a triangle on the board as a figure. (老师在黑板上画了一个三角形作为图形。)\n\n2. **动词用法**：\n   - **计算**：I need to figure out how much money we have left. (我需要计算一下我们还剩下多少钱。)\n   - **认为，推测**：I figured you would come to the party. (我猜你会来参加派对。)\n   - **出现，扮演角色**：He figured prominently in the negotiations. (他在谈判中扮演了重要角色。)\n\n### 词根分析\n\n- **词根**: fig, fict (表示“形成，塑造”)\n- **衍生单词**: \n  - fiction (小说)\n  - configuration (配置)\n  - figment (虚构的事物)\n  - counterfeit (伪造的)",
+  "draw_explain": "选择'人物'这个定义，因为它是'figure'最直观和易于视觉化的含义。通过描绘一个著名历史人物的剪影，可以立即让人联想到'figure'作为'人物'的意思。剪影的形式简洁且具有辨识度，有助于快速记忆。",
+  "draw_prompt": "A minimalist silhouette of a famous historical figure, standing with arms crossed, in a classic black-and-white style."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "pit",
+  "analysis": "### 分析词义\n\n**pit** 是一个英语名词，通常有以下几种含义：\n1. **坑**：指地面上凹陷的洞或坑，通常是自然形成的或人为挖掘的。\n2. **矿井**：特指地下开采矿物的深坑。\n3. **果核**：指某些水果（如樱桃、李子）中的硬核。\n4. **对手、竞争者**：在特定语境中，指某人的对手或竞争者。\n\n### 列举例句\n\n1. **场景一：自然环境**  \n   - The workers dug a pit to plant the tree.  \n     （工人们挖了一个坑来种树。）  \n2. **场景二：工业用途**  \n   - Coal is extracted from the pit every day.  \n     （每天从矿井中开采煤炭。）  \n3. **场景三：食物相关**  \n   - She removed the pit from the cherry before eating it.  \n     （她在吃樱桃前把果核去掉了。）  \n4. **场景四：竞争关系**  \n   - The boxer trained hard to defeat his pit.  \n     （拳击手刻苦训练以击败他的对手。）\n\n### 词根分析\n\n- **词根**：pit 本身是一个独立的词根，源自原始日耳曼语 *pitu*，意为“深坑”或“洞”。它的形式在多种语言中都有出现，例如拉丁语 *puteus*（井）和古英语 *pytt*（坑）。\n- **衍生词**：  \n   1. **pitfall** (n.) - 陷阱；意外的困难。  \n   2. **pittance** (n.) - 微薄的薪水或施舍。  \n   3. **pitchfork** (n.) - 干草叉；动词意为“用叉子叉起”。  \n   4. **impitiable** (adj.) - 不可安慰的；无法平息的。（源自拉丁语 *im-* + *pitiāre*）。  \n   5. **pity** (n./v.) - 同情；怜悯。（源自拉丁语 *pietās*）。  \n   6. **depitied** (adj.) - 被挖空的；被掏空的。（源自拉丁语 *de-* + *pitus*）。",
+  "draw_explain": "这个prompt通过描绘一个深邃的、黑暗的煤矿场景，能够直观地帮助记忆'pit'这个单词的含义。煤矿作为一个典型的'pit'的例子，其独特的黑暗和深度特征易于与单词的含义相关联。",
+  "draw_prompt": "A deep, dark coal mine with a narrow entrance, surrounded by rocky terrain, illuminated by faint light from above, creating a dramatic and mysterious atmosphere."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "inform",
+  "analysis": "### 分析词义\n\"Inform\" 是一个动词，意思是向某人提供信息或通知某人。它通常用于描述将新知识、事实或消息传达给他人。\n\n### 列举例句\n1. **场景一：工作环境**\n   - **例句**: \"Please inform the team about the meeting time.\"\n   - **中文翻译**: \"请通知团队会议时间。\"\n   \n2. **场景二：学校**\n   - **例句**: \"The teacher informed the students about the upcoming exam.\"\n   - **中文翻译**: \"老师通知学生即将到来的考试。\"\n   \n3. **场景三：日常生活**\n   - **例句**: \"Can you inform me when the bus arrives?\"\n   - **中文翻译**: \"你能告诉我公交车什么时候到吗？\"\n\n### 词根分析\n- **词根**: form (形式)\n- **衍生单词**: \n  - formation (名词，形成)\n  - reform (动词，改革)\n  - perform (动词，执行)\n  - uniform (形容词，统一的)\n\n### 词缀分析\n- **前缀**: in- (表示“进入”或“在...里面”)\n- **后缀**: -m (连接音) + -ed (过去式或被动语态) / -ing (进行时态或名词化) / -er (表示人或物) / -ation (名词化) / -ative (形容词化) / -al (形容词化) / -ance/ence (名词化) / -ant/ent (形容词化或名词化) / -ible/able (形容词化或名词化) / -ment (名词化)/-ure(名词化)/-ness(名词化)/-ship(名词化)/-th(名词化)/-hood(名词化)/-dom(名词化)/-ism(名词化)/-ist(名词化)/-ity/ty/ty(名词化)/-ive/-ive/-ive/-ive/-ive/-ive/-ive/-ive/-ive/-ive/-ive/-ive/-ive/-ive/-ive/-ive/-ive/-ive/-ive/-ive/-ive/-ive/-iv",
+  "draw_explain": "通过使用一个带有公告板和信使的场景，可以直观地展示'inform'这个单词的含义，即通知或报告信息。公告板象征着信息的传递和公告，而信使则代表信息的传递者，两者结合在一起能够清晰地表达'inform'的含义。",
+  "draw_prompt": "A messenger holding a scroll, standing in front of a bulletin board with announcements posted, in a modern urban setting with clean lines and bright colors."
+}

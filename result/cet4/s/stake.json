@@ -1,0 +1,6 @@
+{
+  "word": "stake",
+  "analysis": "### 分析词义\n\n**Stake** 是一个多义词，主要有以下几种含义：\n\n1. **名词**：\n   - **桩；柱子**：通常指用来固定或支撑的木桩或金属桩。\n   - **赌注；股份**：在赌博或投资中投入的钱或资源。\n   - **利害关系；利益**：指某人或某事所涉及的利益或重要性。\n\n2. **动词**：\n   - **用桩支撑；用桩固定**：将某物用桩固定在地面上。\n   - **下注；投资**：在赌博或投资中投入资金。\n\n### 列举例句\n\n1. **名词用法**：\n   - **桩；柱子**：\n     - The farmer drove a stake into the ground to support the tomato plants.  \n       *农夫在地上打了一根桩来支撑番茄植株。*\n   - **赌注；股份**：\n     - He placed a high stake on the horse race, hoping to win big.  \n       *他在赛马上下了大赌注，希望能赢一大笔钱。*\n   - **利害关系；利益**：\n     - The company has a significant stake in the success of this project.  \n       *公司在该项目的成功中有着重大的利益关系。*\n\n2. **动词用法**：\n   - **用桩支撑；用桩固定**：\n     - They staked the tent poles before setting up the camp.  \n       *他们在扎营前用桩固定了帐篷杆。*\n   - **下注；投资**：\n     - She staked all her savings on the new business venture.  \n       *她把所有的积蓄都投资在了新的商业冒险上。*",
+  "draw_explain": "选择'桩'作为视觉线索，因为它是一个具体的物体，易于想象并与单词'stake'直接相关。通过描绘一个木桩插入地面的场景，结合简洁的描述和图片风格，可以帮助记忆单词的含义。",
+  "draw_prompt": "A wooden stake driven into the ground, surrounded by a grassy field, with a rustic, weathered texture and a simple, naturalistic style."
+}

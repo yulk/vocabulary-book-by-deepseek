@@ -1,0 +1,6 @@
+{
+  "word": "appeal",
+  "analysis": "### 分析词义\n\n**Appeal** 是一个多义词，主要用作名词和动词。\n\n- **名词**：\n  - 吸引力，魅力：某物或某人对他人产生的吸引力。\n  - 上诉：法律程序中对判决提出异议的行为。\n  \n- **动词**：\n  - 吸引，引起兴趣：某物或某人引起他人的兴趣或好感。\n  - 上诉，请求：向更高权威或公众提出请求或申诉。\n\n### 列举例句\n\n1. **场景一：吸引力**\n   - The movie has a strong appeal to young audiences.  \n     *这部电影对年轻观众有很强的吸引力。*  \n   \n2. **场景二：上诉**  \n   - The defendant decided to appeal the court's decision.  \n     *被告决定对法庭的判决提出上诉。*  \n   \n3. **场景三：请求**  \n   - She appealed to the public for donations to help the victims of the disaster.  \n     *她向公众呼吁捐款以帮助灾难的受害者。*  \n   \n4. **场景四：引起兴趣**  \n   - His new project appeals to those who are interested in environmental issues.  \n     *他的新项目吸引了那些对环境问题感兴趣的人。*  \n   \n5. **场景五：魅力**  \n   - The city's cultural heritage adds to its appeal as a tourist destination.  \n     *这座城市的文化遗产增加了它作为旅游目的地的魅力。*  \n   \n6. **场景六：法律程序中的上诉**  \n   - The lawyer filed an appeal against the verdict within the allowed time frame.  \n     *律师在规定的时间内对判决提出了上诉。*",
+  "draw_explain": "通过展示一个法庭场景，其中一个人正在向法官提出申诉，可以直观地帮助记忆'appeal'这个词的含义。法庭和法官的形象与'appeal'的法律含义紧密相关，而申诉的动作则直接关联到该词的动词用法。这种视觉线索简洁且易于理解，能够有效地帮助记忆。",
+  "draw_prompt": "A courtroom scene with a person standing before a judge, making an earnest plea for justice, emphasizing the legal context and the act of appealing."
+}

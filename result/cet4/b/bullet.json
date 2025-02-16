@@ -1,0 +1,6 @@
+{
+  "word": "bullet",
+  "analysis": "### 分析词义\n\n**Bullet** 是一个名词，主要指“子弹”或“弹丸”，通常用于描述枪支发射的小金属物体。此外，它还可以指“要点”或“项目符号”，用于列表或演示文稿中。\n\n### 列举例句\n\n1. **场景一：军事**\n   - The soldier loaded a bullet into the chamber of his rifle.\n   - 士兵将一颗子弹装进了他的步枪弹膛。\n\n2. **场景二：写作**\n   - The presentation was organized with clear bullets for each main point.\n   - 演示文稿用清晰的要点组织了每个主要观点。\n\n3. **场景三：体育**\n   - In the shooting competition, the athlete hit the bull's-eye with a perfect bullet.\n   - 在射击比赛中，运动员用一颗完美的子弹击中了靶心。\n\n### 词根分析\n\n- **词根**: *bull* (源自拉丁语 *bullire*，意为“沸腾”或“喷射”)。这个词根与“喷射”或“快速移动”的概念有关。\n- **衍生词**: \n  - **Bulletin**: 公告，公报（源自“bullet”的快速传播概念）。\n  - **Bulletproof**: 防弹的（由“bullet”和“proof”组合而成）。\n\n### 词缀分析\n\n- **词缀**: *bullet* 本身没有明显的词缀结构，它是一个独立的词汇。然而，它可以通过与其他词缀或单词结合形成新的词汇，如上文提到的 *bulletproof*。\n- **相同词缀的单词**: *proof*（证明、防…的）可以与多个名词结合，如 *waterproof*（防水的）、*fireproof*（防火的）等。\n\n### 发展历史和文化背景\n\n**Bullet** 这个词最早出现在16世纪的英语中，源自法语 *boulette*（小球）和拉丁语 *bulleta*（小球）。随着火器的普及，这个词逐渐专指枪械使用的弹药。在现代文化中，子弹常与暴力、战争和犯罪联系在一起，但在体育和安全领域也有积极的使用场景，如射击运动和防弹材料。\n ### 单词变形  ",
+  "draw_explain": "通过展示一个子弹的图像，可以直观地帮助记忆单词'bullet'的含义。子弹的形状和金属质感是独特的视觉特征，能够清晰地与枪弹、子弹的概念相关联。",
+  "draw_prompt": "A close-up image of a metallic bullet, shiny and cylindrical with a pointed tip, lying on a rough wooden surface."
+}

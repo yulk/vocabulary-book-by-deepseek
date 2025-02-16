@@ -1,0 +1,6 @@
+{
+  "word": "bar",
+  "analysis": "### 分析词义\n\n**Bar** 是一个多义词，主要有以下几种意思：\n\n1. **名词**：\n   - **酒吧**：指提供饮料和食物的场所，通常有酒类供应。\n   - **条状物**：如金属条、木条等。\n   - **障碍物**：如栅栏、障碍等。\n   - **法律界**：指律师行业或法庭。\n\n2. **动词**：\n   - **阻挡**：阻止某人或某物通过。\n   - **闩上**：用闩子固定门或窗。\n\n### 列举例句\n\n1. **酒吧场景**: \n   - \"Let's meet at the bar for a drink.\" \n     - 中文翻译: \"我们到酒吧喝一杯吧。\"\n   \n2. **条状物**: \n   - \"He used a metal bar to pry open the door.\" \n     - 中文翻译: \"他用一根金属条撬开了门。\"\n   \n3. **障碍物**: \n   - \"The police set up a bar to block the road.\" \n     - 中文翻译: \"警察设置了路障来封锁道路。\"\n   \n4. **法律界**: \n   - \"She is a lawyer who has been practicing at the bar for ten years.\" \n     - 中文翻译: \"她是一名执业十年的律师。\"\n   \n5. **阻挡**: \n   - \"The storm barred our way to the mountain.\" \n     - 中文翻译: \"暴风雨阻挡了我们去山的道路。\"",
+  "draw_explain": "选择'bar'作为酒吧间的定义，因为酒吧是一个非常具体且容易视觉化的场景。通过描述一个典型的酒吧环境，包括吧台、酒瓶和酒杯，可以有效地帮助记忆这个单词。",
+  "draw_prompt": "a dimly lit bar with a long wooden counter, bottles of various liquors neatly arranged on shelves behind the counter, and a few glasses resting on the counter top"
+}

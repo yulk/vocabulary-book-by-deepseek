@@ -1,0 +1,6 @@
+{
+  "word": "trace",
+  "analysis": "### 分析词义\n\n\"Trace\" 是一个多义词，主要含义包括：\n1. **名词**：痕迹、踪迹、微量。例如，在犯罪现场发现的指纹就是一种“trace”。\n2. **动词**：追踪、追溯、描绘轮廓。例如，侦探可以通过“trace”嫌疑人的行踪来破案。\n\n### 列举例句\n\n1. **场景一：犯罪调查**\n   - **例句**: The detective managed to trace the suspect's movements using CCTV footage.\n   - **中文翻译**: 侦探通过监控录像成功追踪了嫌疑人的行踪。\n   \n2. **场景二：科学研究**\n   - **例句**: Scientists found traces of ancient DNA in the fossil.\n   - **中文翻译**: 科学家在化石中发现了古代DNA的痕迹。\n   \n3. **场景三：艺术创作**\n   - **例句**: She traced the outline of the tree before painting it.\n   - **中文翻译**: 她在画画前先描绘了树的轮廓。\n\n### 词根分析\n\n- **词根**: \"trace\" 源自拉丁语 \"tractus\"，意为“拉、拖、画”。这个动作可以理解为“拉出一条线”或“画出轮廓”。\n- **衍生单词**: \n  - **traceless**: 无痕迹的（形容词）。例如，“traceless crime”（无痕迹的犯罪）。\n  - **tracer**: 示踪剂（名词）。例如，在医学中用于追踪血液流动的物质。\n  - **traceable**: 可追踪的（形容词）。例如，“traceable evidence”（可追踪的证据）。\n\n### 词缀分析\n\n- \"trace\" 本身是一个基础词汇，没有明显的词缀结构，但可以与其他词缀结合形成新词：\n  - **前缀**: \"un-\" + \"traceable\" = \"untraceable\"（不可追踪的）。例如，“untraceable email”（不可追踪的电子邮件）。\n  - **后缀**: \"-less\" + \"trace\" = \"traceless\"（无痕迹的）。例如，“traceless footsteps”（无痕迹的脚步）。",
+  "draw_explain": "这个prompt通过展示一个脚印的图像来帮助记忆'trace'这个词，因为脚印是痕迹的典型例子，能够直观地与'trace'的含义相关联。同时，使用黑白和模糊效果增加了图像的艺术性和记忆点。",
+  "draw_prompt": "A black-and-white, slightly blurred image of a single footprint in the sand, surrounded by a soft, faded background."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "fluid",
+  "analysis": "### 分析词义\n\n**Fluid** 是一个形容词，意思是“流动的”或“不固定的”，也可以作为名词，表示“液体”或“流体”。形容词形式描述的是某种状态或性质，而名词形式则指代具体的物质。\n\n### 列举例句\n\n1. **As a consultant, my schedule is fluid and can change at any moment.**  \n   *作为顾问，我的日程安排是灵活的，随时可能改变。*\n\n2. **The doctor recommended drinking plenty of fluids to stay hydrated.**  \n   *医生建议多喝水以保持水分。*\n\n3. **The artist used fluid brushstrokes to create the impression of movement in the painting.**  \n   *艺术家用流畅的笔触在画中创造出动感。*\n\n### 词根分析\n\n- **词根**: *flu-*  \n  - 来自拉丁语 *fluere*，意思是“流动”。  \n- **衍生单词**:  \n  - **fluent** (流利的)  \n  - **influence** (影响)  \n  - **flush** (冲洗)  \n  - **fluid** (流体)  \n  - **overflow** (溢出)  \n  - **fluctuate** (波动)  \n  - **affluent** (富裕的)  \n  - **flux** (流动)  \n    等。这些单词都与“流动”的概念相关。    ",
+  "draw_explain": "通过展示一个装满流动液体的透明玻璃杯，可以直观地理解'fluid'的含义。液体在杯中流动的动态画面与单词的定义紧密相关，有助于记忆。",
+  "draw_prompt": "A clear glass filled with flowing liquid, capturing the dynamic motion of the fluid inside, with a smooth and glossy texture."
+}

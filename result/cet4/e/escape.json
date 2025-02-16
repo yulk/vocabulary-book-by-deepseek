@@ -1,0 +1,6 @@
+{
+  "word": "escape",
+  "analysis": "### 分析词义\n\n**Escape** 是一个多义词，主要用作动词，也可以用作名词。作为动词时，它的基本含义是“逃跑”或“逃脱”，通常指从某种限制、危险或不愉快的环境中脱离出来。作为名词时，它指的是“逃跑的行为”或“逃脱的结果”。\n\n### 列举例句\n\n1. **场景一：从监狱中逃脱**\n   - The prisoner managed to escape from the high-security prison last night.\n   - 昨晚，囚犯成功从高度戒备的监狱中逃脱。\n\n2. **场景二：逃避现实**\n   - She often escapes into a book to forget her troubles.\n   - 她常常通过看书来逃避现实中的烦恼。\n\n3. **场景三：气体泄漏**\n   - The gas began to escape from the broken pipe.\n   - 气体开始从破裂的管道中泄漏出来。\n\n### 词根分析\n\n- **词根**: *scape*（源自拉丁语 *ex* + *capere*，意为“抓住”或“持有”）\n- **衍生词**: \n  - **landscape**（风景）: land（土地）+ scape（景象）→ 土地的景象。\n  - **seascape**（海景）: sea（海）+ scape（景象）→ 海的景象。\n  - **moonscape**（月景）: moon（月亮）+ scape（景象）→ 月亮的景象。\n\n### 词缀分析\n\n- **前缀**: *es-* (来自拉丁语前缀 *ex-*，表示“出去”或“离开”)\n- **后缀**: *-(e)scape* (表示“逃离”或“脱离”)\n- **相同词缀的单词**: \n  - **escape**（逃跑）: es- + cape → 逃离抓住。\n  - **escapees**（逃亡者）: escape + -ees (表示人) → 逃亡的人。\n  - **escapism**（逃避主义）: escape + -ism (表示行为或思想) → 逃避主义。",
+  "draw_explain": "通过描绘一个囚犯从监狱中逃跑的场景，使用铁栏杆和逃跑的背影，能够直观地与'escape'的逃跑含义相关联。简洁的图像风格和明确的视觉线索有助于记忆单词的含义。",
+  "draw_prompt": "A silhouette of a prisoner climbing over prison bars, escaping into the night, with a full moon in the background, in a minimalist black and white style."
+}

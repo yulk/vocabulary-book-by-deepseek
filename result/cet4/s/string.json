@@ -1,0 +1,6 @@
+{
+  "word": "string",
+  "analysis": "### 分析词义\n\n\"String\" 是一个多义词，主要有以下几种意思：\n1. **名词**：指一串连续的线、绳子或细线，通常用于捆绑、悬挂或连接物品。\n2. **名词**：在音乐中，指弦乐器上的弦。\n3. **名词**：在计算机科学中，指一串字符或文本。\n4. **动词**：表示用线、绳子等将物品连接或串起来。\n\n### 列举例句\n\n1. **名词 - 绳子**  \n   - She tied her shoes with a piece of string.  \n     （她用一根细绳系鞋带。）  \n2. **名词 - 弦乐器**  \n   - The guitar has six strings.  \n     （这把吉他有六根弦。）  \n3. **动词 - 串联**  \n   - He strung the lights around the Christmas tree.  \n     （他把灯串挂在了圣诞树上。）  \n4. **计算机科学**  \n   - The program outputs a string of text.  \n     （程序输出了一段文本。）  \n5. **固定搭配**  \n   - \"String along\" (欺骗或愚弄某人)：He's just stringing you along; don't believe him!  \n     （他只是在愚弄你，别相信他！）  \n6. **固定搭配**  \n   - \"String out\" (延长或拖长)：The meeting was strung out for hours.  \n     （会议被拖长了好几个小时。）  \n7. **固定搭配**  \n   - \"String up\" (悬挂或吊起)：They strung up the banner across the street.  \n     （他们把横幅挂在了街道上方。）",
+  "draw_explain": "通过展示一串珠子或项链的图像，可以直观地帮助记忆'string'这个单词的两个主要含义：线状物和一串。珠子或项链的线性排列和串联特性与单词的定义紧密相关，使得记忆更加直观和有效。",
+  "draw_prompt": "A close-up image of a colorful beaded necklace, with beads of various shapes and sizes strung together in a linear fashion, against a plain background."
+}

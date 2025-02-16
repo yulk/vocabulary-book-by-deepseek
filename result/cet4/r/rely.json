@@ -1,0 +1,6 @@
+{
+  "word": "rely",
+  "analysis": "### 分析词义\n\n\"Rely\" 是一个动词，意思是“依赖”或“依靠”。它表示依赖某人或某物来获得支持、帮助或保证。\n\n### 列举例句\n\n1. **场景一：日常生活**\n   - **例句**: I rely on my alarm clock to wake me up every morning.\n   - **中文翻译**: 我每天早上都依赖闹钟叫醒我。\n\n2. **场景二：工作环境**\n   - **例句**: My team relies on me to complete the project on time.\n   - **中文翻译**: 我的团队依赖我按时完成项目。\n\n3. **场景三：情感关系**\n   - **例句**: She relies on her friends for emotional support.\n   - **中文翻译**: 她依赖朋友们的情感支持。\n\n### 词根分析\n\n- **词根**: \"ly\" 是一个常见的后缀，表示“捆绑”或“连接”。在 \"rely\" 中，\"ly\" 被用作词根的一部分，帮助构成这个动词。\n- **衍生单词**: \"rely\" 可以衍生出 \"reliable\"（可靠的）和 \"reliance\"（依赖）等单词。\n\n### 词缀分析\n\n- **前缀**: \"re-\" 是一个常见的前缀，表示“再次”或“返回”。在 \"rely\" 中，\"re-\" 没有明显的否定或加强意义，而是表示一种重复的动作或状态。\n- **后缀**: \"-ly\" 是一个常见的后缀，通常用于构成副词（如 \"quickly\"），但在 \"rely\" 中，它作为词根的一部分存在。\n- **相同词缀的单词**: \"rely\"、\"reply\"（回复）、\"relyable\"（可依赖的）等。\n\n### 发展历史和文化背景\n\n- **造词来源**: \"Rely\" 源自中古英语的 \"relien\"，进一步追溯到古法语的 \"relier\"，意思是“重新连接”或“重新捆绑”。这个词在英语中的使用可以追溯到14世纪。\n- **文化内涵**: \"Rely\" 在欧美文化中强调信任和依赖关系的重要性，尤其是在个人关系和职业环境中。它也常用于表达对某种系统或机制的信任，如金融系统或法律制度。",
+  "draw_explain": "这个prompt通过展示一个登山者依靠登山杖的场景，直观地表达了'依赖'和'依靠'的含义。登山杖作为可靠的工具，象征着信赖和依赖，与单词'rely'的定义紧密相关。简洁的场景和明亮的色彩有助于记忆。",
+  "draw_prompt": "A climber in bright mountain gear, relying on a sturdy hiking pole for support, against a clear blue sky."
+}

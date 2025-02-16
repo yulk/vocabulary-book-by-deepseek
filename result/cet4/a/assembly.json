@@ -1,0 +1,6 @@
+{
+  "word": "assembly",
+  "analysis": "### 分析词义\n\n**Assembly** 是一个名词，主要有两个常见的意思：\n1. **集会**：指一群人聚集在一起，通常是为了某种目的，比如开会、讨论或庆祝。\n2. **装配**：指将零件或组件组合在一起，形成一个完整的物体，通常用于制造业或工程领域。\n\n### 列举例句\n\n1. **集会场景**：\n   - The students held an assembly to discuss the upcoming school event.  \n     *学生们举行了一次集会，讨论即将到来的学校活动。*\n   \n2. **装配场景**：\n   - The assembly of the car took place in the factory.  \n     *汽车的装配在工厂里进行。*\n   \n3. **宗教集会场景**：\n   - The church holds a weekly assembly to pray for the community.  \n     *教堂每周举行一次集会，为社区祈祷。*\n\n### 词根分析\n\n- **词根**：-sembl- (来自拉丁语“similis”，意思是“相似的”)。  \n- **衍生词**：  \n  - resemble (动词，“相似”)  \n  - resemble (动词，“像”)  \n  - similar (形容词，“相似的”)  \n  - resemblance (名词，“相似之处”)  \n  - assemble (动词，“集合”或“装配”)  \n  - dissemble (动词，“掩饰”或“假装”)  \n  - semblance (名词，“外表”或“相似”)  \n  - assemble (动词，“集合”或“装配”)  \n  - assembly (名词，“集会”或“装配”)  \n  - disassembly (名词，“拆卸”)  \n  - reassemble (动词，“重新组装”)  \n  - assemblage (名词，艺术作品中的“拼贴画”或集合体)。  ",
+  "draw_explain": "为了帮助记忆'assembly'这个单词，选择了一个集合或集会的场景，因为这些场景直观地展示了多个个体或元素的聚集。通过描绘一个大型集会或装配线的图像，可以清晰地将单词的含义与视觉线索联系起来。",
+  "draw_prompt": "A large crowd of people gathered in a public square, all facing a central stage, with banners and flags waving in the background. The scene is colorful and dynamic, capturing the essence of a collective gathering."
+}

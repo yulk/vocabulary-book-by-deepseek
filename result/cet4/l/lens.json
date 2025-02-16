@@ -1,0 +1,6 @@
+{
+  "word": "lens",
+  "analysis": "### 分析词义\n\n**Lens** 是一个名词，指的是一种透明的光学器件，通常是弯曲的，用于聚焦或分散光线。最常见的应用是在眼镜、相机和望远镜中。\n\n### 列举例句\n\n1. **场景：相机**  \n   - The photographer adjusted the **lens** to get a clearer shot of the landscape.  \n   - 摄影师调整了镜头以获得更清晰的风景照片。\n\n2. **场景：眼镜**  \n   - My new glasses have a progressive **lens**, which helps me see both near and far.  \n   - 我的新眼镜有一个渐进镜片，这让我既能看近也能看远。\n\n3. **场景：显微镜**  \n   - The scientist carefully placed the specimen under the microscope's **lens**.  \n   - 科学家小心地将标本放在显微镜的镜头下。\n\n### 词根分析\n\n- **词根：lens-**  \n  \"Lens\" 源自拉丁语 \"lens\"，意思是“扁豆”，因为早期的透镜形状类似于扁豆。\n\n- **衍生词：**  \n  - **Lentil** (n.)：扁豆，源自相同的拉丁词根。  \n  - **Lenticular** (adj.)：透镜状的，指形状像透镜的物体。\n\n### 词缀分析\n\n- **无明显词缀：**  \n  \"Lens\" 本身是一个独立的单词，没有明显的前缀或后缀。它直接来源于拉丁语。\n\n### 发展历史和文化背景\n\n- **造词来源：**  \n  \"Lens\" 这个词最早出现在拉丁语中，用来描述一种扁豆植物。后来，由于透镜的形状与扁豆相似，这个词被借用到光学领域。在13世纪时，\"lens\" 首次被用来描述光学器件。\n\n- **文化背景：**  \n  透镜在历史上对科学和艺术的发展起到了重要作用。伽利略使用望远镜的透镜发现了木星的卫星，而相机的发明则彻底改变了摄影艺术。透镜的应用不仅限于视觉领域，还扩展到了医疗（如内窥镜）和科技（如激光聚焦）等领域。",
+  "draw_explain": "通过展示一个透镜的图像，可以直观地帮助记忆单词'lens'。透镜是光学设备中的关键部分，其形状和功能都非常独特，容易与单词'lens'联系起来。选择一个清晰的、现代风格的透镜图像，可以增强记忆效果。",
+  "draw_prompt": "A clear, modern-style image of a lens, showing its curved surface and the light refracting through it."
+}

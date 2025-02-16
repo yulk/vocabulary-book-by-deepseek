@@ -1,0 +1,6 @@
+{
+  "word": "exhibition",
+  "analysis": "### 分析词义\n\n**exhibition** 是一个名词，意思是“展览”或“展示”。它通常指艺术、文化、科学或其他领域的公开展示活动，供人们参观和欣赏。\n\n### 列举例句\n\n1. **例句**: The museum is hosting a special exhibition on ancient Egypt.  \n   **翻译**: 博物馆正在举办一个关于古埃及的特别展览。\n\n2. **例句**: She won first prize in the science exhibition for her innovative project.  \n   **翻译**: 她在科学展览中凭借创新项目获得了第一名。\n\n3. **例句**: The artist's latest exhibition has received rave reviews from critics.  \n   **翻译**: 这位艺术家的最新展览获得了评论家的一致好评。\n\n### 词根分析\n\n- **词根**: -hibit- (来自拉丁语，意为“持有”或“保持”)  \n- **衍生词**: inhibit (阻止), prohibit (禁止), prohibit (禁止), exhibit (展示)  \n\n### 词缀分析\n\n- **前缀**: ex- (表示“向外”或“出来”)  \n- **后缀**: -ion (表示名词形式)  \n- **相同词缀的单词**: extraction (提取), expansion (扩展), expression (表达)  \n\n### 发展历史和文化背景\n\n**exhibition** 这个词源自拉丁语的“exhibitio”，最初用于描述将物品展示给公众的行为。在艺术和文化领域，展览是展示作品和交流思想的重要方式。在欧美文化中，博物馆和画廊经常举办各种主题的展览，吸引大量观众。此外，展览也常用于教育和推广目的，如科学展览、历史展览等。",
+  "draw_explain": "展览会是一个集中展示艺术品、文物或其他物品的场所，通常会有明确的标识和布局。通过描述一个充满艺术作品的明亮展厅，以及参观者欣赏展品的场景，可以直观地联想到'exhibition'这个单词的含义。",
+  "draw_prompt": "A brightly lit art gallery with a variety of paintings and sculptures on display, visitors walking around and admiring the exhibits."
+}

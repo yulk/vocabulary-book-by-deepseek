@@ -1,0 +1,6 @@
+{
+  "word": "destroy",
+  "analysis": "### 分析词义\n\"Destroy\" 是一个动词，意思是“摧毁”、“破坏”或“消灭”。它通常用于描述彻底的、不可逆的破坏或毁灭行为。\n\n### 列举例句\n1. **场景一：战争**  \n   - The bomb destroyed the entire city.  \n   - 炸弹摧毁了整个城市。\n\n2. **场景二：自然灾害**  \n   - The hurricane destroyed many homes along the coast.  \n   - 飓风摧毁了沿海地区的许多房屋。\n\n3. **场景三：个人物品**  \n   - He accidentally destroyed his phone by dropping it in water.  \n   - 他不小心把手机掉进水里，结果手机报废了。\n\n### 词根分析\n- **词根**: \"struct-\" (来自拉丁语 \"structus\"，意思是“建造”或“结构”)。  \n- **衍生单词**: structure (结构), construct (建造), instruct (指导)。\n\n### 词缀分析\n- **前缀**: \"de-\" (表示“完全”或“彻底”)。  \n- **后缀**: 无后缀，原形即为动词形式。  \n- **相同前缀的单词**: devalue (贬值), depart (离开)。\n\n### 发展历史和文化背景\n\"Destroy\" 源自拉丁语 \"destruere\"，由 \"de-\"（表示“完全”）和 \"struere\"（表示“建造”）组成。在中世纪英语中，这个词逐渐演变为现代英语中的 \"destroy\"。在西方文化中，\"destroy\" 常与战争、灾难等负面事件相关联，象征着破坏和毁灭的力量。\n\n### 单词变形\n- **名词形式**: destruction (破坏)。  \n- **形容词形式**: destructive (破坏性的)。  \n- **副词形式**: destructively (破坏性地)。  \n- **固定搭配**: destroy evidence (销毁证据), destroy trust (破坏信任)。",
+  "draw_explain": "通过展示一个被摧毁的建筑物，可以直观地理解'destroy'的含义，即破坏或消灭。这种视觉线索直接关联到单词的核心意义，帮助记忆。",
+  "draw_prompt": "A crumbling skyscraper with broken windows and debris scattered around, depicted in a dramatic, high-contrast black-and-white style."
+}

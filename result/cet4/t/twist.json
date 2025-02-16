@@ -1,0 +1,6 @@
+{
+  "word": "twist",
+  "analysis": "### 分析词义\n\n**twist** 是一个多义词，主要有以下几种意思：\n1. **动词**：\n   - 扭曲，拧，绞（如：twist a wire）\n   - 使弯曲，使转弯（如：twist the road）\n   - 曲解，歪曲（如：twist the facts）\n2. **名词**：\n   - 扭曲，拧，绞的动作或结果（如：a twist of the rope）\n   - 转折，意外的变化（如：a twist in the plot）\n   - 旋转舞步（如：a dance with a twist）\n\n### 列举例句\n1. **场景一：日常动作**\n   - **例句**：She twisted the cap off the bottle.  \n     **翻译**：她拧开了瓶盖。\n   \n2. **场景二：故事情节**\n   - **例句**：The detective story had an unexpected twist at the end.  \n     **翻译**：那部侦探小说在结尾有一个意想不到的转折。\n   \n3. **场景三：舞蹈动作**\n   - **例句**：They performed a dance with lots of twists and turns.  \n     **翻译**：他们表演了一段有很多旋转和转身的舞蹈。\n   \n4. **场景四：误解事实**\n   - **例句**：He twisted my words to make me look bad.  \n     **翻译**：他曲解了我的话，让我看起来很糟糕。",
+  "draw_explain": "通过展示一个手正在拧动毛巾的图像，可以直观地理解'twist'的含义，即通过旋转或扭转来改变物体的形状或方向。这种视觉线索直接关联到单词的定义，有助于记忆。",
+  "draw_prompt": "A close-up image of a hand twisting a wet towel, with water droplets flying off, in a realistic style."
+}

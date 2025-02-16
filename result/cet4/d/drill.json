@@ -1,0 +1,6 @@
+{
+  "word": "drill",
+  "analysis": "### 分析词义\n\n**Drill** 是一个多义词，主要有两个常见的意思：\n\n1. **名词**：指一种用于在硬质材料上打孔的工具，通常是手持的电动或手动设备。例如，电钻（electric drill）用于在木材、金属或墙壁上钻孔。\n   \n2. **动词**：指通过反复练习来学习或训练某项技能。例如，军事训练中的“操练”（military drill）或学生在学校进行的“练习”（practice drill）。\n\n### 列举例句\n\n1. **名词用法**：\n   - He used a drill to make a hole in the wall for the shelf.  \n     *他用钻头在墙上钻了一个洞来安装架子。*\n   \n2. **动词用法**：\n   - The teacher drills the students in math every day.  \n     *老师每天让学生们练习数学。*\n   \n3. **军事场景**：\n   - The soldiers were drilling in the field under the hot sun.  \n     *士兵们在烈日下的场地上进行操练。*\n\n### 词根分析\n\n- **词根**: *dril-* 或 *drill-* 可能源自中古英语中的“drille”，意为“练习”或“训练”，但这个词根的具体来源并不明确。它可能与“drill”作为工具的含义有关，即通过反复操作来完成某项任务。\n  \n- **衍生单词**: 由 *drill* 衍生出的单词不多，但可以考虑与工具相关的词汇，如 *drilling machine*（钻床）。此外，在军事领域中，*drill* 也可以与其他词汇结合形成复合词，如 *fire drill*（消防演习）。\n\n### 词缀分析\n\n- **无明显词缀**: *drill* 本身没有明显的词缀结构，它是一个独立的单词，没有前缀或后缀的修饰。然而，当它与其他词汇结合时，可以形成复合词或短语，如 *electric drill*（电钻）和 *fire drill*（消防演习）。这些复合词中的其他部分提供了额外的含义或修饰作用。",
+  "draw_explain": "选择'钻头'作为视觉线索，因为它是'drill'最直接和独特的含义之一，易于通过图像识别。通过描述一个金属钻头在坚硬表面上钻孔的场景，可以直观地与单词的含义相关联。简洁的描述和明确的视觉特征有助于记忆。",
+  "draw_prompt": "A metallic drill bit penetrating a hard surface, with sparks flying, in a clean and sharp industrial style."
+}

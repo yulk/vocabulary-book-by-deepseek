@@ -1,0 +1,6 @@
+{
+  "word": "nevertheless",
+  "analysis": "### 分析词义\n\"Nevertheless\" 是一个副词，表示尽管有前面提到的情况，但仍然发生了后面的事情。它相当于中文的“尽管如此”或“然而”。\n\n### 列举例句\n1. **场景一：工作中的坚持**  \n   - 例句：She was tired, nevertheless she continued to work.  \n   - 中文翻译：她很累，然而她继续工作。\n\n2. **场景二：学习中的努力**  \n   - 例句：The exam was difficult, nevertheless he passed it.  \n   - 中文翻译：考试很难，然而他通过了。\n\n3. **场景三：生活中的选择**  \n   - 例句：It was raining heavily, nevertheless they decided to go out.  \n   - 中文翻译：雨下得很大，然而他们决定出去。\n\n### 词根分析\n- **词根**：\"never\"（从不） + \"the\"（定冠词） + \"less\"（更少）。这三个部分组合在一起，表示“尽管如此”或“依然”的意思。\n- **衍生单词**：没有直接由这个词根衍生的其他单词，但可以参考类似的表达如 \"nonetheless\"（尽管如此）。\n\n### 词缀分析\n- **前缀**：无特定前缀。\n- **后缀**：无特定后缀。\n- **相同词缀的单词**：无特定词缀衍生其他单词。\n\n### 发展历史和文化背景\n\"Nevertheless\" 源自中古英语的 \"never the less\"，其中 \"never the\" 是一个古老的表达方式，相当于现代英语的 \"not at all the\"，而 \"less\" 表示“更少”或“不”。这个短语逐渐缩写为 \"nevertheless\"，并在16世纪开始广泛使用。在英语中，它常用于正式场合或书面语中，表示一种转折关系。在欧美文化中，它常用于强调尽管有困难或不利条件，但仍然坚持某种行为或态度。\n [^1^]: Nevertheless, despite its origins, the word has become a staple in modern English usage.",
+  "draw_explain": "该prompt通过两个对比鲜明的场景来帮助记忆'nevertheless'这个词。第一个场景是一个阴雨天，象征着困难或不利的情况；第二个场景是一个晴朗的公园，象征着即使在困难的情况下仍然保持积极和前进。这种对比突出了'然而'和'仍然'的含义，使得记忆更加深刻。",
+  "draw_prompt": "A rainy day with people staying indoors, followed by a sunny park with people enjoying outdoor activities, showing that despite the rain, life goes on."
+}

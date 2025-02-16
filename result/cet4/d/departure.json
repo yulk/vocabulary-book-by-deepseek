@@ -1,0 +1,6 @@
+{
+  "word": "departure",
+  "analysis": "### 分析词义\n\n\"Departure\" 是一个名词，指的是离开或启程的行为。它通常用于描述一个人或物体从一个地方出发，前往另一个地方的过程。这个词可以用于各种场景，包括旅行、工作、学习等。\n\n### 列举例句\n\n1. **旅行场景**：\n   - The train's departure is scheduled for 8:00 AM.\n   - 火车的出发时间是上午8点。\n\n2. **工作场景**：\n   - His departure from the company was unexpected.\n   - 他离开公司是出乎意料的。\n\n3. **日常生活场景**：\n   - The departure of the guests left the house quiet.\n   - 客人们的离开使房子变得安静。\n\n### 词根分析\n\n- **词根**: \"part\" (部分)\n- **衍生单词**: \n  - **Partial** (部分的)\n  - **Partly** (部分地)\n  - **Apart** (分开)\n  - **Partition** (分割)\n\n### 词缀分析\n\n- **前缀**: \"de-\" (表示“离开”或“向下”)\n- **后缀**: \"-ure\" (名词后缀，表示行为或状态)\n- **相同词缀的单词**: \n  - **Defeat** (失败) [de- + feat]\n  - **Depart** (离开) [de- + part]\n  - **Decay** (腐烂) [de- + cay]\n\n### 发展历史和文化背景\n\n\"Departure\" 源自拉丁语 \"departire\"，意为“分开”或“离开”。在英语中，这个词最早出现在14世纪，最初用于描述军队或船只的离开。随着时间的推移，它的使用范围扩大到各种形式的离开或启程。在现代英语中，\"departure\" 常用于描述旅行、工作变动等场景。在欧美文化中，\"departure\" 常与新的开始或冒险联系在一起，象征着离开舒适区，迎接新的挑战。",
+  "draw_explain": "该prompt通过描绘一个典型的机场场景，强调了登机口和飞机的起飞，这些都是与'departure'（离开）直接相关的视觉元素。机场的繁忙和飞机的起飞动作能够直观地传达出离开的概念，帮助记忆单词的含义。",
+  "draw_prompt": "A bustling airport scene with a jetliner taking off from a runway, passengers boarding through a gate, and the busy atmosphere of departure."
+}

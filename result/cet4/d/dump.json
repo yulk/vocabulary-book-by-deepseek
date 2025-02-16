@@ -1,0 +1,6 @@
+{
+  "word": "dump",
+  "analysis": "### 分析词义\n\n**dump** 是一个多义词，主要有以下几种意思：\n1. **动词 (verb)**：  \n   - 倾倒、丢弃（垃圾、废物等）。  \n   - 抛弃、甩掉（某人或某物）。  \n   - 转储（数据、信息等）。  \n2. **名词 (noun)**：  \n   - 垃圾场、垃圾堆。  \n   - 情绪低落的状态。\n\n### 列举例句\n1. **倾倒垃圾的场景**：  \n   - \"Don't dump your trash here; there's a recycling bin over there.\"  \n     （别把垃圾倒在这里，那边有回收箱。）  \n2. **抛弃某人的场景**：  \n   - \"She felt hurt when her boyfriend dumped her without any explanation.\"  \n     （她男朋友没解释就甩了她，这让她很受伤。）  \n3. **转储数据的场景**：  \n   - \"The technician dumped the system logs to analyze the error.\"  \n     （技术人员转储了系统日志以分析错误。）\n4. **情绪低落的场景**：  \n   - \"After losing the game, the team was in a real dump.\"  \n     （比赛输了之后，整个队伍情绪都很低落。）\n5. **垃圾场的场景**：   \n    - \"The old car was left to rust in the dump.\"   \n      （那辆旧车被丢在垃圾场里生锈了。）   \n6. **固定搭配：dump on someone** (把问题或责任推给某人)：   \n    - \"Why do you always dump your problems on me?\"   \n      （你为什么总是把你的问题推给我？）   \n7. **固定搭配：dump out** (倒出)：   \n    - \"He dumped out the contents of his bag to find his keys.\"   \n      （他把包里的东西都倒出来找钥匙。）   ",
+  "draw_explain": "该prompt通过展示一个大型垃圾车正在将垃圾倾倒进垃圾填埋场的场景，直观地呈现了'dump'的'倾卸,倾倒'含义。垃圾车的动作和垃圾填埋场的环境都是与单词含义紧密相关的视觉线索，有助于记忆。",
+  "draw_prompt": "A large garbage truck dumping trash into a landfill, with a mountainous pile of waste in the background, all rendered in a realistic style with detailed textures."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "descend",
+  "analysis": "### 分析词义\n\n**Descend** 是一个动词，意思是“下降”、“下来”或“遗传”。它可以用来描述物体从高处到低处的移动，也可以指代某人从某个地方下来，或者指某种特征或特质从上一代传到下一代。\n\n### 列举例句\n\n1. **The plane began to descend as it approached the airport.**  \n   *飞机在接近机场时开始下降。*\n   \n2. **She descended the stairs carefully, holding onto the railing.**  \n   *她小心翼翼地扶着扶手下楼梯。*\n   \n3. **The trait of musical talent descends from her mother.**  \n   *音乐天赋这一特质是从她母亲那里遗传下来的。*\n\n### 词根分析\n\n- **词根**: -scend- (源自拉丁语 \"scandere\"，意为“攀爬”或“上升”)。虽然词根本身表示“上升”，但在英语中，descend 表示相反的动作，即“下降”。\n    - **衍生单词**: \n        - **ascend**: 上升、攀登（与 descend 相反）。\n        - **transcend**: 超越、胜过（前缀 trans- 表示“跨越”）。\n        - **descendant**: 后代、后裔（名词形式）。\n        - **descendent**: 下降的、派生的（形容词形式）。\n        \n### 词缀分析\n\n- **前缀**: de- (表示“向下”或“离开”)。例如：devalue (贬值)、degrade (降级)。  \n- **后缀**: -end (无特别意义，通常用于动词变名词或形容词)。例如：depend (依赖) -> dependence (依赖性)。  \n- **其他单词**: 带有 de- 前缀的单词：describe (描述)、defeat (击败)、delete (删除)。  \n  带有 -scend- 词根的单词：ascend (上升), transcend (超越)。  \n  带有 -ent/-ant 后缀的单词：dependent (依赖的), participant (参与者)。  \n    ",
+  "draw_explain": "通过描绘一个物体从高处向下移动的场景，能够直观地展示'descend'的含义。选择热气球作为视觉线索，因为热气球在空中下降的过程清晰且易于理解，能够帮助记忆单词'descend'。",
+  "draw_prompt": "A colorful hot air balloon descending gracefully from the sky, with a serene landscape below, in a soft pastel painting style."
+}

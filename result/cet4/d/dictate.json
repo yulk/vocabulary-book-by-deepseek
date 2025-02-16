@@ -1,0 +1,6 @@
+{
+  "word": "dictate",
+  "analysis": "### 分析词义\n\n\"Dictate\" 是一个动词，意思是“口述”或“命令”。它可以指通过口头方式让别人记录下所说的话，也可以指强加规则或命令，要求别人遵守。\n\n### 列举例句\n\n1. **场景一：工作环境**\n   - The manager dictated a letter to his secretary.\n   - 经理向他的秘书口述了一封信。\n\n2. **场景二：教育环境**\n   - The teacher dictated the spelling words to the class.\n   - 老师向全班同学口述了拼写单词。\n\n3. **场景三：军事命令**\n   - The general dictated the orders to his troops.\n   - 将军向他的部队下达了命令。\n\n### 词根分析\n\n- **词根**: dict- (来自拉丁语 \"dicere\"，意为“说”)\n- **衍生单词**: \n  - dictionary (字典)：dict + ion + ary (表示集合) -> 说的集合，即词汇的集合。\n  - predict (预测)：pre- (前) + dict -> 提前说，即预测。\n  - verdict (裁决)：ver + dict -> true + say，即真实的说法，裁决。\n\n### 词缀分析\n\n- **前缀**: 无特定前缀。\n- **后缀**: -ate (动词后缀)。例如：create, operate, formulate.\n- **衍生单词**: dictate, indicate, advocate.\n  同后缀的其他单词: activate, calculate, collaborate.\n  同词根的其他单词: predict, contradict, indicate.",
+  "draw_explain": "通过展示一个权威人物（如国王）在王座上口授命令的场景，可以直观地理解'dictate'的含义。这种视觉线索将'命令'和'口授'两个含义结合在一起，帮助记忆。",
+  "draw_prompt": "A king sitting on a throne, dictating orders to his servants in a grand, medieval hall with ornate decorations."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "sulfur",
+  "analysis": "### 分析词义\n**Sulfur** 是一个名词，指的是一种非金属元素，化学符号为 S，原子序数为 16。它在自然界中以多种形式存在，常见的有黄色晶体。硫在工业上广泛用于制造硫酸、火药、肥料等，同时也用于医药和农业领域。\n\n### 列举例句\n1. **场景一：化学实验室**\n   - **例句**: \"The chemist carefully measured out the sulfur for the experiment.\"\n   - **中文翻译**: \"化学家小心翼翼地为实验称量出硫。\"\n\n2. **场景二：农业用途**\n   - **例句**: \"Farmers often use sulfur to treat fungal infections in crops.\"\n   - **中文翻译**: \"农民经常使用硫来治疗作物中的真菌感染。\"\n\n3. **场景三：历史背景**\n   - **例句**: \"In ancient times, sulfur was believed to have magical healing properties.\"\n   - **中文翻译**: \"在古代，人们相信硫具有神奇的治愈能力。\"\n\n### 词根分析\n- **词根**: \"sulf-\" 源自拉丁语 \"sulfur\"，意为“硫”。\n- **衍生单词**: \n  - **sulfuric** (形容词): 硫的，含硫的。\n  - **sulfate** (名词): 硫酸盐。\n  - **sulfide** (名词): 硫化物。\n\n### 词缀分析\n- **词缀**: 该单词没有明显的词缀，是一个基础名词。\n- **相同词缀的单词**: 无明显相关词缀衍生单词。\n\n### 发展历史和文化背景\n- **造词来源**: \"Sulfur\" 源自拉丁语 \"sulphur\"，进一步追溯到古希腊语 \"theion\"，意为“神火”或“天火”。在古代文明中，硫被认为具有神秘的力量，常用于宗教仪式和医疗用途。古罗马人用它来净化空气和治疗皮肤病。在中世纪，硫被用于制作火药和药物。现代化学的发展使硫成为工业和农业中不可或缺的元素。\n  \n- **文化内涵**: 在西方文化中，硫常与“地狱”和“恶魔”联系在一起，因为它的燃烧特性与地狱之火的形象相符。同时，它在医药和农业中的应用也体现了其实用价值。",
+  "draw_explain": "硫磺是一种黄色固体，常用于制造火柴和肥料。通过描述一个黄色固体燃烧的场景，可以直观地联想到硫磺的特性和用途，从而帮助记忆。",
+  "draw_prompt": "A bright yellow solid substance glowing and burning with a blue flame in a dark environment, resembling the chemical reaction of sulfur."
+}

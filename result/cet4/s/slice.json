@@ -1,0 +1,6 @@
+{
+  "word": "slice",
+  "analysis": "### 分析词义\n\n**Slice** 是一个英语单词，既可以作为名词，也可以作为动词。\n\n- **名词 (noun)**: 表示“薄片”或“切片”，通常指从整体上切下来的一小块或一片。例如，一片面包、一片披萨等。\n- **动词 (verb)**: 表示“切”或“切成薄片”，即用刀或其他工具将物体切成薄片。\n\n### 列举例句\n\n1. **场景一：厨房**\n   - **例句**: She sliced the apple into thin pieces.\n   - **中文翻译**: 她把苹果切成薄片。\n   \n2. **场景二：餐厅**\n   - **例句**: Can I have a slice of pizza, please?\n   - **中文翻译**: 请给我一片披萨，好吗？\n   \n3. **场景三：体育**\n   - **例句**: He took a slice at the ball but missed.\n   - **中文翻译**: 他挥拍击球，但没打中。\n\n### 词根分析\n\n- **词根**: *slice* 本身就是一个独立的单词，没有明显的词根。它可能源自于古英语的 *slician*，意为“切开”或“分割”。\n- **衍生单词**: 由于 *slice* 本身是一个基础词汇，没有太多衍生单词。但可以与其他词缀结合形成新词，如 *slicer*（切片机）。\n\n### 词缀分析\n\n- **前缀**: *slice* 没有前缀。\n- **后缀**: *slice* 本身没有后缀，但可以加上后缀形成新词，如 *slicer*（切片机）。后缀 *-er* 表示执行某个动作的人或物。\n- **相同词缀的其他单词**: runner（跑步者）, writer（作家）, builder（建筑者）等。\n\n### 发展历史和文化背景\n\n- **造词来源**: *slice* 源自中古英语的 *slisen*，进一步追溯到古英语的 *slician*，意为“切开”或“分割”。这个词在英语中有着悠久的历史，广泛应用于日常生活中的切割动作和切割后的薄片概念。在欧美文化中，切割食物（如面包、披萨、水果等）是一个常见的动作，因此 *slice* 是一个非常常用的词汇。在体育领域（如网球）中，*slice* 也用来描述一种击球方式。",
+  "draw_explain": "通过展示一个切开的水果或面包的图像，可以直观地理解'slice'作为'薄片'或'切片'的含义。这种视觉线索直接关联到单词的定义，易于记忆。",
+  "draw_prompt": "A close-up image of a freshly cut slice of juicy watermelon, with visible red flesh and black seeds, on a white plate, in a clean and modern style."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "circumference",
+  "analysis": "### 分析词义\n\n**Circumference** 是一个名词，指的是圆形物体的外围长度，即圆的周长。它用于描述一个圆形的边界或边缘的长度。\n\n### 列举例句\n\n1. **The circumference of the Earth is approximately 40,075 kilometers.**  \n   *地球的周长大约是40,075公里。*\n\n2. **She measured the circumference of the cake to make sure it would fit in the oven.**  \n   *她测量了蛋糕的周长，以确保它能放进烤箱。*\n\n3. **The teacher asked the students to calculate the circumference of a circle with a radius of 5 centimeters.**  \n   *老师让学生们计算半径为5厘米的圆的周长。*\n\n### 词根分析\n\n- **词根**: circum- (环绕) + fer (携带) + -ence (名词后缀)  \n- **衍生单词**: \n  - **Circumference**: 周长  \n  - **Circumvent**: 绕过，规避  \n  - **Circumspect**: 谨慎的，小心的  \n  - **Circumference**: 周长  \n\n### 词缀分析\n\n- **前缀**: circum- (环绕)  \n- **后缀**: -ence (名词后缀)  \n- **相同词缀的单词**:  \n  - **Circumstance**: 情况，环境  \n  - **Circumscribe**: 限制，划界  \n  - **Circumvent**: 绕过，规避  \n\n### 发展历史和文化背景\n\n**Circumference**一词源自拉丁语“circumferentia”，其中“circum”意为“环绕”，“ferre”意为“携带”。这个词最初用于几何学中描述圆形物体的边界长度。在数学和工程学中，circumference是一个基础概念，广泛应用于计算圆形的各种属性。在日常生活中，它也常用于描述圆形物体的尺寸，如轮胎、地球等。在欧美文化中，circumference的概念与数学和科学紧密相关，是基础教育中的重要内容。",
+  "draw_explain": "该prompt通过展示一个圆形物体的圆周线，直观地呈现了'circumference'的含义。圆形物体和其圆周线的图像能够直接关联到单词的定义，帮助记忆。",
+  "draw_prompt": "A detailed illustration of a round object with a highlighted line tracing its outer edge, emphasizing the circular path."
+}

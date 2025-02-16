@@ -1,0 +1,6 @@
+{
+  "word": "external",
+  "analysis": "### 分析词义\n\n\"External\" 是一个形容词，意思是“外部的”或“外面的”。它通常用来描述物体或概念的外在部分或与外界相关的事物。\n\n### 列举例句\n\n1. **场景一：医学**  \n   - **例句**: The doctor examined the external wound on his leg.  \n   - **中文翻译**: 医生检查了他腿上的外部伤口。\n\n2. **场景二：建筑**  \n   - **例句**: The external walls of the building are made of brick.  \n   - **中文翻译**: 建筑的外墙是用砖砌成的。\n\n3. **场景三：商业**  \n   - **例句**: The company hired an external consultant to review its financial records.  \n   - **中文翻译**: 公司聘请了一位外部顾问来审查其财务记录。\n\n### 词根分析\n\n- **词根**: \"extern-\" 源自拉丁语 \"externus\"，意思是“外部的”或“外面的”。  \n- **衍生单词**: 例如 \"externalize\"（使外在化）、\"externality\"（外部性）等。\n\n### 词缀分析\n\n- **后缀**: \"-al\" 是形容词后缀，表示与某事物相关的性质或特征。  \n- **相同后缀的单词**: 例如 \"personal\"（个人的）、\"national\"（国家的）等。\n\n### 发展历史和文化背景\n\n\"External\" 这个词源自拉丁语 \"externus\"，最初用于描述物体或概念的外在部分。在现代英语中，它广泛应用于各个领域，如医学、建筑、商业等，用来描述与外界相关的事物或现象。在欧美文化中，这个词常用于强调事物的表面特征或与外界的联系。\n\n### 单词变形\n\n- **名词形式**: \"externality\"（外部性）  \n- **副词形式**: \"externally\"（外部地）  \n- **固定搭配**: \"external factors\"（外部因素）、\"external environment\"（外部环境）等。  \n- **中文翻译**: 外部因素、外部环境等。",
+  "draw_explain": "通过描绘一个建筑物的外部，使用户能够直观地理解'external'的含义。建筑物的外墙、窗户和门等元素都是外部的典型特征，易于与单词的含义相关联。",
+  "draw_prompt": "A detailed illustration of the exterior of a modern building, featuring its outer walls, windows, and entrance door, all rendered in a clean and minimalistic style."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "gardener",
+  "analysis": "### 分析词义\n\n**Gardener** 是一个名词，指的是从事园艺工作的人，即园丁。园丁的主要职责是照料和维护花园、公园或其他植物种植区域，包括种植、修剪、浇水、施肥等。\n\n### 列举例句\n\n1. **The gardener** carefully pruned the roses to ensure they bloomed beautifully.  \n   *园丁仔细地修剪玫瑰，以确保它们美丽绽放。*\n\n2. **The gardener** recommended using organic fertilizer for the vegetable garden.  \n   *园丁建议在菜园中使用有机肥料。*\n\n3. **The gardener** was delighted to see the new seedlings sprouting after the rain.  \n   *看到雨后新苗发芽，园丁非常高兴。*\n\n### 词根分析\n\n- **词根**: *garden*（花园）+ *-er*（表示人）→ *gardener*（园丁）。  \n- **衍生词**:  \n  - **garden** (n.) 花园；(v.) 从事园艺活动。  \n  - **gardening** (n.) 园艺活动。  \n  - **gardenerly** (adj.) 像园丁的；有园艺技能的。  \n  - **gardening tools** (n.) 园艺工具。  \n  - **gardening gloves** (n.) 园艺手套。  \n  - **gardening boots** (n.) 园艺靴子。  \n  - **gardening book** (n.) 园艺书籍。  \n  - **gardening magazine** (n.) 园艺杂志。  \n  - **gardening club** (n.) 园艺俱乐部。  \n  - **gardening course** (n.) 园艺课程。  \n  - **gardening class** (n.)",
+  "draw_explain": "该prompt通过描绘一个穿着绿色围裙、手持园艺剪刀的人在花园中修剪花草的场景，直接关联到'gardener'这个单词的含义。绿色围裙和园艺剪刀是园丁的典型工具，而花园中的花草则强调了园丁的工作环境，这样的视觉线索简洁且易于记忆。",
+  "draw_prompt": "A person wearing a green apron and holding gardening shears, trimming flowers in a lush garden with vibrant plants and colorful blossoms."
+}

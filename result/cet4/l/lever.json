@@ -1,0 +1,6 @@
+{
+  "word": "lever",
+  "analysis": "### 分析词义\n\n**Lever** 是一个名词，指的是一种简单的机械装置，通常由一根杆和一个支点组成，用来施加力以移动重物或产生机械优势。此外，lever 也可以作为形容词，表示“灵巧的”或“机智的”。\n\n### 列举例句\n\n1. **He used a lever to lift the heavy rock.**  \n   *他用杠杆抬起那块沉重的石头。*\n   \n2. **She is a very lever negotiator, always getting the best deals.**  \n   *她是个非常机智的谈判者，总能得到最好的交易。*\n   \n3. **The mechanic inserted a lever to pry open the jammed door.**  \n   *机械师插入一根杠杆来撬开卡住的门。*\n\n### 词根分析\n\n- **词根**: lev (来自拉丁语 levare，意为“举起”或“抬起”)。  \n- **衍生词**:  \n  - **Lift**: 举起，抬起。  \n  - **Elevate**: 提升，举高。  \n  - **Levitate**: 漂浮，悬浮。  \n  - **Levity**: 轻浮，轻松。  \n  - **Relevant**: 相关的（re- + lev + -ant）。  \n  - **Levy**: 征收（通过征税等手段“举起”资金）。  \n  这些单词都与“举起”或“提升”的概念相关联。\n\n### 词缀分析\n- **前缀**: re- (在 relevant 中表示“再次”或“回”)。  \n- **后缀**: -ant (在 relevant 中表示形容词)。  \n- **相同前缀的单词**: reappear, rebuild, reconsider.  \n- **相同后缀的单词**: important, dependent, confident.  \n- **中缀**: u- (在 individual 中用于连接和辅助发音)，但 lever 中没有中缀。",
+  "draw_explain": "通过描绘一个机械装置中的杠杆，能够直观地展示'lever'的基本含义。杠杆的图像具有明确的物理特征，如杆状结构和可能的支点，这些特征与单词'lever'的定义紧密相关。这样的视觉线索有助于用户快速理解和记忆单词的含义。",
+  "draw_prompt": "A metallic rod with a pivot point, used to lift a heavy object, set in a mechanical workshop with dim lighting and detailed textures."
+}

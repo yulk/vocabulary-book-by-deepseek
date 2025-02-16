@@ -1,0 +1,6 @@
+{
+  "word": "correspond",
+  "analysis": "### 分析词义\n\n\"Correspond\" 是一个动词，意思是“通信”、“相符”或“对应”。它通常用于描述两个或多个事物之间的联系或一致性。例如，两个人通过书信、电子邮件或其他方式进行交流，或者两个事物在某些方面相互匹配或一致。\n\n### 列举例句\n\n1. **通信**\n   - She corresponds with her pen pal every month.\n   - 她每个月都和她的笔友通信。\n\n2. **相符**\n   - The two reports do not correspond.\n   - 这两份报告不相符。\n\n3. **对应**\n   - The U.S. President corresponds to the British Prime Minister.\n   - 美国总统对应于英国首相。\n\n### 词根分析\n\n- **词根**: \"cor-\" + \"respond\"\n  - \"cor-\" 是前缀，表示“共同”或“一起”。\n  - \"respond\" 是词根，意思是“回应”或“反应”。\n\n- **衍生单词**:\n  - **Correspondence**: 名词，意思是“通信”或“信件”。\n  - **Correspondent**: 名词，意思是“通讯员”或“记者”。\n  - **Corresponding**: 形容词，意思是“相应的”或“对应的”。\n\n### 词缀分析\n\n- **前缀**: \"cor-\" 表示“共同”或“一起”。\n- **词根**: \"respond\" 表示“回应”或“反应”。\n- **后缀**: 无后缀，但衍生词中有 \"-ence\"（如 correspondence）和 \"-ent\"（如 correspondent）等后缀。",
+  "draw_explain": "通过展示两个相似的物体或形状，强调它们之间的对应关系，帮助记忆'correspond'这个词的含义。视觉上的一致性有助于强化单词的'相符合'和'相当'的意思。",
+  "draw_prompt": "A pair of identical shapes, such as two perfectly aligned circles or squares, placed side by side to visually represent correspondence and similarity."
+}

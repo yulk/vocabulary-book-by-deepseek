@@ -1,0 +1,6 @@
+{
+  "word": "scarcely",
+  "analysis": "### 分析词义\n\n\"Scarcely\" 是一个副词，意思是“几乎不”、“几乎没有”或“刚刚”。它通常用来表示某事发生得非常少或非常轻微，或者某事刚刚发生。\n\n### 列举例句\n\n1. **场景一：描述稀有事件**\n   - **例句**: \"She scarcely ever goes out.\"\n   - **中文翻译**: 她几乎从不外出。\n\n2. **场景二：描述时间紧迫**\n   - **例句**: \"He arrived scarcely in time for the meeting.\"\n   - **中文翻译**: 他刚刚及时赶到会议。\n\n3. **场景三：描述数量稀少**\n   - **例句**: \"There were scarcely any apples left in the basket.\"\n   - **中文翻译**: 篮子里几乎没有苹果了。\n\n### 词根分析\n\n- **词根**: \"scarce\"（稀少的，缺乏的）是 \"scarcely\" 的词根。\n- **衍生单词**: \n  - \"scarcity\"（名词，稀缺）\n  - \"scarcement\"（名词，缺乏）\n\n### 词缀分析\n\n- **后缀**: \"-ly\" 是副词后缀，用于将形容词转换为副词。例如：\"quick\"（快速的）→ \"quickly\"（快速地）。\n- **相同词缀的单词**: \n  - \"hardly\"（几乎不）\n  - \"barely\"（仅仅，几乎没有）\n\n### 发展历史和文化背景\n\n\"Scarcely\" 源自中古英语的 \"scarsely\"，进一步追溯到古英语的 \"scearc\"，意为“稀少的”或“缺乏的”。这个词在英语中有着悠久的历史，常用于描述资源匮乏或事件罕见的情况。在现代英语中，它常用于强调某事的稀缺性或轻微程度。\n\n### 单词变形\n\n- **形容词**: \"scarce\"（稀少的，缺乏的）\n- **名词**: \"scarcity\"（稀缺）\n- **固定搭配**: \n  - \"scarcely ever\"（几乎从不）\n  - \"scarcely enough\"（几乎不够）",
+  "draw_explain": "这个prompt通过描绘一个几乎空无一物的房间来帮助记忆'scarcely'的意思，即'几乎不'或'仅仅'。房间内只有极少的物品，强调了稀少和不足的概念，这与单词的含义紧密相关。",
+  "draw_prompt": "A nearly empty room with only a single chair and a small table, illuminated by dim light, emphasizing the scarcity of objects."
+}

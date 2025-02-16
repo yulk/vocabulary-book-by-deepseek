@@ -1,0 +1,6 @@
+{
+  "word": "wax",
+  "analysis": "### 分析词义\n\n**Wax** 是一个多义词，可以作为名词和动词使用。\n\n- **名词**：蜡，通常指用于制作蜡烛、保护木材或用于其他工业和家庭用途的物质。\n- **动词**：给…上蜡，使光滑或光亮。此外，wax 还可以表示“逐渐增加”或“变得更强”。\n\n### 列举例句\n\n1. **名词用法**：\n   - The candle was made of beeswax.  \n     *（这根蜡烛是用蜂蜡制成的。）*\n   \n2. **动词用法（上蜡）**：\n   - She waxed the wooden floor to make it shine.  \n     *（她给木地板上了蜡，使其发亮。）*\n   \n3. **动词用法（逐渐增加）**：\n   - The moon waxes and wanes every month.  \n     *（月亮每个月都会由亏转盈。）*\n\n### 词根分析\n\n- **词根**：wax 这个词没有明显的词根，它是一个独立的单词，源自于古英语的 \"weax\"，意为“增长”或“变大”。这个意思与现代英语中 wax 作为动词表示“逐渐增加”的意思相符。\n    - **衍生词汇**：waxing（形容词/名词，表示“上蜡的”或“逐渐增加的”）；wane（动词/名词，表示“减少”或“衰退”）。\n    \n### 词缀分析\n- **无明显词缀**：wax 是一个基础词汇，没有明显的词缀结构。不过它的衍生形式如 \"waxing\" 和 \"waning\" 中包含了后缀 \"-ing\" 和 \"-ing\"，分别表示进行时态或形容词形式。例如：\"waxing moon\"（渐盈的月亮）和 \"waning moon\"（渐亏的月亮）。相同后缀的其他单词如 \"running\"（跑步的）、\"building\"（建筑中的）等。  \n   - **相同后缀单词**：running, building, walking, singing, etc.  \n    *（跑步的、建筑中的、走路的、唱歌的等。）*  \n    这些单词都使用了 \"-ing\" 后缀来表示进行时态或形容词形式。  ",
+  "draw_explain": "蜡是一种常见的物质，通常用于制作蜡烛或作为保护涂层。通过生成一个展示蜡烛的图像，可以直观地帮助记忆单词'wax'。蜡烛的形状和蜡的质地是与单词'wax'直接相关的视觉线索。",
+  "draw_prompt": "A close-up image of a white candle with a smooth, glossy surface, showing the texture of the wax. The image is soft-lit and warm, with a minimalist style."
+}

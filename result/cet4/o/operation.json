@@ -1,0 +1,6 @@
+{
+  "word": "operation",
+  "analysis": "### 分析词义\n\n\"Operation\" 是一个名词，主要指以下几种含义：\n1. **手术**：医学领域中进行的手术操作。\n2. **操作**：机器、设备或系统的运行和操控。\n3. **行动**：军事或组织中的计划和执行的行动。\n4. **运算**：数学中的计算过程。\n\n### 列举例句\n1. **医学场景**：  \n   - The doctor successfully performed the heart operation.  \n     （医生成功地进行了心脏手术。）  \n2. **技术场景**：  \n   - The operation of the new software requires some training.  \n     （新软件的操作需要一些培训。）  \n3. **军事场景**：  \n   - The military operation was a success, capturing the enemy's base.  \n     （军事行动成功了，俘获了敌人的基地。）  \n4. **数学场景**：  \n   - The operation of addition is fundamental in mathematics.  \n     （加法运算是数学中的基础。）  \n5. **商业场景**：  \n   - The company’s operations are expanding into new markets.  \n     （公司的业务正在向新市场扩展。）  \n6. **日常场景**：  \n   - I need to learn the basic operations of this machine.  \n     （我需要学习这台机器的基本操作。）",
+  "draw_explain": "通过展示一个外科手术的场景，可以直观地与单词'operation'的'手术'含义相关联。手术室的环境和工具，如手术台、无影灯和外科医生，都是独特且易于识别的视觉线索。这种视觉提示有助于记忆单词的多重含义之一。",
+  "draw_prompt": "A highly detailed surgical room scene with a patient on the operating table, a bright overhead surgical lamp, and a surgeon in scrubs performing an operation."
+}

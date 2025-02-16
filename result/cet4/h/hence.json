@@ -1,0 +1,6 @@
+{
+  "word": "hence",
+  "analysis": "### 分析词义\n\n**hence** 是一个副词，主要用于表示“因此”、“所以”或“从此以后”的意思。它通常用来引出某个结论或结果。\n\n### 列举例句\n\n1. **例句**: The train was delayed, hence we missed the meeting.  \n   **翻译**: 火车晚点了，所以我们错过了会议。\n\n2. **例句**: She is very talented; hence, she has been promoted.  \n   **翻译**: 她非常有才华，因此她被提升了。\n\n3. **例句**: It is very late; hence, I must go home.  \n   **翻译**: 天已经很晚了，所以我必须回家了。\n\n### 词根分析\n\n- **词根**: \"hence\" 源自中古英语 \"hennes\"，进一步追溯到古英语 \"hēnne\"，意思是“从那里”或“从那时”。这个词根与“from there”或“from that time”有关。\n\n### 词缀分析\n\n- **hence** 是一个独立的单词，没有明显的词缀结构。它是一个古老的词汇，保留了其原始形式。\n\n### 发展历史和文化背景\n\n- **hence** 是一个古老的英语词汇，最早出现在古英语中，源自日耳曼语族的共同词汇。它在现代英语中仍然广泛使用，尤其是在正式的书面语和口语中，用来表示因果关系或时间上的推移。在欧美文化中，**hence** 常用于强调逻辑上的连贯性或时间上的延续性。\n\n### 单词变形\n\n- **hence** 是一个副词，没有其他变形形式。它通常单独使用，不与其他词性结合。\n   - **固定搭配**: \"hence forth\" (从此以后), \"hence by\" (从那时起)。  \n     - **Hence forth**: From this time forward.  \n       **翻译**: 从此以后。  \n     - **Hence by**: From that time on.  \n       **翻译**: 从那时起。  \n   这些搭配在正式场合中较为常见。",
+  "draw_explain": "通过展示一个箭头指向未来的场景，结合一个明显的结果，可以帮助记忆'hence'表示'因此，所以;今后'的含义。箭头的方向和结果的展示直观地表达了从当前到未来的推导过程，符合'hence'的语义。",
+  "draw_prompt": "A sleek arrow pointing towards a bright future, with a clear result of progress and success, set against a minimalist, futuristic background."
+}

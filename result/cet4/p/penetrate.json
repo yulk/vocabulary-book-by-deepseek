@@ -1,0 +1,6 @@
+{
+  "word": "penetrate",
+  "analysis": "### 分析词义\n\n\"Penetrate\" 是一个动词，意思是“穿透”、“渗透”或“深入”。它可以用来描述物理上的穿透，如光线、液体或物体进入另一个物体；也可以用来描述抽象概念的深入，如思想、影响或信息进入某个领域或人的意识。\n\n### 列举例句\n\n1. **场景一：物理穿透**\n   - The arrow easily penetrated the target.\n   - 箭轻松地穿透了目标。\n\n2. **场景二：渗透**\n   - The company is trying to penetrate new markets.\n   - 公司正在尝试渗透新市场。\n\n3. **场景三：深入理解**\n   - It took years for the truth to penetrate his mind.\n   - 真相花了好几年才深入他的脑海。\n\n### 词根分析\n\n- **词根**: \"penetr-\" 来自拉丁语 \"penetrare\"，意思是“穿透”或“进入”。\n- **衍生词**: \n  - Penetration (名词): 穿透，渗透。\n  - Penetrative (形容词): 有穿透力的。\n  - Penetrable (形容词): 可穿透的。\n\n### 词缀分析\n\n- **前缀**: \"pen-\"（在拉丁语中是“几乎”的意思，但在这里不适用）。\n- **后缀**: \"-ate\"（动词后缀）。\n- **其他单词**: 使用 \"-ate\" 后缀的单词还有: activate, calculate, indicate, etc.。这些单词通常表示动作或状态的变化。\n\n### 发展历史和文化背景\n\n\"Penetrate\" 源自拉丁语 \"penetrare\"，意为“进入”或“穿透”。这个词在中世纪拉丁语中广泛使用，后来通过法语进入英语。在科学和军事领域，这个词常用于描述物理上的穿透行为，如子弹穿透装甲或在医学中描述药物如何渗透到身体组织中。在商业和市场营销中，\"penetrate\" 也常用于描述如何进入新市场或影响新客户群。在文化上，这个词有时也用于比喻意义，如思想或影响力的深入传播。",
+  "draw_explain": "通过展示一个尖锐物体穿过一个柔软物体的图像，可以直观地理解'penetrate'的含义。这种视觉线索直接关联到单词的定义，即'穿过'或'穿入'，有助于记忆。",
+  "draw_prompt": "A sharp needle penetrating a soft, white balloon, with a focus on the moment of entry, rendered in a clean, minimalist style."
+}

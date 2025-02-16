@@ -1,0 +1,6 @@
+{
+  "word": "route",
+  "analysis": "### 分析词义\n\"Route\" 是一个名词，意思是“路线”或“路径”。它通常指从一个地方到另一个地方所经过的道路或途径。此外，它也可以用作动词，表示“安排路线”或“发送”。\n\n### 列举例句\n1. **场景1：旅行**\n   - \"We took a different route to avoid the traffic.\"\n     - 中文翻译：我们走了一条不同的路线以避开交通堵塞。\n   \n2. **场景2：物流**\n   - \"The package will be routed to your new address.\"\n     - 中文翻译：包裹将被发送到你的新地址。\n   \n3. **场景3：网络**\n   - \"The data packets are routed through multiple servers.\"\n     - 中文翻译：数据包通过多个服务器进行路由。\n\n### 词根分析\n- **词根**: \"rout-\" 源自拉丁语 \"ruta\"，意为“路线”或“路径”。\n- **衍生单词**: \n  1. \"routine\" (常规的，例行的) - 源自“route”的日常使用路径概念。\n  2. \"router\" (路由器) - 用于网络中数据包的路由设备。\n  3. \"routing\" (路由选择) - 指在网络中选择数据传输路径的过程。\n\n### 词缀分析\n- **前缀**: 无特定前缀。\n- **后缀**: \"-e\" (简单名词后缀)。当用作动词时，加上 \"-ing\" 形成现在分词形式 \"routing\"。\n- **相同后缀的单词**: \"note\", \"vote\", \"cite\".\n    - Note: These words also end with \"-e\", which is a common noun suffix in English.\n    - Vote: A noun meaning a formal expression of opinion or choice, especially in an election. Example: \"Please cast your vote.\" (请投下您的一票。)",
+  "draw_explain": "通过展示一条蜿蜒的道路，道路两旁有明显的地标和风景，可以直观地帮助记忆'route'这个词的含义，即路线或路程。道路的弯曲和延伸象征着旅程的多样性和长度，而地标和风景则增加了记忆的深度和趣味性。",
+  "draw_prompt": "A winding road stretching through a scenic landscape, with distinct landmarks and natural features on both sides, capturing the essence of a journey."
+}

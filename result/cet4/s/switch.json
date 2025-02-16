@@ -1,0 +1,6 @@
+{
+  "word": "switch",
+  "analysis": "### 分析词义\n\n**switch** 是一个多义词，可以用作名词和动词。\n\n- **名词**：指开关、转换、鞭子等。\n- **动词**：表示改变、转换、鞭打等。\n\n### 列举例句\n\n1. **场景一：电器开关**\n   - **例句**: \"Please switch off the light when you leave the room.\"\n   - **中文翻译**: \"离开房间时请关灯。\"\n   \n2. **场景二：职业转换**\n   - **例句**: \"She decided to switch careers and become a teacher.\"\n   - **中文翻译**: \"她决定转行成为一名教师。\"\n   \n3. **场景三：鞭打**\n   - **例句**: \"The rider used a switch to control the horse.\"\n   - **中文翻译**: \"骑手用鞭子来控制马。\"\n\n### 词根分析\n\n- **词根**: *switch* 本身没有明显的词根，它是一个独立的单词，源自中古英语 *swytch*，进一步追溯到古英语 *swīc*，意为“枝条”或“鞭子”。\n  \n### 词缀分析\n\n- **switch** 没有明显的词缀，它是一个基础词汇。\n  \n### 发展历史和文化背景\n\n- **switch** 的历史可以追溯到古英语时期，最初指的是“枝条”或“鞭子”，后来逐渐引申为“开关”和“转换”的意思。在现代英语中，它广泛用于描述物理开关和抽象的转换行为。在欧美文化中，*switch* 常用于描述改变或转换的动作，如职业转换、交通信号灯的切换等。\n  \n### 单词变形  \n- **名词形式**: switch (开关)  \n- **动词形式**: switch (切换)  \n- **固定搭配**: switch on/off (打开/关闭), switch over (切换), switch to (切换到)  \n- **中文翻译**:  打开/关闭, 切换, 切换到  ",
+  "draw_explain": "开关是日常生活中常见且直观的物品，通过展示一个开关的图像，可以很容易地与单词'switch'的含义联系起来。此外，开关通常具有明显的按钮或杠杆，这些特征可以作为视觉线索，帮助记忆。",
+  "draw_prompt": "A close-up image of a classic light switch with a toggle lever, set against a clean white wall, emphasizing the tactile button and the smooth surface of the switch."
+}

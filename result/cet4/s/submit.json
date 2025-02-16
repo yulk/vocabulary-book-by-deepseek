@@ -1,0 +1,6 @@
+{
+  "word": "submit",
+  "analysis": "### 分析词义\n\n**Submit** 是一个动词，意思是“提交”、“服从”或“提出”。它可以指将文件、申请或建议交给某人或某个机构，也可以表示在某种权威或力量面前屈服或顺从。\n\n### 列举例句\n\n1. **例句**: She submitted her resignation to the manager.  \n   **翻译**: 她向经理提交了辞职信。  \n2. **例句**: The defendant was forced to submit to the court's decision.  \n   **翻译**: 被告被迫服从法庭的判决。  \n3. **例句**: He submitted a proposal for the new project.  \n   **翻译**: 他为新项目提交了一份提案。\n\n### 词根分析\n\n- **词根**: -mit- (来自拉丁语 \"mittere\"，意思是“发送”或“释放”)  \n- **衍生词**:  \n  - **admit**: 承认  \n  - **transmit**: 传输  \n  - **commit**: 承诺，犯罪  \n  - **emit**: 发出，发射  \n  - **permit**: 允许，许可\n\n### 词缀分析\n\n- **前缀**: sub- (表示“在...之下”或“向...之下”)  \n- **后缀**: -it (无特定含义，用于构成动词)  \n- **相同前缀的单词**:  \n  - **subway**: 地铁  \n  - **submerge**: 淹没，潜入水中  \n  - **subordinate**: 下属，次要的  \n- **相同后缀的单词**:  \n  - **emit**: 发出，发射  \n  - **admit**: 承认，允许进入  \n  - **commit**: 承诺，犯罪",
+  "draw_explain": "通过展示一个人在权威人物面前低头或跪下的场景，可以直观地理解'submit'的含义，即服从或使服从。这种视觉线索直接关联到单词的定义，帮助记忆。",
+  "draw_prompt": "A person kneeling down with their head lowered, facing a figure in a position of authority, in a realistic and detailed style."
+}

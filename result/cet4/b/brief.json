@@ -1,0 +1,6 @@
+{
+  "word": "brief",
+  "analysis": "### 分析词义\n\n- **brief** 是一个多义词，主要用作形容词、名词和动词。\n  - **形容词**：表示“简短的”、“简洁的”、“短暂的”。\n  - **名词**：表示“简报”、“概要”。\n  - **动词**：表示“简要介绍”、“简述”。\n\n### 列举例句\n\n1. **形容词用法**：\n   - The lawyer gave a brief summary of the case.  \n     （律师对案件进行了简要总结。）\n   - She had only a brief conversation with him before leaving.  \n     （她离开前只和他进行了简短的交谈。）\n2. **名词用法**：\n   - The manager asked for a brief of the project before the meeting.  \n     （经理在会议前要求提供项目简报。）\n3. **动词用法**：\n   - The coach will brief the team on their strategy before the game.  \n     （教练将在比赛前向团队简要介绍他们的策略。）\n\n### 词根分析\n\n- **词根**：brief来源于拉丁语“brevis”，意思是“短的”或“简洁的”。这个词根在英语中保留了其原始意义，并衍生出多个相关词汇。\n- **衍生词汇**：例如，“brevity”（简洁）和“abbreviate”（缩写）都与brief有关，体现了其“短小、简洁”的含义。\n\n### 词缀分析\n\n- **后缀**：在形容词和名词形式中，brief没有明显的后缀变化，保持了原始的拉丁形式。然而，当它作为动词使用时，形式上没有明显的词缀变化，仍然保持了原始的形式。这表明brief是一个相对稳定的词汇，没有经历太多的形态变化。其他带有类似意义的词汇如“concise”（简洁的）也采用了类似的结构，保持了简洁性。这种稳定性使得brief在不同语境中都能保持其核心意义不变。此外，brief还可以与其他词汇结合形成新的表达方式，如“briefing”（简报会）和“briefcase”（公文包），这些组合进一步扩展了其应用范围和表达能力。总之，brief通过其稳定的形态和灵活的应用，成为了英语中一个重要的基础词汇。",
+  "draw_explain": "通过展示一个快速移动的时钟和一封简短的信件，这个prompt利用了'brief'的两个主要含义：简短和短暂。时钟的快速移动象征着时间的短暂，而简短的信件则直接关联到简短的内容。这种视觉组合能够有效地帮助记忆单词'brief'的双重含义。",
+  "draw_prompt": "A rapidly moving clock with a short letter placed next to it, both in a minimalist and modern art style."
+}

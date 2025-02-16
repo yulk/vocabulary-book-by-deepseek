@@ -1,0 +1,6 @@
+{
+  "word": "index",
+  "analysis": "### 分析词义\n\n\"Index\" 是一个多义词，主要含义包括：\n\n1. **名词**：\n   - **索引**：在书籍、数据库等中用于快速查找信息的列表。\n   - **指标**：用于衡量或表示某种情况或趋势的数值。\n   - **指数**：在数学或金融领域中表示一组数值的平均值或变化趋势。\n   - **食指**：人体手部的第二根手指。\n\n2. **动词**：\n   - **编入索引**：将信息编入索引以便查找。\n   - **指示**：用食指指向某物。\n\n### 列举例句\n\n1. **索引**：\n   - The book has a comprehensive index at the back. (这本书在后面有一个全面的索引。)\n2. **指标**：\n   - The unemployment rate is an important economic index. (失业率是一个重要的经济指标。)\n3. **指数**：\n   - The stock market index rose sharply today. (今天股市指数大幅上涨。)\n4. **食指**：\n   - She pointed at the map with her index finger. (她用食指指着地图。)\n5. **编入索引**：\n   - The website is being indexed by search engines. (这个网站正在被搜索引擎编入索引。)\n6. **指示**：\n   - He indexed the direction to the nearest exit. (他用食指指示了最近的出口方向。)\n\n### 词根分析\n\n- 词根: \"dex-\" 源自拉丁语 \"digitus\"，意思是“手指”。在 \"index\" 中，这个词根与“手指”相关，特别是“食指”的意思。\n- 衍生词: \"dexterity\"（灵巧）、\"digit\"（数字）、\"digital\"（数字的）等。这些词都与“手指”或“操作”有关。",
+  "draw_explain": "选择'索引'作为视觉线索，因为它直接关联到书籍中的索引页，这是一个常见的、易于想象的场景。通过展示一个打开的书本，其中一页显示着字母和数字的索引，可以直观地帮助记忆'index'这个词的含义。简洁的图像风格和明确的场景设置有助于快速联想和记忆。",
+  "draw_prompt": "An open book with a page showing an alphabetical and numerical index, featuring clean typography and minimalistic design."
+}

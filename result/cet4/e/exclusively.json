@@ -1,0 +1,6 @@
+{
+  "word": "exclusively",
+  "analysis": "### 分析词义\n\n**Exclusively** 是一个副词，意思是“仅仅”、“只”、“专门地”或“排他性地”。它强调某事物或情况是唯一的、不包括其他任何事物。\n\n### 列举例句\n\n1. **例句**: This offer is exclusively for our premium members.  \n   **中文翻译**: 这个优惠仅面向我们的高级会员。\n\n2. **例句**: She exclusively uses organic products for her skincare routine.  \n   **中文翻译**: 她的护肤程序只使用有机产品。\n\n3. **例句**: The restaurant serves Italian food exclusively.  \n   **中文翻译**: 这家餐厅只供应意大利菜。\n\n### 词根分析\n\n- **词根**: *clus-* (来自拉丁语 *claudere*，意思是“关闭”或“包含”)。  \n- **衍生单词**:  \n  - *Inclusive*: 包括的，包含的。  \n  - *Conclude*: 结束，总结。  \n  - *Preclude*: 阻止，排除。  \n  - *Seclude*: 隔离，隐居。  \n  - *Occlude*: 封闭，堵塞。  \n  - *Reclusive*: 隐居的，不爱社交的。  \n\n### 词缀分析\n\n- **前缀**: *ex-* (表示“外部的”或“完全的”)。  \n- **后缀**: *-ive* (形容词后缀) + *-ly* (副词后缀)。  \n- **相同词缀的单词**:  \n  - *Expensive*: 昂贵的。  \n  - *Exhaustive*: 彻底的，详尽的。  \n  - *Exclusive*: (形容词)独有的，排他的。  \n    - Example: The hotel has an exclusive lounge for VIP guests. (这家酒店有一个为VIP客人专设的贵宾休息室。)  \n    - Example: The interview was exclusive to the magazine. (这次采访是杂志独家报道的。)    ",
+  "draw_explain": "通过展示一个场景，其中所有资源或注意力都集中在一个特定对象上，可以直观地理解'exclusively'的含义。这个场景强调了排他性和专注性，与单词的定义'专门地'相符。",
+  "draw_prompt": "A single spotlight shining on a lone object in a dark room, emphasizing its isolation and the complete focus on it."
+}

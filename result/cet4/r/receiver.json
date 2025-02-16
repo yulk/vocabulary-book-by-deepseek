@@ -1,0 +1,6 @@
+{
+  "word": "receiver",
+  "analysis": "### 分析词义\n\n\"Receiver\" 是一个名词，主要有两个常见的意思：\n1. **接收器**：指用于接收信号、信息或物体的设备或装置。例如，收音机、电话听筒等。\n2. **接收者**：指接收某物或某信息的人或物。例如，在法律语境中，receiver 可以指被指定管理破产公司资产的人。\n\n### 列举例句\n1. **技术场景**：  \n   - The satellite dish is an essential receiver for our television.  \n     *卫星天线是我们电视的重要接收器。*  \n2. **日常场景**：  \n   - She handed the package to the receiver at the post office.  \n     *她把包裹递给了邮局的接收者。*  \n3. **法律场景**：  \n   - The court appointed a receiver to manage the company's assets during bankruptcy proceedings.  \n     *法院任命了一位接收者来管理公司在破产程序中的资产。*\n\n### 词根分析\n- **词根**：receive (动词) + -er (表示“做某事的人或物”的后缀)。  \n- **衍生词**：  \n  - Receivable (形容词): 可接受的，可收到的。  \n  - Receipt (名词): 收据，收到。  \n  - Reception (名词): 接待，招待会。  \n  - Receptive (形容词): 善于接受的，开放的。  \n  - Receiving (动名词): 接收的过程或行为。\n\n### 词缀分析\n- **后缀**：-er (表示“做某事的人或物”)。  \n- **相同后缀的单词**：  \n  - Teacher: 教师。  \n  - Player: 玩家。  \n  - Worker: 工人。  \n  - Singer: 歌手。  \n- **前缀/中缀**：无特殊前缀或中缀，receive本身是一个基础动词形式。",
+  "draw_explain": "通过描绘一个典型的收件人形象，即一个人站在门口，手里拿着一个包裹，这种场景直观地展示了'receiver'的含义。包裹作为接收的物品，强调了接收的动作，而门口则象征着接收的地点。整体画面简洁明了，易于记忆。",
+  "draw_prompt": "A person standing at a door, holding a package in their hands, with a mailbox in the background, in a realistic style."
+}

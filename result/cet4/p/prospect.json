@@ -1,0 +1,6 @@
+{
+  "word": "prospect",
+  "analysis": "### 分析词义\n\n**Prospect** 是一个多义词，主要用作名词，表示“前景”、“可能性”或“潜在客户”。它也可以用作动词，表示“勘探”或“寻找”。\n\n- **名词**：\n  - **前景**：指未来可能发生的事情或机会。\n  - **可能性**：指某事发生的可能性。\n  - **潜在客户**：在商业中，指可能成为客户的人。\n\n- **动词**：\n  - **勘探**：指寻找矿物、石油等资源。\n  - **寻找**：指寻找机会或解决方案。\n\n### 列举例句\n\n1. **名词用法**：\n   - The prospect of finding a new job is exciting.  \n     （找到新工作的前景令人兴奋。）\n   - The company has a list of potential prospects for their new product.  \n     （公司有一份新产品的潜在客户名单。）\n   - There is little prospect of rain today.  \n     （今天下雨的可能性很小。）\n\n2. **动词用法**：\n   - The team is prospecting for gold in the mountains.  \n     （团队正在山里勘探金矿。）\n   - He is prospecting for a new business opportunity.  \n     （他正在寻找新的商业机会。）\n\n### 词根分析\n\n- **词根**：*spect*，源自拉丁语 *specere*，意为“看”或“观察”。\n- **衍生单词**：\n  - **inspect**（检查）：in- + spect（看）→ 仔细看。\n  - **respect**（尊重）：re- + spect（看）→ 再次看→ 重视。\n  - **spectator**（观众）：spect + -ator（人）→ 观看的人。\n  - **spectacle**（景象）：spect + -acle（名词后缀）→ 看到的景象。",
+  "draw_explain": "通过展示一个充满希望和未来的场景，这个prompt帮助记忆'prospect'这个词。图像中的人站在高处，俯瞰着广阔的城市景观，象征着未来的展望和前程。这种视觉线索直接关联到'prospect'的定义，即展望或前景。",
+  "draw_prompt": "A person standing on a high vantage point, overlooking a sprawling cityscape at sunrise, with a hopeful and optimistic expression, in a vibrant and detailed style."
+}

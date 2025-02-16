@@ -1,0 +1,6 @@
+{
+  "word": "claim",
+  "analysis": "### 分析词义\n\n**claim** 是一个多义词，主要有以下几种含义：\n\n1. **动词**：声称，断言。指公开声明某事是真实的，尽管可能没有确凿的证据。\n   - 例：He claimed that he had seen a UFO. (他声称他看到了不明飞行物。)\n   \n2. **动词**：要求，索取。指根据权利或法律要求某物或某种待遇。\n   - 例：She claimed compensation for the damage. (她要求赔偿损失。)\n   \n3. **名词**：声明，主张。指某人提出的观点或声明。\n   - 例：His claim about the invention was widely disputed. (他关于发明的声明广受争议。)\n   \n4. **名词**：索赔，要求。指根据权利提出的要求。\n   - 例：The insurance company accepted his claim for the car accident. (保险公司接受了他的车祸索赔。)\n\n### 列举例句\n\n1. **场景一：科学研究**\n   - The scientist made a bold claim about the new discovery. (这位科学家对新发现做出了大胆的声明。)\n   中文翻译：这位科学家对新发现做出了大胆的声明。\n   \n2. **场景二：保险索赔**\n   - After the flood, many residents filed claims with their insurance companies. (洪水过后，许多居民向保险公司提出了索赔。)\n   中文翻译：洪水过后，许多居民向保险公司提出了索赔。\n   \n3. **场景三：法律诉讼**\n   - The lawyer helped the client prepare his claim for damages. (律师帮助客户准备损害赔偿的索赔。)\n   中文翻译：律师帮助客户准备损害赔偿的索赔。\n   \n4. **场景四：个人声明**\n   - She claimed that she had never met the suspect before. (她声称她以前从未见过那个嫌疑人。)\n   中文翻译：她声称她以前从未见过那个嫌疑人。",
+  "draw_explain": "这个prompt通过展示一个人站在高处，手持旗帜，象征着'声称'或'主张'某事。旗帜上的文字或图案可以代表具体的声明内容，帮助记忆claim的含义。同时，背景中的山峰和云彩增加了视觉层次感，使得图像更加生动和易于记忆。",
+  "draw_prompt": "A person standing on a high peak, holding a flag with bold text or patterns, against a backdrop of mountains and clouds."
+}

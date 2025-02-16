@@ -1,0 +1,6 @@
+{
+  "word": "spark",
+  "analysis": "### 分析词义\n\n\"Spark\" 是一个多义词，主要有以下几种含义：\n1. **名词**：火花，火星。例如：电火花、火花的闪烁。\n2. **动词**：引发，激发。例如：激发兴趣、引发讨论。\n3. **名词**：一点点，微量。例如：一丝希望、一点灵感。\n\n### 列举例句\n\n1. **场景一：自然现象**\n   - The spark from the campfire flew into the air.\n   - 篝火的火花飞向空中。\n2. **场景二：激发兴趣**\n   - Her speech sparked a lively discussion among the students.\n   - 她的演讲在学生中引发了热烈的讨论。\n3. **场景三：灵感**\n   - A spark of inspiration struck him while he was taking a walk.\n   - 他在散步时突然有了灵感。\n\n### 词根分析\n\n- **词根**：spark-（源自中古英语 \"sparken\"，意为“发出火花”）。\n- **衍生词**：sparkle（闪耀），sparkling（闪闪发光的），sparkler（烟火）。\n\n### 词缀分析\n\n- **前缀**：无。\n- **后缀**：无。\n- **相关词缀的单词**：无特别相关词缀的单词。\n\n### 发展历史和文化背景\n\n\"Spark\" 源自中古英语 \"sparken\"，最初指的是“小火花”或“火星”。随着语言的发展，其含义扩展到比喻性的“引发”或“激发”，常用于描述激发兴趣、灵感或讨论的行为。在现代英语中，\"spark\" 常用于科技领域，如“电子火花”或“数据火花”（data spark）等术语中。在文化上，\"spark\" 常被用来象征希望、灵感或创新的开始。例如，在电影《星际穿越》中，“spark of humanity”被用来形容人类希望的火种。",
+  "draw_explain": "通过使用火花和火星的视觉形象，这个prompt能够直接与单词'spark'的定义相关联。火花和火星是日常生活中常见的现象，易于想象和记忆。使用明亮的橙色和红色来描述火花的颜色，以及强调其微小但强烈的特性，有助于强化记忆。",
+  "draw_prompt": "A tiny, glowing orange and red spark flying through the air, with a bright, intense light, surrounded by a dark background."
+}

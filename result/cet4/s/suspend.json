@@ -1,0 +1,6 @@
+{
+  "word": "suspend",
+  "analysis": "### 分析词义\n\n\"Suspend\" 是一个动词，主要含义包括：\n1. **暂停**：暂时停止某项活动或状态。\n2. **悬挂**：将某物挂起或吊起。\n3. **中止**：暂时停止某人的权利、职务等。\n4. **悬浮**：使某物处于悬浮状态，通常指在液体或气体中。\n\n### 列举例句\n\n1. **场景一：学校**  \n   - The teacher decided to suspend the class for a short break.  \n     - 老师决定暂停课程，休息一会儿。  \n2. **场景二：工作**  \n   - The manager suspended the employee for misconduct.  \n     - 经理因不当行为暂停了该员工的职务。  \n3. **场景三：科学实验**  \n   - The scientist suspended the particles in water to observe their behavior.  \n     - 科学家将颗粒悬浮在水中以观察它们的行为。\n\n### 词根分析\n\n- **词根**：-pend- (来自拉丁语 \"pendere\"，意为“悬挂”或“支付”)。  \n- **衍生词**：  \n  - **pendulum**（钟摆）  \n  - **depend**（依赖）  \n  - **independent**（独立的）  \n  - **expend**（花费）  \n  - **compensate**（补偿）等。\n\n### 词缀分析\n\n- **前缀**：sus- (来自拉丁语 \"sub-\"，意为“在下面”或“从下面”)。  \n- **后缀**：-ed (过去式或过去分词形式)。  \n- **相同前缀的单词**：  \n  - sustain（维持）  \n  - suspect（怀疑）等。  \n- **相同后缀的单词**：  \n  - interested（感兴趣的）等。",
+  "draw_explain": "选择悬挂的物体作为视觉线索，因为'suspend'的一个主要含义是'吊，悬'，这使得悬挂的物体成为直接关联的图像。同时，使用现代艺术风格和单色背景，可以突出物体的悬挂状态，使其更加显眼和易于记忆。",
+  "draw_prompt": "A modern art style image of a single object hanging from a rope, against a monochrome background."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "credit",
+  "analysis": "### 分析词义\n\n**Credit** 是一个多义词，主要含义包括：\n\n1. **信用、信贷**：指在经济交易中，一方无需立即支付现金即可获得商品或服务的能力。例如，信用卡就是基于信用的一种支付方式。\n2. **学分**：在教育系统中，指完成某一课程或项目所获得的分数或认可。\n3. **荣誉、赞誉**：指对某人或某事的认可或称赞。例如，电影的片尾通常会列出“Credit”以表彰参与制作的人员。\n4. **信任、相信**：指对某人或某事的信任或信赖。\n\n### 列举例句\n\n1. **经济交易**：\n   - I bought this laptop on credit.  \n     （我通过信用购买了这台笔记本电脑。）\n2. **教育系统**：\n   - She earned 3 credits for her history class.  \n     （她因为历史课获得了3个学分。）\n3. **荣誉与赞誉**：\n   - The director gave credit to the entire crew for the success of the film.  \n     （导演将电影的成功归功于整个剧组的努力。）\n4. **信任与相信**：\n   - I can't believe him; he has no credit in my eyes.  \n     （我不相信他；他在我眼里毫无信用可言。）\n\n### 词根分析\n\n- **词根**：cred-  \n  - 源自拉丁语“credere”，意为“相信、信任”。  \n- **衍生词**：  \n  - credible (可信的)  \n  - credulous (轻信的)  \n  - credentials (证书、资历)  \n  - accredit (授权、认可)  \n  - discredit (使丧失信誉)  \n  - incredible (难以置信的)  \n  - creed (信条)  \n  - credo (信条)  \n  - creditworthiness (信用度)  \n  - creditable (值得称赞的)  \n  - credence (信任、凭证)  ",
+  "draw_explain": "通过展示一个信用卡的图像，可以直观地帮助记忆'credit'这个单词的含义，因为信用卡是信用贷款和信用的具体体现。图像简洁明了，易于与单词含义相关联。",
+  "draw_prompt": "A sleek, modern credit card with a shiny surface, placed on a minimalist desk, surrounded by soft light and a clean, uncluttered background."
+}

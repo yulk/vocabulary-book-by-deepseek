@@ -1,0 +1,6 @@
+{
+  "word": "doubtless",
+  "analysis": "### 分析词义\n\n\"Doubtless\" 是一个副词，意思是“无疑地”或“肯定地”。它表示某事非常确定或毫无疑问。\n\n### 列举例句\n\n1. **场景：日常对话**\n   - \"He will doubtless arrive on time.\"  \n     - 他肯定会准时到达。\n   \n2. **场景：学术写作**\n   - \"The results of this experiment are doubtless significant.\"  \n     - 这个实验的结果无疑是非常重要的。\n   \n3. **场景：新闻报道**\n   - \"The team's victory was doubtless due to their hard work.\"  \n     - 团队的胜利无疑是由于他们的辛勤工作。\n\n### 词根分析\n\n- **词根：doubt**  \n  \"Doubt\" 是动词，意思是“怀疑”或“不确定”。\"Doubtless\" 中的 \"doubt\" 是词根，表示与“怀疑”相关的概念。\n  \n- **衍生单词：**  \n  - doubtful (形容词): 可疑的，不确定的  \n  - undoubtedly (副词): 无疑地，肯定地  \n  - doubter (名词): 怀疑者  \n\n### 词缀分析\n\n- **后缀：-less**  \n  \"Doubtless\" 中的 \"-less\" 是一个后缀，表示“没有”或“无”的意思。在这里，它表示“没有怀疑”或“毫无疑问”。  \n  \n- **相同词缀的单词：**  \n  - fearless (无畏的)  \n  - countless (无数的)  \n  - homeless (无家可归的)  \n\n### 发展历史和文化背景\n\n\"Doubtless\" 这个词源于古英语 \"dōtelīce\"，其中 \"dōte\" 是 \"dōhte\"（即 \"doubt\"）的变体，而 \"-līce\" 是副词后缀。在中世纪英语中，这个词逐渐演变为现代形式 \"doubtless\"。在英语文学中，尤其是在莎士比亚的作品中，这个词经常被用来表达对某事的确定性。在现代英语中，它仍然被广泛使用，尤其是在正式写作和演讲中。",
+  "draw_explain": "通过展示一个明确无误的标志或符号，如一个巨大的绿色勾号，来代表'无疑地'或'很可能'的概念。这种视觉线索简单直观，能够直接与单词的含义相关联，帮助记忆。",
+  "draw_prompt": "A massive green checkmark symbolizing certainty and high probability, set against a clean white background, minimalist and bold."
+}

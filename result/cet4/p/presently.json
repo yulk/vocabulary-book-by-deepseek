@@ -1,0 +1,6 @@
+{
+  "word": "presently",
+  "analysis": "### 分析词义\n\"Presently\" 是一个副词，主要有两个常见的意思：\n1. **不久、很快**：表示某事即将发生，通常用于描述未来的时间点。\n2. **目前、现在**：表示当前的状态或情况。\n\n### 列举例句\n1. **不久、很快**：\n   - \"She will be here presently.\"  \n     （她很快就会到这里。）\n   - \"The doctor is presently attending to another patient.\"  \n     （医生现在正在照顾另一位病人。）\n   \n2. **目前、现在**：\n   - \"Presently, I am working on a project.\"  \n     （目前，我正在做一个项目。）\n   - \"The situation is presently under control.\"  \n     （目前，情况在控制之中。）\n\n### 词根分析\n\"Presently\" 的词根是 \"present\"，源自拉丁语 \"praesens\"，意思是“现在的、存在的”。词根 \"present\" 可以衍生出许多其他单词，如：\n- **Presentation** (名词)：演示、展示。\n- **Presentable** (形容词)：适合公开的、体面的。\n- **Presentiment** (名词)：预感。\n- **Presence** (名词)：存在、出席。\n- **Presentness** (名词)：现在性、现时性。\n- **Presented** (动词过去式)：呈现、提交。\n- **Presenting** (动词现在分词)：正在呈现。\n- **Presents** (名词复数)：礼物。\n- **Presented** (动词过去分词)：被呈现的。\n- **Presenting** (动词现在分词)：正在呈现的。",
+  "draw_explain": "通过展示一个时钟和一个正在进行的场景，时钟显示当前时间，而场景中的人物正在进行某种活动，这样的视觉线索能够帮助记忆'presently'的两个含义：'一会儿'和'目前'。时钟强调时间的概念，而正在进行的活动则直接关联到'目前'的状态。",
+  "draw_prompt": "A clock showing the current time, with a person in the middle of an activity, such as reading a book or cooking, in a realistic and detailed style."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "cupboard",
+  "analysis": "### 分析词义\n\"Cupboard\" 是一个名词，指的是一种用于存放食物、餐具、衣物或其他物品的家具。它通常有一个或多个门，内部有架子或抽屉。\n\n### 列举例句\n1. **场景一：厨房**  \n   - **例句**: \"She opened the cupboard to get a plate for dinner.\"  \n   - **中文翻译**: \"她打开橱柜，为晚餐拿一个盘子。\"\n\n2. **场景二：卧室**  \n   - **例句**: \"He stored his winter clothes in the cupboard to save space.\"  \n   - **中文翻译**: \"他把冬天的衣服存放在橱柜里以节省空间。\"\n\n3. **场景三：办公室**  \n   - **例句**: \"The office cupboard was filled with old files and documents.\"  \n   - **中文翻译**: \"办公室的橱柜里装满了旧文件和文档。\"\n\n### 词根分析\n- **词根**: \"cup\" + \"board\"  \n  - \"cup\" 源自拉丁语 \"cupa\"，意为“桶”或“容器”。  \n  - \"board\" 源自中古英语 \"bord\"，意为“木板”或“表面”。  \n- **衍生词**:  \n  - Cup (杯子)  \n  - Board (木板，董事会)  \n  - Cupping (拔罐)  \n  - Boarding (寄宿)\n\n### 词缀分析\n- **词缀**: 无明显前缀或后缀。  \n- **相同词缀的单词**: N/A（此单词无明显词缀）。\n\n### 发展历史和文化背景\n- **造词来源**: \"Cupboard\" 最早出现在16世纪的英语中，最初指的是一种带有搁板的木箱，用于存放杯子和其他餐具。随着时间的推移，其用途扩展到存放其他物品。在欧美文化中，橱柜是家庭中常见的家具，尤其是在厨房中用于存放食物和餐具。在英国英语中，\"cupboard\" 常指厨房中的储物柜，而在美国英语中，有时也指衣柜（closet）。\n- **文化内涵**: 橱柜象征着家庭生活的组织和秩序，是日常生活中不可或缺的一部分。在许多家庭中，橱柜不仅是储物的地方，也是展示家庭文化和个人风格的空间。例如，有些人会在橱柜里摆放装饰品或纪念品。",
+  "draw_explain": "这个prompt通过描述一个典型的厨房场景，突出了碗柜的特征，如木质材料和放置在里面的碗碟，这些视觉线索能够帮助记忆'cupboard'这个单词。",
+  "draw_prompt": "A wooden cupboard in a kitchen, filled with neatly stacked plates and bowls, illuminated by soft natural light."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "schedule",
+  "analysis": "### 分析词义\n\n\"Schedule\" 是一个名词和动词，通常指时间表、日程安排或计划。作为名词，它表示预定的活动或任务的时间表；作为动词，它表示安排或预定某事在特定时间发生。\n\n### 列举例句\n\n1. **场景一：工作**\n   - **例句**: \"I have a meeting scheduled for 3 PM today.\"\n   - **中文翻译**: \"我今天下午3点安排了一个会议。\"\n   \n2. **场景二：旅行**\n   - **例句**: \"The train schedule is available on the website.\"\n   - **中文翻译**: \"火车时刻表可以在网站上找到。\"\n   \n3. **场景三：学校**\n   - **例句**: \"The professor posted the exam schedule on the bulletin board.\"\n   - **中文翻译**: \"教授在公告板上张贴了考试时间表。\"\n\n### 词根分析\n\n- **词根**: \"sched-\" 源自拉丁语 \"scheda\"，意思是“纸片”或“记录”。这个词根与记录和时间安排有关。\n- **衍生单词**: \n  - **scheduled**: 形容词，表示“预定的”或“按计划的”。\n  - **scheduler**: 名词，表示“调度员”或“日程安排软件”。\n  - **reschedule**: 动词，表示“重新安排”或“改期”。\n\n### 词缀分析\n\n- **后缀**: \"-ule\" 是一个后缀，表示“小”或“次要的”，在这里用于构成名词。\n- **相同后缀的单词**: \n  - **modulet**: 小模块。\n  - **globule**: 小球体。",
+  "draw_explain": "通过展示一个包含日期、时间和事件的计划表，用户可以直观地理解'schedule'的含义。计划表上的细节如日期和时间线，以及不同的事件安排，能够帮助用户将单词与其具体含义紧密联系起来。",
+  "draw_prompt": "A detailed visual representation of a daily planner with dates, times, and various events neatly organized in a grid format, featuring a clean and modern design with bold headings and colorful event markers."
+}

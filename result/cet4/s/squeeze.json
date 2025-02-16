@@ -1,0 +1,6 @@
+{
+  "word": "squeeze",
+  "analysis": "### 分析词义\n\n**squeeze** 是一个动词，意思是“挤压”、“紧握”或“压榨”。它可以指用力量将物体压缩或压紧，也可以指在经济上或情感上施加压力。\n\n### 列举例句\n\n1. **场景一：日常生活中的挤压动作**\n   - **例句**: She squeezed the lemon to get the juice out.\n   - **中文翻译**: 她挤压柠檬以取出汁液。\n\n2. **场景二：经济压力**\n   - **例句**: The company had to squeeze its budget to make ends meet.\n   - **中文翻译**: 公司不得不压缩预算以维持收支平衡。\n\n3. **场景三：情感上的压力**\n   - **例句**: He gave her a tight squeeze when they met at the airport.\n   - **中文翻译**: 他们在机场见面时，他紧紧地拥抱了她。\n\n### 词根分析\n\n- **词根**: *sque* (来自古英语 *scrīcan*，意为“滑动”或“滑行”)。这个根与“滑动”或“滑行”有关，可能与挤压时的动作有关。\n- **衍生单词**: 与 *sque* 相关的单词较少，但 *squeeze* 本身是一个常用的动词。\n\n### 词缀分析\n\n- **前缀**: 无明显前缀。\n- **后缀**: *-eze* (表示动作的完成或状态)。这个后缀在英语中常用于表示动作的完成，如 *freeze* (冻结)、*please* (使高兴)。\n- **相同词缀的单词**: freeze, please, sneeze.\n\n### 发展历史和文化背景\n\n- **造词来源**: *squeeze* 源自中古英语 *squēsen*，进一步追溯到古英语 *scrīcan*，意为“滑动”或“滑行”。这个词最初可能与滑动或滑行的动作有关，后来演变为表示挤压的动作。在现代英语中，*squeeze* 广泛用于描述物理上的挤压动作以及经济或情感上的压力。\n   - **文化内涵**: 在欧美文化中，*squeeze* 常用于描述亲密的拥抱或经济上的紧缩政策，反映了人们在情感和经济上的压力和应对方式。",
+  "draw_explain": "这个prompt通过描绘一个柠檬被挤压的场景，直观地展示了'squeeze'的动作和含义。柠檬的形状和质地使得挤压的动作非常明显，且易于与单词'squeeze'产生联想。",
+  "draw_prompt": "A ripe lemon being squeezed with visible juice droplets forming on its surface, set against a clean white background, in a realistic photo style."
+}

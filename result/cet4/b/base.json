@@ -1,0 +1,6 @@
+{
+  "word": "base",
+  "analysis": "### 分析词义\n\"Base\" 是一个多义词，可以作为名词、动词和形容词使用。\n\n1. **名词**：\n   - 基础、底部、基地：指某物的支撑部分或起点。\n   - 军事基地：指军队驻扎和训练的地方。\n   - 基数：在数学中，指一个数系统中的基本单位。\n\n2. **动词**：\n   - 基于、以...为基础：表示某事物建立在某种基础或依据之上。\n   - 降低、减弱：指使某物变得不那么强烈或重要。\n\n3. **形容词**：\n   - 卑鄙的、下流的：形容人或行为不道德或不正当。\n\n### 列举例句\n1. **名词**：\n   - The base of the statue is made of marble. (雕像的底座是由大理石制成的。)\n   - The soldiers returned to their base after the mission. (士兵们在任务结束后返回了基地。)\n   - In the number system, ten is the base. (在数制中，十是基数。)\n\n2. **动词**：\n   - This theory is based on extensive research. (这个理论是基于广泛的研究。)\n   - The bad weather has greatly reduced the team's morale. (恶劣的天气大大降低了团队的士气。)\n\n3. **形容词**：\n   - It was a base act to betray your friend. (背叛朋友是一种卑鄙的行为。)\n\n### 词根分析\n- **词根**：base-（源自拉丁语 \"basis\"，意为基础）。\n- **衍生单词**：basic（基本的），basement（地下室），baseline（基线），basis（基础）。\n\n### 词缀分析\n- **前缀**：无特殊前缀。\n- **后缀**：无特殊后缀。但 \"basic\" 中的 \"-ic\" 是形容词后缀，表示“...的”。例如：basic（基本的），historic（历史的），electric（电的）。",
+  "draw_explain": "通过展示一个建筑物的基础部分和一个军事基地的图像，可以直观地帮助记忆'base'这个单词的两个主要含义：基础和基地。建筑物的基础部分直接关联到'基础'的含义，而军事基地则直接关联到'基地'的含义。这种视觉线索简洁且易于理解，能够有效地帮助记忆。",
+  "draw_prompt": "A close-up view of a building's foundation, showing concrete and steel reinforcements, alongside a satellite image of a military base with rows of barracks and aircraft."
+}

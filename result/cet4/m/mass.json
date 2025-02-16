@@ -1,0 +1,6 @@
+{
+  "word": "mass",
+  "analysis": "### 分析词义\n\"Mass\" 是一个多义词，主要含义包括：\n1. **名词**：指大量、群体或团块。例如，人群、物质的质量等。\n2. **形容词**：指大规模的或大量的。例如，大规模生产。\n3. **宗教**：指弥撒，一种基督教仪式。\n\n### 列举例句\n1. **名词用法**：\n   - The crowd gathered in the town square for the mass protest.  \n     （人群聚集在城镇广场进行大规模抗议。）\n   \n2. **形容词用法**：\n   - The factory has a mass production line for cars.  \n     （工厂有一条大规模的汽车生产线。）\n   \n3. **宗教用法**：\n   - They attended the Sunday mass at the local church.  \n     （他们参加了当地教堂的周日弥撒。）\n\n### 词根分析\n- **词根**：\"mass-\" 源自拉丁语 \"massa\"，意为“团块”或“块状物”。\n- **衍生词**：\n  - Massive (形容词): 巨大的，大量的。\n  - Massacre (名词): 大屠杀。\n  - Massif (名词): 山丘或山脉的主体部分。\n\n### 词缀分析\n- **前缀**：无前缀。\n- **后缀**：无后缀。  \n  但在衍生词中，如 \"massive\"，后缀 \"-ive\" 表示形容词性质。  \n- **相同后缀的单词**：active, creative, sensitive.  \n  这些单词都使用 \"-ive\" 后缀来表示形容词性质。  \n  例如: actively (副词), creativity (名词)。  \n  这些单词都与某种特性或行为有关联。例如: actively (积极地), creativity (创造力)。",
+  "draw_explain": "选择'团'这个定义，因为'团'是一个具体的、视觉上可识别的形状，易于与'mass'这个词相关联。通过描述一个由许多小点组成的团状物，可以直观地展示'mass'的含义，即众多事物的聚集。",
+  "draw_prompt": "A dense, round cluster of tiny dots, resembling a compact mass, with a soft and fuzzy appearance."
+}

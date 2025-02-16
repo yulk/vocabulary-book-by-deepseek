@@ -1,0 +1,6 @@
+{
+  "word": "feedback",
+  "analysis": "### 分析词义\n\n**Feedback** 是一个名词，意思是“反馈”或“回应”。它通常指从某人或某事那里得到的意见、评论或反应，用于评估或改进某种产品、服务、表现等。\n\n### 列举例句\n\n1. **场景：工作中的反馈**\n   - **例句：** My boss gave me some valuable feedback on my presentation.\n   - **中文翻译：** 我的老板对我的演讲给出了一些有价值的反馈。\n\n2. **场景：学习中的反馈**\n   - **例句：** The teacher asked the students to provide feedback on the new teaching method.\n   - **中文翻译：** 老师要求学生们对新的教学方法提供反馈。\n\n3. **场景：产品测试中的反馈**\n   - **例句：** We collected feedback from users about the new app's usability.\n   - **中文翻译：** 我们收集了用户对新应用程序可用性的反馈。\n\n### 词根分析\n\n- **词根：feed**（喂养，供给）+ **后缀：back**（回）→ **反馈**。\n- **衍生单词：** \n  - **feedbacker**（提供反馈的人）\n  - **feedback loop**（反馈循环）\n\n### 词缀分析\n\n- **后缀：back**，表示“回”或“向后”。\n- **相同后缀的单词：** \n  - **background**（背景）\n  - **backward**（向后）\n  - **backbone**（脊梁）\n\n### 发展历史和文化背景\n\n- **造词来源：** \"Feedback\" 这个词最早出现在20世纪初的科学和工程领域，特别是在电子工程中，用来描述信号的回传过程。后来，这个词被广泛应用于各个领域，包括教育、商业和心理学等。在现代社会中，反馈被视为一种重要的沟通工具，用于改进和优化各种系统和过程。",
+  "draw_explain": "通过展示一个反馈循环的图像，可以帮助记忆'feedback'这个词。图像中包含一个输入信号被接收、处理并返回的过程，这种视觉线索直观地展示了反馈的概念。",
+  "draw_prompt": "A visual representation of a feedback loop, showing an input signal being received, processed, and returned as an output, with arrows indicating the flow of information. Use simple, clean lines and a modern, minimalist style."
+}
