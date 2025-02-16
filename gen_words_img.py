@@ -30,6 +30,8 @@ def process_word_file(file_path: str) -> None:
             continue
         
         first_letter = word[0].lower()
+        #if first_letter != "b":
+        #    continue
         img_dir = os.path.join("result", "cet4_imgs", first_letter)
         
         # 确保目录存在

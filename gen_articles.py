@@ -14,6 +14,7 @@ article_dir = 'result/cet4_articles'
 
 for letter in [chr(ord('a') + i) for i in range(26)]:
     upper_letter = letter.upper()
+    lower_letter = letter.lower()
     json_path = os.path.join(word_analysis_dir, f'{upper_letter}.json')
     word_data_path = os.path.join(word_data_dir, f'{upper_letter}.json')
 
@@ -44,6 +45,10 @@ tags:
     - cet4
 ---
 """
+    content += "\n## 索引\n\n"
+    for le in [chr(ord('a') + i) for i in range(26)]:
+        title = f"**四级词汇-{le}开头单词**" if le == letter else f"四级词汇-{le}开头单词"
+        content += f"- [{title}](/2025/02/11/cet4-{le}/)\n"
     content += "\n"
 
     for i in range(0, len(words_ana_data)):
@@ -62,7 +67,7 @@ tags:
 
 {word['draw_explain']}
 
-![{word['word']}](../cet4_imgs/{letter}/{word['word']}.jpg)
+![{word['word']}](/imgs/cet4/{letter}/{word['word']}.jpg)
 
 """
 
