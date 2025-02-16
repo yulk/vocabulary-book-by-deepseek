@@ -35,17 +35,27 @@
 
 ## Run
 
-**串行处理**
+**cet4 原始单词数据路径：**
+
+```
+data/cet4/
+```
+
+**调用DeepSeek生成单词解释信息**
+
+- 串行处理
+
 ```
 ./prun.sh process_cet4_words.py
 ```
 
-**只处理一个文件**
+- 只处理一个文件
+
 ```
 ./prun.sh process_cet4_words.py A.json
 ```
 
-**并发处理所有文件**
+- 并发处理所有文件
 
 ```bash
 for letter in {A..Z}; do 
@@ -54,7 +64,21 @@ for letter in {A..Z}; do
 done
 ```
 
-## 需求
+**生成每个单词的助记图像**
+
+```
+./prun.sh gen_words_img.py
+```
+
+**生成文章**
+
+```
+./prun.sh gen_articles.py
+```
+
+## Cline任务
+
+本项目 80% 以上代码采用 Cline + DeepSeek-R1-16b(本地部署) 自动编码完成。
 
 Cline 任务提示词如下：
 
