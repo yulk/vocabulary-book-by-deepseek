@@ -55,6 +55,7 @@ word_system_prompt = """
 - 要求使用简单的词汇，100 个单词以内。
 - 英文故事后面附带对应的中文翻译。
 """
+
 word_draw_system = "You are a helpful assistant designed to output JSON."
 word_draw_prompt = """
 根据以下对单词 "{word}" 的定义和示例，创建一个用于生成有助于记忆该单词的prompt。
@@ -104,115 +105,105 @@ def process_word(word, word_mean):
 
 def word_check_valide(word):
     # 对 words 做一次合法性校验，确保每个单词都有 word 和 mean 、phonetic_symbol字段。每个单词均由小写字母或大写字母组成
-    if not word.get('word') or not word.get('mean') or not word.get('phonetic_symbol'):
+    if not 'word' in word.keys()  or not 'translations' in word.keys() or not 'seq' in word.keys():
         print(f"ERROR:  word({word}) is not valid, skipping...")
         assert False
     word_name =  word['word']
     if word_name.startswith('X-'):
         return
-    if word_name in ["o'clock"]:
+    if word_name in ["o'clock", "Mr."]:
         return
     for c in word_name:
-        if not c.islower() and not c.isupper() and c != '-' and c != '(' and c != ')':
+        if not c.islower() and not c.isupper() and c != '-' and c != '(' and c != ')' and c != '.':
             print(f"ERROR:  word({word}) is not little letter or big letter, skipping...")
             assert False
 
-def main(word_file=None):
+def main(word_letter=None):
     # 确保结果目录存在
-    result_dir = os.path.join(os.getcwd(), 'result', 'cet4')
+    result_dir = os.path.join(os.getcwd(), 'result', 'all')
     if not os.path.exists(result_dir):
         os.makedirs(result_dir, exist_ok=True)
     
-    data_dir = os.path.join(os.getcwd(), 'data', 'cet4')
+    word_list_path = os.path.join(os.getcwd(), 'data', 'all', "global-words.json")
 
-    # 对 words 做一次合法性校验，确保每个单词都有 word 和 mean 、phonetic_symbol字段。每个单词均由小写字母组成
-    for filename in os.listdir(data_dir):
-        if filename.endswith('.json'):
-            # 读取源文件
-            word_list_path = os.path.join(data_dir, filename)
-            logging.info(f"正在处理文件：{word_list_path}")
-            with open(word_list_path, 'r', encoding='utf-8') as f:
-                words = json.load(f)
-            
-            for word in words:
-                word_check_valide(word)
-            logging.info(f"文件校验通过：{word_list_path}")
+    # 对 words 做一次合法性校验，确保每个单词都有 word 和 translations 、seq字段。每个单词均由小写字母组成
+    
+    with open(word_list_path, 'r', encoding='utf-8') as f:
+        words = json.load(f)["words"]
+    
+    for word in words:
+        word_check_valide(word)
+    logging.info(f"文件校验通过：{word_list_path}")
 
     # 处理每个单词
-    for filename in os.listdir(data_dir):
-        if filename.endswith('.json'):
-            if word_file and word_file != filename:
-                continue
-            # 读取源文件
-            word_list_path = os.path.join(data_dir, filename)
-            logging.info(f"processing file: {word_list_path}")
-            with open(word_list_path, 'r', encoding='utf-8') as f:
-                words = json.load(f)
+    for word in words:
+        if word_letter and word['word'][0].lower() != word_letter:
+            continue
+        word_name = word['word']
+        translation = word['translations'][0]
+        word_mean = f"{translation['type']}. {translation['translation']}"
 
-            for word in words:
-                word_name = word['word']
-                word_mean = word['mean']
-                word_phonetic_symbol = word['phonetic_symbol']
+        # write processed word to {result_dir}/{first_letter}/{word_name}.json
+        first_letter = word_name[0].lower()
+        word_file_name = f"{word_name}.json" if word_name[0].islower() else f"{word_name}2.json"
+        word_save_file = os.path.join(result_dir, first_letter, word_file_name)
 
-                # write processed word to {result_dir}/{first_letter}/{word_name}.json
-                first_letter = word_name[0].lower()
-                word_save_file = os.path.join(result_dir, first_letter, f"{word_name}.json")
-                # ignore if file already exists
-                if os.path.exists(word_save_file):
-                    print(f"file already exists: {word_save_file}, skipping...")
-                    continue
-                logging.info(f"processing word: {word_name}")
-                analysis, draw_explain, draw_prompt = process_word(word_name, word_mean)
-                
-                if not os.path.exists(os.path.join(result_dir, first_letter)):
-                    os.makedirs(os.path.join(result_dir, first_letter), exist_ok=True)
-               
-                with open(os.path.join(result_dir, first_letter, f"{word_name}.json"), 'w', encoding='utf-8') as f:
-                    json.dump({
-                        "word": word_name,
-                        "analysis": analysis,
-                        "draw_explain": draw_explain,
-                        "draw_prompt": draw_prompt
-                    }, f, ensure_ascii=False, indent=2)
-               
-            logging.info(f"finish process {word_list_path}")
+        # ignore if file already exists
+        if os.path.exists(word_save_file):
+            print(f"file already exists: {word_save_file}, skipping...")
+            continue
+        logging.info(f"processing word: {word_name}")
+        analysis, draw_explain, draw_prompt = process_word(word_name, word_mean)
+        
+        if not os.path.exists(os.path.join(result_dir, first_letter)):
+            os.makedirs(os.path.join(result_dir, first_letter), exist_ok=True)
+        
+        with open(os.path.join(word_save_file), 'w', encoding='utf-8') as f:
+            json.dump({
+                "word": word_name,
+                "analysis": analysis,
+                "draw_explain": draw_explain,
+                "draw_prompt": draw_prompt
+            }, f, ensure_ascii=False, indent=2)
+        
+    logging.info(f"finish process {word_list_path}")
     
     # 合并所有结果 data/cet4/{letter}.json + result/cet4/{letter}/{word}.json -> result/cet4/{letter}.json
-    for filename in os.listdir(data_dir):
-        if filename.endswith('.json'):
-            # 读取源文件
-            word_list_path = os.path.join(data_dir, filename)
-            logging.info(f"processing file: {word_list_path}")
-            with open(word_list_path, 'r', encoding='utf-8') as f:
-                words = json.load(f)
+    # for filename in os.listdir(data_dir):
+    #     if filename.endswith('.json'):
+    #         # 读取源文件
+    #         word_list_path = os.path.join(data_dir, filename)
+    #         logging.info(f"processing file: {word_list_path}")
+    #         with open(word_list_path, 'r', encoding='utf-8') as f:
+    #             words = json.load(f)
  
-            processed_words = []
-            for word in words:
-                word_name = word['word']
-                word_mean = word['mean']
-                word_phonetic_symbol = word['phonetic_symbol']
+    #         processed_words = []
+    #         for word in words:
+    #             word_name = word['word']
+    #             word_mean = word['mean']
+    #             word_phonetic_symbol = word['phonetic_symbol']
                 
-                word_file_name = f"{word_name}.json" if word_name[0].islower() else f"{word_name}2.json"
-                word_file = os.path.join(result_dir, word_name[0].lower(), word_file_name)
-                if not os.path.exists(word_file):
-                    print(f"file not exists: {word_file}, skipping...")
-                    continue
-                with open(word_file, 'r', encoding='utf-8') as f:
-                    processed_word = json.load(f)
-                    assert word_name == processed_word['word'], f"word_name({word_name}) != processed_word['word']({processed_word['word']})"
-                    word['analysis'] = processed_word['analysis']
-                    word['draw_explain'] = processed_word['draw_explain']
-                    word['draw_prompt'] = processed_word['draw_prompt']
-                    processed_words.append(word)
+    #             word_file_name = f"{word_name}.json" if word_name[0].islower() else f"{word_name}2.json"
+    #             word_file = os.path.join(result_dir, word_name[0].lower(), word_file_name)
+    #             if not os.path.exists(word_file):
+    #                 print(f"file not exists: {word_file}, skipping...")
+    #                 continue
+    #             with open(word_file, 'r', encoding='utf-8') as f:
+    #                 processed_word = json.load(f)
+    #                 assert word_name == processed_word['word'], f"word_name({word_name}) != processed_word['word']({processed_word['word']})"
+    #                 word['analysis'] = processed_word['analysis']
+    #                 word['draw_explain'] = processed_word['draw_explain']
+    #                 word['draw_prompt'] = processed_word['draw_prompt']
+    #                 processed_words.append(word)
 
-            # 保存结果到对应字母目录
-            result_path = os.path.join(result_dir, filename)
-            with open(result_path, 'w', encoding='utf-8') as f:
-                json.dump(processed_words, f, ensure_ascii=False, indent=2)
-            logging.info(f"finish process merge {word_list_path}")
+    #         # 保存结果到对应字母目录
+    #         result_path = os.path.join(result_dir, filename)
+    #         with open(result_path, 'w', encoding='utf-8') as f:
+    #             json.dump(processed_words, f, ensure_ascii=False, indent=2)
+    #         logging.info(f"finish process merge {word_list_path}")
     
     logging.info(f"finish process all files")
 
 if __name__ == "__main__":
-    word_file = sys.argv[1] if len(sys.argv) > 1 else None
-    main(word_file)
+    word_letter = sys.argv[1] if len(sys.argv) > 1 else None
+    main(word_letter)
