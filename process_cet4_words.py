@@ -177,7 +177,7 @@ def main(word_file=None):
                
             logging.info(f"finish process {word_list_path}")
     
-    # 合并所有结果
+    # 合并所有结果 data/cet4/{letter}.json + result/cet4/{letter}/{word}.json -> result/cet4/{letter}.json
     for filename in os.listdir(data_dir):
         if filename.endswith('.json'):
             # 读取源文件
@@ -192,13 +192,14 @@ def main(word_file=None):
                 word_mean = word['mean']
                 word_phonetic_symbol = word['phonetic_symbol']
                 
-                word_file = os.path.join(result_dir, word_name[0].lower(), f"{word_name}.json")
+                word_file_name = f"{word_name}.json" if word_name[0].islower() else f"{word_name}2.json"
+                word_file = os.path.join(result_dir, word_name[0].lower(), word_file_name)
                 if not os.path.exists(word_file):
                     print(f"file not exists: {word_file}, skipping...")
                     continue
                 with open(word_file, 'r', encoding='utf-8') as f:
                     processed_word = json.load(f)
-                    assert word_name == processed_word['word']
+                    assert word_name == processed_word['word'], f"word_name({word_name}) != processed_word['word']({processed_word['word']})"
                     word['analysis'] = processed_word['analysis']
                     word['draw_explain'] = processed_word['draw_explain']
                     word['draw_prompt'] = processed_word['draw_prompt']
