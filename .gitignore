@@ -173,3 +173,5 @@ cython_debug/
 /tmp
 
 .DS_Store
+
+/result/articles/
