@@ -175,3 +175,8 @@ cython_debug/
 .DS_Store
 
 /result/articles/
+
+.jekyll-cache
+/web/_site/
+/web/_posts/zh/
+/web/imgs/word_imgs/
