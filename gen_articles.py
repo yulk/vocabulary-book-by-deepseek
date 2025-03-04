@@ -23,7 +23,7 @@ date:       2025-02-11
 author:     "vxiaozhi"
 catalog: true
 tags:
-    - english
+    - 英语词汇
     - {title_tag}
 ---
     """
@@ -103,6 +103,7 @@ def main():
         "senior_words": {"title": "高中词汇", "subdir": "senior"},
         "cet4_words": {"title": "四级词汇", "subdir": "cet4"},
         "cet6_words": {"title": "六级词汇", "subdir": "cet6"},
+        "postgrad_words": {"title": "考研词汇", "subdir": "postgrad"},
         "toefl_words": {"title": "托福词汇", "subdir": "toefl"}
     }
     for article_name, article_data in all_articles.items():
