@@ -141,6 +141,9 @@ def main(word_letter=None):
             continue
         word_name = word['word']
         translation = word['translations'][0]
+        if "type" not in translation or "translation" not in translation:
+            logging.error(f"ERROR:  word({word_name}) translation({translation}) is not valid, skipping...")
+            continue
         word_mean = f"{translation['type']}. {translation['translation']}"
 
         # write processed word to {result_dir}/{first_letter}/{word_name}.json
