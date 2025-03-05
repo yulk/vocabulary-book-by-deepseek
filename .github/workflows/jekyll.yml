@@ -42,6 +42,7 @@ jobs:
           python3 ./gen_articles.py
           mkdir -pv ./web/imgs/word_imgs/ && cp -r ./result/word_imgs/* ./web/imgs/word_imgs/
           mkdir -pv ./web/_posts/zh/ && cp -r ./result/articles/*  ./web/_posts/zh/
+          cp -v ./imgs/*.png ./web/imgs/
           
       - name: Setup Ruby
         uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
