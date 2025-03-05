@@ -33,8 +33,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Copy articles to web directory
-        run: mkdir -pv ./web/_posts/zh/ && cp -r ./result/articles/*  ./web/_posts/zh/
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' # 安装 Python 3.10（可根据需求调整版本）
+      - name: gen articles and copy data to web directory
+        run: |
+          python3 ./gen_articles.py
+          mkdir -pv ./web/imgs/word_imgs/ && cp -r ./result/word_imgs/* ./web/imgs/word_imgs/
+          mkdir -pv ./web/_posts/zh/ && cp -r ./result/articles/*  ./web/_posts/zh/
       - name: Setup Ruby
         uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
         with:
