@@ -33,20 +33,20 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Copy articles to web directory
+        run: mkdir -pv ./web/_posts/zh/ && cp -r ./result/articles/*  ./web/_posts/zh/
       - name: Setup Ruby
         uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
         with:
           ruby-version: '3.1'
           bundler-cache: true
           cache-version: 0
-      - name: Copy articles to web directory
-        run: cp -r result/articles/* web/_posts/zh/
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
         run: |
-          cd web/
+          cd ./web/
           bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
