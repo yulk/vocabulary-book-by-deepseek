@@ -32,11 +32,47 @@ description: "「您的智能单词本」"
  <!-- 右侧工具条 -->
     <div class="toolbar">
         <button class="tool-btn" onmouseover="showQR()" onmouseout="hideQR()">
-            扫码关注
-            <img src="imgs/qr.png" class="qr-img" alt="二维码">
+            扫码加群交流
+            <div class="qr-container">
+                <div class="qr-text">回复“AI助记”拉你进群</div>
+                <img src="imgs/qr.png" class="qr-img" alt="二维码">
+            </div>
         </button>
-        <button class="tool-btn" onclick="window.open('https://www.baidu.com')">
-            访问baidu
+        <button class="tool-btn" onclick="window.open('https://github.com/vxiaozhi/vocabulary-book-by-deepseek')">
+            开源代码
         </button>
     </div>
+
+
+<style>
+/* 新增CSS样式 */
+.qr-container {
+    position: relative;
+    display: none; /* 初始隐藏 */
+}
+
+.qr-text {
+    position: absolute;
+    top: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #333;
+    font-size: 14px;
+    white-space: nowrap;
+    background: rgba(255,255,255,0.9);
+    padding: 2px 8px;
+    border-radius: 4px;
+}
+
+</style>
+
+<script>
+// 修改原有的显示/隐藏函数
+function showQR() {
+    document.querySelector('.qr-container').style.display = 'block';
+}
+function hideQR() {
+    document.querySelector('.qr-container').style.display = 'none';
+}
+</script>
 
