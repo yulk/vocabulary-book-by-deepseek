@@ -29,3 +29,14 @@ description: "「您的智能单词本」"
 <hr>
 {% endfor %}
 
+ <!-- 右侧工具条 -->
+    <div class="toolbar">
+        <button class="tool-btn" onmouseover="showQR()" onmouseout="hideQR()">
+            扫码关注
+            <img src="imgs/qr.png" class="qr-img" alt="二维码">
+        </button>
+        <button class="tool-btn" onclick="window.open('https://www.baidu.com')">
+            访问baidu
+        </button>
+    </div>
+
