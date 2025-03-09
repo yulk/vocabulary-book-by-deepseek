@@ -1695,6 +1695,42 @@ img::-moz-selection {
   overflow-y: hidden;
 }
 
+
+/* 新增CSS样式 */
+
+.qr-container {
+  position: absolute;
+  left: -310px; /* 调整左侧距离，确保二维码完全显示在按钮左侧 */
+  top: 50%; /* 修改为垂直居中 */
+  transform: translateY(-50%); /* 调整垂直居中 */
+  display: none; /* 初始隐藏 */
+  z-index: 10;
+  background: white; /* 新增背景颜色为白色 */
+  padding: 10px; /* 添加边框留白 10px */
+}
+
+.qr-img {
+  display: block;
+  width: 300px;
+  height: 300px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-top: 10px;
+  padding: 4px; /* 图片到边框的距离设置为 4px */
+}
+
+.qr-text {
+  color: #333;
+  font-size: 14px;
+  white-space: nowrap;
+  background: rgba(255,255,255,0.9);
+  padding: 2px 8px;
+  border-radius: 4px;
+  text-align: center; /* 确保字体居中对齐 */
+  margin-bottom: 5px;
+}
+
+
 /* 右侧工具条样式 */
 .toolbar {
     position: fixed;
@@ -1708,31 +1744,19 @@ img::-moz-selection {
 }
 
 .tool-btn {
-    padding: 12px;
-    background: #fff;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    cursor: pointer;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    transition: all 0.3s;
-    position: relative;
+  padding: 12px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: all 0.3s;
+  position: relative;
 }
 
 .tool-btn:hover {
     transform: translateY(-2px);
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-}
-
-.qr-img {
-    display: none;
-    position: absolute;
-    left: -120px;
-    top: 50%;
-    transform: translateY(-50%);
-    width: 300px;
-    height: 300px;
-    border: 1px solid #ddd;
-    border-radius: 8px;
 }
 
 .tool-btn:hover .qr-img {

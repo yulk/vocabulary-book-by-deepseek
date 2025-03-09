@@ -5,7 +5,7 @@
 npm install -g css-minify
 
 # 压缩单个文件
-css-minify -f input.css
+css-minify -f input.css -o ./
 
 # 压缩整个目录
 css-minify -d src/css
