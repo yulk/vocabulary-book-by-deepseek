@@ -1,0 +1,6 @@
+{
+  "word": "regiment",
+  "analysis": "### 分析词义\n\n**Regiment** 是一个名词，主要有两个意思：\n1. **军事单位**：指军队中的一种组织单位，通常由几个连组成，人数在数百人左右。\n2. **严格控制**：指对某事物或某人进行严格的组织和管理，使其按照既定的方式运作。\n\n### 列举例句\n\n1. **军事单位**：\n   - The regiment was deployed to the front line.  \n     *该团被部署到前线。*\n   \n2. **严格控制**：\n   - The teacher used a regimented approach to manage the class.  \n     *老师采用了一种严格控制的方法来管理班级。*\n   \n3. **严格控制**：\n   - His daily routine is highly regimented.  \n     *他的日常作息安排得非常严格。*\n\n### 词根分析\n\n- **词根**: *reg-* (源自拉丁语 *rex*, *regis*，意为“国王”或“统治”)。这个词根与“统治”或“管理”有关。\n- **衍生词**: \n  - **regime**: 政权，政体。\n  - **regulate**: 调节，管理。\n  - **region**: 地区，领域。\n  - **royal**: 皇家的，王室的。\n\n### 词缀分析\n\n- **后缀**: *-ment* (表示行为、过程或结果)。这个后缀常用于将动词转化为名词。例如：*management*（管理）, *development*（发展）。\n- **相同词缀的单词**: \n  - **amusement**: 娱乐，消遣。\n  - **movement**: 运动，活动。\n  - **statement**: 声明，陈述。  \n  例如：*The statement was clear and concise.*  中文翻译：*这份声明清晰简洁。*  \n  又如：*The amusement park was crowded.*  中文翻译：*游乐园里人山人海。*  等等。",
+  "draw_explain": "选择'团'作为主要视觉线索，因为'团'是'regiment'的核心含义之一，且易于通过图像表现。使用'军事风格'和'整齐排列'的士兵来强调'团'的概念，同时通过'一大群'的描述来补充其数量上的含义。这样的视觉提示直接关联到单词的定义，有助于记忆。",
+  "draw_prompt": "A military-style formation of neatly arranged soldiers, standing in rows and columns, representing a 'regiment'. The scene is depicted with a large number of soldiers, emphasizing the 'large group' aspect."
+}

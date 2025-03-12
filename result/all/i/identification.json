@@ -1,0 +1,6 @@
+{
+  "word": "identification",
+  "analysis": "### 分析词义\n\"Identification\" 是一个名词，意思是“身份证明”或“识别”。它指的是通过某种方式来确认某人或某物的身份，或者指代某人或某物本身。\n\n### 列举例句\n1. **场景：机场安检**  \n   - **例句**: The security officer asked for my identification before allowing me to board the plane.  \n   - **中文翻译**: 安检人员在允许我登机前要求我出示身份证明。\n\n2. **场景：犯罪调查**  \n   - **例句**: The police are still working on the identification of the suspect based on witness accounts.  \n   - **中文翻译**: 警方仍在根据目击者的描述进行嫌疑人的身份识别。\n\n3. **场景：电脑登录**  \n   - **例句**: To access the system, you need to enter your username and password for identification.  \n   - **中文翻译**: 要访问系统，您需要输入用户名和密码进行身份验证。\n\n### 词根分析\n- **词根**: \"ident-\" 来自拉丁语 \"idem\"，意思是“相同”或“同一”。\n- **衍生单词**: \n  - **identify**: 动词，意思是“识别”或“确认”。\n  - **identical**: 形容词，意思是“相同的”或“完全一样的”。\n  - **identity**: 名词，意思是“身份”或“特性”。\n\n### 词缀分析\n- **后缀**: \"-fication\" 是来自拉丁语的后缀，表示“使成为…的过程”或“使…化”。它通常用于将动词转换为名词形式。例如：simplify（简化）→ simplification（简化过程）。\n- **相同后缀的单词**: \n  - **clarification**: 澄清，明确说明。\n  - **certification**: 认证，证明。\n  - **modification**: 修改，变更。",
+  "draw_explain": "通过展示一个带有身份证明的场景，可以直观地帮助记忆'identification'这个词。身份证明是'identification'最直接和常见的应用之一，易于视觉化且与词义紧密相关。",
+  "draw_prompt": "A close-up of a person holding an official ID card with their photo and personal details, in a clean, modern design style."
+}

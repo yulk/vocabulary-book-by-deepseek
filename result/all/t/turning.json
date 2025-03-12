@@ -1,0 +1,6 @@
+{
+  "word": "turning",
+  "analysis": "### 分析词义\n\"Turning\" 是动词 \"turn\" 的现在分词形式，表示“转动”、“转向”或“转变”。它可以描述物理上的旋转动作，也可以指方向或状态的改变。\n\n### 列举例句\n1. **场景一：物理动作**\n   - The wheels of the car were turning rapidly.  \n     (车轮在快速转动。)\n   \n2. **场景二：方向改变**\n   - She turned left at the intersection.  \n     (她在十字路口左转。)\n   \n3. **场景三：状态转变**\n   - His attitude took a sudden turning towards optimism.  \n     (他的态度突然转向乐观。)\n\n### 词根分析\n- **词根**: \"turn\" 源自拉丁语 \"tornare\"，意思是“用轮子加工”或“旋转”。这个动作最初与使用轮子加工陶器有关。\n- **衍生词**: \n  - return (返回)\n  - turnover (翻转)\n  - turning (转弯处)\n  - turnip (萝卜)\n\n### 词缀分析\n- **前缀**: 无前缀。\n- **后缀**: \"-ing\" 是动名词或现在分词的后缀，表示正在进行的动作。例如：running, swimming, etc.\n- **相同后缀的单词**:  \n  - building (建筑物)  \n  - painting (绘画)  \n  - cooking (烹饪)  \n  这些单词都使用了 \"-ing\" 后缀来表示动作或状态。  \n  例如：The building is under construction. (建筑物正在建设中。)  \n        She is painting a beautiful landscape. (她正在画一幅美丽的风景画。)  \n        I enjoy cooking for my family. (我喜欢为家人做饭。)  ",
+  "draw_explain": "通过使用一个正在转弯的道路标志和旋转的齿轮，这个prompt能够直观地展示'turning'的两个主要含义：转向和旋转。道路标志的转弯箭头直接关联到'转向'和'转弯处'，而旋转的齿轮则形象地表示了'旋转'的概念。这样的视觉组合能够帮助记忆单词的多重含义。",
+  "draw_prompt": "A road sign with a turning arrow, combined with a close-up of a spinning gear, both in a clean, minimalist style."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "directory",
+  "analysis": "### 分析词义\n\n**directory** 是一个名词，指的是一个包含人名、地址、电话号码等信息的列表或指南。它通常用于组织和查找特定信息，比如电话簿、公司员工名录或网站目录。\n\n### 列举例句\n\n1. **例句**: \"He found her phone number in the company directory.\"  \n   **翻译**: \"他在公司名录中找到了她的电话号码。\"\n\n2. **例句**: \"The website has a directory of all the local restaurants.\"  \n   **翻译**: \"这个网站有一个本地所有餐厅的目录。\"\n\n3. **例句**: \"She updated the directory with the new employee's information.\"  \n   **翻译**: \"她用新员工的信息更新了名录。\"\n\n### 词根分析\n\n- **词根**: -rect- (来自拉丁语 \"regere\"，意思是“引导”或“管理”)  \n- **衍生词**: \n  - direct (动词，意思是“指导”或“引导”)  \n  - direction (名词，意思是“方向”)  \n  - director (名词，意思是“导演”或“主管”)  \n  - directly (副词，意思是“直接地”)  \n  - indirect (形容词，意思是“间接的”)  \n  - directive (名词，意思是“指示”)  \n  - rectangle (名词，意思是“矩形”)  \n  - rectify (动词，意思是“纠正”)  \n  - rectitude (名词，意思是“正直”)  \n  - rectification (名词，意思是“纠正”)  \n  - rector (名词，意思是“校长”或“教区长”)  \n  - rectory (名词，意思是“教区长住宅”)  \n  - rectilinear (形容词，意思是“直线的”)  \n  - rectilinear motion (名词，意思是“直线运动”)  ",
+  "draw_explain": "通过展示一个包含多个文件夹和文件的计算机目录结构，可以直观地帮助记忆'directory'这个单词的含义。这种视觉线索直接关联到单词的计算机科学定义，即'目录'，同时简洁明了，易于理解。",
+  "draw_prompt": "A neatly organized computer directory structure with multiple folders and files, each labeled clearly, displayed on a modern computer screen with a clean and minimalistic design."
+}

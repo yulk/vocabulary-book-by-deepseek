@@ -1,0 +1,6 @@
+{
+  "word": "errand",
+  "analysis": "### 分析词义\n\n“Errand” 是一个名词，指的是短途旅行或差事，通常是为了完成某项任务或传递信息。这个词通常与跑腿、办事相关联，比如去商店买东西、送信等。\n\n### 列举例句\n\n1. **场景一：购物**  \n   - I need to run an errand to the grocery store to buy some milk.  \n   - 我需要去杂货店跑个腿买些牛奶。\n\n2. **场景二：送信**  \n   - She was sent on an errand to deliver a letter to her neighbor.  \n   - 她被派去给邻居送封信。\n\n3. **场景三：办事**  \n   - He had several errands to run before he could go home.  \n   - 他回家前还有几件事要办。\n\n### 词根分析\n\n- **词根**：err- (源自拉丁语“errare”，意为“漫游、迷路”)。  \n- **衍生词**：error (错误), erratic (不稳定的), errant (漂泊的)。\n\n### 词缀分析\n\n- **单词结构**：errand (无明显前缀或后缀，直接由词根构成)。  \n- **相同词缀的单词**：error, erratic, errant。\n\n### 发展历史和文化背景\n\n“Errand” 这个词源自中古英语的“errant”，而“errant”又源自拉丁语的“errare”，意为“漫游、迷路”。在古代，尤其是中世纪欧洲，骑士们常常被派遣去执行各种任务，这些任务被称为“errands”。随着时间的推移，这个词逐渐演变为指代任何短途旅行或差事。在现代英语中，“errand”通常指的是日常生活中的小任务或差事。",
+  "draw_explain": "通过描绘一个忙碌的人在城市街道上匆忙行走，手里拿着一封信或包裹，这个场景直接关联到'差使'或'差事'的概念。这样的视觉线索能够帮助记忆'errand'这个单词的含义，因为它直观地展示了执行任务或差事的情景。",
+  "draw_prompt": "A busy person walking briskly down a city street, holding a letter or package in hand, with a hurried expression and surrounded by urban hustle and bustle."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "chant",
+  "analysis": "### 分析词义\n\n\"Chant\" 是一个动词，意思是反复地、有节奏地吟唱或诵读。它可以指宗教仪式中的颂歌，也可以指任何有节奏的重复声音或话语。作为名词，\"chant\" 指的是这种吟唱或诵读的内容。\n\n### 列举例句\n\n1. **场景：宗教仪式**  \n   - The monks chanted the sacred hymns during the morning service.  \n   - 僧侣们在晨间服务中吟唱神圣的赞美诗。\n\n2. **场景：体育比赛**  \n   - The fans chanted the team's name to show their support.  \n   - 粉丝们反复高喊队伍的名字以示支持。\n\n3. **场景：抗议活动**  \n   - Protesters chanted slogans as they marched through the streets.  \n   - 抗议者们边游行边高喊口号。\n\n### 词根分析\n\n- **词根**: \"cant-\" 源自拉丁语 \"cantare\"，意思是“歌唱”。  \n- **衍生词**:  \n  - Cantata (清唱剧)  \n  - Canticle (赞美诗)  \n  - Chanticleer (雄鸡的名字，源自《公鸡与狐狸》故事)  \n  - Canticles (圣经中的赞美诗)  \n  - Canto (长诗中的一章)  \n  - Cantus (歌曲)  \n  - Incantation (咒语)  \n  - Incantatory (咒语的)  \n  - Recant (撤回声明)  \n  - Recantation (撤回声明的行为)  \n  - Uncanny (不可思议的，源自 \"cantare\" + \"un-\" + \"can\"，意为“非歌唱的”，引申为“不可思议的”)  \n  - Uncanny Valley (恐怖谷理论，指机器人或虚拟形象与人类相似度达到一定程度时产生的恐怖感)",
+  "draw_explain": "通过视觉线索，选择教堂内的场景，描绘人们唱圣歌的情景，能够直接与'chant'的定义'圣歌；赞美诗'相关联。教堂的氛围和唱诗班的庄重感有助于记忆该单词的宗教和文化背景。",
+  "draw_prompt": "A serene church interior with a choir of people dressed in robes, singing hymns with open hymnals, soft light filtering through stained glass windows."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "microprocessor",
+  "analysis": "### 分析词义\n\n\"Microprocessor\" 是由 \"micro-\" 和 \"processor\" 两个部分组成的复合词。\"Micro-\" 表示“微小的”，而 \"processor\" 指的是“处理器”或“处理单元”。因此，\"microprocessor\" 指的是一种微型的电子处理单元，通常用于计算机和其他电子设备中，负责执行指令和处理数据。\n\n### 列举例句\n\n1. **例句**: The microprocessor in this smartphone is very powerful.  \n   **翻译**: 这部智能手机中的微处理器非常强大。\n   \n2. **例句**: A microprocessor is the brain of a computer.  \n   **翻译**: 微处理器是计算机的核心。\n   \n3. **例句**: The company developed a new microprocessor that consumes less power.  \n   **翻译**: 这家公司开发了一种新的微处理器，功耗更低。\n\n### 词根分析\n\n- **词根**: \"process\" (处理)  \n- **衍生词**:  \n  - processor (处理器)  \n  - process (过程，动词：处理)  \n  - processing (处理中)  \n  - procession (行列)  \n  - processional (行列的)  \n\n### 词缀分析\n\n- **前缀**: \"micro-\" (表示“微小的”)  \n- **后缀**: \"-processor\" (表示“处理器”)  \n- **相同前缀的单词**:  \n  - microscope (显微镜)  \n  - microwave (微波)  \n  - microphone (麦克风)  \n- **相同后缀的单词**:  \n  - word processor (文字处理器)  \n  - image processor (图像处理器)  \n  - sound processor (声音处理器)  \n\n### 发展历史和文化背景",
+  "draw_explain": "微处理器是一种小型计算机芯片，通常用于电子设备中。通过提示生成一个包含微处理器芯片的图像，可以直观地帮助记忆该单词。图像中的芯片应具有明显的电路图案和金属引脚，这些特征是微处理器的典型标志。",
+  "draw_prompt": "A close-up image of a microprocessor chip with intricate circuit patterns and metallic pins, set against a dark background for contrast, in a sleek, modern style."
+}

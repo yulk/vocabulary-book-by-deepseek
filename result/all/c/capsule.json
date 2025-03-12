@@ -1,0 +1,6 @@
+{
+  "word": "capsule",
+  "analysis": "### 分析词义\n\n**Capsule** 是一个名词，主要有以下几种含义：\n1. **药丸**：通常指一种小型的、密封的药物容器，常见于药片或胶囊。\n2. **航天舱**：指航天器中用于载人或载物的部分，如太空舱。\n3. **摘要**：指对某事物的简短概括或总结。\n\n### 列举例句\n\n1. **药丸场景**:  \n   - \"Take two capsules of this medicine daily.\"  \n     *每天服用两粒这种药。*  \n2. **航天舱场景**:  \n   - \"The astronauts entered the capsule before the rocket launch.\"  \n     *宇航员在火箭发射前进入了太空舱。*  \n3. **摘要场景**:  \n   - \"The report provides a capsule summary of the project.\"  \n     *报告提供了项目的简要总结。*  \n\n### 词根分析\n\n- **词根**: -capsul- (源自拉丁语 \"capsula\"，意为“小盒子”或“小容器”)。  \n- **衍生词**: \n  - **encapsulate**: 动词，意为“将…装入胶囊”或“概括”。  \n  - **encapsulation**: 名词，意为“封装”或“概括”。  \n  - **capsular**: 形容词，意为“胶囊状的”或“胶囊的”。  \n\n### 词缀分析\n\n- **前缀**: 无明显前缀。  \n- **后缀**: -e (用于构成名词)。  \n- **相同后缀的单词**: example, apple, table.  \n- **中缀**: 无明显中缀。  \n- **相同词缀的单词**: sample, assemble, simple.  \n\n### 发展历史和文化背景",
+  "draw_explain": "选择'太空舱'作为视觉线索，因为它与'capsule'这个词的直接关联性最强，且具有独特的形状和功能，易于通过图像识别。太空舱的封闭结构和科技感也符合'capsule'作为小容器的定义，同时避免了其他定义（如植物的蒴果）可能带来的混淆。",
+  "draw_prompt": "a futuristic space capsule floating in the vastness of outer space, metallic surface with reflective windows, sleek and compact design"
+}

@@ -1,0 +1,6 @@
+{
+  "word": "ward",
+  "analysis": "### 分析词义\n\n**ward** 是一个多义词，主要用作名词和动词。\n\n- **名词**：\n  - **病房**：指医院中用于治疗特定类型病人的房间或区域。\n  - **受监护人**：指由法院或其他机构监护的人，通常是未成年人或无行为能力的人。\n  - **选区**：在政治上，指选举中的一个分区。\n  \n- **动词**：\n  - **避开**：指采取措施避免某事或某物。\n\n### 列举例句\n\n1. **名词 - 病房**  \n   - The patient was moved to the surgical ward.  \n     *病人被转移到外科病房。*  \n2. **名词 - 受监护人**  \n   - The court appointed a guardian for the young ward.  \n     *法院为年轻的受监护人指定了一名监护人。*  \n3. **动词 - 避开**  \n   - She managed to ward off the attacker with a swift kick.  \n     *她用一脚迅速地避开了攻击者。*  \n4. **名词 - 选区**  \n   - The candidate won by a narrow margin in his home ward.  \n     *候选人在他的家乡选区以微弱优势获胜。*  \n5. **动词 - 避开**  \n   - He tried to ward off the question by changing the subject.  \n     *他试图通过改变话题来避开这个问题。*  \n6. **名词 - 病房**  \n   - The children's ward was filled with laughter and toys.  \n     *儿童病房充满了笑声和玩具。*  \n7. **名词 - 受监护人**  \n   - As her legal ward, he had to ensure her safety and well-being.  \n     *作为她的法定监护人，他必须确保她的安全和福祉。*",
+  "draw_explain": "选择'病房'作为主要视觉线索，因为它是'ward'最直观和易于想象的含义。通过描绘一个干净、明亮的医院病房，可以立即让人联想到'ward'这个词。病房的特征，如床、医疗设备和窗户，都是易于识别的元素，有助于记忆。",
+  "draw_prompt": "A clean and bright hospital ward with several beds, medical equipment, and large windows letting in natural light, depicted in a realistic style."
+}

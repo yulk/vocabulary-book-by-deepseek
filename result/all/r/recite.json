@@ -1,0 +1,6 @@
+{
+  "word": "recite",
+  "analysis": "### 分析词义\n\n\"Recite\" 是一个动词，意思是“背诵”或“朗诵”。它通常指从记忆中复述一段文字、诗歌、演讲等内容。\n\n### 列举例句\n\n1. **场景：课堂**\n   - **例句**：The student was asked to recite the poem in front of the class.\n   - **中文翻译**：老师要求学生在全班面前背诵这首诗。\n\n2. **场景：演讲**\n   - **例句**：He recited the speech he had prepared for weeks.\n   - **中文翻译**：他背诵了为数周准备的演讲稿。\n\n3. **场景：宗教仪式**\n   - **例句**：During the ceremony, the priest recited a prayer for peace.\n   - **中文翻译**：在仪式上，牧师为和平背诵了一段祈祷文。\n\n### 词根分析\n\n- **词根**：-cit- (来自拉丁语 \"citare\"，意为“唤起”或“召唤”)。这个根在 \"recite\" 中表示“再次唤起”或“复述”。\n- **衍生单词**：cite (引用), excitable (易激动的), incite (煽动)。\n\n### 词缀分析\n\n- **前缀**：re- (表示“再次”或“重复”)。在 \"recite\" 中，表示再次唤起记忆中的内容。\n- **后缀**：无明显后缀，但整个单词是一个动词形式。\n- **相同前缀的单词**：review (复习), return (返回), reuse (重新使用)。\n\n### 发展历史和文化背景\n\n\"Recite\" 源自拉丁语 \"recitare\"，进一步来自 \"re-\"（再次）和 \"citare\"（唤起）。在中世纪的欧洲，朗诵和背诵是教育的重要部分，特别是在修道院和大学中，学生需要背诵大量的经典文本和宗教经文。这一传统延续至今，尤其是在语言学习和表演艺术中。在欧美文化中，朗诵诗歌和戏剧台词是一种艺术形式，常用于表演和公开演讲中。",
+  "draw_explain": "这个prompt通过展示一个学生在教室里背诵诗歌的场景，结合了'recite'的两个主要含义：背诵和叙述。视觉上，学生站在黑板前，手中拿着一本书，周围是教室的典型元素，如课桌和椅子，这样的场景易于与'recite'的含义相关联。",
+  "draw_prompt": "A student standing at the front of a classroom, reciting a poem from a book in hand, with blackboard and desks in the background, in a realistic and detailed style."
+}

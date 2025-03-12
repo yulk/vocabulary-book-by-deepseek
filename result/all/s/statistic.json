@@ -1,0 +1,6 @@
+{
+  "word": "statistic",
+  "analysis": "### 分析词义\n\n**Statistic** 是一个名词，指的是一个具体的数值或数据点，通常是从大量数据中提取出来的。它可以用来描述某个特定现象或情况的数量特征。\n\n### 列举例句\n\n1. **例句**: The latest unemployment statistic shows a significant increase.  \n   **翻译**: 最新的失业统计数据显示了显著的增长。\n\n2. **例句**: The statistic on traffic accidents is alarming.  \n   **翻译**: 交通事故的统计数据令人担忧。\n\n3. **例句**: According to the statistic, the number of tourists has doubled this year.  \n   **翻译**: 根据统计数据，今年的游客数量翻了一番。\n\n### 词根分析\n\n- **词根**: -stat- (表示“站立”或“状态”)  \n- **衍生词**:  \n  - **state** (状态)  \n  - **static** (静态的)  \n  - **station** (车站)  \n  - **stature** (身高)  \n  - **statue** (雕像)  \n  - **status** (地位)  \n  - **statistics** (统计学)\n\n### 词缀分析\n\n- **后缀**: -ic (表示“与...有关的”或“具有...性质的”)  \n- **相同后缀的单词**:  \n  - logic (逻辑的)  \n  - poetic (诗意的)  \n  - historic (历史的)  \n  - classic (经典的)  \n  - realistic (现实的)\n\n### 发展历史和文化背景\n\n**Statistic** 这个词源自拉丁语 \"status\"，意为“状态”或“情况”。在17世纪，随着科学和数学的发展，人们开始系统地收集和分析数据，以更好地理解社会和经济现象。到了19世纪，统计学成为一门独立的学科，而 \"statistic\" 这个词也开始被广泛使用来指代具体的数值数据。在现代社会中，统计数据在决策制定、科学研究和社会分析中扮演着至关重要的角色。",
+  "draw_explain": "通过展示一个包含多个图表和数字的办公室场景，可以直观地联想到'statistic'这个单词的含义，即统计数值和统计资料。图表和数字是统计学的核心元素，这样的视觉线索能够帮助记忆单词的含义。",
+  "draw_prompt": "A modern office setting with multiple charts and graphs on the walls, filled with numerical data, in a clean and professional style."
+}

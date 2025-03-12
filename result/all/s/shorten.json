@@ -1,0 +1,6 @@
+{
+  "word": "shorten",
+  "analysis": "### 分析词义\n\n\"Shorten\" 是一个动词，意思是“缩短”或“减少”。它通常用于描述将某物或某事的长度、时间、距离等减少或缩小的过程。\n\n### 列举例句\n\n1. **场景一：日常生活中的缩短**\n   - **例句**: She decided to shorten the dress because it was too long.\n   - **中文翻译**: 她决定把裙子改短，因为它太长了。\n\n2. **场景二：工作中的缩短**\n   - **例句**: The manager asked the team to shorten the project timeline.\n   - **中文翻译**: 经理要求团队缩短项目的时间线。\n\n3. **场景三：技术中的缩短**\n   - **例句**: The developer tried to shorten the code to make it more efficient.\n   - **中文翻译**: 开发者尝试缩短代码以提高效率。\n\n### 词根分析\n\n- **词根**: \"short\"（短的）是 \"shorten\" 的词根，表示“短”的概念。\n- **衍生单词**: \n  - short (形容词): 短的\n  - shortly (副词): 不久，简短地\n  - shortcut (名词): 捷径\n  - shorthand (名词): 速记法\n\n### 词缀分析\n\n- **后缀**: \"-en\" 是动词后缀，表示“使……成为”或“使……变得”。它通常加在形容词后面构成动词。例如：short (形容词) + en = shorten (动词)。\n- **相同后缀的单词**: \n  - darken (使变暗)：dark (形容词) + en = darken (动词)\n  - widen (使变宽)：wide (形容词) + en = widen (动词)\n  - strengthen (使变强)：strong (形容词) + en = strengthen (动词)\n   ```markdown```",
+  "draw_explain": "通过展示一个逐渐变短的物体，如一根蜡烛从长变短的过程，可以直观地帮助记忆'shorten'这个单词的含义。蜡烛的燃烧过程是一个自然的缩短过程，易于理解且与单词的含义紧密相关。",
+  "draw_prompt": "A series of images showing a candle gradually burning down, from a long candle to a short stub, with a warm, soft lighting and a rustic background."
+}

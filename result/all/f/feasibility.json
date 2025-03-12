@@ -1,0 +1,6 @@
+{
+  "word": "feasibility",
+  "analysis": "### 分析词义\n\n\"Feasibility\" 是一个名词，指的是某件事情的可行性或可能性。它用来描述一个计划、项目或想法是否实际、可操作或有可能实现。\n\n### 列举例句\n\n1. **场景：商业计划**  \n   - **例句**: The feasibility study showed that the new project was financially viable.  \n   - **翻译**: 可行性研究表明，新项目在财务上是可行的。\n\n2. **场景：技术开发**  \n   - **例句**: Before investing in the technology, we need to assess its feasibility.  \n   - **翻译**: 在投资这项技术之前，我们需要评估其可行性。\n\n3. **场景：建筑工程**  \n   - **例句**: The architect conducted a feasibility analysis to determine if the building could be constructed on the site.  \n   - **翻译**: 建筑师进行了可行性分析，以确定是否可以在该地点建造建筑物。\n\n### 词根分析\n\n- **词根**: \"feas-\" 源自拉丁语 \"facere\"，意思是“做”或“制造”。  \n- **衍生单词**:  \n  - feasible (形容词): 可行的，可能的。  \n  - feasibly (副词): 可行地。  \n  - fealty (名词): 忠诚，效忠（与 \"feas-\" 无关，但拼写相似）。  \n\n### 词缀分析\n\n- **后缀**: \"-ibility\" 是 \"-able\"（形容词后缀）和 \"-ity\"（名词后缀）的结合形式，表示某种性质或状态。例如：  \n  - possibility (可能性)：来自 possible + -ity。  \n  - flexibility (灵活性)：来自 flexible + -ity。  \n- **相同后缀的单词**:  \n  - accessibility (可及性)。  \n  - compatibility (兼容性)。  \n  - accountability (责任性)。  \n\n### 发展历史和文化背景",
+  "draw_explain": "通过展示一个成功的项目规划图，结合绿色勾选标记和向上的箭头，形象地表达了'可行性'的概念。这种视觉线索直接关联到单词的含义，即某事物是可行的、可实现的。",
+  "draw_prompt": "A detailed project planning diagram with a green checkmark and an upward arrow, symbolizing successful feasibility."
+}

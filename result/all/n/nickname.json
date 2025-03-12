@@ -1,0 +1,6 @@
+{
+  "word": "nickname",
+  "analysis": "### 分析词义\n\"Nickname\" 是一个名词，指的是一个人在正式名字之外的非正式称呼或昵称。它可以是家人、朋友或同事为了方便或亲密而给的别名。\n\n### 列举例句\n1. **场景一：家庭**  \n   - **例句**: My little sister calls me \"Bubba\" as a nickname.  \n   - **中文翻译**: 我的小妹妹用“Bubba”作为我的昵称。\n\n2. **场景二：社交媒体**  \n   - **例句**: On Twitter, I use \"TechGuru\" as my nickname.  \n   - **中文翻译**: 在推特上，我用“TechGuru”作为我的昵称。\n\n3. **场景三：学校**  \n   - **例句**: The teacher gave each student a nickname to make the class more fun.  \n   - **中文翻译**: 老师给每个学生起了一个昵称，让课堂更有趣。\n\n### 词根分析\n- **词根**: \"name\"（名字）是这个单词的核心部分，表示与名字相关的事物。\n- **衍生单词**: \n  - \"rename\"（重新命名）\n  - \"nameless\"（无名的）\n  - \"namely\"（即，也就是）\n\n### 词缀分析\n- **前缀**: 无前缀。\n- **后缀**: \"-nick\" 是一个中缀，表示“小的”或“非正式的”，与 \"-name\" 结合形成 \"nickname\"。\n- **相同词缀的单词**: 无明显相同词缀的单词。\n\n### 发展历史和文化背景\n\"Nickname\" 这个词起源于中世纪英语，最早的形式是 \"ekename\"，其中 \"eke\" 意味着“增加”或“额外”。后来演变为 \"nekename\"，最终简化为现代形式 \"nickname\"。在英语文化中，昵称常用于表示亲密关系或幽默感，尤其是在家庭和朋友之间。在社交媒体时代，昵称也被广泛用于网络身份的创建。",
+  "draw_explain": "通过展示一个带有个性化标签的人，这个prompt能够直观地展示'nickname'的概念，即一个人被赋予的独特称呼。视觉上，标签上的文字和人物的结合，能够帮助记忆'nickname'是指代某人的特殊名字。",
+  "draw_prompt": "A person with a colorful tag attached to their clothing, labeled with a unique and playful name, set in a vibrant and cartoonish style."
+}

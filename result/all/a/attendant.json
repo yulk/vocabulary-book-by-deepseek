@@ -1,0 +1,6 @@
+{
+  "word": "attendant",
+  "analysis": "### 分析词义\n\n**Attendant** 是一个多义词，主要用作名词和形容词。\n\n- **名词**：指在某个场所或活动中提供服务的人，如机场的登机服务员、博物馆的讲解员等。\n- **形容词**：表示伴随的或随之而来的，通常用于描述某种伴随的状态或事件。\n\n### 列举例句\n\n1. **名词用法**：\n   - The flight attendant served drinks to the passengers.  \n     *飞机乘务员为乘客提供了饮料。*\n   \n2. **名词用法**：\n   - The museum attendant explained the history of the painting.  \n     *博物馆讲解员解释了这幅画的历史。*\n   \n3. **形容词用法**：\n   - The economic crisis and its attendant problems have affected many countries.  \n     *经济危机及其伴随的问题已经影响了许多国家。*\n\n### 词根分析\n\n- **词根**：源自拉丁语 *attendere*，意为“注意”或“出席”。该词根还衍生出其他单词，如：  \n  - **Attend**（动词）：参加，出席。  \n  - **Attention**（名词）：注意力。  \n  - **Attentive**（形容词）：专注的，细心的。  \n  - **Attentiveness**（名词）：专注力。  \n  - **Attenuate**（动词）：减弱，稀释。  \n  - **Attestation**（名词）：证明，证据。  \n  - **Attest**（动词）：证明，证实。  \n  - **Contendere**（拉丁语）：竞争，斗争。  \n  - **Contend**（动词）：竞争，斗争。  ",
+  "draw_explain": "通过展示一个事件或场景，其中某个事物伴随另一个事物的发生，可以帮助记忆'attendant'这个词的含义。选择一个简单的日常场景，如一个人打开雨伞时，雨滴随之落下，这样的视觉线索直观且易于联想。",
+  "draw_prompt": "A person opens an umbrella, and raindrops immediately start falling around it, illustrating the concept of something accompanying or resulting from an action."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "disservice",
+  "analysis": "### 分析词义\n\n**Disservice** 是一个名词，表示“伤害”或“不利的行为”。它通常用于描述某人因错误的行为或建议而对他人造成的负面影响。\n\n### 列举例句\n\n1. **例句**: \"Giving her bad advice was a disservice to her career.\"  \n   **翻译**: “给她提供糟糕的建议对她的职业生涯是不利的。”\n\n2. **例句**: \"Not telling him the truth did him a disservice.\"  \n   **翻译**: “不告诉他真相对他是不利的。”\n\n3. **例句**: \"The company's decision to cut corners was a disservice to its customers.\"  \n   **翻译**: “公司决定偷工减料对客户是不利的。”\n\n### 词根分析\n\n- **词根**: -serv- (来自拉丁语，意为“服务”或“保持”)  \n- **衍生词**:  \n  - **Service**: 服务  \n  - **Serve**: 服务，招待  \n  - **Preserve**: 保存，保护  \n  - **Reserve**: 保留，预订  \n  - **Deserve**: 应得，值得  \n\n### 词缀分析\n\n- **前缀**: dis- (表示否定或相反)  \n- **后缀**: -ice (名词后缀)  \n- **相同词缀的单词**:  \n  - **Dislike**: 不喜欢  \n  - **Disagree**: 不同意  \n  - **Disappear**: 消失  \n  - **Disadvantage**: 不利条件，劣势  \n\n### 发展历史和文化背景",
+  "draw_explain": "通过展示一个帮助者无意中造成伤害的场景，可以直观地理解'disservice'的含义。这个prompt通过描绘一个帮助者不小心打翻了装满水的杯子，导致水洒在重要文件上的情景，来强调'帮倒忙'的概念。这种视觉线索简单易懂，能够有效地帮助记忆单词的含义。",
+  "draw_prompt": "A well-meaning helper accidentally knocks over a full glass of water, causing it to spill onto important documents, creating a mess."
+}

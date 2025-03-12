@@ -1,0 +1,6 @@
+{
+  "word": "fabricate",
+  "analysis": "### 分析词义\n\"Fabricate\" 是一个动词，意思是制造、捏造或组装。它可以指实际的物品制造，也可以指虚构或伪造信息、故事等。\n\n### 列举例句\n1. **场景一：工业制造**  \n   - The company specializes in fabricating custom car parts.  \n     - 这家公司专门制造定制汽车零件。\n2. **场景二：编造故事**  \n   - He fabricated an excuse to avoid attending the meeting.  \n     - 他编造了一个借口来避免参加会议。\n3. **场景三：伪造文件**  \n   - The lawyer warned against fabricating evidence in court.  \n     - 律师警告不要在法庭上伪造证据。\n\n### 词根分析\n- **词根**：fabr- (源自拉丁语 \"fabrica\"，意思是“制造”或“工厂”)  \n- **衍生词**：  \n  - Fabric (名词，意思是“织物”或“构造”)  \n  - Fabrication (名词，意思是“制造”或“捏造”)  \n  - Fabricator (名词，意思是“制造商”或“捏造者”)  \n  - Affable (形容词，意思是“友好的”，与 \"fabricate\" 无直接关系，但同源)\n\n### 词缀分析\n- **前缀**：无明显前缀。  \n- **后缀**：-ate (动词后缀，表示动作或过程)  \n- **相同后缀的单词**：  \n  - Activate (激活)  \n  - Educate (教育)  \n  - Operate (操作)  \n  - Validate (验证)  \n  - Nominate (提名)  \n  - Innovate (创新)  \n  - Communicate (交流)  \n  - Motivate (激励)  \n  - Celebrate (庆祝)  \n  - Regulate (调节)",
+  "draw_explain": "这个prompt通过展示一个工厂内部的场景，强调了'制作'的过程，同时通过展示一个警察在审讯室中拿着文件的场景，暗示了'捏造'的行为。这两个场景分别对应了'fabricate'的两个主要含义，帮助记忆者通过视觉线索快速联想到单词的含义。",
+  "draw_prompt": "A bustling factory with workers assembling parts, and a police interrogation room with an officer holding a document, both in a detailed, realistic style."
+}

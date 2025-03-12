@@ -1,0 +1,6 @@
+{
+  "word": "stagger",
+  "analysis": "### 分析词义\n\n**Stagger** 是一个动词，意思是“蹒跚”、“摇晃”或“使震惊”。它可以用来描述某人因醉酒、受伤或疲劳而走路不稳，也可以用来形容某事令人惊讶或难以置信。\n\n### 列举例句\n\n1. **例句**: The drunk man staggered out of the bar.  \n   **翻译**: 那个醉汉摇摇晃晃地走出了酒吧。\n\n2. **例句**: The news of his death staggered everyone.  \n   **翻译**: 他去世的消息让所有人都震惊了。\n\n3. **例句**: The heavy box staggered under its weight.  \n   **翻译**: 沉重的箱子在重压下摇晃。\n\n### 词根分析\n\n- **词根**: -stag-  \n  **含义**: 源自中古英语“stagen”，意为“跳跃”或“蹒跚”。  \n  **衍生词**:  \n  - **stagnant** (停滞的)  \n  - **stagnate** (停滞)  \n  - **stagnation** (停滞状态)\n\n### 词缀分析\n\n- **词缀**: -er (后缀)  \n  **含义**: 表示动作的执行者或工具。  \n  **相同词缀的单词**:  \n  - **teacher** (教师)  \n  - **runner** (跑步者)  \n  - **writer** (作家)\n\n### 发展历史和文化背景\n\n**Stagger** 这个词最早出现在中古英语中，源自斯堪的纳维亚语和古英语的混合。它的原始含义与“跳跃”有关，后来逐渐演变为描述行走不稳的状态。在现代英语中，它不仅用于描述物理上的摇晃，还常用于表达情感上的震惊或困惑。在欧美文化中，这个词常用于描述醉酒或受伤的人，以及令人惊讶的新闻事件。",
+  "draw_explain": "这个prompt通过描述一个人在不平坦的地面上艰难行走的情景，与'stagger'的蹒跚含义紧密相关。使用'uneven ground'和'struggling to maintain balance'这样的视觉线索，可以直观地帮助记忆单词的含义。",
+  "draw_prompt": "A person walking on uneven ground, struggling to maintain balance, with a slightly tilted posture and wobbling steps, in a realistic and detailed style."
+}

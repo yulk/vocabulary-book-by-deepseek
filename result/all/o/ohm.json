@@ -1,0 +1,6 @@
+{
+  "word": "ohm",
+  "analysis": "### 分析词义\n\"Ohm\"（欧姆）是电阻的单位，以德国物理学家格奥尔格·西蒙·欧姆（Georg Simon Ohm）的名字命名。它用于测量电路中电流通过的阻力。\n\n### 列举例句\n1. The resistance of the resistor is measured in ohms.  \n   这个电阻器的电阻是以欧姆为单位测量的。\n2. The circuit requires a resistor with a resistance of 100 ohms.  \n   这个电路需要一个100欧姆的电阻器。\n3. The ohm is the SI unit of electrical resistance.  \n   欧姆是电阻的国际单位制单位。\n\n### 词根分析\n- **词根**: \"ohm\" 源自德国物理学家格奥尔格·西蒙·欧姆的名字，没有明显的词根结构。\n- **衍生单词**: 无明显衍生单词，因为这是一个专有名词。\n\n### 词缀分析\n- **词缀**: \"ohm\" 是一个专有名词，没有前缀或后缀。\n- **相同词缀的单词**: 无，因为它是一个独立的单位名称。\n\n### 发展历史和文化背景\n\"Ohm\" 这一单位在1861年由英国科学促进协会（BAAS）提出，并在1881年的国际电工大会上正式采用。它是以德国物理学家格奥尔格·西蒙·欧姆的名字命名的，以表彰他在电学领域的贡献，特别是他发现的欧姆定律（Ohm's Law），该定律描述了电流、电压和电阻之间的关系。在欧美文化中，\"ohm\" 是电子工程和物理学中的基础概念之一。\n\n### 单词变形\n- **名词形式**: ohm  \n- **复数形式**: ohms  \n- **动词形式**: 无  \n- **形容词形式**: ohmic（表示“符合欧姆定律的”）  \n- **副词形式**: 无  \n- **固定搭配**: ohmmeter（欧姆表，用于测量电阻的仪器）  \n- **组词**: ohmic resistance（欧姆电阻）, high-ohm resistor（高阻值电阻器）  \n中文翻译:  \n- ohmic resistance: 欧姆电阻  \n- high-ohm resistor: 高阻值电阻器  \n- ohmmeter: 欧姆表  \n固定搭配和组词通常用于电子工程领域。",
+  "draw_explain": "欧姆是电阻的单位，通常与电路和电子设备相关联。通过使用一个简单的电路图，其中包括一个电阻器，可以帮助记忆'ohm'这个单词。电路图的简洁性和直观性使其成为一个有效的视觉线索。",
+  "draw_prompt": "A simple circuit diagram featuring a resistor with the label '1 ohm' written below it, drawn in a clean and minimalistic style."
+}

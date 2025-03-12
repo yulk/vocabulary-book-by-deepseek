@@ -1,0 +1,6 @@
+{
+  "word": "halve",
+  "analysis": "### 分析词义\n\n\"Halve\" 是一个动词，意思是将某物分成两半，或者减少一半。它通常用于描述数量、尺寸或时间的减半。\n\n### 列举例句\n\n1. **场景一：烹饪**\n   - \"She halved the recipe to make it suitable for two people.\"\n   - 她把食谱减半，以便适合两个人。\n\n2. **场景二：财务**\n   - \"The company plans to halve its workforce in the next year.\"\n   - 公司计划在明年将员工数量减半。\n\n3. **场景三：时间**\n   - \"He halved the time it took to complete the project by working more efficiently.\"\n   - 他通过更高效地工作，将完成项目所需的时间减半。\n\n### 词根分析\n\n- **词根**: \"half\"（一半）是 \"halve\" 的词根，表示“一半”的概念。\n- **衍生单词**: 由 \"half\" 衍生出的单词包括 \"halfway\"（中途的）、\"halftime\"（中场休息）等。\n\n### 词缀分析\n\n- **词缀**: \"halve\" 没有明显的前缀或后缀，它直接来源于词根 \"half\"。\n- **相同词缀的单词**: 由于 \"halve\" 没有明显的词缀，这里不适用。\n\n### 发展历史和文化背景\n\n\"Halve\" 源自中古英语的 \"halven\"，进一步追溯到古英语的 \"helfian\"，意为“分成两半”。这个概念在许多文化中都很常见，尤其是在涉及分割食物、资源或时间时。在现代英语中，\"halve\" 广泛用于描述减少或分割的动作。\n\n### 单词变形\n\n- **动词**: halve (v.) - 减半；分成两半\n- **名词形式**: half (n.) - 一半；半个（注意：虽然 \"halve\" 是动词，但其名词形式是 \"half\"）\n- **固定搭配**: halve something - 将某物减半；halve the cost - 将成本减半；halve the time - 将时间减半。中文翻译分别为：将某物减半；将成本减半；将时间减半。",
+  "draw_explain": "这个prompt通过展示一个被切成两半的苹果，直观地展示了'halve'的含义，即对分或平摊。苹果的切面清晰可见，强调了'对分'的概念，使得记忆更加直观和深刻。",
+  "draw_prompt": "A perfectly halved apple with a smooth cut surface, showing the core and seeds, against a white background."
+}

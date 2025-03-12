@@ -1,0 +1,6 @@
+{
+  "word": "reckon",
+  "analysis": "### 分析词义\n\"Reckon\" 是一个多义词，主要用于表示“认为”、“估计”或“计算”。它通常用于非正式场合，尤其是在英式英语中。\n\n### 列举例句\n1. **场景一：估计**\n   - **例句**: \"I reckon it will take about two hours to get there.\"\n   - **中文翻译**: “我估计到那里需要大约两个小时。”\n   \n2. **场景二：认为**\n   - **例句**: \"He reckoned that the project was too risky.\"\n   - **中文翻译**: “他认为这个项目风险太大。”\n   \n3. **场景三：计算**\n   - **例句**: \"Let's reckon up the total cost before we decide.\"\n   - **中文翻译**: “让我们先计算总成本再做决定。”\n\n### 词根分析\n- **词根**: \"reck\" (来自古英语 \"ræcan\"，意为“注意”或“考虑”)。\n- **衍生单词**: \n  - \"reckless\" (不顾后果的)\n  - \"reckon\" (认为，估计)\n  - \"reckoning\" (计算，结账)\n\n### 词缀分析\n- **前缀**: 无明显前缀。\n- **后缀**: \"-on\" (表示动作或过程)。\n- **相同后缀的单词**: 如 \"reason\" (理由), \"season\" (季节)。\n\n### 发展历史和文化背景\n\"Reckon\" 起源于古英语，最初用于表示“注意”或“考虑”。随着时间的推移，它的意义扩展到包括“估计”和“计算”。在现代英语中，尤其是在英式英语中，它仍然是一个常用的词汇，常用于非正式对话中。在某些文化背景下，如澳大利亚和英国的乡村地区，\"reckon\" 的使用频率较高。\n\n### 单词变形\n- **动词**: reckon (认为，估计)\n- **名词形式**: reckoning (计算，结账)\n- **固定搭配**: \n  - \"reckon with\" (必须考虑或处理)：We need to reckon with the potential risks. (我们需要考虑潜在的风险。)  【注意：这个短语中的 with是介词】",
+  "draw_explain": "选择了一个古老的算盘作为视觉线索，因为算盘是用于测算和测量的工具，与'reckon'的定义中的'测算，测量'部分紧密相关。算盘的图像能够直观地提醒用户'reckon'与计算和估计有关。",
+  "draw_prompt": "An ancient abacus with beads sliding across the rods, set against a rustic wooden background, evoking a sense of calculation and measurement."
+}

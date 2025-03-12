@@ -1,0 +1,6 @@
+{
+  "word": "zip",
+  "analysis": "### 分析词义\n\n**Zip** 是一个多义词，主要有以下几种含义：\n1. **名词**：拉链（一种用于连接或分离衣物、袋子等物品的装置）。\n2. **动词**：拉上或拉开拉链。\n3. **动词**：快速移动，如“飞驰”或“迅速移动”。\n4. **拟声词**：模仿物体快速移动的声音，如子弹飞过的声音。\n\n### 列举例句\n\n1. **名词用法**：  \n   - The zip on my jacket is broken.  \n     （我夹克上的拉链坏了。）  \n2. **动词用法（拉拉链）**：  \n   - She zipped up her dress before leaving the house.  \n     （她出门前把裙子拉链拉上了。）  \n3. **动词用法（快速移动）**：  \n   - The car zipped past us on the highway.  \n     （那辆车在高速公路上从我们旁边飞驰而过。）  \n4. **拟声词用法**：  \n   - The bullet zipped through the air.  \n     （子弹嗖地一声穿过空气。）  \n5. **名词用法（文件压缩格式）**：  \n   - You need a zip file to download all the documents at once.  \n     （你需要一个压缩文件来一次性下载所有文档。）  \n6. **动词用法（压缩文件）**：  \n   - Please zip the folder before sending it via email.  \n     （请在通过电子邮件发送之前将文件夹压缩。）",
+  "draw_explain": "选择'拉链'作为主要视觉线索，因为它是'zip'最直观和易于联想的含义。通过展示一个带有拉链的衣物，结合动态的拉链滑动效果，可以有效地将单词'zip'与其主要含义联系起来，帮助记忆。",
+  "draw_prompt": "A close-up of a zipper on a jacket, with the slider moving smoothly up and down, creating a dynamic and sleek visual effect."
+}

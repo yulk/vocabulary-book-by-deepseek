@@ -1,0 +1,6 @@
+{
+  "word": "acknowledge",
+  "analysis": "### 分析词义\n\n**acknowledge** 是一个动词，意思是“承认”、“认可”或“确认收到”。它通常用于表示公开承认某事的存在或真实性，或者表示对某人的感谢或尊重。\n\n### 列举例句\n\n1. **场景一：承认事实**\n   - **例句**: She acknowledged that she had made a mistake.\n   - **中文翻译**: 她承认自己犯了一个错误。\n\n2. **场景二：确认收到**\n   - **例句**: We acknowledged the receipt of the letter.\n   - **中文翻译**: 我们确认收到了信件。\n\n3. **场景三：表示感谢**\n   - **例句**: The professor acknowledged the student's hard work.\n   - **中文翻译**: 教授对学生的努力表示了感谢。\n\n### 词根分析\n\n- **词根**: -know- (来自古英语 \"cnawan\"，意思是“知道”)\n- **衍生单词**: \n  - knowledge (知识)\n  - known (已知的)\n  - unknown (未知的)\n\n### 词缀分析\n\n- **前缀**: ac- (来自拉丁语前缀 \"ad-\"，表示“向”或“到”)\n- **词根**: -know- (知道)\n- **后缀**: -ledge (无特定意义，辅助发音)\n- **相同前缀的单词**: \n  - acquire (获得)\n  - accord (一致)\n  - account (账户)\n\n### 发展历史和文化背景\n\n**acknowledge** 源自中古英语 \"akennelen\"，进一步追溯到古英语 \"cnawan\"，意思是“知道”。在拉丁语中，\"ad-\" 前缀表示“向”或“到”，而 \"cognoscere\" 意思是“认识”或“知道”。因此，**acknowledge** 最初的意思是“使某人知道某事”，后来演变为“承认”或“确认”。在现代英语中，它常用于正式场合，表示对某事的认可或确认。\n\n### 单词变形\n\n- **名词形式**: acknowledgment (承认；确认) [中文翻译: 承认；确认]",
+  "draw_explain": "通过展示一个人在正式场合中收到一封信并微笑着点头，这个场景直观地表达了'acknowledge'的含义，即承认或告知已收到。信件和点头动作都是与'acknowledge'直接相关的视觉线索，易于记忆。",
+  "draw_prompt": "A formal setting with a person receiving a letter, smiling, and nodding in acknowledgment, using clean lines and muted colors."
+}

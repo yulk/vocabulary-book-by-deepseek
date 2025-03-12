@@ -1,0 +1,6 @@
+{
+  "word": "contestant",
+  "analysis": "### 分析词义\n\n**Contestant** 是一个名词，指的是参加比赛或竞赛的人。这个词通常用于描述那些在各种比赛、选秀节目、体育赛事等中竞争的个人或团队。\n\n### 列举例句\n\n1. **场景一：电视选秀节目**\n   - The contestant gave an impressive performance, earning a standing ovation from the audience.\n   - 这位参赛者表演得非常出色，赢得了观众的起立鼓掌。\n\n2. **场景二：体育比赛**\n   - All the contestants lined up at the starting line, waiting for the race to begin.\n   - 所有参赛者在起跑线排成一排，等待比赛开始。\n\n3. **场景三：知识竞赛**\n   - The contestant answered all the questions correctly, winning the first prize.\n   - 这位参赛者正确回答了所有问题，赢得了第一名。\n\n### 词根分析\n\n- **词根**: *test* (源自拉丁语 *testari*，意为“作证”或“证明”)\n- **衍生词**: \n  - *contest* (动词，意为“竞争”或“争论”)\n  - *contestation* (名词，意为“争论”或“争议”)\n  - *testify* (动词，意为“作证”)\n  - *testimony* (名词，意为“证词”)\n\n### 词缀分析\n\n- **前缀**: *con-* (表示“共同”或“一起”)\n- **后缀**: *-ant* (表示“做某事的人”)\n- **相同后缀的单词**: \n  - *assistant* (助手)\n  - *participant* (参与者)\n  - *inhabitant* (居民)\n\n### 发展历史和文化背景\n\n**Contestant** 这个词源于拉丁语 *contestari*，意为“共同作证”。在中世纪英语中，它演变为 *contesten*，最终在现代英语中定型为 *contestant*。这个词在现代文化中广泛应用于各种比赛和竞赛中，尤其是在电视选秀节目和体育赛事中频繁出现。它代表了那些为了荣誉、奖品或认可而竞争的个人或团队。",
+  "draw_explain": "该prompt通过描绘一个参赛者在舞台上举手的场景，直观地展示了'contestant'的含义。舞台和举手的动作是参赛者的典型特征，易于与单词含义相关联，帮助记忆。",
+  "draw_prompt": "A confident contestant raising their hand on a brightly lit stage, surrounded by an audience, in a dynamic and colorful cartoon style."
+}

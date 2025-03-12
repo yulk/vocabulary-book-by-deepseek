@@ -1,0 +1,6 @@
+{
+  "word": "hemisphere",
+  "analysis": "### 分析词义\n\n\"Hemisphere\" 是一个名词，指的是地球或其他球体的一半。具体来说，地球被赤道分为北半球（Northern Hemisphere）和南半球（Southern Hemisphere）。此外，\"hemisphere\" 也可以指大脑的半球，即左脑和右脑。\n\n### 列举例句\n\n1. **地理场景**：\n   - The Northern Hemisphere experiences summer when the Southern Hemisphere experiences winter.\n   - 当北半球经历夏季时，南半球经历冬季。\n\n2. **科学场景**：\n   - The left hemisphere of the brain is typically associated with logical thinking.\n   - 大脑的左半球通常与逻辑思维相关联。\n\n3. **抽象概念**：\n   - In this project, we divided the work into two hemispheres, each focusing on a different aspect.\n   - 在这个项目中，我们将工作分为两个部分，每个部分专注于不同的方面。\n\n### 词根分析\n\n- **词根**：\"hemi-\" 表示“一半”，\"-sphere\" 表示“球体”。\n- **衍生单词**：\n  - **hemicycle**：半圆形，如议会的半圆形会议厅。\n  - **hemiplegia**：偏瘫，即身体一侧的瘫痪。\n\n### 词缀分析\n\n- **前缀**：\"hemi-\" 表示“一半”。\n- **后缀**：\"-sphere\" 表示“球体”。\n- **相同词缀的单词**：\n  - **atmosphere**：大气层。\n  - **biosphere**：生物圈。\n  - **stratosphere**：平流层。\n\n### 发展历史和文化背景\n\n\"Hemisphere\" 源自希腊语 \"hemi-\"（一半）和 \"sphaira\"（球体）。在地理学中，这个词最早用于描述地球的半球，后来扩展到其他领域，如天文学和神经科学。在文化中，\"hemisphere\" 常用于描述地理区域或大脑功能的不同方面。",
+  "draw_explain": "通过描绘一个地球仪，强调其被水平线分割成两个半球，这种视觉线索直接关联到'hemisphere'的定义，即半球。地球仪的图像易于理解且与单词含义紧密相关，有助于记忆。",
+  "draw_prompt": "A globe with a horizontal line dividing it into two equal halves, each half shaded differently to emphasize the concept of hemispheres."
+}

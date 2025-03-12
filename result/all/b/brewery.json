@@ -1,0 +1,6 @@
+{
+  "word": "brewery",
+  "analysis": "### 分析词义\n\n**Brewery** 是一个名词，指的是一个制造和生产啤酒的工厂或场所。它通常包括酿造、发酵和包装啤酒的设备和过程。\n\n### 列举例句\n\n1. **例句**: The local brewery offers tours where visitors can see the beer-making process from start to finish.  \n   **中文翻译**: 当地的酿酒厂提供游览，游客可以看到从开始到结束的啤酒制作过程。\n\n2. **例句**: They decided to open a small brewery in their backyard to experiment with different beer recipes.  \n   **中文翻译**: 他们决定在后院开一家小酿酒厂，试验不同的啤酒配方。\n\n3. **例句**: The brewery produces a variety of craft beers, each with its unique flavor profile.  \n   **中文翻译**: 这家酿酒厂生产各种手工啤酒，每种都有其独特的风味特征。\n\n### 词根分析\n\n- **词根**: *brew*  \n  - **含义**: 酿造，制作（啤酒）  \n  - **衍生单词**:  \n    - *brew* (动词): 酿造  \n    - *brewer* (名词): 酿酒师  \n    - *brewery* (名词): 酿酒厂  \n    - *brewing* (名词): 酿造过程  \n    - *brewpub* (名词): 兼营酒吧的酿酒厂  \n    - *brewmaster* (名词): 首席酿酒师  \n    - *brewery tour* (名词短语): 酿酒厂参观  \n    - *microbrewery* (名词): 微型酿酒厂  \n    - *homebrew* (名词/形容词): 家庭自制的（啤酒）  \n    - *brewing industry* (名词短语): 酿造业  \n    - *craft brewery* (名词短语): 手工酿酒厂  ",
+  "draw_explain": "该prompt通过描述一个典型的啤酒厂场景，包括大桶、管道和标签，帮助记忆'brewery'这个单词。这些元素都是啤酒厂的标志性特征，易于视觉化，能够有效关联到单词的含义。",
+  "draw_prompt": "A large room filled with giant metal barrels, intricate pipes connecting them, and labels on the barrels indicating different types of beer, all in a rustic industrial style."
+}

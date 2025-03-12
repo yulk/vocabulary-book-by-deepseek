@@ -1,0 +1,6 @@
+{
+  "word": "corrosion",
+  "analysis": "### 分析词义\n**Corrosion** 是一个名词，指的是金属或其他材料由于与环境中的化学物质（如氧气、水、酸等）发生反应而逐渐被侵蚀或破坏的过程。这个过程通常会导致材料的表面出现腐蚀、生锈或损坏。\n\n### 列举例句\n1. **Industrial Use:**  \n   \"The steel pipes showed signs of corrosion after being exposed to saltwater for years.\"  \n   （这些钢管在暴露于盐水多年后出现了腐蚀的迹象。）\n\n2. **Automotive Industry:**  \n   \"Anti-corrosion coatings are essential to protect car bodies from rust.\"  \n   （防腐蚀涂层对于保护汽车车身免受生锈至关重要。）\n\n3. **Environmental Impact:**  \n   \"Corrosion of metal structures can lead to significant environmental hazards.\"  \n   （金属结构的腐蚀可能导致严重的环境危害。）\n\n### 词根分析\n- **词根:** -ros- (来自拉丁语 \"roderi\"，意思是“咬”或“侵蚀”)。  \n- **衍生词:**  \n  - Corrode (动词): 腐蚀，侵蚀。  \n  - Corrosive (形容词): 腐蚀性的。  \n  - Corrosion-resistant (形容词): 抗腐蚀的。\n\n### 词缀分析\n- **后缀:** -ion (名词后缀，表示行为、状态或结果)。  \n- **相同后缀的单词:**  \n  - Action (行动)  \n  - Solution (解决方案)  \n  - Motion (运动)\n\n### 发展历史和文化背景\n**Corrosion**一词源自拉丁语 \"corrodere\"，意为“咬穿”或“侵蚀”。这个词在工业和科学领域中非常重要，特别是在金属加工和保护方面。在欧美文化中，腐蚀问题常常与工业安全和环境保护联系在一起，因为腐蚀不仅会导致经济损失，还可能引发安全事故和环境污染。因此，防腐蚀技术在许多行业中都是研究的重点。",
+  "draw_explain": "为了帮助记忆单词'corrosion'，这个prompt选择了与腐蚀和锈蚀直接相关的视觉元素——生锈的金属。通过描绘一个生锈的金属表面，可以直观地展示出腐蚀的过程和结果，使学习者能够通过视觉直接联想到该单词的含义。",
+  "draw_prompt": "A close-up image of a rusted metal surface with flaky rust particles, captured in a realistic and detailed style."
+}

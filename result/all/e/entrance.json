@@ -1,0 +1,6 @@
+{
+  "word": "entrance",
+  "analysis": "### 分析词义\n\n\"Entrance\" 是一个多义词，可以作为名词和动词使用。作为名词时，它主要有两个意思：\n1. **入口**：指建筑物、场地等的进入通道。\n2. **入场**：指进入某个场所或参加某个活动的行为。\n\n作为动词时，\"entrance\" 的意思是：\n- **使入迷**：指通过某种方式使人感到极度兴奋或陶醉。\n\n### 列举例句\n\n1. **入口**：\n   - The main entrance of the building is on the north side.  \n     （建筑物的主入口在北侧。）\n   \n2. **入场**：\n   - All visitors must show their tickets at the entrance.  \n     （所有访客必须在入口处出示门票。）\n   \n3. **使入迷**：\n   - The magician's performance entranced the audience.  \n     （魔术师的表演让观众如痴如醉。）\n\n### 词根分析\n\n- **词根**：\"entr-\" 源自拉丁语 \"intrare\"，意思是 \"进入\"。\n- **衍生单词**：enter (进入), entry (入口)。\n\n### 词缀分析\n\n- **后缀**：\"-ance\" 是名词后缀，表示状态或行为。例如：appearance (外貌), performance (表演)。  \n- **前缀**：无前缀。  \n- **中缀**：无中缀。  \n- **其他单词**：entrancement (入迷的状态)。  \n- **相同后缀的单词**：importance (重要性), assistance (帮助)。  \n- **相同前缀的单词**：无前缀相关单词。  ",
+  "draw_explain": "通过描绘一个明显的入口标志和进入的动作，这个prompt能够直观地帮助记忆'entrance'这个词的含义。入口标志的清晰性和进入动作的动态性使得这个场景易于与单词'entrance'相关联。",
+  "draw_prompt": "A clear entrance sign with bold letters, placed above a door, with a person stepping through the door into a new space, in a modern and clean style."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "transaction",
+  "analysis": "### 分析词义\n\n\"Transaction\" 是一个名词，指的是一项交易或业务活动。它可以涵盖各种形式的交易，包括金融交易、商业交易、法律协议等。这个词通常用于描述双方或多方之间的交换行为，可以是金钱、商品、服务或其他资源的交换。\n\n### 列举例句\n\n1. **金融交易**：  \n   - **例句**: \"The bank charges a small fee for each transaction.\"  \n   - **中文翻译**: \"银行对每笔交易收取少量费用。\"\n\n2. **商业交易**：  \n   - **例句**: \"The company completed a major transaction with a foreign partner.\"  \n   - **中文翻译**: \"公司与外国合作伙伴完成了一笔重大交易。\"\n\n3. **法律协议**：  \n   - **例句**: \"The lawyer ensured that all the terms of the transaction were clearly documented.\"  \n   - **中文翻译**: \"律师确保交易的各项条款都清楚地记录在案。\"\n\n### 词根分析\n\n- **词根**: \"trans-\" 和 \"-act-\"  \n  - \"trans-\" 表示“跨越”或“转移”。  \n  - \"-act-\" 表示“行动”或“做”。  \n\n- **衍生单词**:  \n  - **transfer**: 转移，调动。  \n  - **transit**: 运输，通过。  \n  - **action**: 行动，行为。  \n  - **active**: 积极的，活跃的。\n\n### 词缀分析\n\n- **后缀**: \"-ion\"  \n  - \"-ion\" 是一个名词后缀，表示状态、行为或过程。  \n\n- **相同词缀的单词**:  \n  - **creation**: 创造，创作。  \n  - **decision**: 决定，决策。  ",
+  "draw_explain": "通过展示一个典型的交易场景，如两个人在交换物品或金钱，可以帮助记忆'transaction'这个单词。这种视觉线索直接关联到单词的定义，即交易或业务。简洁的场景和明确的动作使得记忆更加直观和有效。",
+  "draw_prompt": "A minimalist illustration of two people exchanging goods or money in a modern, clean-lined style, emphasizing the act of transaction."
+}

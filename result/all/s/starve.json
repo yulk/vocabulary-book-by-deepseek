@@ -1,0 +1,6 @@
+{
+  "word": "starve",
+  "analysis": "### 分析词义\n\"Starve\" 是一个动词，意思是“挨饿”或“饿死”。它描述的是由于缺乏食物而感到饥饿或因缺乏某种资源而感到不足的状态。\n\n### 列举例句\n1. **场景一：描述饥饿**\n   - **例句**: The refugees are starving because they have no food.\n   - **中文翻译**: 难民们因为没有食物而挨饿。\n\n2. **场景二：比喻性使用**\n   - **例句**: The company is starving for new talent.\n   - **中文翻译**: 公司急需新的人才。\n\n3. **场景三：描述动物**\n   - **例句**: The zoo animals were starving due to lack of donations.\n   - **中文翻译**: 由于缺乏捐款，动物园的动物们正在挨饿。\n\n### 词根分析\n- **词根**: \"starv-\" 源自拉丁语 \"stravire\"，意为“使饥饿”。\n- **衍生单词**: starve（动词，挨饿）、starvation（名词，饥饿）。\n\n### 词缀分析\n- **后缀**: \"-e\" 是一个常见的动词后缀，用于表示动作或状态。\n- **相同后缀的单词**: drive（驾驶）、live（生活）、give（给予）。\n\n### 发展历史和文化背景\n\"Starve\" 这个词最早可以追溯到中古英语时期，源自拉丁语 \"stravire\"，意为“使饥饿”。在欧美文化中，饥饿和贫困一直是重要的社会问题，因此 \"starve\" 这个词经常出现在关于慈善、人道主义援助和食品短缺的讨论中。例如，联合国世界粮食计划署（WFP）经常使用这个词来描述全球饥饿问题。\n\n### 单词变形\n- **动词原形**: starve（挨饿）\n- **名词形式**: starvation（饥饿）\n- **固定搭配**: starve for（渴望）、starve to death（饿死）、starve out（因饥饿而屈服）。\n- **组词**: starvation diet（节食）、starvation wages（低工资）。\n- **不同时态**: starved（过去式和过去分词）、starving（现在分词）。",
+  "draw_explain": "该prompt通过描绘一个饥饿的人蜷缩在角落的场景，突出了'starve'的核心含义——挨饿。视觉上，干瘪的身体和空荡的碗直接关联到饥饿的状态，易于记忆。",
+  "draw_prompt": "A gaunt person huddled in a corner, holding an empty bowl, with a dimly lit, desolate background."
+}

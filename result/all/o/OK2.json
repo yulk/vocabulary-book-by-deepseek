@@ -1,0 +1,6 @@
+{
+  "word": "OK",
+  "analysis": "好的，请提供您想要分析的英文单词，我将根据您的需求完成上述任务。",
+  "draw_explain": "选择一个简单的绿色勾号图像，因为绿色通常与‘好’或‘正确’相关联，而勾号是表示认可的常见符号。这种视觉线索直接且易于记忆，能够有效地帮助用户将‘OK’与‘好的’这一含义联系起来。",
+  "draw_prompt": "A simple green checkmark on a white background, clean and modern design."
+}

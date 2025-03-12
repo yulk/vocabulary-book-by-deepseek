@@ -1,0 +1,6 @@
+{
+  "word": "acute",
+  "analysis": "### 分析词义\n\n**acute** 是一个形容词，主要含义包括：\n1. **尖锐的、锐利的**：指物体或感官的敏锐度高，如“acute angle”（锐角）。\n2. **严重的、剧烈的**：形容问题或疾病的严重性，如“acute pain”（剧痛）。\n3. **敏锐的、精明的**：形容人的思维或感知的敏锐程度，如“acute observer”（敏锐的观察者）。\n\n### 列举例句\n\n1. **场景一：医学**  \n   - The patient is suffering from acute appendicitis.  \n   - 病人患有急性阑尾炎。\n   \n2. **场景二：数学**  \n   - An acute angle measures less than 90 degrees.  \n   - 锐角的度数小于90度。\n   \n3. **场景三：观察力**  \n   - She has an acute sense of smell and can detect even the slightest scent.  \n   - 她有着敏锐的嗅觉，能察觉到最微弱的气味。\n\n### 词根分析\n\n- **词根**：*acu-*（来自拉丁语 *acutus*），意思是“尖锐的、锋利的”。  \n- **衍生单词**：  \n  - *acumen*（敏锐、精明）  \n  - *acupuncture*（针灸）  \n  - *acuity*（敏锐度）  \n  - *acuteness*（尖锐性）  \n  - *accuse*（指责，词根同源但意义延伸为“指向”）。\n\n### 词缀分析\n- **后缀**：*-te*（无特殊含义，主要用于构成形容词形式）。  \n- **相同后缀单词**：  \n  - *complete*（完整的）  \n  - *concrete*（具体的）  \n  - *minute*（微小的）。  \n- **前缀**：无前缀。如果考虑衍生词 *accuse*，则有前缀 *ad-*，表示“朝向”。但 *acute* 本身无前缀。",
+  "draw_explain": "通过描绘一个尖锐的物体（如尖刀）和一个急性病症的象征（如一个病人痛苦地捂着胸口），可以直观地联想到'acute'这个词的多个含义。尖刀代表'尖声的'和'敏锐的'，而病人的痛苦表情则象征'严重的'和'急性的'。这样的视觉组合能够帮助记忆单词的多重含义。",
+  "draw_prompt": "A sharp knife with a pointed tip, placed next to a person clutching their chest in acute pain, set in a realistic style with detailed textures and dramatic lighting."
+}

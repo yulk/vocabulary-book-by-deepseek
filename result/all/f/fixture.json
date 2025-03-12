@@ -1,0 +1,6 @@
+{
+  "word": "fixture",
+  "analysis": "### 分析词义\n\n**Fixture** 是一个名词，主要有两个常见的含义：\n\n1. **固定装置**：指在建筑物中固定安装的设备或物品，通常是永久性的，例如浴缸、水槽、灯具等。\n2. **体育赛事中的赛程安排**：指体育比赛中各队伍的比赛安排或时间表。\n\n### 列举例句\n\n1. **固定装置**：\n   - The bathroom fixtures need to be replaced.  \n     （浴室的固定装置需要更换。）\n   - The lighting fixtures in the hall are quite modern.  \n     （大厅里的灯具非常现代化。）\n   - The kitchen sink is an essential fixture in any home.  \n     （厨房水槽是任何家庭中必不可少的固定装置。）\n\n2. **体育赛事中的赛程安排**：\n   - The next fixture is against the local rivals.  \n     （下一场比赛是对阵当地的对手。）\n   - The team's fixtures for the season have been announced.  \n     （球队本赛季的赛程已经公布了。）\n   - The fixture list is always eagerly awaited by fans.  \n     （球迷们总是热切期待赛程表的发布。）\n\n### 词根分析\n\n- **词根**：fix-  \n  fix- 源自拉丁语“figere”，意思是“固定”或“安置”。fix- 作为词根，表示“固定”或“稳定”的概念。\n  \n- **衍生单词**：  \n  - fix (动词)：修理，固定。  \n  - fixed (形容词)：固定的，不变的。  \n  - fixation (名词)：固定，专注。  \n  - affix (动词/名词)：附加，粘贴。  \n  - prefix (名词)：前缀。  \n  - suffix (名词)：后缀。  \n  - fixture (名词)：固定装置，赛程安排。  \n    *注意*：fixture中的fix-表示“固定”的意思，而-ure是名词后缀，表示状态或结果。因此fixture可以理解为“固定的东西”或“固定的安排”。",
+  "draw_explain": "通过展示一个典型的固定装置，如厨房中的水槽或浴室中的马桶，可以帮助记忆'fixture'这个单词。这些装置通常是固定的，且在日常生活中常见，易于联想。",
+  "draw_prompt": "A modern kitchen scene with a stainless steel sink, faucet, and countertop, all firmly attached to the wall."
+}

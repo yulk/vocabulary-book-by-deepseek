@@ -1,0 +1,6 @@
+{
+  "word": "recharge",
+  "analysis": "### 分析词义\n\n\"Recharge\" 是一个动词，意思是“充电”或“恢复精力”。它可以指给电子设备充电，也可以比喻为给自己补充能量或恢复精神。\n\n### 列举例句\n\n1. **场景一：电子设备**\n   - \"I need to recharge my phone before leaving for the trip.\"\n   - 中文翻译：“我需要在出发旅行前给我的手机充电。”\n\n2. **场景二：个人精力**\n   - \"After a long day at work, I like to recharge by reading a book.\"\n   - 中文翻译：“经过一天的工作后，我喜欢通过读书来恢复精力。”\n\n3. **场景三：电池**\n   - \"The remote control needs to be recharged; the batteries are dead.\"\n   - 中文翻译：“遥控器需要充电；电池没电了。”\n\n### 词根分析\n\n- **词根**: \"charge\" 源自拉丁语 \"carricare\"，意为“装载”或“负担”。在英语中，\"charge\" 本身就有“充电”的意思。\n- **衍生单词**: 例如 \"discharge\"（放电）、\"overcharge\"（过度充电）等。\n\n### 词缀分析\n\n- **前缀**: \"re-\" 表示“再次”或“重新”。例如 \"rebuild\"（重建）、\"rewrite\"（重写）等。\n- **后缀**: 无特定后缀，但 \"recharge\" 本身是一个动词形式。\n- **相同词缀的单词**: \"revisit\"（重访）、\"reconsider\"（重新考虑）等。\n\n### 发展历史和文化背景\n\n- **造词来源**: \"Recharge\" 是 \"re-\"（再次）和 \"charge\"（充电）的组合，最初用于描述电子设备的充电过程，后来扩展到比喻性的用法，表示恢复精力或能量。在现代科技文化中，这个词非常常见，尤其是在讨论电子设备和能源管理时。\n   - **文化内涵**: 在欧美文化中，人们非常重视工作和生活的平衡，因此 \"recharge\" 也常用来描述个人如何通过休息和放松来恢复精力。例如，周末的短途旅行或瑜伽课程常被描述为一种 \"recharging experience\"（恢复精力的体验）。",
+  "draw_explain": "通过展示一个正在充电的智能手机，这个场景直接关联到'再充电'的概念，使得'recharge'这个单词的含义变得直观且易于记忆。",
+  "draw_prompt": "a modern smartphone with a charging cable plugged into it, glowing with a soft blue light, set against a minimalist white background"
+}

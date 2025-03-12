@@ -1,0 +1,6 @@
+{
+  "word": "liability",
+  "analysis": "### 分析词义\n\n**Liability** 是一个名词，主要有两个常见的意思：\n\n1. **责任/义务**：指某人或某物对某事负有法律或道德上的责任。例如，在商业环境中，liability 可以指公司需要偿还的债务。\n2. **不利条件/负担**：指某人或某物可能带来麻烦或损失的特性。例如，在保险业中，liability 可以指可能引发赔偿的风险。\n\n### 列举例句\n\n1. **责任/义务**\n   - **例句**: The company's main liability is its outstanding loans.  \n     **中文翻译**: 这家公司的主要责任是其未偿还的贷款。\n   \n2. **不利条件/负担**\n   - **例句**: His poor health is a liability to the team.  \n     **中文翻译**: 他的健康状况不佳是团队的负担。\n   \n3. **法律责任**\n   - **例句**: The driver was found to have no liability in the accident.  \n     **中文翻译**: 司机被认定在事故中没有责任。\n\n### 词根分析\n\n- **词根**: *liabil-*  \n- **衍生词**: 这个词根并不常见，但可以衍生出一些相关的词汇，如:  \n  - *liable* (形容词): 有责任的，易于...的。例如: \"He is liable for the damages.\" (他对损害负有责任。)  \n  - *liability* (名词): 如上所述，表示责任或负担。  \n  - *reliability* (名词): 可靠性。例如: \"The reliability of the data is crucial.\" (数据的可靠性至关重要。)  \n  - *reliant* (形容词): 依赖的。例如: \"She is reliant on her parents for financial support.\" (她在经济上依赖父母支持。)  \n  这些词汇都与“责任”、“依赖”等概念相关联。",
+  "draw_explain": "通过展示一个法律责任场景，如一个人在法庭上被判有罪并需要承担责任，这种视觉线索能够直观地帮助记忆'liability'这个单词的含义。法庭和法律责任的场景是独特且易于与单词含义相关联的。",
+  "draw_prompt": "A person standing in a courtroom, being judged guilty, with a gavel striking down to symbolize the legal responsibility being imposed."
+}

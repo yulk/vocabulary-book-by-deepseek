@@ -1,0 +1,6 @@
+{
+  "word": "auto",
+  "analysis": "### 分析词义\n\n**auto** 是一个源自希腊语的词根，表示“自我”或“自动”。在现代英语中，它通常用作前缀，表示与“自我”或“自动”相关的概念。例如，在单词“automobile”中，“auto”表示“自动”，而“mobile”表示“移动的”，合起来就是“自动移动的车辆”，即汽车。\n\n### 列举例句\n\n1. **Automobile Industry**: The automobile industry is one of the largest industries in the world.  \n   - 汽车工业是世界上最大的工业之一。\n2. **Autograph**: The celebrity was kind enough to give me an autograph.  \n   - 那位名人很友好地给了我一张签名。\n3. **Autonomy**: The new law gives more autonomy to local governments.  \n   - 新法律赋予地方政府更多的自治权。\n\n### 词根分析\n\n- **词根**: auto- (来自希腊语 autos, 意为“自我”)\n- **衍生单词**:  \n  - automobile (汽车)  \n  - automatic (自动的)  \n  - autobiography (自传)  \n  - autonomous (自治的)  \n  - autopilot (自动驾驶仪)  \n  - autograph (亲笔签名)  \n  - autonomy (自治)  \n\n### 词缀分析\n\n- **前缀**: auto- (表示“自我”或“自动”)  \n- **相同前缀的单词**:  \n  - autograph (亲笔签名)  \n  - automatic (自动的)  \n  - autonomous (自治的)  \n  - autobiography (自传)  \n  - autopilot (自动驾驶仪)  \n  - autonomy (自治)  \n  - automobile (汽车)  \n  - autofocus (自动对焦)  \n  - autoclave (高压灭菌器)  \n  - autocracy (独裁政治)  \n  - autocrat (独裁者)  \n  - automate (使自动化)  \n  - automation (自动化)  ",
+  "draw_explain": "这个prompt通过展示一辆典型的汽车来帮助记忆单词'auto'，因为汽车是'auto'最常见的含义。使用简洁的线条和现代风格，使得图像易于识别和记忆。",
+  "draw_prompt": "A sleek, modern car with clean lines and a minimalist design, parked on a city street with tall buildings in the background."
+}

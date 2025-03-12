@@ -1,0 +1,6 @@
+{
+  "word": "stationery",
+  "analysis": "### 分析词义\n\n\"Stationery\" 是一个名词，指的是文具，即用于书写、绘画或办公的物品。它通常包括纸张、笔、铅笔、橡皮、尺子、文件夹等。\n\n### 列举例句\n\n1. **场景：办公室**\n   - I need to buy some stationery for the office.  \n     - 我需要为办公室买些文具。\n2. **场景：学校**\n   - The teacher asked the students to bring their stationery to class.  \n     - 老师要求学生把文具带到课堂上来。\n3. **场景：家庭**\n   - She keeps her stationery organized in a drawer.  \n     - 她把文具整理在一个抽屉里。\n\n### 词根分析\n\n- **词根**：statio- (源自拉丁语 \"statio\"，意为“站”或“位置”)。\n- **衍生词**：stationary (形容词，意为“静止的”)。\n\n### 词缀分析\n\n- **后缀**：-ery (表示“场所”或“物品”)。\n- **相同后缀的单词**：bakery (面包店), laundry (洗衣店)。\n\n### 发展历史和文化背景\n\n\"Stationery\" 这个词源于拉丁语 \"stationarius\"，最初指的是“邮局职员”或“邮局”。随着时间的推移，这个词的意义逐渐演变为指代与书写相关的物品，特别是那些在邮局或办公室中使用的物品。在欧美文化中，文具通常与办公、学习和正式通信相关联，具有重要的实用和文化价值。\n\n### 单词变形\n\n- **名词形式**：stationery (文具)。  \n- **固定搭配**：office stationery (办公文具), school stationery (学校文具)。  \n- **组词**：stationery store (文具店), stationery supplies (文具用品)。  \n- **无其他变形形式**，因为 \"stationery\" 是一个不可数名词，没有复数形式或动词形式。  \n  例如：stationeries（错误）；stationerying（错误）。  ",
+  "draw_explain": "选择信笺和文具作为视觉线索，因为它们是'stationery'这个单词的核心含义，易于通过图像联想记忆。使用简洁的场景描述和图片风格，确保图像能够直接与单词的含义相关联，从而帮助记忆。",
+  "draw_prompt": "A neatly organized desk with various stationery items such as pens, pencils, notebooks, and letter paper, all arranged in a clean and modern style."
+}

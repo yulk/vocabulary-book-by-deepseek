@@ -1,0 +1,6 @@
+{
+  "word": "catalogue",
+  "analysis": "### 分析词义\n\n**Catalogue** 是一个名词，指的是一个按顺序排列的物品列表，通常包含详细信息，如名称、描述、价格等。它也可以作为动词使用，表示将物品编入目录或列表中。\n\n### 列举例句\n\n1. **例句**: The library has an online catalogue where you can search for books.  \n   **翻译**: 图书馆有一个在线目录，你可以在那里搜索书籍。\n   \n2. **例句**: She spent hours cataloguing the old photographs.  \n   **翻译**: 她花了几个小时将旧照片编入目录。\n   \n3. **例句**: The store sent us a catalogue of their latest products.  \n   **翻译**: 商店给我们寄来了他们最新产品的目录。\n\n### 词根分析\n\n- **词根**: -log- (源自希腊语 λόγος (logos)，意为“词语”或“计算”)。\n- **衍生词**:  \n  - **Dialogue** (对话)  \n  - **Monologue** (独白)  \n  - **Analog** (模拟的)  \n  - **Eulogy** (颂词)  \n  - **Prologue** (序言)  \n  - **Epilogue** (后记)  \n  - **Catalog** (目录)  \n  - **Logarithm** (对数)  \n  - **Logic** (逻辑)  \n  - **Apology** (道歉)  \n  - **Pedagogue** (教师)  \n  - **Theologian** (神学家)  \n  - **Philologist** (语言学家)  \n  - **Epilogue** (尾声)  \n  - **Paralogism** (谬论)  \n  - **Logbook** (航海日志)  \n  - **Logistics** (物流学)  \n  - **Chronicle** (编年史)",
+  "draw_explain": "通过展示一个图书馆的书架，上面整齐排列着各种书籍，每本书上都有一个标签，标签上写着书名和编号。这种场景直接关联到'catalogue'的含义，即目录或列表，帮助记忆者将单词与实际的视觉图像联系起来。",
+  "draw_prompt": "A well-organized library bookshelf with numerous books, each labeled with a tag showing the title and number, arranged neatly in rows."
+}

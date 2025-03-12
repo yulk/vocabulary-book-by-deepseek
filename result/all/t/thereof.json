@@ -1,0 +1,6 @@
+{
+  "word": "thereof",
+  "analysis": "### 分析词义\n\"Thereof\" 是一个副词，意思是“在其中”、“由此”或“关于那件事”。它通常用于正式或法律文件中，用来指代前面提到的事物或情况。\n\n### 列举例句\n1. **The contract includes all the terms and conditions thereof.**  \n   - 合同包括所有条款和条件。\n2. **The company will be responsible for any damages thereof.**  \n   - 公司将对任何由此造成的损害负责。\n3. **He read the document and understood the implications thereof.**  \n   - 他阅读了文件并理解了其中的含义。\n\n### 词根分析\n- **词根**: \"there-\" 表示“那里”或“那个”，\"-of\" 是介词，表示“属于”。\n- **衍生词**: \"therein\", \"thereafter\", \"thereby\"。\n\n### 词缀分析\n- **词缀**: \"there-\"（前缀）+ \"-of\"（介词）。\n- **相同词缀的单词**: \"therein\", \"thereby\", \"thereafter\"。\n\n### 发展历史和文化背景\n\"Thereof\" 源自中古英语的 \"therof\"，进一步追溯到古英语的 \"thæraf\"。它在法律和正式文件中非常常见，尤其是在描述责任、义务或相关事项时。在现代英语中，尽管它的使用频率有所下降，但在正式场合仍然保留其重要性。\n\n### 单词变形\n- **副词**: thereof（由此）。\n- **固定搭配**: terms and conditions thereof（其中的条款和条件）, responsibility thereof（由此的责任）。\n\n### 记忆辅助\n1. **联想记忆**: 将 \"thereof\" 与“由此”联系起来，想象一个场景，比如签署合同后需要对合同中的内容负责，这样就能记住它的意思和用法。\n2. **重复使用**: 在阅读或写作时多使用这个单词，通过实际应用来加深记忆。",
+  "draw_explain": "通过使用一个包含'它的'和'由此'概念的场景，可以帮助记忆'thereof'的含义。选择一个包含明显特征的物体，如一个带有标签的盒子，标签上写着'由此'，盒子内部有一个小物体，象征'它的'。这样的视觉线索直接关联到单词的定义，易于记忆。",
+  "draw_prompt": "A labeled box with the word '由此' on the label, containing a small object inside, symbolizing 'its'."
+}

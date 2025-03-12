@@ -1,0 +1,6 @@
+{
+  "word": "scrub",
+  "analysis": "### 分析词义\n**Scrub** 是一个多义词，主要用作动词和名词。\n\n- **动词**：\n  - 擦洗、刷洗：指用刷子或布用力擦洗某物，通常是为了清洁。\n  - 取消、放弃：指取消或放弃某项计划或活动。\n  \n- **名词**：\n  - 灌木丛：指低矮的植物丛，通常生长在荒野或未开垦的地区。\n  - 擦洗：指擦洗的动作或过程。\n\n### 列举例句\n1. **场景1：清洁**\n   - **例句**: She spent hours scrubbing the kitchen floor.\n   - **翻译**: 她花了几个小时擦洗厨房地板。\n   \n2. **场景2：取消计划**\n   - **例句**: The team decided to scrub the登山计划 due to bad weather.\n   - **翻译**: 由于天气恶劣，团队决定取消登山计划。\n   \n3. **场景3：自然环境**\n   - **例句**: We hiked through dense scrub to reach the summit.\n   - **翻译**: 我们穿过茂密的灌木丛到达山顶。\n\n### 词根分析\n- **词根**: \"scrub\" 本身是一个独立的单词，没有明显的词根。它可能源自中古英语 \"scrubben\"，意为“擦、刮”。\n  \n### 词缀分析\n- **词缀**: \"scrub\" 没有明显的词缀，它是一个基本词汇。\n  \n### 发展历史和文化背景\n\"Scrub\" 这个词在中古英语时期就已经存在，最初的意思是“刮、擦”。随着时间的推移，它的意义扩展到包括“取消”和“灌木丛”等含义。在现代英语中，\"scrub\" 广泛用于日常生活中的清洁活动以及描述自然环境中的植被。\n\n### 单词变形\n- **动词**: scrub, scrubs, scrubbing, scrubbed\n- **名词**: scrub, scrubs (复数形式)\n- **固定搭配**: scrub off (擦掉), scrub up (彻底清洗), scrub out (擦净)\n  \n### 记忆辅助\n- **联想记忆**: 想象你正在用刷子（brush）用力擦洗（scrub）地板，这样可以帮助你记住 \"scrub\" 的清洁含义。对于取消计划的含义，可以联想为“擦掉”一个计划，就像擦掉写在纸上的字一样。",
+  "draw_explain": "这个prompt通过描述一个具体的擦洗动作场景，使用视觉线索如'刷子'、'肥皂泡'和'瓷砖表面'来帮助记忆单词'scrub'。这些元素共同构成了一个清晰且易于联想的图像，使学习者能够通过视觉记忆快速理解和记住单词的含义。",
+  "draw_prompt": "A close-up of a hand vigorously scrubbing a tiled surface with a brush, surrounded by suds and soap bubbles."
+}

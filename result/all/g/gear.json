@@ -1,0 +1,6 @@
+{
+  "word": "gear",
+  "analysis": "### 分析词义\n\n**gear** 是一个多义词，主要用作名词和动词。\n\n- **名词**：\n  - 齿轮，传动装置：指机械设备中用于传递动力的部件。\n  - 装备，工具：指用于特定任务或活动的设备或工具。\n  - 档位：在汽车或自行车等交通工具中，指不同的速度设置。\n\n- **动词**：\n  - 使适应，使适合：指调整或准备某物以适应特定需求或情况。\n  - 换挡：指改变汽车或其他机械设备的档位。\n\n### 列举例句\n\n1. **齿轮，传动装置**：\n   - The car's engine is connected to the wheels by a series of gears.  \n     (汽车的发动机通过一系列齿轮连接到车轮。)\n   \n2. **装备，工具**：\n   - The hikers packed their gear before setting off on the trail.  \n     (徒步旅行者在出发前打包了他们的装备。)\n   \n3. **档位**：\n   - She shifted gears to accelerate up the hill.  \n     (她换挡以加速上坡。)\n   \n4. **使适应，使适合**：\n   - The company is gearing its products towards a younger audience.  \n     (公司正在将其产品定位为年轻受众。)\n   \n5. **换挡**：\n   - He accidentally shifted into the wrong gear while driving.  \n     (他在驾驶时意外换到了错误的档位。)",
+  "draw_explain": "齿轮是机械装置中的重要组成部分，通常由多个相互啮合的齿组成。通过生成一个包含多个相互啮合的齿轮的图像，可以直观地展示单词'gear'的含义。这样的图像不仅易于理解，而且能够直接与单词的定义相关联，从而帮助记忆。",
+  "draw_prompt": "Create an image of multiple interlocking gears, each with distinct, visible teeth. The gears should be metallic in appearance, with a realistic, slightly worn texture. The scene should be set in a mechanical workshop, with soft lighting casting shadows on the gears."
+}

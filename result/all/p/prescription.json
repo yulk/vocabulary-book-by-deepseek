@@ -1,0 +1,6 @@
+{
+  "word": "prescription",
+  "analysis": "### 分析词义\n\n**Prescription** 是一个名词，主要指“处方”或“药方”，通常由医生开具，用于指导患者如何使用药物。此外，它也可以指“规定”或“指示”，表示某种必须遵循的规则或方法。\n\n### 列举例句\n\n1. **场景：医院**\n   - The doctor gave me a prescription for antibiotics to treat my infection.\n   - 医生给我开了抗生素的处方来治疗我的感染。\n\n2. **场景：药店**\n   - You need a prescription to buy this medication.\n   - 你需要处方才能购买这种药物。\n\n3. **场景：工作规定**\n   - The company has a strict prescription for handling confidential documents.\n   - 公司对处理机密文件有严格的规定。\n\n### 词根分析\n\n- **词根：-script-**  \n  - **含义**：write（写）  \n  - **衍生词**：  \n    - **describe**（描述）  \n    - **description**（描述）  \n    - **manuscript**（手稿）  \n    - **subscribe**（订阅）  \n    - **transcript**（ transcript）（抄本）  \n    - **prescribe**（开处方）  \n    - **subscription**（订阅）  \n    - **transcribe**（转录）  \n    - **rescript**（重写）  \n    - **postscript**（附言）  \n    - **inscription**（题字）  \n    - **circumscription**（限制）  \n    - **conscription**（征兵）  \n    - **proscription**（禁止）  ",
+  "draw_explain": "选择药方作为视觉线索，因为它是'prescription'最直接和常见的含义，易于通过图像表达。药方通常包含医生手写的文字和药品名称，这些元素可以通过图像清晰地传达出单词的含义。",
+  "draw_prompt": "A close-up of a handwritten doctor's prescription on a white paper, with the name of a medication and dosage instructions, in a clean and professional style."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "zinc",
+  "analysis": "### 分析词义\n**Zinc** 是一种化学元素，符号为 Zn，原子序数为 30。它是一种蓝白色的金属，具有良好的耐腐蚀性和导电性。锌常用于制造合金（如黄铜）、电池、防腐涂层等。\n\n### 列举例句\n1. **场景：化学课**  \n   - **例句：** The teacher explained that zinc is often used in making batteries.  \n   - **中文翻译：** 老师解释说锌常用于制造电池。\n\n2. **场景：工业应用**  \n   - **例句：** Zinc coatings protect steel from rusting.  \n   - **中文翻译：** 锌涂层保护钢材免于生锈。\n\n3. **场景：健康**  \n   - **例句：** Zinc supplements can boost the immune system.  \n   - **中文翻译：** 锌补充剂可以增强免疫系统。\n\n### 词根分析\n- **词根：** zinc（源自德语“Zink”，可能与古高地德语“zinke”有关，意为“尖锐”或“突出”）。\n- **衍生词：** zinc oxide（氧化锌）, zinc sulfate（硫酸锌）, zinc chloride（氯化锌）。\n\n### 词缀分析\n- **词缀：** 无明显前缀或后缀，zinc是一个独立的基本词汇。\n- **相同词缀的单词：** 无相关词缀衍生词。\n\n### 发展历史和文化背景\n- **造词来源：** Zinc的名称可能源自德语“Zink”或古高地德语“zinke”，最初用于描述金属的尖锐形状或特性。17世纪时，德国化学家首次分离出纯锌。18世纪后，锌开始广泛应用于工业和日常生活。在欧美文化中，锌常与防腐、电池和健康相关联。例如，镀锌钢板用于建筑和汽车制造，而锌补充剂则被认为有助于增强免疫力。\n\n### 单词变形\n- **名词形式：** zinc（锌）  \n- **复数形式：** zincs（罕见使用）  \n- **动词形式：** zincify（使…镀锌）  \n- **形容词形式：** zinciferous（含锌的）  \n- **固定搭配：** galvanized zinc（镀锌）, zinc alloy（锌合金）, zinc deficiency（缺锌）。",
+  "draw_explain": "锌是一种金属元素，通常用于制造合金或作为防腐涂层。通过提示生成一个包含锌的金属光泽和可能的防腐涂层应用场景的图像，可以帮助记忆单词'zinc'。",
+  "draw_prompt": "A shiny, metallic surface with a bluish-gray tint, resembling a piece of zinc metal, coated with a thin layer of protective paint or primer."
+}

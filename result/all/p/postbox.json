@@ -1,0 +1,6 @@
+{
+  "word": "postbox",
+  "analysis": "### 分析词义\n\n**postbox** 是一个名词，指的是一个用来存放信件或包裹的箱子或容器。通常位于街道上，供公众投递信件使用。\n\n### 列举例句\n\n1. **场景一：日常使用**\n   - **例句**: \"Please drop the letter in the postbox before 5 PM.\"\n   - **中文翻译**: \"请在下午5点前把信投进邮筒。\"\n\n2. **场景二：描述位置**\n   - **例句**: \"The nearest postbox is located at the corner of Main Street and Elm Street.\"\n   - **中文翻译**: \"最近的邮筒位于主街和榆树街的拐角处。\"\n\n3. **场景三：历史背景**\n   - **例句**: \"In the past, postboxes were painted in different colors depending on the country.\"\n   - **中文翻译**: \"过去，邮筒的颜色因国家而异。\"\n\n### 词根分析\n\n- **词根**: post- (表示“邮政”或“邮寄”) + box (表示“盒子”或“箱子”)。\n- **衍生单词**: \n  - postal (形容词，邮政的)\n  - postage (名词，邮资)\n  - postman (名词，邮递员)\n  - postcard (名词，明信片)\n\n### 词缀分析\n\n- **词缀**: 无明显的前缀或后缀。单词由两个基本词根组成。\n- **相同词缀的单词**: 无。\n\n### 发展历史和文化背景\n\n**postbox** 的起源可以追溯到19世纪初的英国。最早的邮筒是由英国邮政总局在1852年引入的，目的是为了方便公众投递信件。最初的邮筒是绿色的，后来在1874年改为红色，以便更容易被公众识别。这一传统延续至今，红色邮筒成为英国的标志之一。在其他国家，邮筒的颜色和设计可能有所不同，但功能基本相同。",
+  "draw_explain": "通过生成一个包含传统红色邮箱的图像，能够直观地帮助记忆'postbox'这个单词。红色邮箱是常见的邮箱形象，易于与单词的含义相关联，从而加强记忆效果。",
+  "draw_prompt": "A classic red postbox with a round opening, standing on a street corner, in a vintage style."
+}

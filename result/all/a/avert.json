@@ -1,0 +1,6 @@
+{
+  "word": "avert",
+  "analysis": "### 分析词义\n\n**Avert** 是一个动词，意思是“避免”或“防止”某种不好的事情发生，或者“转移”目光、注意力等。它通常用于描述通过采取行动来避免危险、灾难或不愉快的情况。\n\n### 列举例句\n\n1. **场景一：避免危险**\n   - The driver managed to avert a collision by slamming on the brakes.\n   - 司机通过急刹车避免了碰撞。\n\n2. **场景二：转移注意力**\n   - She averted her eyes when she saw the accident happen.\n   - 当她看到事故发生时，她转移了视线。\n\n3. **场景三：防止灾难**\n   - The government took measures to avert a financial crisis.\n   - 政府采取了措施来防止金融危机。\n\n### 词根分析\n\n- **词根：vert**  \n  - **含义**：turn（转动，转向）  \n  - **衍生单词**：  \n    - **convert**（转变）  \n    - **invert**（倒转）  \n    - **divert**（转移）  \n    - **reverse**（反转）  \n    - **vertex**（顶点）  \n    - **version**（版本）  \n    - **vertical**（垂直的）  \n    - **avert**（避免，转移）  \n    - **adverse**（不利的）  \n    - **subvert**（颠覆）  \n    - **inverted**（颠倒的）  \n    - **revert**（恢复，回到）  \n    - **introvert**（内向的人）  \n    - **extrovert**（外向的人）",
+  "draw_explain": "该prompt通过描绘一个避免交通事故的场景，使用交通标志和紧急刹车痕迹来直观地展示'avert'的含义，即防止或避免某种情况的发生。这种视觉线索与单词的定义紧密相关，易于记忆。",
+  "draw_prompt": "A car skidding on a wet road with a stop sign in the background, leaving black tire marks, and a pedestrian stepping back to avoid being hit."
+}

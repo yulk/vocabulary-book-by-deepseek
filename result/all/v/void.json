@@ -1,0 +1,6 @@
+{
+  "word": "void",
+  "analysis": "### 分析词义\n\n**void** 是一个多义词，可以作为名词、形容词和动词使用。以下是它的主要含义：\n\n1. **名词**：表示“空虚、空白、空隙”等意思。例如，在空间中，void 可以指“真空”或“太空中的空隙”。\n2. **形容词**：表示“空的、无效的、没有的”等意思。例如，void 可以用来描述某物是“空的”或某法律文件是“无效的”。\n3. **动词**：表示“使无效、废除”等意思。例如，void 可以用来描述某人“宣布合同无效”。\n\n### 列举例句\n\n1. **名词用法**：\n   - The vast void of space is filled with countless stars.  \n     （广袤的太空充满了无数的星星。）\n   \n2. **形容词用法**：\n   - The contract became void after the company went bankrupt.  \n     （公司在破产后，合同变得无效了。）\n   \n3. **动词用法**：\n   - The judge voided the agreement because it was signed under duress.  \n     （法官宣布协议无效，因为它是被迫签署的。）\n\n### 词根分析\n\n- **词根**：void 本身是一个古老的英语单词，源自拉丁语的 *vacuus*，意思是“空的”。这个拉丁词根也衍生出了其他相关的词汇，如 *vacant*（空的）和 *vacation*（假期）。\n  \n- **衍生词汇**：  \n  - vacant（空的）  \n  - vacation（假期）  \n  - vacuum（真空）  \n  - vacancy（空缺）  \n  - evacuate（疏散）  \n  - avoid（避免）  \n  等等。",
+  "draw_explain": "通过视觉线索，选择一个空旷的场景来代表'void'的含义，即'空的'。这个场景强调了空间的广阔和缺乏内容，有助于记忆单词的空虚或无效的含义。",
+  "draw_prompt": "A vast, empty desert with no signs of life, stretching endlessly under a pale, overcast sky, emphasizing the absence of any objects or activity."
+}

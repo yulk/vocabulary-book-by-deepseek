@@ -1,0 +1,6 @@
+{
+  "word": "longitude",
+  "analysis": "### 分析词义\n\n**Longitude** 是一个名词，指的是地球表面上从东到西的经度线。经度线与纬度线一起构成了地理坐标系统，用于确定地球上任意位置的精确坐标。经度的测量通常以本初子午线（即通过英国格林尼治的经线）为基准，向东西两侧延伸，范围在0°到180°之间。\n\n### 列举例句\n\n1. **例句**: The ship used the stars to determine its longitude at sea.  \n   **翻译**: 船只利用星星来确定它在海上的经度。\n\n2. **例句**: The longitude of New York City is approximately 74 degrees west of the prime meridian.  \n   **翻译**: 纽约市的经度大约是本初子午线以西74度。\n\n3. **例句**: Longitude and latitude are essential for GPS navigation.  \n   **翻译**: 经度和纬度对GPS导航至关重要。\n\n### 词根分析\n\n- **词根**: -long- (长) + -itude (表示状态或性质)  \n  - **衍生单词**:  \n    - Longitudinal (形容词): 纵向的，经度的。  \n    - Length (名词): 长度。  \n    - Long (形容词): 长的。  \n    - Along (介词): 沿着。  \n    - Belong (动词): 属于。  \n    - Prolong (动词): 延长。  \n    - Longing (名词): 渴望。  \n    - Long-term (形容词): 长期的。  \n    - Long-distance (形容词): 长途的。  \n    - Long-lasting (形容词): 持久的。  \n    - Long-winded (形容词): 冗长的。  \n    - Longshoreman (名词): 码头工人。  \n    - Lengthy (形容词): 冗长的，漫长的。  \n    - Prolonged (形容词): 延长的，持久的。",
+  "draw_explain": "经线是地球表面上连接南北两极的假想线，与纬线垂直。通过描绘一个地球仪上的经线，可以直观地理解'longitude'的含义。地球仪是一个常见的教育工具，其上的经线清晰可见，易于与单词'longitude'关联。",
+  "draw_prompt": "A detailed image of a globe with bold, visible lines representing longitude, set against a minimalist background."
+}

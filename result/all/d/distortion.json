@@ -1,0 +1,6 @@
+{
+  "word": "distortion",
+  "analysis": "### 分析词义\n\"Distortion\" 是一个名词，指的是对事物原本形态、声音或意义的歪曲或变形。它可以用来描述物理上的形状改变，也可以用来描述信息、声音或图像的失真。\n\n### 列举例句\n1. **场景一：音乐**\n   - The distortion of the guitar's sound added an edgy feel to the rock song.\n   - 吉他声音的失真给摇滚歌曲增添了一种粗犷的感觉。\n\n2. **场景二：图像处理**\n   - The distortion in the photo made it difficult to recognize the faces.\n   - 照片中的失真使得辨认面孔变得困难。\n\n3. **场景三：信息传递**\n   - There was a distortion of the facts in the news report, leading to public confusion.\n   - 新闻报道中事实的歪曲导致了公众的困惑。\n\n### 词根分析\n- **词根**: \"tort\" 源自拉丁语 \"torquere\"，意思是“扭曲”或“缠绕”。\n- **衍生词**: \n  - Torture (折磨)\n  - Tortuous (曲折的)\n  - Distort (动词形式，扭曲)\n\n### 词缀分析\n- **前缀**: \"dis-\"，表示“不”或“分离”。\n- **后缀**: \"-ion\"，表示名词形式。\n- **相同前缀的单词**: \n  - Disappear (消失)\n  - Disagree (不同意)\n- **相同后缀的单词**: \n  - Translation (翻译)\n  - Discussion (讨论)\n\n### 发展历史和文化背景\n\"Distortion\"一词源自拉丁语 \"distorquere\"，意为“扭曲”。在音乐领域，特别是在摇滚和重金属音乐中，失真（distortion）是一种常用的音效处理技术，用来创造一种粗糙、有力的声音效果。在视觉艺术中，失真可以用来表达情感或创造独特的视觉效果。在信息传播中，失真可能导致误解或误导。因此，这个词在多个领域都有重要的应用和文化意义。",
+  "draw_explain": "该prompt通过展示一个被扭曲的镜子中的映像来帮助记忆'distortion'这个单词。镜子中的映像被明显地拉长或压缩，形成不自然的形状，这种视觉上的畸变直接关联到单词的含义。简洁的图像风格和明确的视觉线索使得记忆过程更加直观和有效。",
+  "draw_prompt": "A distorted mirror reflecting an image that is visibly stretched or compressed, creating unnatural shapes, in a minimalist and clear visual style."
+}

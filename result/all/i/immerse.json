@@ -1,0 +1,6 @@
+{
+  "word": "immerse",
+  "analysis": "### 分析词义\n\n**Immerse** 是一个动词，意思是“沉浸”或“使陷入”。它通常用于描述一个人完全投入到某种活动或环境中，以至于忘记了周围的一切。例如，一个人可以沉浸在一本书中，或者一个国家可以沉浸在节日的气氛中。\n\n### 列举例句\n\n1. **She immersed herself in the novel and forgot about the time.**  \n   *她沉浸在小说中，忘记了时间。*\n\n2. **The students were immersed in their studies during the exam period.**  \n   *考试期间，学生们全身心地投入到学习中。*\n\n3. **The city was immersed in festive decorations for the holiday season.**  \n   *城市为节日季节沉浸在节日的装饰中。*\n\n### 词根分析\n\n- **词根**: -mers- (来自拉丁语 \"mergere\"，意为“沉没”或“淹没”)\n- **衍生单词**: \n  - **Emersion**: 浮现，出现\n  - **Submersion**: 淹没，潜入水中\n  - **Merger**: 合并，结合（由 \"merge\" 衍生）\n\n### 词缀分析\n\n- **前缀**: im- (表示“进入”或“在内”)\n- **后缀**: -e (动词后缀)\n- **相同前缀的单词**: \n  - **Immigrate**: 移民进入（im- + migrate）\n  - **Immerse**: 沉浸（im- + merge）\n- **相同后缀的单词**: \n  - **Appease**: 安抚（ap- + pease）\n  - **Release**: 释放（re- + lease）  \n    *(注：这里主要考虑了动词后缀 \"-e\" )*  \n    *(Appease和Release的后缀是\"-e\"和\"-se\"，严格来说不完全相同)*  ",
+  "draw_explain": "这个prompt通过描绘一个人完全被水包围的场景，直观地展示了'immerse'的'沉浸'含义。水的蓝色和人物的姿势强调了深度沉浸的感觉，这种视觉线索易于记忆并与单词的含义直接关联。",
+  "draw_prompt": "A person completely submerged in a deep, blue body of water, with their arms stretched out and eyes closed, fully embracing the sensation of immersion."
+}

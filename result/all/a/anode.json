@@ -1,0 +1,6 @@
+{
+  "word": "anode",
+  "analysis": "### 分析词义\n\n**Anode** 是一个名词，指的是在电化学过程中，电流进入电池或电解池的电极。在电池中，阳极是发生氧化反应的地方，即电子被释放的地方。\n\n### 列举例句\n\n1. **In a battery, the anode is the negative electrode where oxidation occurs.**  \n   - 在电池中，阳极是发生氧化反应的负极。\n   \n2. **The anode in a fuel cell is where hydrogen is oxidized to produce electrons.**  \n   - 在燃料电池中，阳极是氢被氧化以产生电子的地方。\n   \n3. **During electrolysis, the anode attracts negatively charged ions.**  \n   - 在电解过程中，阳极吸引带负电的离子。\n\n### 词根分析\n\n- **词根**: *an-* (来自希腊语 *ana-*，意为“向上”或“通过”) + *-ode* (来自希腊语 *hodos*，意为“路径”或“方式”)。\n- **衍生词**:  \n  - **Anodic**: 形容词，表示与阳极相关的。  \n  - **Anodize**: 动词，表示对金属进行阳极氧化处理。\n\n### 词缀分析\n\n- **前缀**: *an-* (来自希腊语 *ana-*，意为“向上”或“通过”)。\n- **后缀**: *-ode* (来自希腊语 *hodos*，意为“路径”或“方式”)。\n- **相同词缀的单词**:  \n  - **Cathode**: 阴极 (cath- 来自希腊语 *kata-*，意为“向下”)。  \n  - **Diode**: 二极管 (di- 来自希腊语 *dis-*，意为“二”)。\n\n### 发展历史和文化背景\n\n**Anode** 一词源自希腊语 *anodos*，由 *ana-*（向上）和 *hodos*（路径）组成。在电化学领域，阳极的概念最早由英国科学家迈克尔·法拉第（Michael Faraday）在19世纪提出。阳极在电池、电解和电镀等技术中起着关键作用，是电流进入系统的入口点。在现代科技中，阳极的应用广泛，包括电池技术、燃料电池和金属防腐等领域。",
+  "draw_explain": "通过使用一个带正电的金属板作为视觉线索，能够直接与'anode'（阳极）的定义相关联。金属板的形象直观且易于记忆，而'带正电'的特征则强化了其作为正极的概念。",
+  "draw_prompt": "A metallic plate with a positive electric charge, depicted in a sleek, modern style."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "redirect",
+  "analysis": "### 分析词义\n\n**redirect** 是一个动词，意思是“重新定向”或“重定向”。它通常用于描述将某物或某人从一个方向、位置或目标转移到另一个方向、位置或目标。在技术领域，它常用于描述将网页请求从一个URL重定向到另一个URL。\n\n### 列举例句\n\n1. **例句**: The server was configured to redirect all HTTP requests to HTTPS.  \n   **翻译**: 服务器被配置为将所有HTTP请求重定向到HTTPS。\n\n2. **例句**: She decided to redirect her career focus towards marketing.  \n   **翻译**: 她决定将她的职业重心转向市场营销。\n\n3. **例句**: The traffic was redirected due to the road closure.  \n   **翻译**: 由于道路封闭，交通被重新引导。\n\n### 词根分析\n\n- **词根**: -rect- (来自拉丁语 \"regere\"，意思是“引导”或“管理”)。  \n- **衍生单词**:  \n  - direct (直接的)  \n  - rectangle (矩形)  \n  - rector (校长)  \n  - rectify (纠正)  \n  - rectitude (正直)  \n\n### 词缀分析\n\n- **前缀**: re- (表示“再次”或“重新”)。  \n- **后缀**: -ed (过去分词形式，用于构成动词的过去式和被动语态)。  \n- **相同前缀的单词**:  \n  - reappear (重新出现)  \n  - rebuild (重建)  \n  - reconsider (重新考虑)  \n- **相同后缀的单词**:  \n  - opened (打开的)  \n  - closed (关闭的)  \n  - painted (涂上颜色的)  \n\n### 发展历史和文化背景",
+  "draw_explain": "通过展示一个箭头被重新指向另一个方向的场景，可以直观地理解'redirect'的意思，即改变方向。箭头的形象简洁且易于与单词含义相关联，帮助记忆。",
+  "draw_prompt": "A simple arrow pointing in one direction, with a hand repositioning it to point in a different direction, set against a minimalist background."
+}

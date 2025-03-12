@@ -1,0 +1,6 @@
+{
+  "word": "unsuccessful",
+  "analysis": "### 分析词义\n\n\"Unsuccessful\" 是一个形容词，表示某事没有成功或没有达到预期的结果。它的字面意思是“不成功的”。\n\n### 列举例句\n\n1. **场景：工作面试**  \n   - **例句**: She was unsuccessful in her job interview.  \n   - **中文翻译**: 她在工作面试中没有成功。\n\n2. **场景：考试**  \n   - **例句**: The students felt unsuccessful after the difficult exam.  \n   - **中文翻译**: 学生们觉得在困难的考试中没有成功。\n\n3. **场景：创业**  \n   - **例句**: His attempt to start a business was unsuccessful due to lack of funding.  \n   - **中文翻译**: 由于缺乏资金，他创业的尝试没有成功。\n\n### 词根分析\n\n- **词根**: \"success\" (成功)  \n- **衍生单词**:  \n  - success (名词，成功)  \n  - succeed (动词，成功)  \n  - successfully (副词，成功地)  \n  - succession (名词，连续)  \n  - successive (形容词，连续的)\n\n### 词缀分析\n\n- **前缀**: \"un-\" (表示否定或相反的意思)  \n- **后缀**: \"-ful\" (表示充满...的) + \"-less\" (表示没有...的) = \"-less\" (在这个单词中被省略了)  \n- **相同前缀的单词**:  \n  - unhappy (不快乐的)  \n  - unable (不能的)  \n  - unaware (不知道的)  \n  - unnecessary (不必要的)",
+  "draw_explain": "这个prompt通过展示一个破碎的鸡蛋和一个倒置的奖杯来象征'不成功的'和'失败的'，这两个物体都是日常生活中与成功和失败紧密相关的物品。破碎的鸡蛋代表失败的尝试，而倒置的奖杯则象征着未能达到成功的目标。这样的视觉线索简单直观，易于记忆。",
+  "draw_prompt": "A cracked egg and an upside-down trophy on a plain background, both objects in a realistic style with sharp focus."
+}

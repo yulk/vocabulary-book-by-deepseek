@@ -1,0 +1,6 @@
+{
+  "word": "outnumber",
+  "analysis": "### 分析词义\n\n\"Outnumber\" 是一个动词，意思是“数量上超过”或“比…多”。它通常用于比较两个群体的数量，表示一个群体的数量超过了另一个群体。\n\n### 列举例句\n\n1. **场景一：人口统计**\n   - The urban population **outnumbers** the rural population in many countries.\n   - 在许多国家，城市人口超过了农村人口。\n\n2. **场景二：动物种群**\n   - In this region, deer **outnumber** all other mammals.\n   - 在这个地区，鹿的数量超过了所有其他哺乳动物。\n\n3. **场景三：市场竞争**\n   - The company's products **outnumber** those of its competitors in the market.\n   - 该公司的产品在市场上的数量超过了其竞争对手。\n\n### 词根分析\n\n- **词根**: \"number\" 来自拉丁语 \"numerus\"，意思是“数目”或“数量”。\n- **衍生词**: \n  - \"numerous\" (形容词，表示“许多的”)\n  - \"enumerate\" (动词，表示“列举”)\n  - \"numerator\" (名词，表示“分子”)\n\n### 词缀分析\n\n- **前缀**: \"out-\" 表示“超过”或“胜过”。\n- **后缀**: 无特殊后缀。\n- **相同前缀的单词**: \n  - \"outperform\" (胜过)\n  - \"outweigh\" ( outweigh )",
+  "draw_explain": "这个prompt通过展示一个场景，其中一大群动物数量明显超过另一小群动物，直观地展示了'outnumber'的含义。视觉上，大群动物的压倒性数量与小群动物形成鲜明对比，帮助记忆'超过'这一概念。",
+  "draw_prompt": "A vast herd of elephants outnumbering a small group of zebras in the savannah, with the elephants clearly dominating in size and quantity, under a golden sunset."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "partition",
+  "analysis": "### 分析词义\n**Partition** 是一个名词和动词，意思是“分割”或“分隔”。作为名词时，它指的是一个将空间或区域分开的物理结构或界限；作为动词时，它表示将某物分成多个部分或将空间分隔开来。\n\n### 列举例句\n1. **The room was partitioned into two smaller sections.**  \n   *房间被分隔成了两个小区域。*\n   \n2. **The partition of India led to significant social and political changes.**  \n   *印度的分割导致了重大的社会和政治变革。*\n   \n3. **She used a bookshelf as a partition between the living room and the kitchen.**  \n   *她用书架作为客厅和厨房之间的隔断。*\n\n### 词根分析\n- **Parti-**: 来自拉丁语 \"partire\"，意思是“分开”或“分割”。  \n- **-tion**: 名词后缀，表示动作或状态的结果。  \n衍生词：  \n- **Partial**: 部分的；偏袒的。  \n- **Particular**: 特别的；详细的。  \n- **Participate**: 参与；分享。  \n- **Apart**: 分离的；远离的。  \n- **Apartment**: 公寓（由“apart”和“ment”组成，表示分开的空间）。\n\n### 词缀分析\n- **Parti-**: 词根，表示“分开”或“分割”。  \n- **-tion**: 名词后缀，表示动作的结果或状态。  \n相同后缀的单词：  \n- **Attention**: 注意力（atten + tion）。  \n- **Condition**: 条件（cond + ition）。  \n- **Position**: 位置（pos + ition）。  \n- **Function**: 功能（funct + ion）。  \n相同前缀的单词：无明显前缀，但与 \"part\"（部分）相关的词汇有：**partial**, **participate**, etc.",
+  "draw_explain": "通过展示一个房间被隔墙分割成两个部分的场景，能够直观地体现'partition'的含义，即分开或分割。这样的视觉线索简单明了，易于记忆。",
+  "draw_prompt": "A room with a clear separation wall dividing it into two distinct sections, one side with modern furniture and the other side with traditional decor, in a minimalist style."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "certification",
+  "analysis": "### 分析词义\n\n**Certification** 是一个名词，指的是通过某种考试、测试或审核后所获得的正式证明或证书。它通常用于确认某人具备特定的技能、知识或资格。\n\n### 列举例句\n\n1. **场景：求职面试**\n   - \"She presented her certification in project management to the hiring manager.\"\n   - 中文翻译：“她向招聘经理展示了她的项目管理证书。”\n\n2. **场景：教育背景**\n   - \"The university offers certification programs for professionals seeking to enhance their skills.\"\n   - 中文翻译：“这所大学为希望提升技能的专业人士提供认证课程。”\n\n3. **场景：医疗行业**\n   - \"The doctor's certification in cardiology was issued by a prestigious medical institution.\"\n   - 中文翻译：“这位医生的心脏病学认证是由一家享有盛誉的医疗机构颁发的。”\n\n### 词根分析\n\n- **词根：cert-** 源自拉丁语 \"certus\"，意思是“确定的”或“确定的”。\n- **衍生词**：\n  - **Certain** (形容词)：确定的，无疑的。\n  - **Certify** (动词)：证明，保证。\n  - **Certificate** (名词)：证书，证明书。\n\n### 词缀分析\n\n- **后缀：-fication** 源自拉丁语 \"-ficare\"，意思是“使成为”或“使变得”。它通常用于构成名词，表示某种行为或过程的结果。\n- **相同后缀的单词**：\n  - **Simplification** (名词)：简化。\n  - **Amplification** (名词)：放大，增强。\n  - **Qualification** (名词)：资格，条件。",
+  "draw_explain": "该prompt通过展示一个带有印章的文件来帮助记忆'certification'，因为印章是证明和保证的象征，与单词的含义紧密相关。简洁的视觉线索易于理解和记忆。",
+  "draw_prompt": "A formal document with a prominent seal stamped on it, symbolizing official approval and assurance, in a clean and professional style."
+}

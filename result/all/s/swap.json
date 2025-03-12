@@ -1,0 +1,6 @@
+{
+  "word": "swap",
+  "analysis": "### 分析词义\n\n**swap** 是一个动词，意思是“交换”或“互换”。它通常用于描述两个或多个人或物体之间交换物品、信息或角色的行为。\n\n### 列举例句\n\n1. **场景一：物品交换**\n   - **例句**: \"I swapped my old phone for a new one.\"\n   - **中文翻译**: \"我用我的旧手机换了一部新手机。\"\n\n2. **场景二：信息交换**\n   - **例句**: \"They swapped contact information after the meeting.\"\n   - **中文翻译**: \"他们在会议后交换了联系方式。\"\n\n3. **场景三：角色互换**\n   - **例句**: \"The actors decided to swap roles for the next scene.\"\n   - **中文翻译**: \"演员们决定在下一幕中互换角色。\"\n\n### 词根分析\n\n- **词根**: swap 本身就是一个独立的词根，没有进一步的词根分解。\n- **衍生单词**: 由于 swap 是一个相对简单的词汇，没有明显的衍生单词。\n\n### 词缀分析\n\n- **词缀**: swap 没有明显的前缀或后缀，它是一个基本词汇。\n- **相同词缀的单词**: 由于 swap 没有词缀，因此没有相关联的单词。\n\n### 发展历史和文化背景\n\n- **造词来源**: swap 这个词源自中古英语的“swappen”，进一步追溯到古英语的“swapian”，意为“打击”或“敲击”。随着时间的推移，其含义演变为“交换”。\n- **文化背景**: swap 在日常生活中非常常见，尤其是在交易和社交场合中。例如，在跳蚤市场或在线交易平台上，人们经常使用 swap 来描述物品的交换。此外，在角色扮演游戏中，玩家也可能会 swap roles（互换角色）以增加游戏的趣味性。",
+  "draw_explain": "这个prompt通过展示两个物体在交换位置的场景，直观地表达了'swap'的含义。图像中的两个物体和箭头清晰地展示了交换的动作，使得记忆更加直观和深刻。",
+  "draw_prompt": "A visual scene of two objects, such as a red apple and a green pear, with arrows pointing from one to the other, indicating a swap in positions. The scene is simple and clean, with a modern cartoon style."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "Indicate",
+  "analysis": "### 分析词义\n\n**Indicate** 是一个动词，意思是“指示”、“表明”或“暗示”。它通常用于表示某物或某事通过某种方式传达信息或指示方向。\n\n### 列举例句\n\n1. **场景一：交通标志**\n   - The arrow on the road **indicates** the direction to the airport.\n   - 路上的箭头**指示**去机场的方向。\n\n2. **场景二：医学报告**\n   - The test results **indicate** that the patient has a bacterial infection.\n   - 测试结果**表明**病人有细菌感染。\n\n3. **场景三：会议讨论**\n   - She **indicated** her agreement by nodding her head.\n   - 她通过点头**表示**同意。\n\n### 词根分析\n\n- **词根**: -dic- (来自拉丁语 *dicere*，意思是“说”或“宣称”)\n- **衍生词**: \n  - Dictate (口述)\n  - Dictionary (字典)\n  - Predict (预测)\n  - Verdict (裁决)\n\n### 词缀分析\n\n- **前缀**: in- (在这里没有前缀)\n- **词根**: -dic- (说，宣称)\n- **后缀**: -ate (动词后缀，表示动作)\n- **相同后缀的单词**: \n  - Create (创造)\n  - Translate (翻译)\n  - Educate (教育)\n\n### 发展历史和文化背景\n\n**Indicate** 源自拉丁语 *indicare*，意为“指出”或“表明”。这个词在英语中广泛用于各种正式和非正式场合，尤其是在科学、医学和技术领域，用于描述数据、结果或趋势的展示。在日常交流中，它也常用于表达某种暗示或指示。在欧美文化中，这个词常用于正式文件、报告和学术论文中，以确保信息的准确传达。",
+  "draw_explain": "这个prompt通过使用一个指向性的箭头来直接关联单词'Indicate'的含义，即'指出'或'表明'。箭头是一个非常直观且易于理解的视觉符号，能够立即让人联想到指示或引导的动作。此外，选择一个现代风格的箭头图像，增加了视觉上的吸引力，使得记忆更加深刻。",
+  "draw_prompt": "A modern, sleek arrow pointing towards a specific object, with a clean, minimalist design."
+}

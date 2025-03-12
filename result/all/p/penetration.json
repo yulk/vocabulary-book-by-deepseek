@@ -1,0 +1,6 @@
+{
+  "word": "penetration",
+  "analysis": "### 分析词义\n\n**Penetration** 是一个名词，主要含义包括：\n1. **穿透、刺入**：指物体或力量穿过另一物体的表面。\n2. **渗透、进入**：指某种事物或思想逐渐进入或影响某个领域或群体。\n3. **洞察力、理解力**：指深入理解或洞察某事物的能力。\n\n### 列举例句\n\n1. **军事应用**：\n   - The missile's penetration of the enemy's defense was swift and precise.  \n     *导弹迅速而精确地穿透了敌人的防御。*\n   \n2. **市场渗透**：\n   - The company is focusing on increasing its market penetration in Asia.  \n     *该公司正专注于提高其在亚洲市场的渗透率。*\n   \n3. **心理洞察**：\n   - Her penetrating analysis of the situation provided valuable insights.  \n     *她对局势的深入分析提供了宝贵的见解。*\n\n### 词根分析\n\n- **词根**：-penetr- (来自拉丁语 \"penetrare\"，意为“穿透”)。\n- **衍生词**：  \n  - **Penetrate** (动词)：穿透、渗透。  \n  - **Penetrable** (形容词)：可穿透的、可渗透的。  \n  - **Penetrative** (形容词)：有穿透力的、有洞察力的。  \n  - **Penetrometer** (名词)：穿透计，用于测量材料硬度的仪器。  \n\n### 词缀分析\n\n- **后缀**：-ion (名词后缀，表示行为、状态或结果)。  \n- **相同后缀的单词**：  \n  - Action, Decision, Collection, Addition, etc.  \n    *行动、决定、收集、附加等。*  \n    -ion 后缀通常用于将动词转换为名词形式，表示动作或结果。  \n    - Penetration 由动词 penetrate + -ion 构成，表示“穿透”这一动作的结果或状态。  ",
+  "draw_explain": "该prompt通过展示一个箭头穿透一个木板的图像，直观地展示了'penetration'的含义，即'穿入'或'渗透'。箭头和木板的组合简单且易于理解，能够帮助记忆该单词的含义。",
+  "draw_prompt": "A sharp arrow piercing through a solid wooden board, with a clean and clear cut, in a realistic style."
+}

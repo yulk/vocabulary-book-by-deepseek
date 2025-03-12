@@ -1,0 +1,6 @@
+{
+  "word": "tackle",
+  "analysis": "### 分析词义\n\n**Tackle** 是一个多义词，主要用作动词，也可以用作名词。作为动词时，它的主要含义包括：\n1. **处理、解决**：指面对并解决某个问题或困难。\n2. **擒抱**：在体育运动中，特别是橄榄球中，指防守球员将对方球员摔倒在地。\n3. **装备、工具**：作为名词时，指用于特定任务的工具或设备。\n\n### 列举例句\n\n1. **处理问题**：\n   - **例句**: \"She decided to tackle the problem head-on.\"\n   - **中文翻译**: \"她决定直接面对这个问题。\"\n   \n2. **体育擒抱**：\n   - **例句**: \"The defender managed to tackle the runner before he reached the end zone.\"\n   - **中文翻译**: \"防守球员在跑锋到达终点区之前成功将其擒抱。\"\n   \n3. **装备工具**：\n   - **例句**: \"Fishing tackle includes rods, reels, and hooks.\"\n   - **中文翻译**: \"钓鱼装备包括鱼竿、卷线器和鱼钩。\"\n\n### 词根分析\n\n- **词根**: *tack* (源自中古英语 *takken*，意为“抓住”)\n- **衍生单词**: \n  - *attack* (攻击)：源自 *tack* + *at*，表示主动抓住或攻击。\n  - *tacky* (粘的)：源自 *tack*，表示具有粘性的性质。\n  - *tact* (机智)：源自 *tack*，表示巧妙地处理或应对。\n\n### 词缀分析\n\n- **后缀**: *-le* (表示反复动作或小规模动作)\n- **相同后缀的单词**: \n  - *cackle* (咯咯笑)：反复的笑声。\n  - *jingle* (叮当声)：反复的铃声。\n  - *sparkle* (闪耀)：反复的闪光。",
+  "draw_explain": "选择橄榄球运动中的'tackle'动作作为视觉线索，因为'tackle'在橄榄球中意为'擒抱'，与单词的'处理'含义有直接关联。通过展示运动员在比赛中擒抱对手的瞬间，可以直观地帮助记忆单词的含义。",
+  "draw_prompt": "A dynamic image of a rugby player in mid-action, performing a tackle on an opposing player, with intense focus and motion blur, set against a vibrant green field."
+}

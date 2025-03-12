@@ -1,0 +1,6 @@
+{
+  "word": "grope",
+  "analysis": "### 分析词义\n\n**Grope** 是一个动词，意思是“摸索”或“搜寻”，通常指在黑暗中或不确定的情况下试图找到某物或理解某事。它可以用于字面意义（如在黑暗中摸索）或比喻意义（如在不确定的情况下寻找答案）。\n\n### 列举例句\n\n1. **场景一：黑暗中摸索**\n   - **例句**: She groped for the light switch in the dark room.\n   - **中文翻译**: 她在黑暗的房间里摸索着寻找电灯开关。\n\n2. **场景二：寻找答案**\n   - **例句**: The detective groped for clues to solve the mystery.\n   - **中文翻译**: 侦探摸索着寻找线索来解开谜团。\n\n3. **场景三：情感上的探索**\n   - **例句**: He groped for words to express his feelings.\n   - **中文翻译**: 他摸索着寻找词语来表达他的感受。\n\n### 词根分析\n\n- **词根**: *grop-* 源自中古英语 *grope*，进一步追溯到古英语 *grāpian*，意为“抓住”或“摸索”。\n- **衍生单词**: 该词根没有广泛衍生出其他单词，主要以 *grope* 本身存在。\n\n### 词缀分析\n\n- **词缀**: *grope* 是一个基本词汇，没有明显的词缀结构。它是一个独立的动词形式。\n- **相同词缀的单词**: 由于 *grope* 没有明显的词缀，因此没有相关联的其他单词。\n\n### 发展历史和文化背景\n\n- **造词来源**: *grope* 的历史可以追溯到古英语时期，最初用于描述用手触摸或摸索的动作。随着时间的推移，这个词的意义扩展到包括在思想或情感上的探索。\n- **文化内涵**: 在欧美文化中，*grope* 常用于描述在不确定或困难情况下寻找解决方案的行为，无论是物理上的还是心理上的。它也常与性骚扰相关联，尤其是在新闻报道中。\n\n### 单词变形\n\n- **动词形式**: grope, groped, groping (不规则动词)\n- **名词形式**: groping (名词形式较少使用)",
+  "draw_explain": "该prompt通过描述一个在黑暗中摸索的人，使用手电筒的光束作为视觉线索，帮助记忆'grope'的含义。黑暗和光束的对比突出了摸索的动作，而手电筒的使用则强调了在暗中探索的情境。",
+  "draw_prompt": "A person in a dark room, feeling around with their hands, using a flashlight beam to guide their exploration."
+}

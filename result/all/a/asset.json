@@ -1,0 +1,6 @@
+{
+  "word": "asset",
+  "analysis": "### 分析词义\n\n\"Asset\" 是一个名词，通常指有价值的东西或资源，可以是物质上的（如财产、设备）或非物质上的（如技能、知识）。在财务和商业领域，它通常指公司拥有的有价值的物品或资源，如现金、设备、房地产等。\n\n### 列举例句\n\n1. **Financial Context:**\n   - \"The company's assets include cash, property, and equipment.\"\n   - 中文翻译：“公司的资产包括现金、房产和设备。”\n\n2. **Personal Context:**\n   - \"Her ability to speak multiple languages is a valuable asset in her job.\"\n   - 中文翻译：“她能说多种语言，这对她的工作来说是一项宝贵的资产。”\n\n3. **Educational Context:**\n   - \"The school's new library is a great asset for students.\"\n   - 中文翻译：“学校的新图书馆对学生来说是一大资产。”\n\n### 词根分析\n\n- **词根:** \"as-\" (来自拉丁语 \"ad-\", 表示“到”或“向”) + \"-set\" (来自拉丁语 \"satis\", 表示“足够”)。原意是“足够的东西”，后来演变为指有价值的东西。\n- **衍生单词:** 没有直接的衍生单词，但相关的词汇包括 \"assets\"（复数形式）和 \"asset management\"（资产管理）。\n\n### 词缀分析\n\n- **前缀:** 无明显前缀。\n- **后缀:** \"-et\" (小词后缀，表示小或具体的事物)。虽然 \"-et\" 在现代英语中不常见，但在古英语和拉丁语中常见。\n- **相同词缀的单词:** \"wallet\"（钱包）中的 \"-let\" 是一个类似的小词后缀。\n\n### 发展历史和文化背景\n\n\"Asset\" 源自拉丁语 \"adipem satis\", 意为“足够的东西”。在中世纪英语中演变为 \"aset\"，后来在现代英语中变为 \"asset\"。在商业和财务领域，这个词被广泛使用来描述公司或个人拥有的有价值的物品或资源。在现代商业文化中，资产管理（asset management）是一个重要的概念，涉及到如何有效地管理和增值资产。",
+  "draw_explain": "为了帮助记忆'asset'这个单词，选择了一个代表资产的视觉线索——金条。金条是财富和有价值物品的象征，与'asset'的定义紧密相关。通过使用'闪亮的'和'金色的'这样的描述，增强了图像的视觉吸引力，使得这个单词更容易被记住。",
+  "draw_prompt": "a shiny golden bar representing wealth and valuable assets"
+}

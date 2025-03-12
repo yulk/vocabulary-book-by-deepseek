@@ -1,0 +1,6 @@
+{
+  "word": "drainage",
+  "analysis": "### 分析词义\n\n**Drainage** 是一个名词，主要指“排水系统”或“排水过程”。它可以用来描述水或其他液体从某个区域排出的过程，也可以指具体的排水设施或系统。\n\n### 列举例句\n\n1. **例句 1**: The drainage system in the city is very efficient.  \n   **翻译**: 这座城市的排水系统非常高效。\n   \n2. **例句 2**: Poor drainage caused the field to flood after the heavy rain.  \n   **翻译**: 由于排水不畅，大雨后田地被淹没了。\n   \n3. **例句 3**: The doctor checked the patient's wound drainage.  \n   **翻译**: 医生检查了病人的伤口排液情况。\n\n### 词根分析\n\n- **词根**: *drain* (来自古法语 *drainer*，意为“排出”或“排空”)  \n- **衍生词**:  \n  - *drain*: 动词，意为“排水”或“排空”。  \n  - *drainer*: 名词，意为“滤水器”或“排水器”。  \n  - *drainage*: 名词，意为“排水系统”或“排水过程”。  \n\n### 词缀分析\n\n- **后缀**: *-age* (表示动作、状态或集合)  \n- **相同后缀的单词**:  \n  - *storage*: 名词，意为“存储”或“仓库”。  \n  - *coverage*: 名词，意为“覆盖范围”或“报道”。  \n  - *baggage*: 名词，意为“行李”。  \n\n### 发展历史和文化背景\n\n**Drainage**这个词源于古法语的*drainer*，最初用于描述液体从容器中流出的过程。随着城市化的发展，排水系统成为城市建设中的重要部分，尤其是在防止洪水和保持公共卫生方面起到了关键作用。在欧美文化中，良好的排水系统被视为城市基础设施的重要组成部分，与城市的宜居性和安全性密切相关。\n ### Drainage",
+  "draw_explain": "排水系统通常由管道和排水口组成，这些元素可以很容易地通过视觉图像来表示。通过描绘一个带有多个排水口的地下排水系统，可以直观地展示'drainage'的含义，帮助记忆。",
+  "draw_prompt": "A dark, underground scene featuring a network of pipes with multiple drain covers, illuminated by faint blue light, creating a maze-like structure."
+}

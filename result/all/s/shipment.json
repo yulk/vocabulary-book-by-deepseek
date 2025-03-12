@@ -1,0 +1,6 @@
+{
+  "word": "shipment",
+  "analysis": "### 分析词义\n\n\"Shipment\" 是一个名词，指的是货物或商品的运输或运送。它通常用于描述一批货物从一个地方到另一个地方的运输过程。\n\n### 列举例句\n\n1. **场景1：物流公司**\n   - The shipment of electronics from China to the United States is delayed due to customs issues.\n   - 由于海关问题，从中国到美国的电子产品运输被延迟了。\n\n2. **场景2：电商**\n   - If you order today, your shipment will arrive within three business days.\n   - 如果您今天下单，您的货物将在三个工作日内送达。\n\n3. **场景3：国际贸易**\n   - The company received a large shipment of raw materials from Brazil last week.\n   - 上周，公司收到了来自巴西的大批原材料。\n\n### 词根分析\n\n- **词根**: \"ship\" (源自中古英语 \"shippe\"，意为“船”或“运输”)\n- **衍生词**: \n  - **ship**: 动词，表示“运送”或“装运”。\n  - **shipping**: 名词，表示“运输业”或“货运”。\n  - **shipload**: 名词，表示“一船的货物”。\n\n### 词缀分析\n\n- **后缀**: \"-ment\" (表示行为、状态或结果)\n- **相同后缀的单词**: \n  - **movement**: 运动，移动。\n  - **fulfillment**: 履行，完成。\n  - **agreement**: 协议，同意。\n\n### 发展历史和文化背景\n\n\"Shipment\" 这个词源自中古英语的 \"shippe\"，最初指的是“船”或“运输工具”。随着时间的推移，它的意义扩展到指代“运输的行为或过程”以及“被运输的货物”。在现代商业和物流中，\"shipment\" 是一个非常重要的术语，用于描述货物的运输和交付过程。在欧美文化中，尤其是在国际贸易和电子商务领域，这个词的使用非常普遍。",
+  "draw_explain": "这个prompt通过展示一个装满货物的集装箱来帮助记忆'shipment'这个单词。集装箱是货物运输的典型象征，能够直观地与'装载的货物'这一含义相关联。简洁的图像风格和明确的特征描述有助于快速理解和记忆。",
+  "draw_prompt": "A highly detailed image of a large shipping container filled with various goods, such as boxes, pallets, and crates, with bold, clean lines and a modern industrial aesthetic."
+}

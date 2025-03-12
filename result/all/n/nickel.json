@@ -1,0 +1,6 @@
+{
+  "word": "nickel",
+  "analysis": "### 分析词义\n\n**Nickel** 是一个名词，主要有两个意思：\n1. **金属元素**：指一种银白色的金属元素，化学符号为 Ni，原子序数为 28。它在工业上常用于制造合金和电镀。\n2. **硬币**：在美国和加拿大，nickel 指的是一种面值为五分钱的硬币。\n\n### 列举例句\n\n1. **金属元素**：\n   - The alloy is made of copper and nickel.  \n     *这种合金是由铜和镍制成的。*\n   \n2. **硬币**：\n   - She found a nickel on the sidewalk.  \n     *她在人行道上发现了一枚五分硬币。*\n   \n3. **价格增加**：\n   - The price of the product increased by a nickel.  \n     *这个产品的价格上涨了五分钱。*\n\n### 词根分析\n\n- **词根**: *niccol* (源自德语 *Kupfernickel*，意为“假铜”)。这个词根与镍的发现有关，因为早期人们误以为镍是铜的一种。后来，这个词被用来指代这种金属元素。\n  \n- **衍生词**: 由于 nickel 是一个专有名词（指代特定金属），因此没有太多衍生词。但在某些情况下，nickel 可以与其他词组合形成新的词汇，例如：nickel-plated（镀镍的）。\n\n### 词缀分析\n\n- **前缀**: 无前缀。  \n- **后缀**: 无后缀。  \n- **中缀**: 无中缀。  \n  由于 nickel 是一个基本名词，没有复杂的词缀结构。它直接来源于德语词汇 *Kupfernickel*。  \n  类似的词汇包括 copper（铜）、silver（银）等金属名称。它们都是直接来源于相关语言的词汇，没有复杂的词缀变化。",
+  "draw_explain": "这个prompt通过展示一个镍币的图像，帮助记忆单词'nickel'。镍币是日常生活中常见且易于识别的物品，其独特的外观和颜色（通常是银色）与单词'nickel'直接相关，能够有效触发记忆。",
+  "draw_prompt": "A close-up image of a silver-colored U.S. nickel coin with the Liberty Head design, placed on a plain white background, emphasizing its metallic sheen and the distinct profile of the head."
+}

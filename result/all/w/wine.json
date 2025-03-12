@@ -1,0 +1,6 @@
+{
+  "word": "wine",
+  "analysis": "### 分析词义\n\n**Wine** 是一个名词，指的是一种由葡萄发酵制成的酒精饮料。它可以分为红葡萄酒（red wine）、白葡萄酒（white wine）和玫瑰葡萄酒（rosé wine）等不同种类。\n\n### 列举例句\n\n1. **场景：晚餐聚会**\n   - \"Would you like to have a glass of wine with dinner?\"  \n     “你想在晚餐时喝一杯葡萄酒吗？”\n   \n2. **场景：品酒活动**\n   - \"The sommelier recommended a fine Bordeaux wine for the occasion.\"  \n     “侍酒师为这个场合推荐了一款上等的波尔多葡萄酒。”\n   \n3. **场景：健康讨论**\n   - \"Moderate consumption of red wine is said to have health benefits.\"  \n     “适量饮用红葡萄酒据说对健康有益。”\n\n### 词根分析\n\n- **词根**: *vin-* (来自拉丁语 *vinum*，意为“葡萄酒”)  \n- **衍生词**:  \n  - **vine**: 葡萄藤  \n  - **vintage**: 年份酒；老式的  \n  - **vineyard**: 葡萄园  \n  - **viniculture**: 葡萄栽培学  \n  - **vinous**: 葡萄酒的；似葡萄酒的  \n  - **vinify**: (使)酿成酒；(使)发酵成酒  \n  - **viniculture**: (尤指酿酒用)葡萄栽培学  \n- **词缀分析**: *wine*本身是一个基本词汇，没有明显的词缀。如果考虑复合词，如 *wineglass*（酒杯），则可以视为由 *wine* + *glass*组成。但在此不做进一步拆分。",
+  "draw_explain": "选择葡萄酒和紫红色作为视觉线索，因为它们是'wine'这个词最直观和易于记忆的特征。葡萄酒的深红色和酒瓶的形状是与该词紧密相关的图像，能够帮助记忆。",
+  "draw_prompt": "a deep red wine bottle with a rich purple liquid inside, placed on a rustic wooden table, soft lighting, realistic style"
+}

@@ -1,0 +1,6 @@
+{
+  "word": "underscore",
+  "analysis": "### 分析词义\n\n**Underscore** 是一个多义词，既可以作为动词也可以作为名词使用。\n\n- **作为动词**：表示“强调”或“加强”某事的重要性。\n- **作为名词**：表示“下划线”，通常用于书写或打字中，用于突出某些文字。\n\n### 列举例句\n\n1. **作为动词**：\n   - The speaker underscored the importance of education.  \n     *演讲者强调了教育的重要性。*\n   \n2. **作为动词**：\n   - The report underscores the need for immediate action.  \n     *报告强调了立即行动的必要性。*\n   \n3. **作为名词**：\n   - Please put an underscore between the first and last name.  \n     *请在名字和姓氏之间加一个下划线。*\n   \n### 词根分析\n\n- **词根**：`score`，意为“记号”或“刻痕”。`under-` 是一个前缀，表示“在...之下”或“低于...”。因此，`underscore` 的字面意思可以理解为“在下面做记号”，引申为强调或下划线的意思。\n    - **衍生单词**：`score`（得分）、`scoreboard`（记分板）、`scorn`（轻蔑）等。  \n      这些单词都与“记号”或“标记”有关联。\n    - **衍生单词**：`underground`（地下的）、`underline`（在...下面划线）等，这些单词都使用了 `under-` 前缀来表示位置或状态。  \n      这些单词都与“在...之下”有关联。  \n      这些单词都与“在...之下”有关联。  ",
+  "draw_explain": "通过视觉线索强调'underscore'的含义，即'强调'。使用一个带有下划线的单词图像，直观地展示如何通过下划线来强调某个词或短语，从而帮助记忆。",
+  "draw_prompt": "An image of a word with a bold, thick underline beneath it, emphasizing its importance. The word should be written in a modern, clean font style on a plain background."
+}

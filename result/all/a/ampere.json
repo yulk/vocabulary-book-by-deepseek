@@ -1,0 +1,6 @@
+{
+  "word": "ampere",
+  "analysis": "### 分析词义\n\n**Ampere**（安培）是国际单位制中电流的基本单位，符号为 A。它用于测量电流的强度，表示单位时间内通过导体横截面的电荷量。\n\n### 列举例句\n\n1. **Scientists use amperes to measure the strength of electric currents.**  \n   科学家用安培来测量电流的强度。\n   \n2. **The circuit breaker is designed to trip at a certain amperage to protect the wiring.**  \n   断路器设计为在特定安培数时跳闸以保护线路。\n   \n3. **This device requires a minimum of 2 amperes to operate properly.**  \n   这个设备需要至少2安培的电流才能正常工作。\n\n### 词根分析\n\n- **词根**: -amp- (来自拉丁语 \"amplere\"，意为“充满”)  \n- **衍生词**:  \n  - amplifier (放大器)  \n  - amplitude (振幅)  \n  - ample (充足的)  \n  - amplification (放大)  \n  - amplifier (放大器)  \n  - amply (充足地)  \n  - ampleness (充足)  \n  - amplify (放大)  \n  - amplificatory (放大的)  \n  - amplificate (放大)  \n  - amplificative (放大的)  \n  - amplificator (放大器)  ",
+  "draw_explain": "安培是电流的单位，通常与电线和电流流动相关联。通过描绘一个带有电流流动的电线，可以直观地帮助记忆'ampere'这个单词的含义。",
+  "draw_prompt": "A close-up image of a copper wire with visible electric current flowing through it, glowing faintly blue, set against a dark background to emphasize the contrast."
+}

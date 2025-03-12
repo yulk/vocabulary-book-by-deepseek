@@ -1,0 +1,6 @@
+{
+  "word": "consensus",
+  "analysis": "### 分析词义\n\n**Consensus** 是一个名词，指的是在某个问题上达成的一致意见或普遍共识。它通常用于描述一群人或一个团体在某个议题上达成的一致看法。\n\n### 列举例句\n\n1. **例句**: The committee reached a consensus on the new policy.  \n   **翻译**: 委员会就新政策达成了一致意见。\n\n2. **例句**: There is a growing consensus that climate change is a serious threat.  \n   **翻译**: 越来越多的人认为气候变化是一个严重的威胁。\n\n3. **例句**: The students were asked to reach a consensus on the best solution for the project.  \n   **翻译**: 学生们被要求就项目的最佳解决方案达成一致意见。\n\n### 词根分析\n\n- **词根**: -sens- (来自拉丁语 \"sentire\"，意思是 \"感觉\" 或 \"感知\")。  \n- **衍生单词**:  \n  - **Sensible** (形容词): 明智的，合理的。  \n  - **Sentiment** (名词): 情感，情绪。  \n  - **Sensory** (形容词): 感官的。  \n  - **Consent** (名词): 同意，准许。  \n  - **Sensitive** (形容词): 敏感的。\n\n### 词缀分析\n\n- **前缀**: con- (表示 \"共同\" 或 \"一起\")。  \n- **后缀**: -us (拉丁语后缀，表示名词)。  \n- **相同词缀的单词**:  \n  - **Conduct** (名词/动词): 行为，引导。  \n  - **Conclude** (动词): 结束，总结。  \n  - **Connect** (动词): 连接，联系。  \n  - **Concentrate** (动词): 集中，专注。  \n  - **Contribute** (动词): 贡献，捐献。",
+  "draw_explain": "该prompt通过展示一群人围坐在圆桌旁，举手表示同意的场景，形象地表达了'consensus'（一致意见）的概念。圆桌象征平等和团结，举手的动作直接关联到一致同意的行为，整体画面简洁且易于记忆。",
+  "draw_prompt": "A group of people sitting around a circular table, each raising their hand in agreement, with a warm and harmonious atmosphere."
+}

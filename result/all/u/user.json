@@ -1,0 +1,6 @@
+{
+  "word": "user",
+  "analysis": "### 分析词义\n\n**User** 是一个名词，指的是“用户”或“使用者”。它通常用来描述那些使用某种产品、服务或系统的人。例如，在技术领域，\"user\" 可以指使用电脑、手机或软件的人。\n\n### 列举例句\n\n1. **场景一：技术领域**\n   - **例句**: The app is designed to enhance the user experience.\n   - **中文翻译**: 该应用程序旨在提升用户体验。\n\n2. **场景二：公共服务**\n   - **例句**: The library offers various services for its users.\n   - **中文翻译**: 图书馆为其用户提供各种服务。\n\n3. **场景三：商业环境**\n   - **例句**: The company conducts regular surveys to understand user preferences.\n   - **中文翻译**: 公司定期进行调查以了解用户偏好。\n\n### 词根分析\n\n- **词根**: \"us\" (来自拉丁语，意为“使用”)\n- **衍生单词**: usage (使用), useful (有用的), useless (无用的)\n\n### 词缀分析\n\n- **前缀**: 无前缀\n- **后缀**: -er (表示“做某事的人”)\n- **相同后缀的单词**: teacher (教师), writer (作家), singer (歌手)\n\n### 发展历史和文化背景\n\n**User** 这个词源自拉丁语的 \"usus\"，意为“使用”。在现代英语中，\"user\" 广泛应用于各种领域，尤其是在技术和互联网行业中，用来描述那些使用软件、应用程序或在线服务的人。在欧美文化中，\"user\" 也常与用户体验（User Experience, UX）相关联，强调产品设计应以用户为中心。\n\n### 单词变形\n\n- **名词形式**: user (用户)\n- **复数形式**: users (用户们)\n- **动词形式**: use (使用)\n- **形容词形式**: user-friendly (用户友好的)\n- **副词形式**: user-freely (用户友好地)\n- **固定搭配**: power user (高级用户), end user (终端用户)",
+  "draw_explain": "通过展示一个用户正在使用电子设备的场景，可以直观地帮助记忆'user'这个单词的含义。电子设备是现代用户最常接触的物品，因此这个视觉线索能够清晰地与'用户'这一概念相关联。",
+  "draw_prompt": "A person holding a smartphone, focusing on the screen, with a modern and sleek design, in a minimalist style."
+}

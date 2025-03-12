@@ -1,0 +1,6 @@
+{
+  "word": "bump",
+  "analysis": "### 分析词义\n\n**Bump** 是一个多义词，可以用作名词和动词。作为名词时，它通常指“碰撞”或“隆起”；作为动词时，它表示“碰撞”或“颠簸行进”。\n\n### 列举例句\n\n1. **场景1：日常生活中的碰撞**\n   - **例句**: I accidentally bumped into my friend at the mall.\n   - **中文翻译**: 我在商场不小心撞到了我的朋友。\n\n2. **场景2：道路上的颠簸**\n   - **例句**: The car bumped along the rough road.\n   - **中文翻译**: 汽车在崎岖的道路上颠簸行驶。\n\n3. **场景3：身体上的肿块**\n   - **例句**: She got a bump on her head after falling down.\n   - **中文翻译**: 她摔倒后头上起了个包。\n\n### 词根分析\n\n- **词根**: \"bump\" 本身是一个独立的单词，没有明显的词根。它可能来源于古英语的 \"bumpa\"，意为“肿块”或“隆起”。\n\n### 词缀分析\n\n- **词缀**: \"bump\" 没有明显的词缀结构。它是一个基本词汇，直接表示特定的动作或状态。\n\n### 发展历史和文化背景\n\n- **造词来源**: \"Bump\" 源自中古英语的 \"bumpen\"，进一步追溯到古英语的 \"bumpa\"，最初指的是一种隆起或肿块。这个词在日常英语中广泛使用，特别是在描述物理接触或不平坦的表面时。在现代文化中，\"bump\" 也常用于描述社交场合中的意外相遇，如“bump into someone”（偶然遇到某人）。此外，在某些游戏中（如捉迷藏），“bump”可以指找到隐藏的人。在音乐节拍中，\"bump\"也可以形容强烈的节奏感。总的来说，这个词简单而直观，适用于多种语境。",
+  "draw_explain": "这个prompt通过描述一个车辆在不平整的道路上颠簸前进的场景，能够直观地帮助记忆'bump'这个词的含义。视觉上，车辆在崎岖道路上的颠簸动作与'bump'的定义'颠簸着前进'直接相关，易于联想。",
+  "draw_prompt": "A car moving forward with a bumpy motion on a rough, uneven dirt road, with visible jolts and shakes, in a realistic style."
+}

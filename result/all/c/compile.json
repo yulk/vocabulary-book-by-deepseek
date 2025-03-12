@@ -1,0 +1,6 @@
+{
+  "word": "compile",
+  "analysis": "### 分析词义\n\n**compile** 是一个动词，意思是“编译”或“汇编”。它通常用于计算机编程中，指将源代码转换成可执行的程序。此外，它也可以指收集和整理信息、数据或资料，形成一个整体或系统。\n\n### 列举例句\n\n1. **The programmer compiled the code before running the program.**  \n   *程序员在运行程序之前编译了代码。*\n\n2. **She spent months compiling data for her research paper.**  \n   *她花了数月时间收集数据来撰写研究论文。*\n\n3. **The dictionary was compiled by a team of linguists.**  \n   *这本词典是由一群语言学家编纂的。*\n\n### 词根分析\n\n- **词根**: -pil- (来自拉丁语的 \"pila\"，意为“堆叠”或“积累”)  \n- **衍生词**:  \n  - **pile**: 堆叠，堆积  \n  - **piling**: 打桩，堆积物  \n  - **recompile**: 重新编译  \n  - **compilation**: 编译，汇编（名词形式）  \n  - **compiler**: 编译器（名词形式）  \n\n### 词缀分析\n\n- **前缀**: com- (表示“一起”或“完全”)  \n- **后缀**: -e (动词后缀)  \n- **相同前缀的单词**:  \n  - combine: 结合  \n  - compose: 组成，创作  \n  - compress: 压缩  \n- **相同后缀的单词**:  \n  - arrive: 到达  \n  - derive: 派生，起源  \n  - survive: 幸存，生存  \n    → compile = com-(一起) + pile(堆叠) = \"把东西放在一起堆叠\" = \"编译\"或\"汇编\"。",
+  "draw_explain": "为了帮助记忆单词'compile'，选择了一个与编辑和编制相关的视觉线索。书籍是编辑和编制的典型代表，而书架上的书籍整齐排列则象征着搜集和整理的过程。这个场景不仅直观，而且易于与单词的含义相关联。",
+  "draw_prompt": "A neatly organized bookshelf filled with various books, each book labeled and arranged in a systematic order, creating a visual representation of compilation and organization."
+}

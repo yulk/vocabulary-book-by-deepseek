@@ -1,0 +1,6 @@
+{
+  "word": "sight",
+  "analysis": "### 分析词义\n\"Sight\" 是一个多义词，主要含义包括：\n1. **视力**：指人或动物的视觉能力。\n2. **视野**：指眼睛所能看到的范围。\n3. **景象**：指看到的场景或事物。\n4. **看见**：作为动词，表示看到某物。\n\n### 列举例句\n1. **视力**：\n   - **例句**: \"She lost her sight after the accident.\"  \n   - **中文翻译**: \"她在事故后失明了。\"\n2. **视野**：\n   - **例句**: \"The eagle has a wide sight.\"  \n   - **中文翻译**: \"鹰有广阔的视野。\"\n3. **景象**：\n   - **例句**: \"The sight of the sunset over the ocean was breathtaking.\"  \n   - **中文翻译**: \"日落时分的海景令人叹为观止。\"\n4. **看见**：\n   - **例句**: \"I sighted a ship on the horizon.\"  \n   - **中文翻译**: \"我在地平线上看到了一艘船。\"\n\n### 词根分析\n- **词根**: \"sight\" 本身可以视为一个独立的词根，源于古英语的 \"sīht\"，意为“视力”或“看见”。\n- **衍生词**: 例如，\"insight\"（洞察力），\"oversight\"（疏忽），\"foresight\"（先见之明）等。\n\n### 词缀分析\n- \"Sight\" 本身没有明显的词缀结构，但可以与其他前缀或后缀结合形成新词。例如：  \n  - **前缀**: in-（表示“进入”或“否定”） + sight = insight（洞察力）  \n  - **后缀**: sight + ed = sighted（有视力的）；sight + less = sightless（失明的）  \n- 其他带有类似后缀的单词：例如，\"hopeless\"（无望的），\"fearless\"（无畏的）等。",
+  "draw_explain": "选择'景象'这一含义，因为它是视觉上最容易联想的。通过描绘一个壮丽的自然景象，结合色彩鲜艳和细节丰富的描述，可以帮助记忆'sight'作为'景象'的含义。",
+  "draw_prompt": "A breathtaking panoramic view of a sunrise over a serene lake, surrounded by lush green mountains, with vibrant colors and intricate details."
+}

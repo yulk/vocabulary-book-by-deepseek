@@ -1,0 +1,6 @@
+{
+  "word": "backache",
+  "analysis": "### 分析词义\n\n\"Backache\" 是一个名词，指的是背部疼痛。它通常用于描述由于肌肉紧张、姿势不良、过度使用或其他健康问题引起的背部不适感。\n\n### 列举例句\n\n1. **场景一：日常生活**\n   - **例句**: \"I couldn't sleep well last night because of the backache.\"\n   - **中文翻译**: \"昨晚因为背痛我睡得不好。\"\n\n2. **场景二：医疗咨询**\n   - **例句**: \"The doctor prescribed some painkillers for my backache.\"\n   - **中文翻译**: \"医生给我开了一些止痛药来缓解背痛。\"\n\n3. **场景三：工作环境**\n   - **例句**: \"Sitting at a desk all day can cause severe backache.\"\n   - **中文翻译**: \"整天坐在办公桌前会导致严重的背痛。\"\n\n### 词根分析\n\n- **词根**: \"back\" 和 \"ache\"\n  - \"back\" 指的是背部。\n  - \"ache\" 指的是疼痛。\n- **衍生单词**: \n  - headache（头痛）\n  - stomachache（胃痛）\n  - toothache（牙痛）\n\n### 词缀分析\n\n- **词缀**: 无明显的前缀或后缀，由两个基本单词组合而成。\n- **相同词缀的单词**: 无明显相同词缀的单词，因为这是一个复合词。\n\n### 发展历史和文化背景\n\n\"Backache\" 这个词是由 \"back\"（背部）和 \"ache\"（疼痛）两个古老的英语单词组合而成的。在英语中，这种通过组合基本词汇来创造新词的方式非常常见，尤其是在描述身体部位的疼痛时。在欧美文化中，背痛被认为是一种常见的健康问题，尤其是在现代社会中，由于长时间坐着工作的生活方式，背痛的发生率有所增加。因此，这个词在日常对话和医疗环境中都非常常见。",
+  "draw_explain": "这个prompt通过展示一个因背痛而弯腰的人的图像，直接关联到'backache'这个词的含义。图像中的独特特征如弯腰姿势和痛苦的表情，易于与背痛的概念联系起来，帮助记忆。",
+  "draw_prompt": "A person bending over with a pained expression, clutching their lower back, in a realistic style."
+}

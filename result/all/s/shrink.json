@@ -1,0 +1,6 @@
+{
+  "word": "shrink",
+  "analysis": "### 分析词义\n\n**shrink** 是一个动词，意思是“收缩”、“缩小”或“退缩”。它可以指物体在物理尺寸上的缩小，也可以指人在心理上的退缩或回避。\n\n### 列举例句\n\n1. **场景一：衣物缩水**\n   - The sweater shrank after I washed it in hot water.\n   - 这件毛衣在用热水洗过后缩水了。\n\n2. **场景二：心理退缩**\n   - She tends to shrink from confrontation.\n   - 她倾向于回避冲突。\n\n3. **场景三：经济衰退**\n   - The economy is shrinking due to the pandemic.\n   - 由于疫情，经济正在萎缩。\n\n### 词根分析\n\n- **词根**: *shrin-*（源自中古英语 *shrinken*，进一步追溯到古英语 *scrincan*，意为“收缩”或“退缩”）。\n- **衍生词**: 该词根没有直接的衍生词，但 *shrink* 本身是一个常用词汇。\n\n### 词缀分析\n\n- **词缀**: *shrink* 没有明显的词缀结构，它是一个独立的动词形式。如果考虑过去式和过去分词形式 *shrank* 和 *shrunk*，这些是该动词的变形形式，而非词缀。\n- **相同词缀的单词**: N/A（因为 *shrink* 没有明显的词缀）。\n\n### 发展历史和文化背景\n\n- **造词来源**: *shrink* 源自古英语的 *scrincan*，意为“收缩”或“退缩”。这个词在中古英语中演变为 *shrinken*，最终在现代英语中简化为 *shrink*。这个词的历史可以追溯到日耳曼语族的共同源头。在现代英语中，*shrink* 不仅用于描述物理上的收缩，还常用于描述心理上的退缩或回避。例如，在心理学领域，*shrink* 有时被用作心理医生的非正式称呼，尽管这种用法较为口语化且不正式。此外，在经济领域，*shrink* 常用于描述经济规模的缩小或衰退。总体而言，这个词在英语中有着广泛的应用场景和丰富的文化内涵。",
+  "draw_explain": "通过展示一个橡皮筋被拉伸后突然收缩的瞬间，能够直观地表达'shrink'的含义，即物体从伸展状态变为收缩状态。这种视觉线索简单且直接，易于与单词的含义相关联。",
+  "draw_prompt": "A close-up of a rubber band snapping back to its original size after being stretched, with a blurred background and a sharp focus on the elastic material."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "windmill",
+  "analysis": "### 分析词义\n\n**Windmill** 是一个复合词，由 \"wind\"（风）和 \"mill\"（磨坊）组成。它指的是一种利用风力驱动的机械装置，通常用于磨碎谷物、抽水或发电。\n\n### 列举例句\n\n1. **场景一：乡村风光**\n   - The old windmill stood tall in the countryside, its blades slowly turning in the breeze.\n   - 那座古老的磨坊矗立在乡村，它的叶片在微风中缓缓转动。\n\n2. **场景二：历史遗迹**\n   - The windmill has been a historic landmark in this village for over two centuries.\n   - 这座磨坊是这个村庄两百多年来的历史地标。\n\n3. **场景三：现代应用**\n   - Modern windmills are now used to generate electricity, providing a clean energy source.\n   - 现代风车现在被用来发电，提供清洁的能源。\n\n### 词根分析\n\n- **词根：mill**  \n  - 源自拉丁语 \"mola\"，意为“磨石”或“磨坊”。  \n  - **衍生词**：  \n    - **grindmill**（磨坊）  \n    - **sawmill**（锯木厂）  \n    - **oil mill**（榨油厂）  \n    - **rice mill**（碾米厂）  \n    - **paper mill**（造纸厂）  \n    - **cotton mill**（棉纺厂）  \n    - **steel mill**（钢铁厂）  \n    - **textile mill**（纺织厂）  \n    - **flour mill**（面粉厂）  \n    - **sugar mill**（糖厂）  \n    - **coffee mill**（咖啡研磨机）  ",
+  "draw_explain": "风车是利用风力驱动的机械装置，其独特的外观包括旋转的叶片和塔状结构。通过描述一个典型的风车场景，包括旋转的叶片、蓝天和绿色的田野，可以直观地帮助记忆单词'windmill'。这个prompt强调了风车的核心特征，即旋转的叶片，以及它通常所在的自然环境，使得图像与单词的含义紧密关联。",
+  "draw_prompt": "A traditional windmill with large, rotating blades against a clear blue sky, set in a green, open field."
+}

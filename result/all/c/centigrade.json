@@ -1,0 +1,6 @@
+{
+  "word": "centigrade",
+  "analysis": "### 分析词义\n\"Centigrade\" 是一个形容词，用来描述温度的一种单位制，即摄氏度。它源自拉丁语 \"centum\"（百）和 \"gradus\"（步或度），表示将温度分为100个等分。\n\n### 列举例句\n1. **例句**: The water boils at 100 degrees centigrade.  \n   **中文翻译**: 水在100摄氏度时沸腾。\n   \n2. **例句**: The thermometer showed a temperature of 37 degrees centigrade.  \n   **中文翻译**: 温度计显示的温度是37摄氏度。\n   \n3. **例句**: The weather forecast predicted a high of 25 degrees centigrade for today.  \n   **中文翻译**: 天气预报预测今天的最高气温是25摄氏度。\n\n### 词根分析\n- **词根**: \"centi-\" 和 \"-grad-\"  \n  - \"centi-\" 来自拉丁语 \"centum\"，意思是“百”。  \n  - \"-grad-\" 来自拉丁语 \"gradus\"，意思是“步”或“度”。  \n- **衍生单词**:  \n  - centimeter (厘米)  \n  - graduate (毕业生)  \n  - gradual (逐渐的)  \n\n### 词缀分析\n- **前缀**: \"centi-\"（表示“百”）  \n- **后缀**: \"-grade\"（表示“等级”或“度数”）  \n- **相同词缀的单词**:  \n  - centipede (蜈蚣)  \n  - centennial (一百年的)  \n  - degrade (降级)  \n\n### 发展历史和文化背景\n\"Centigrade\"这个词最初是由瑞典天文学家安德斯·摄尔修斯（Anders Celsius）在1742年提出的，他提出了一种将水的冰点和沸点之间的温度范围分为100个等分的温标。后来，为了纪念他，这种温标被命名为“摄氏温标”（Celsius scale）。虽然现在更常用的是“Celsius”这个词，但“centigrade”仍然在一些场合中使用。在欧美文化中，摄氏温标是日常生活中最常用的温度单位之一。",
+  "draw_explain": "通过展示一个摄氏温度计，用户可以直观地看到温度计上的刻度，这些刻度以100等分表示，与'centigrade'的百分度含义直接相关。温度计的图像清晰地展示了摄氏温度的测量方式，有助于用户记忆'centigrade'这个词的含义。",
+  "draw_prompt": "A clear image of a Celsius thermometer with visible 100-degree scale, showing the temperature measurement in centigrade."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "cite",
+  "analysis": "### 分析词义\n\n\"Cite\" 是一个动词，意思是引用、引证或提到某事作为证据或支持。它通常用于学术、法律或正式的场合，表示在讨论或辩论中引用他人的观点或信息。\n\n### 列举例句\n\n1. **学术场景**: The professor cited several studies to support his argument.  \n   - 中文翻译: 教授引用了几项研究来支持他的论点。\n\n2. **法律场景**: The lawyer cited a previous case to strengthen his client's position.  \n   - 中文翻译: 律师引用了之前的案例来加强他当事人的立场。\n\n3. **日常对话**: She cited her busy schedule as the reason for not attending the meeting.  \n   - 中文翻译: 她以忙碌的日程作为不参加会议的理由。\n\n### 词根分析\n\n- **词根**: \"cit\"  \n  - \"cit\" 源自拉丁语 \"citare\"，意思是“唤起”或“召唤”。这个动作可以理解为“唤起记忆”或“召唤信息”，即引用或引证。\n  \n- **衍生单词**:  \n  - **citation**: 名词，指引用或引证的行为，也指法律上的传票。  \n  - **excite**: 动词，意思是“使兴奋”，源自拉丁语 \"excitare\"，意思是“唤起”或“激发”。  \n  - **resuscitate**: 动词，意思是“使复活”或“复苏”，源自拉丁语 \"resuscitatare\"，意思是“重新唤起生命”。\n\n### 词缀分析\n\n- **前缀**: \"c-\" (在某些单词中可以省略)  \n- **后缀**: \"-e\" (动词后缀)  \n- **词缀组合**: \"c- + it + -e\"  \n  这里的 \"c-\" 和 \"-e\" 都是辅助发音的元素，没有特别的含义。核心部分是 \"it\"（源自拉丁语 \"citare\"）。\n\n### 发展历史和文化背景",
+  "draw_explain": "通过展示一个引用标记符号（如引号）和一个书本或文章的图像，可以直观地帮助记忆'cite'这个单词的含义。引号是引用内容的典型标志，而书本或文章则是引用的来源，这样的视觉组合能够清晰地传达'cite'作为动词表示'引用'的含义。",
+  "draw_prompt": "A pair of quotation marks enclosing a passage from a book, with the book open on a wooden desk, under a soft, warm lighting. The scene is rendered in a clean, minimalist style with sharp focus on the text and book."
+}

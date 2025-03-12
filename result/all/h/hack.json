@@ -1,0 +1,6 @@
+{
+  "word": "hack",
+  "analysis": "### 分析词义\n\"Hack\" 是一个多义词，可以作为动词和名词使用。作为动词时，它主要表示：\n1. 非法入侵计算机系统，即“黑客行为”。\n2. 用不熟练或不正规的方式做某事，如“乱砍”或“草率处理”。\n3. 快速解决某个问题，通常指非正式或临时的方法。\n\n作为名词时，\"hack\" 可以指：\n1. 黑客行为。\n2. 一种简陋但有效的解决方法。\n3. 艰苦的工作或劳动。\n\n### 列举例句\n1. **场景一：计算机安全**  \n   - He was arrested for hacking into the company's database.  \n    他被逮捕了，因为他黑进了公司的数据库。  \n2. **场景二：日常工作**  \n   - I managed to hack together a solution for the problem before the meeting.  \n    我在会议前草草拼凑出了一个问题的解决方案。  \n3. **场景三：体力劳动**  \n   - The farmer did a hard day's hack in the fields.  \n    农夫在田里辛苦地干了一天的活。  \n4. **场景四：写作**  \n   - She spent the whole night hacking away at her novel.  \n    她整晚都在拼命地写她的小说。  \n5. **场景五：幽默**  \n   - My cooking is just a hack—don’t expect anything fancy!  \n    我的厨艺只是随便应付——别指望有什么花样！  \n6. **场景六：旅行**  \n   - We found a hack to save money on accommodation during our trip.  \n    我们找到了一个省钱的旅行住宿技巧。",
+  "draw_explain": "通过展示一个黑客正在操作电脑的场景，可以直观地帮助记忆'hack'这个单词的含义。图像中的黑客形象和电脑设备是与'黑客攻击'直接相关的视觉线索，能够有效地将单词与其含义联系起来。",
+  "draw_prompt": "A shadowy figure in a hoodie typing furiously on a computer keyboard, with lines of code visible on the screen, in a dimly lit room with a cyberpunk aesthetic."
+}

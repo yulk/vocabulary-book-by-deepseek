@@ -1,0 +1,6 @@
+{
+  "word": "overload",
+  "analysis": "### 分析词义\n\n**Overload** 是一个复合词，由前缀 \"over-\" 和词根 \"load\" 组成。\"Over-\" 表示“过度”或“超出”，而 \"load\" 表示“负荷”或“负担”。因此，**overload** 的意思是“超载”或“过度负荷”。它可以指物理上的超载，如电力系统过载，也可以指心理上的超载，如工作压力过大。\n\n### 列举例句\n\n1. **Physical Overload:**\n   - The electrical system can't handle the overload, and it caused a blackout.\n   - 电力系统无法承受超载，导致了停电。\n\n2. **Psychological Overload:**\n   - She felt overwhelmed by the overload of work tasks.\n   - 她感到工作任务超负荷，压力山大。\n\n3. **Technical Overload:**\n   - The server experienced an overload due to the high traffic.\n   - 由于流量过大，服务器经历了超载。\n\n### 词根分析\n\n- **词根:** \"load\"（负荷）\n- **衍生单词:** \n  - **reload**（重新加载）\n  - **download**（下载）\n  - **upload**（上传）\n  - **unload**（卸载）\n\n### 词缀分析\n\n- **前缀:** \"over-\"（过度）\n- **后缀:** 无后缀，因为 overload 是一个动词或名词。\n- **相同前缀的单词:**\n  - **overwork**（过度工作）\n  - **overcharge**（过度收费）\n  - **overreact**（反应过度）\n\n### 发展历史和文化背景\n\n**Overload** 这个词源于工业革命时期，当时机械设备开始普及，人们需要描述设备承受的负荷超过了其设计能力的情况。随着科技的发展，这个词也被广泛应用于电子设备和信息技术领域，描述系统因处理过多数据而崩溃的情况。在现代社会中，overload 也常用于描述心理压力过大的情况，反映了快节奏生活带来的挑战。",
+  "draw_explain": "通过展示一个超载的卡车，可以直观地理解'overload'的含义。卡车上堆满了超出其承载能力的货物，形象地展示了负担过重的概念。这种视觉线索直接关联到单词的定义，有助于记忆。",
+  "draw_prompt": "A heavily loaded truck with boxes and items piled high, exceeding its capacity, in a realistic and detailed style."
+}

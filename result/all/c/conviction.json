@@ -1,0 +1,6 @@
+{
+  "word": "conviction",
+  "analysis": "### 分析词义\n\n**Conviction** 是一个名词，主要含义包括：\n\n1. **坚定的信念**：指一个人对某事或某观点的强烈信仰或确信。\n2. **定罪**：在法律语境中，指法庭对某人犯罪的判决。\n3. **说服力**：指某人或某事物具有使人信服的力量。\n\n### 列举例句\n\n1. **坚定的信念**：\n   - His **conviction** that he would succeed drove him to work harder.  \n     *他对成功的坚定信念促使他更加努力工作。*\n   \n2. **定罪**：\n   - The jury returned a **conviction** for murder.  \n     *陪审团做出了谋杀罪的定罪。*\n   \n3. **说服力**：\n   - Her speech lacked the **conviction** needed to persuade the audience.  \n     *她的演讲缺乏说服听众的说服力。*\n\n### 词根分析\n\n- **词根**: -vict- (来自拉丁语 \"vincere\"，意为 \"征服\" 或 \"战胜\")。  \n- **衍生词**:  \n  - **Victory**: 胜利  \n  - **Invincible**: 不可战胜的  \n  - **Convince**: 说服，使确信  \n  - **Victimize**: 使受害，使牺牲  \n  - **Vindicate**: 证明…无辜，为…辩护  \n  - **Vicarious**: 替代的，代理的  \n  - **Vincible**: 可征服的  \n  - **Vindication**: 辩护，证明无辜  \n  - **Vindicator**: 辩护者，维护者  \n  - **Vindicative**: (罕用)有报复心的，有复仇性的  \n  - **Vindictive**: (罕用)报复性的，怀恨的  \n  - **Vindictiveness**: (罕用)报复性，怀恨心  \n-",
+  "draw_explain": "选择'定罪，判罪'这一含义，因为它与法律场景紧密相关，易于通过视觉呈现。使用法庭和法官的形象，结合锤子敲击的瞬间，能够直观地传达'conviction'作为法律判决的含义，帮助记忆。",
+  "draw_prompt": "A courtroom scene with a stern judge holding a gavel, about to strike it down decisively, emphasizing the finality of a legal conviction."
+}

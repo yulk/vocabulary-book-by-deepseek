@@ -1,0 +1,6 @@
+{
+  "word": "exclusive",
+  "analysis": "### 分析词义\n\n**exclusive** 是一个形容词，意思是“独有的”、“排他的”、“专用的”或“高级的”。它可以用来描述某物或某人具有独特性，不与其他人或事物共享。\n\n### 列举例句\n\n1. **场景一：奢侈品**  \n   - **例句**: This VIP lounge offers exclusive access to its members.  \n   - **中文翻译**: 这个贵宾休息室只为会员提供专属使用权。\n\n2. **场景二：新闻报道**  \n   - **例句**: The magazine has an exclusive interview with the famous actor.  \n   - **中文翻译**: 这本杂志对这位著名演员进行了独家采访。\n\n3. **场景三：排他性**  \n   - **例句**: The club has an exclusive policy that only allows members to enter.  \n   - **中文翻译**: 这个俱乐部有排他性政策，只允许会员进入。\n\n### 词根分析\n\n- **词根**: *exclu-* (源自拉丁语 *excludere*，意思是“排除”)  \n- **衍生单词**: \n  - exclude (动词，意思是“排除”)  \n  - exclusion (名词，意思是“排除”)  \n  - exclusionary (形容词，意思是“排除的”)  \n  - exclusively (副词，意思是“独占地”)  \n  - exclusivity (名词，意思是“独占性”)  \n\n### 词缀分析\n\n- **前缀**: *ex-* (表示“出”或“外”)  \n- **后缀**: *-ive* (表示形容词性质)  \n- **相同后缀的单词**: \n  - attractive (吸引人的)  \n  - active (活跃的)  \n  - creative (创造性的)  \n  - productive (生产性的)  \n- **相同前缀的单词**: \n  - exit (出口)  \n  - expand (扩展)  \n  - expose (暴露)  \n  - export (出口)   ",
+  "draw_explain": "选择'奢华的，高级的'这一含义，因为其视觉表现力强，易于联想。通过描绘一个高档餐厅的场景，使用金色和深色调，以及精致的餐具和装饰，能够直观地传达出'exclusive'所代表的高级和独有感。",
+  "draw_prompt": "A luxurious restaurant with gold and dark tones, featuring elegant table settings, crystal chandeliers, and a sophisticated atmosphere."
+}

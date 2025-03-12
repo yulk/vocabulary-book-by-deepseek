@@ -1,0 +1,6 @@
+{
+  "word": "vine",
+  "analysis": "### 分析词义\n\n**Vine** 是一个名词，指的是一种攀爬植物，通常具有细长的茎，可以缠绕或攀附在其他物体上生长。常见的藤蔓植物包括葡萄藤（grapevine）、常春藤（ivy）等。\n\n### 列举例句\n\n1. **例句**: The grapevine produced sweet and juicy grapes.  \n   **翻译**: 葡萄藤结出了甜美多汁的葡萄。\n   \n2. **例句**: Ivy is a common vine that grows on old buildings.  \n   **翻译**: 常春藤是一种常见的藤蔓植物，生长在古老的建筑上。\n   \n3. **例句**: She carefully planted the vine along the fence.  \n   **翻译**: 她小心地将藤蔓沿着篱笆种植。\n\n### 词根分析\n\n- **词根**: *vin-* (源自拉丁语 *vinea*，意思是“葡萄园”)  \n- **衍生词**:  \n  - **vineyard** (葡萄园)  \n  - **vindicate** (辩护；证明…正确)  \n  - **vintage** (葡萄酒；复古的)  \n  - **viniculture** (葡萄栽培)  \n  - **vinegar** (醋)：虽然与“vine”直接关联不大，但“vinegar”中的“vine”指的是早期醋的制作与葡萄酒有关。\n\n### 词缀分析\n- **无明显词缀**：*vine* 本身是一个独立的单词，没有明显的词缀结构。不过，由 *vine* 衍生出的单词可能会有后缀或其他词缀结构。例如：  \n  - **vineyard** (后缀 *-yard*：表示场所或区域)  \n  - **vintage** (后缀 *-age*：表示状态或集合)  \n  - **vindicate** (前缀 *vin-* + *dic-* + *-ate*：表示“说出”或“辩护”)  \n  - **vinegar** (*vine* + *-gar*：源自法语 *vin aigre*，意为“酸酒”)。  \n    这些衍生词中的词缀帮助扩展了 *vine* 的意义和用法。",
+  "draw_explain": "通过描绘一个藤本植物缠绕在古老石墙上的场景，利用视觉线索帮助记忆'vine'这个词。藤本植物的形态和缠绕的动作是该词的核心特征，而古老的石墙则增加了场景的深度和历史感，使得图像更具记忆点。",
+  "draw_prompt": "A lush green vine with twisting tendrils gracefully winding around an ancient stone wall, under a soft golden sunlight, creating a serene and timeless atmosphere."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "batch",
+  "analysis": "### 分析词义\n\n**batch** 是一个名词，主要意思是“一批”或“一组”。它可以指一次生产或处理的一组物品，也可以指一群人或事物。\n\n### 列举例句\n\n1. **场景一：生产**\n   - **例句**: The factory produced a batch of 500 bottles today.\n   - **中文翻译**: 工厂今天生产了500瓶。\n\n2. **场景二：烘焙**\n   - **例句**: She baked a batch of cookies for the party.\n   - **中文翻译**: 她为聚会烤了一批饼干。\n\n3. **场景三：计算机**\n   - **例句**: The software runs in batches to process large amounts of data.\n   - **中文翻译**: 该软件以批处理方式运行，以处理大量数据。\n\n### 词根分析\n\n- **词根**: *bhat-* (古英语，意为“烘焙”)\n- **衍生词**: 无明显衍生词，但与烘焙相关的词汇可能有联系。\n\n### 词缀分析\n\n- **词缀**: 无明显前缀或后缀。\n- **相同词缀的单词**: 无。\n\n### 发展历史和文化背景\n\n**batch** 源自中古英语的 *bache*，进一步追溯到古英语的 *bæc*，最初指的是“烘焙的一批面包”。随着时间的推移，其含义扩展到任何类型的一组物品或人。在现代英语中，特别是在计算机科学领域，batch processing（批处理）是一个常见的术语，指的是一次性处理一组任务或数据。\n\n### 单词变形\n\n- **名词形式**: batch (一批)\n- **复数形式**: batches (多批)\n- **动词形式**: batch (不常用作动词)\n- **形容词形式**: batch (不常用作形容词)\n- **副词形式**: batch (不常用作副词)\n- **固定搭配**: \n  - batch processing (批处理)\n  - a batch of (一批)",
+  "draw_explain": "通过展示一个工厂流水线上正在生产的一批产品，能够直观地帮助记忆'batch'这个单词的含义。流水线上的产品成组出现，与'一批，一组'的定义紧密相关。同时，工厂的生产环境也能让人联想到'一批生产量'的概念。",
+  "draw_prompt": "A factory conveyor belt with multiple identical products lined up in a row, being produced in a continuous flow. The scene is set in a modern industrial environment with metallic textures and bright lighting."
+}

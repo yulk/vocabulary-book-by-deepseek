@@ -1,0 +1,6 @@
+{
+  "word": "constrain",
+  "analysis": "### 分析词义\n\n**constrain** 是一个动词，意思是“限制”或“约束”。它表示通过某种方式或力量来限制某人的行动、选择或自由。\n\n### 列举例句\n\n1. **Financial difficulties constrained his ability to travel.**  \n   财务困难限制了他旅行的能力。\n\n2. **The doctor constrained the patient from eating certain foods.**  \n   医生限制了病人吃某些食物。\n\n3. **Time constraints made it impossible to finish the project on schedule.**  \n   时间限制使得项目无法按时完成。\n\n### 词根分析\n\n- **词根**: -strain-  \n  - **含义**: 拉紧，紧张  \n  - **衍生单词**:  \n    - **strain**: 拉紧，紧张  \n    - **constrain**: 限制，约束  \n    - **restrain**: 抑制，阻止  \n    - **constraint**: 限制，约束（名词）  \n    - **strait**: 海峡（原意为“狭窄的”）  \n    - **straitness**: 狭窄（名词）  \n    - **constrict**: 压缩，收缩  \n    - **restrict**: 限制，限定  \n    - **strict**: 严格的，严厉的  \n    - **stringent**: 严格的，严厉的（形容词）  \n    - **astringent**: 收敛的，涩的（形容词）  \n    - **distrain**: 扣押，没收（法律术语）  \n    - **overstrain**: 过度紧张（动词/名词）  \n    - **understrain**: 过度紧张（动词/名词）  \n    - **unrestrained**: 不受约束的（形容词）  \n    - **unrestricted**: 不受限制的（形容词）  ",
+  "draw_explain": "这个prompt通过展示一个被绳子紧紧束缚的物体来形象地表达'constrain'的含义，即限制或约束。绳子的紧绷状态和物体的受限移动直接关联到单词的定义，帮助记忆。",
+  "draw_prompt": "A tightly bound object with a taut rope, emphasizing the restriction and immobility, in a minimalist style."
+}

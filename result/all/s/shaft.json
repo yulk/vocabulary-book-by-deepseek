@@ -1,0 +1,6 @@
+{
+  "word": "shaft",
+  "analysis": "### 分析词义\n\n**Shaft** 是一个多义词，主要可以指：\n\n1. **机械部件**：指长而细的圆柱形物体，通常用于传递动力或支撑结构。例如，汽车的传动轴（drive shaft）。\n2. **光线**：指从光源（如太阳）射出的光线。例如，阳光穿过云层形成的光束。\n3. **矿井**：指垂直或倾斜的地下通道，用于开采矿物。例如，煤矿中的竖井（mine shaft）。\n4. **箭杆**：指箭的主体部分，连接箭头和箭尾。\n5. **责备或讽刺**：在口语中，shaft 也可以表示“责备”或“讽刺”某人。\n\n### 列举例句\n\n1. **机械部件**：  \n   - The mechanic inspected the drive shaft of the car to ensure it was functioning properly.  \n     （机械师检查了汽车的传动轴以确保其正常工作。）\n   \n2. **光线**：  \n   - A shaft of sunlight broke through the clouds, illuminating the forest floor.  \n     （一束阳光穿透云层，照亮了森林地面。）\n   \n3. **矿井**：  \n   - The miners descended into the shaft to extract coal from deep underground.  \n     （矿工们下到矿井中，从地下深处开采煤炭。）\n   \n4. **箭杆**：  \n   - The archer carefully examined the shaft of the arrow before aiming at the target.  \n     （弓箭手在瞄准目标前仔细检查了箭杆。）\n   \n5. **责备或讽刺**：  \n   - He got a real shaft from his boss for missing the deadline.  \n     （他因为错过了截止日期而被老板狠狠责备了一番。）",
+  "draw_explain": "这个prompt通过描绘一个带有长柄的锤子，直观地展示了'shaft'作为工具柄的含义。锤子的柄是一个典型的杆状物，易于与单词'shaft'相关联。简洁的图像和明确的物体选择有助于记忆。",
+  "draw_prompt": "A close-up of a wooden hammer with a long handle, emphasizing the shaft as the central focus, in a rustic, detailed style."
+}

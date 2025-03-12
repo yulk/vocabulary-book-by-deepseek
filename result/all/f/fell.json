@@ -1,0 +1,6 @@
+{
+  "word": "fell",
+  "analysis": "### 分析词义\n\n\"Fell\" 是一个多义词，具体含义取决于上下文。以下是几种常见的意思：\n\n1. **动词 (Verb)**：砍伐（树木）。例如，\"fell a tree\" 意思是砍倒一棵树。\n2. **动词 (Verb)**：击倒；打倒。例如，\"fell an opponent\" 意思是击倒对手。\n3. **过去式 (Past Tense)**：表示“fall”的过去式，意思是“跌倒”或“落下”。例如，\"She fell off her bike.\" 她从自行车上摔了下来。\n4. **形容词 (Adjective)**：指“凶猛的”或“残酷的”。例如，\"a fell disease\" 意思是可怕的疾病。\n\n### 列举例句\n\n1. **砍伐树木**  \n   - He felled the oak tree with an axe.  \n   - 他用斧头砍倒了橡树。\n   \n2. **击倒对手**  \n   - The boxer felled his opponent with a powerful punch.  \n   - 拳击手用一记重拳击倒了对手。\n   \n3. **跌倒**  \n   - She slipped and fell on the icy pavement.  \n   - 她在结冰的人行道上滑倒了。\n   \n4. **形容词用法**  \n   - The fell wind blew through the valley, chilling everyone to the bone.  \n   - 狂风穿过山谷，冻得每个人都瑟瑟发抖。\n\n### 词根分析和词缀分析（以 \"fell\" 作为动词为例）：无明显词缀和词根，属于基本词汇。但 \"fell\" 可以与 \"ing\"、\"ed\"、等后缀结合形成其他形式（如 \"felling\", \"felled\"），用于描述动作的不同状态或时态。如：felling（正在砍伐）、felled（已经被砍伐的）等。但这些形式通常是基于基础单词的变化，而不是通过添加特定的前缀或后缀来构建新单词的方式。因此，对于 \"fell\" 这个单词来说，其变化主要体现在时态和语态上，而不是通过添加特定的前缀或后缀来形成新的词汇意义或功能性变化。",
+  "draw_explain": "通过展示一个被砍倒的树，这个视觉线索直接关联到'fell'的含义，即砍倒或砍伐。树的倒下状态是一个独特且易于记忆的图像，能够帮助用户快速联想到单词的含义。",
+  "draw_prompt": "A tree being cut down with a chainsaw, showing the trunk falling to the ground, surrounded by fallen leaves and sawdust, in a realistic style."
+}

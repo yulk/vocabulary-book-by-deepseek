@@ -1,0 +1,6 @@
+{
+  "word": "lease",
+  "analysis": "### 分析词义\n\"Please\" 是一个常见的英语单词，主要用作请求、礼貌地表达愿望或提供选择。它可以用来表示请求、邀请或表达礼貌。\n\n### 列举例句\n1. **请求帮助**：  \n   - \"Please help me carry this box.\"  \n   - 中文翻译：“请帮我拿这个箱子。”\n\n2. **礼貌地提供选择**：  \n   - \"Would you like tea or coffee? Please choose.\"  \n   - 中文翻译：“你想要茶还是咖啡？请选择。”\n\n3. **表达礼貌的感谢**：  \n   - \"Thank you for your help, please come again.\"  \n   - 中文翻译：“谢谢你的帮助，请再来。”\n\n### 词根分析\n\"Please\" 没有明显的词根，它是一个独立的单词，源自中古英语的 \"plesen\"，意为“使高兴”或“使满意”。这个词与古英语的 \"plæġian\"（使高兴）有关。\n\n### 词缀分析\n\"Please\" 没有常见的词缀结构，它是一个独立的单词，不包含前缀或后缀。它的词形变化较少，主要用于不同语境中表达礼貌或请求。\n\n### 发展历史和文化背景\n\"Please\" 的历史可以追溯到古英语时期，最初的意思是“使高兴”或“使满意”。随着时间的推移，它的用法逐渐演变为表示礼貌的请求或愿望。在现代英语中，\"please\" 是日常交流中非常重要的一个词，尤其是在正式场合或需要表达尊重时使用。在西方文化中，使用 \"please\" 被视为一种基本的礼貌行为。\n\n### 单词变形\n- **动词形式**：please（请求）  \n- **名词形式**：无常见名词形式  \n- **形容词形式**：无常见形容词形式  \n- **副词形式**：无常见副词形式  \n- **固定搭配**：  \n  - \"Please do...\"（请做……）  \n  - \"Please don't...\"（请不要……）  \n  - \"If you please...\"（如果您愿意……）  \n- **组词**：无常见组词形式  \n- **中文翻译**：请、请求、愿意等。",
+  "draw_explain": "通过展示一个租约文件的图像，用户可以直观地理解'lease'的含义。租约文件是租赁关系中的关键文件，其外观独特，易于与单词'lease'相关联。",
+  "draw_prompt": "A detailed image of a formal lease document, showing its structured layout with sections like 'Tenant Information', 'Property Details', and 'Terms and Conditions', in a clean, professional style."
+}

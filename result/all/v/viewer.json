@@ -1,0 +1,6 @@
+{
+  "word": "viewer",
+  "analysis": "### 分析词义\n\n**viewer** 是一个名词，指的是“观看者”或“观众”。它通常用于描述通过电视、电影、展览等方式观看内容的人。\n\n### 列举例句\n\n1. **Television viewers** are increasingly demanding more diverse content.  \n   *电视观众越来越要求更多样化的内容。*\n\n2. The museum's new exhibit attracted a large number of **viewers**.  \n   *博物馆的新展览吸引了大量观众。*\n\n3. As a **viewer**, she enjoys watching documentaries about nature.  \n   *作为一名观众，她喜欢看关于自然的纪录片。*\n\n### 词根分析\n\n- **view**：词根，意思是“看”或“视野”。  \n- **-er**：后缀，表示从事某动作的人或物。  \n- 衍生单词：  \n  - **viewpoint**（观点）  \n  - **review**（回顾）  \n  - **preview**（预览）  \n  - **interview**（采访）  \n  - **viewer**（观众）  \n\n### 词缀分析\n\n- **-er**：后缀，表示动作的执行者或工具。  \n- 相同词缀的单词：  \n  - **reader**（读者）  \n  - **writer**（作家）  \n  - **player**（玩家）  \n  - **worker**（工人）  \n  - **runner**（跑步者）  \n  - **speaker**（演讲者）  \n  - **teacher**（教师）  \n  - **learner**（学习者）  \n  - **builder**（建造者）  ",
+  "draw_explain": "选择'观众'这一含义，因为它是'viewer'最常用且最容易通过视觉联想的含义。通过描述一个剧院或电影院的场景，观众坐在座位上观看舞台或屏幕，这样的图像能够直观地与'viewer'的含义相关联。同时，使用'复古风格'增加了图像的独特性和记忆点。",
+  "draw_prompt": "A vintage-style theater scene with rows of people sitting in seats, facing a large stage or screen, all intently watching the performance or movie."
+}

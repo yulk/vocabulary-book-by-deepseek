@@ -1,0 +1,6 @@
+{
+  "word": "audio",
+  "analysis": "### 分析词义\n\"Audio\" 是一个形容词，表示与听觉或声音有关的。它也可以用作名词，指音频材料或声音信号。\n\n### 列举例句\n1. **场景：音乐播放**  \n   - The audio quality of this new music player is excellent.  \n     （这个新音乐播放器的音质非常好。）\n\n2. **场景：会议记录**  \n   - Please send me the audio recording of the meeting.  \n     （请把会议的录音发给我。）\n\n3. **场景：听力测试**  \n   - The doctor tested my audio sensitivity.  \n     （医生测试了我的听觉敏感度。）\n\n### 词根分析\n- **词根**: \"audi-\" 来自拉丁语 \"audire\"，意思是“听”。  \n- **衍生单词**: audience（观众）, audible（听得见的）, audition（试镜）, inaudible（听不见的）。\n\n### 词缀分析\n- **前缀**: 无前缀。  \n- **后缀**: \"-o\" 是中缀，用于连接和辅助发音；\"-audio\" 是后缀，表示与声音相关的。  \n- **相同后缀的单词**: video（视频）, radio（收音机）, studio（工作室）。\n\n### 发展历史和文化背景\n\"Audio\" 源自拉丁语 \"audire\"，意为“听”。在20世纪初，随着录音技术和广播的发展，\"audio\" 开始广泛用于描述与声音相关的技术、设备和内容。在现代文化中，\"audio\" 常与 \"visual\"（视觉的）一起使用，形成 \"audio-visual\"（视听的）这一概念，用于描述多媒体内容。\n\n### 单词变形\n- **名词形式**: audio (音频)  \n- **形容词形式**: audio (音频的)  \n- **固定搭配**: audio file (音频文件), audio system (音响系统), audio book (有声书)。  \n- **组词**: audio engineer (音响工程师), audio equipment (音响设备)。  \n- **中文翻译**: 音频, 音响, 声音信号等。",
+  "draw_explain": "通过展示一个带有声音波形图的耳机，能够直观地联想到'audio'这个词的声音和听觉属性。耳机是与声音直接相关的物品，而波形图则代表了声音的视觉化表现，两者结合能够有效地帮助记忆'audio'的含义。",
+  "draw_prompt": "a sleek black headphone with a sound wave pattern displayed on the ear cup, minimalist design, high-contrast, modern aesthetic"
+}

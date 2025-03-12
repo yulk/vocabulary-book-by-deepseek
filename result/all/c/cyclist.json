@@ -1,0 +1,6 @@
+{
+  "word": "cyclist",
+  "analysis": "### 分析词义\n\n\"Cyclist\" 是一个名词，指的是骑自行车的人。这个词通常用来描述那些以骑自行车为日常交通方式或爱好的人，也可以指参加自行车比赛的专业运动员。\n\n### 列举例句\n\n1. **场景一：日常交通**\n   - **例句**: The cyclist rode his bike to work every day.\n   - **中文翻译**: 那位骑自行车的人每天骑车去上班。\n\n2. **场景二：运动比赛**\n   - **例句**: The professional cyclist won the race by a narrow margin.\n   - **中文翻译**: 那位职业自行车手以微弱优势赢得了比赛。\n\n3. **场景三：休闲活动**\n   - **例句**: The group of cyclists enjoyed a leisurely ride through the park.\n   - **中文翻译**: 那群骑自行车的人在公园里享受了一次悠闲的骑行。\n\n### 词根分析\n\n- **词根**: \"cycl-\" 来源于希腊语 \"kyklos\"，意思是“圆圈”或“轮子”，与“cycle”（循环、周期）和“bicycle”（自行车）等词有相同的词根。\n- **衍生单词**: 由 \"cycl-\" 衍生的单词包括：\n  - **bicycle** (自行车)\n  - **tricycle** (三轮车)\n  - **recycle** (回收)\n  - **cyclone** (旋风)\n  - **cyclopedia** (百科全书)\n\n### 词缀分析\n\n- **后缀**: \"-ist\" 是一个常见的名词后缀，表示从事某种活动或信仰某种主义的人。例如：\"artist\"（艺术家）、\"pianist\"（钢琴家）、\"communist\"（共产主义者）等。在 \"cyclist\" 中，\"-ist\" 表示“骑自行车的人”。\n- **相同词缀的单词**: 使用 \"-ist\" 后缀的单词包括：\n  - **scientist** (科学家)\n  - **dentist** (牙医)\n  - **journalist** (记者)\n  - **typist** (打字员)",
+  "draw_explain": "通过展示一个骑自行车的人的图像，可以直观地帮助记忆'cyclist'这个单词的含义。自行车和骑车人的形象是直接且易于联想的，能够有效地将单词与其含义联系起来。",
+  "draw_prompt": "A detailed illustration of a person riding a bicycle on a sunny day, with a bright helmet and colorful cycling gear, in a lively urban setting."
+}

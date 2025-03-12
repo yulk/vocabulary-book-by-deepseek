@@ -1,0 +1,6 @@
+{
+  "word": "array",
+  "analysis": "### 分析词义\n\n\"Array\" 是一个多义词，主要用作名词和动词。作为名词时，它通常指“一系列、排列、阵列”；作为动词时，它表示“排列、部署”。\n\n### 列举例句\n\n1. **名词用法**：\n   - The soldiers stood in a tight array.  \n     （士兵们紧密地排列着。）\n   - The array of desserts on the table was tempting.  \n     （桌子上的甜点阵列很诱人。）\n   \n2. **动词用法**：\n   - The general arrayed his troops for battle.  \n     （将军为战斗部署了他的部队。）\n   - She arrayed the flowers in a vase.  \n     （她把花排列在花瓶里。）\n   \n3. **技术领域**：\n   - An array of sensors was used to monitor the environment.  \n     （一系列传感器被用来监测环境。）\n   中文翻译：（使用了一系列传感器来监测环境。）\n   注意：在计算机科学中，“array”特指“数组”，是一种数据结构。例如：“An array is a collection of elements stored at contiguous memory locations.”（数组是存储在连续内存位置的元素集合。）中文翻译：（数组是存储在连续内存位置的元素集合。）\n   请根据上下文选择合适的翻译方式。例如：如果上下文是关于计算机科学的，则应翻译为“数组”；如果是其他领域，则可以翻译为“一系列”或“排列”等。希望这些例句和解释能帮助你更好地理解和使用“array”这个单词！如果你还有其他问题或需要进一步的解释，请随时告诉我！",
+  "draw_explain": "通过展示一个美观排列的物品，如花朵或书籍，可以直观地帮助记忆'array'这个单词的含义。这种视觉线索直接关联到单词的定义，即'（美观地）排列'，从而加深记忆。",
+  "draw_prompt": "A visually pleasing arrangement of colorful flowers in a garden, with each flower neatly aligned in rows and columns, creating a harmonious display."
+}

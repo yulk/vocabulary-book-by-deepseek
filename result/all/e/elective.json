@@ -1,0 +1,6 @@
+{
+  "word": "elective",
+  "analysis": "### 分析词义\n\n**elective** 是一个形容词，意思是“选修的”或“选举的”。它通常用于描述课程、职位或程序，表示这些是可以由个人选择或通过选举决定的。\n\n### 列举例句\n\n1. **场景**: 大学课程  \n   **例句**: She took an elective course in photography last semester.  \n   **中文翻译**: 她上学期选修了一门摄影课程。\n\n2. **场景**: 医院手术  \n   **例句**: The doctor suggested an elective surgery to improve her quality of life.  \n   **中文翻译**: 医生建议她进行一项选择性手术以提高生活质量。\n\n3. **场景**: 政治选举  \n   **例句**: The position of mayor is an elective office.  \n   **中文翻译**: 市长的职位是通过选举产生的。\n\n### 词根分析\n\n- **词根**: -lect- (选择)  \n- **衍生单词**: elect (选举), selection (选择), collect (收集), neglect (忽视)\n\n### 词缀分析\n\n- **前缀**: -e- (无特殊含义，连接词根和后缀)  \n- **后缀**: -ive (形容词后缀，表示“有…性质的”)  \n- **相同后缀单词**: active (积极的), creative (创造性的), productive (生产的)\n\n### 发展历史和文化背景\n\n**elective** 源自拉丁语 \"electus\"，意为“被选中的”。这个词在16世纪进入英语，最初用于描述通过选举产生的职位。后来，它的应用扩展到教育领域，用来描述学生可以选择的课程。在现代英语中，**elective** 广泛用于描述那些不是强制性而是可选的活动或程序。在欧美文化中，选修课程和选举制度都是个人自由和民主的重要体现。",
+  "draw_explain": "通过展示一个选举场景，可以直观地理解'elective'的'选举的'含义。同时，通过展示一个带有选择标记的课程表，可以直观地理解其'可任意选择的'含义。这样的视觉线索能够帮助记忆单词的双重含义。",
+  "draw_prompt": "A bustling election day scene with people casting votes, combined with a colorful course schedule featuring highlighted elective subjects."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "mast",
+  "analysis": "### 分析词义\n\n\"Mast\" 是一个名词，主要指船上的垂直桅杆，用于支撑帆或其他设备。此外，它也可以指某些结构中的垂直柱子或杆子。\n\n### 列举例句\n\n1. **场景：航海**\n   - The sailor climbed the mast to adjust the sails.\n   - 水手爬上桅杆调整帆。\n\n2. **场景：建筑**\n   - The mast of the radio tower was visible from miles away.\n   - 无线电塔的桅杆从几英里外就能看到。\n\n3. **场景：风力发电**\n   - The wind turbine's mast was over 100 meters tall.\n   - 风力涡轮机的桅杆超过100米高。\n\n### 词根分析\n\n- **词根**: \"mast-\" 或 \"maston-\"，源自希腊语 \"mástos\"，意为“乳房”或“乳头”，因为早期的船只桅杆形状类似乳房。后来这个词根演变为指代任何高耸的垂直结构。\n- **衍生词**: \n  - **Master**: 源自 \"mast\"，原意为“船长”或“主人”。\n  - **Mastodon**: 一种古代巨型哺乳动物的名字，因其巨大的牙齿形状类似桅杆而得名。\n\n### 词缀分析\n\n- **词缀**: \"mast\" 本身是一个基本词汇，没有明显的词缀结构。它是一个独立的单词，直接来源于希腊语。如果需要形容词形式，可以加上后缀 \"-ed\" 形成 \"masted\"（有桅杆的）。例如：a masted ship（有桅杆的船）。\n- **相同词缀的单词**: N/A（因为 \"mast\" 没有明显的词缀）。\n\n### 发展历史和文化背景\n\n- **造词来源**: \"Mast\" 最早源自希腊语 \"mástos\"，意为“乳房”或“乳头”。在古代航海中，船只的桅杆形状类似乳房，因此得名。随着时间的推移，这个词逐渐演变为指代任何高耸的垂直结构。在航海文化中，桅杆是船只的重要组成部分，象征着航行的能力和方向感。在现代文化中，\"mast\" 也常用于描述风力发电机或其他高耸的结构。",
+  "draw_explain": "桅杆是船上用于支撑帆的垂直结构，通常在船的顶部。通过提示生成一个具有明显垂直线条和船只背景的图像，可以直观地帮助记忆'mast'这个单词的含义。",
+  "draw_prompt": "A tall, vertical wooden pole with straight lines, standing at the center of a ship's deck, surrounded by sails and the ocean in the background."
+}

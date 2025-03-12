@@ -1,0 +1,6 @@
+{
+  "word": "rupture",
+  "analysis": "### 分析词义\n**Rupture** 是一个名词和动词，表示“破裂”或“断裂”。作为名词时，它指的是物体或组织的破裂状态；作为动词时，它表示导致某物破裂或断裂的动作。\n\n### 列举例句\n1. **场景一：医学**\n   - The doctor diagnosed a **rupture** in the patient's tendon.\n   - 医生诊断出病人肌腱有破裂。\n\n2. **场景二：工程**\n   - The pipeline suffered a **rupture**, causing a massive oil spill.\n   - 管道发生了破裂，导致大规模的石油泄漏。\n\n3. **场景三：日常**\n   - Their friendship came to a **rupture** after the argument.\n   - 经过那次争吵，他们的友谊破裂了。\n\n### 词根分析\n- **词根**: rupt- (来自拉丁语 \"rumpere\"，意思是“打破”或“断裂”)。\n- **衍生单词**: \n  - **Interrupt**: 中断 (inter- + rupt-)。\n  - **Corruption**: 腐败 (cor- + rupt-)。\n  - **Bankrupt**: 破产 (bank + rupt-)。\n\n### 词缀分析\n- **后缀**: -ure (表示名词的结尾)。\n- **相同后缀的单词**: \n  - **Capture**: 捕获。\n  - **Structure**: 结构。\n  - **Figure**: 数字/人物。\n  \n### 发展历史和文化背景\n**Rupture**源自拉丁语 \"rumpere\"，在古罗马时期，这个词被用来描述物理上的断裂或破坏。随着时间的推移，它的意义扩展到包括关系、组织等抽象概念的破裂。在现代英语中，它广泛用于医学、工程和日常交流中，描述各种形式的断裂或破裂情况。在欧美文化中，这个词常与突然的、不可逆的变化相关联，带有一定的负面含义。",
+  "draw_explain": "该prompt通过描绘一个玻璃杯破裂的瞬间，直观地展示了'rupture'的含义。玻璃杯的破裂是日常生活中常见且易于理解的场景，能够帮助记忆'rupture'作为'破裂'的意思。同时，使用'sharp shards'和'shattered surface'等词汇，进一步强化了破裂的概念，使得记忆更加深刻。",
+  "draw_prompt": "A glass cup in the process of breaking, with sharp shards flying out and a shattered surface, captured in a high-contrast, realistic style."
+}

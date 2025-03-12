@@ -1,0 +1,6 @@
+{
+  "word": "assignment",
+  "analysis": "### 分析词义\n\n\"Assignment\" 是一个名词，主要指分配的任务、作业或工作。它通常用于描述由老师、上级或组织分配给个人或团队的具体任务或项目。\n\n### 列举例句\n\n1. **场景：学校**  \n   - The teacher gave us a difficult assignment for the weekend.  \n   - 老师给我们布置了一个周末的难题作业。\n\n2. **场景：工作**  \n   - My new assignment is to manage the company's social media accounts.  \n   - 我的新任务是管理公司的社交媒体账户。\n\n3. **场景：项目管理**  \n   - The project manager handed out assignments to each team member.  \n   - 项目经理给每个团队成员分配了任务。\n\n### 词根分析\n\n- **词根**：assign (分配) + ment (名词后缀)。  \n- **衍生单词**：assign (动词，分配)，assignable (形容词，可分配的)，assigned (形容词，已分配的)。\n\n### 词缀分析\n\n- **前缀**：无。  \n- **后缀**：-ment (名词后缀，表示行为、状态或结果)。  \n- **相同后缀的单词**：development (发展), enjoyment (享受), movement (运动)。\n\n### 发展历史和文化背景\n\n\"Assignment\" 源自拉丁语 \"assignāre\"，意为“指定”或“分配”。在英语中，这个词最早出现在14世纪，最初用于法律文件中指代财产的分配。后来，它的使用范围扩展到教育和工作领域，成为描述任务分配的常用词汇。在现代教育体系中，\"assignment\" 是学生学习过程中不可或缺的一部分，用于巩固知识和培养技能。在职场中，它则用于描述具体的工作职责和项目任务。\n\n### 单词变形和固定搭配组词对应的中文翻译如下：请稍等片刻",
+  "draw_explain": "通过展示学生桌面上堆满的书籍和纸张，以及一个打开的笔记本和一支笔，这个场景直观地描绘了'assignment'（作业）的概念。这样的视觉线索能够帮助记忆，因为它们直接关联到学生在完成作业时的常见场景。",
+  "draw_prompt": "A cluttered student desk with stacks of books and papers, an open notebook, and a pen."
+}

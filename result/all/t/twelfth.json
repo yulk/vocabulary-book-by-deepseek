@@ -1,0 +1,6 @@
+{
+  "word": "twelfth",
+  "analysis": "### 分析词义\n\"Twelfth\" 是一个序数词，表示“第十二”。它通常用于表示在一系列中的第十二个位置或第十二个部分。\n\n### 列举例句\n1. **场景：日期**  \n   - **例句**: \"The twelfth of December is a special day for us.\"  \n   - **中文翻译**: “12月12日对我们来说是个特别的日子。”\n\n2. **场景：音乐**  \n   - **例句**: \"She played the twelfth note perfectly.\"  \n   - **中文翻译**: “她完美地演奏了第十二个音符。”\n\n3. **场景：排名**  \n   - **例句**: \"He finished twelfth in the race.\"  \n   - **中文翻译**: “他在比赛中获得了第十二名。”\n\n### 词根分析\n- **词根**: \"twelf-\" 源自拉丁语 \"duodecim\"，意思是“十二”。\n- **衍生单词**: \"twelve\"（十二）、\"twelfth\"（第十二）。\n\n### 词缀分析\n- **前缀**: 无前缀。\n- **后缀**: \"-th\" 是序数词后缀，表示“第...”。例如：first（第一）、second（第二）、third（第三）等。\n- **相同词缀的单词**: fifth（第五）、sixth（第六）、seventh（第七）等。\n\n### 发展历史和文化背景\n\"Twelfth\" 这个词源自拉丁语 \"duodecim\"，意思是“十二”。在基督教文化中，圣诞节的第十二天被称为“第十二夜”（Twelfth Night），通常在1月5日庆祝，标志着圣诞季节的结束。在英国，传统的圣诞蛋糕会在这一天享用。此外，在一些音乐作品中，如贝多芬的《第十二交响曲》，也使用了这个序数词来表示作品的编号。\n\n### 单词变形\n- **名词形式**: twelfth（第十二）。没有其他变形形式，因为它是一个序数词。\n- **固定搭配**: twelfth night（第十二夜）、twelfth note（第十二个音符）、twelfth in a series（系列中的第十二个）等。\n- **组词**: twelfthly（副词形式，表示“第十二点”或“其次”）。但这个形式不常用。",
+  "draw_explain": "通过使用一个包含12个相同物体的图像，并突出显示其中的第12个，可以直观地展示'twelfth'的含义。这种视觉线索帮助记忆者将单词与具体的数量和顺序联系起来，从而更容易记住。",
+  "draw_prompt": "A row of 12 identical objects, with the 12th one highlighted in a contrasting color, set against a minimalist background."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "consultation",
+  "analysis": "### 分析词义\n\n**Consultation** 是一个名词，指的是咨询、磋商或会诊的过程。它通常涉及向专家或权威人士寻求建议或意见，或者在团队中进行讨论以达成共识。\n\n### 列举例句\n\n1. **场景一：医疗**\n   - The doctor asked for a consultation with a specialist before making a diagnosis.\n   - 医生在做出诊断之前，要求与专家进行会诊。\n\n2. **场景二：法律**\n   - The lawyer offered free initial consultations to potential clients.\n   - 律师为潜在客户提供免费初步咨询。\n\n3. **场景三：商业**\n   - The company arranged a consultation with marketing experts to improve their strategies.\n   - 公司安排了一次与市场营销专家的磋商，以改进他们的策略。\n\n### 词根分析\n\n- **词根：-sult-** 源自拉丁语“consulere”，意为“咨询、商量”。\n- **衍生词：**\n  - **Consult** (动词)：咨询、商量。\n  - **Consultant** (名词)：顾问、咨询师。\n  - **Consultative** (形容词)：咨询的、磋商的。\n\n### 词缀分析\n\n- **前缀：con-** 表示“共同、一起”。\n- **后缀：-ation** 表示动作或过程的名词形式。\n- **相同后缀的单词：**\n  - **Education** (教育)：由“educate” + “-ation”构成。\n  - **Creation** (创造)：由“create” + “-ation”构成。",
+  "draw_explain": "该prompt通过描绘两个人在桌子旁讨论的场景，直观地展示了'商议'这一概念。桌子上的文件和笔记本电脑进一步强调了正式讨论的氛围，有助于记忆consultation的含义。",
+  "draw_prompt": "A realistic image of two people sitting at a table, engaged in a serious discussion, with documents and a laptop on the table, in a modern office setting."
+}

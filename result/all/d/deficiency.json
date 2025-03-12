@@ -1,0 +1,6 @@
+{
+  "word": "deficiency",
+  "analysis": "### 分析词义\n\n**Deficiency** 是一个名词，表示“缺乏”或“不足”。它通常用来描述某种物质、能力或特质的缺失，导致某种问题或不完整的状态。\n\n### 列举例句\n\n1. **场景1：营养缺乏**  \n   - **例句**: \"A deficiency in vitamin D can lead to weak bones.\"  \n   - **中文翻译**: “维生素D的缺乏会导致骨骼脆弱。”\n\n2. **场景2：资金不足**  \n   - **例句**: \"The project was halted due to a deficiency of funds.\"  \n   - **中文翻译**: “由于资金不足，项目被暂停了。”\n\n3. **场景3：能力缺陷**  \n   - **例句**: \"His deficiency in public speaking skills hindered his career advancement.\"  \n   - **中文翻译**: “他在公开演讲方面的不足阻碍了他的职业发展。”\n\n### 词根分析\n\n- **词根**: *fic* (来自拉丁语 *facere*，意思是“做”或“制造”)。  \n- **衍生词**: *efficient* (高效的), *sufficient* (足够的), *deficient* (不足的)。\n\n### 词缀分析\n\n- **前缀**: *de-* (表示“向下”或“否定”)。  \n- **后缀**: *-ency* (表示状态或性质)。  \n- **其他带有 *-ency* 后缀的单词**: *efficiency* (效率), *frequency* (频率), *urgency* (紧急)。\n\n### 发展历史和文化背景\n\n**Deficiency** 源自拉丁语 *deficiēns*, *deficiēntis*，意为“失败”或“缺乏”。这个词在中世纪拉丁语中广泛使用，后来进入英语，主要用于医学和营养学领域，描述身体对某些必需物质的缺乏状态。在现代英语中，它被广泛应用于各种领域，如经济、教育、健康等，用来描述各种形式的不足或缺陷。",
+  "draw_explain": "通过展示一个空荡荡的货架，强调了缺乏或不足的概念，这种视觉线索直接与'deficiency'的含义相关联。空货架的图像简洁且易于理解，能够有效地帮助记忆单词的含义。",
+  "draw_prompt": "A barren supermarket shelf, devoid of any products, emphasizing emptiness and lack."
+}

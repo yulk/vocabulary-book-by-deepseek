@@ -1,0 +1,6 @@
+{
+  "word": "supply",
+  "analysis": "### 分析词义\n\n**Supply** 是一个多义词，可以用作名词和动词。\n\n- **名词**：指提供或供应的物品、资源或服务。例如，食品供应、电力供应等。\n- **动词**：指提供或补充某物，确保有足够的数量。例如，公司供应原材料给工厂。\n\n### 列举例句\n\n1. **场景一：日常生活**\n   - The supermarket supplies fresh vegetables every day.  \n     *超市每天供应新鲜蔬菜。*\n   \n2. **场景二：商业活动**\n   - The company supplies raw materials to the factory.  \n     *公司向工厂供应原材料。*\n   \n3. **场景三：紧急情况**\n   - The government supplied food and water to the flood victims.  \n     *政府向洪水灾民提供了食物和水。*\n\n### 词根分析\n\n- **词根**：sup- (源自拉丁语 sub，表示“在下面”或“向上”) + ply (源自拉丁语plicare，表示“折叠”或“包装”)。  \n  - **衍生单词**：supplement (补充), support (支持), suppose (假设)。\n\n### 词缀分析\n\n- **前缀**：无明显前缀。  \n- **后缀**：无明显后缀。  \n- **中缀**：无明显中缀。  \n  - **相同后缀的单词**：apply (应用), reply (回复), imply (暗示)。  \n  - **相同前缀的单词**：无明显相同前缀的单词。  \n  - **相同中缀的单词**：无明显相同中缀的单词。  \n  - **相同词根的单词**：supplement (补充), support (支持), suppose (假设)。  \n  - **相同词缀的单词**：apply (应用), reply (回复), imply (暗示)。  ",
+  "draw_explain": "通过展示一个仓库中堆满各种物资的场景，能够直观地与'supply'的含义'供给，补给；供应品'相关联。仓库中的物资堆叠和分类存放，能够清晰地传达出供应和补给的概念，帮助记忆单词。",
+  "draw_prompt": "A large warehouse filled with neatly stacked boxes and supplies, organized by type, with labels indicating different categories of goods. The scene is brightly lit, showcasing the abundance and variety of supplies."
+}

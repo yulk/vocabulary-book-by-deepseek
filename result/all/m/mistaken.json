@@ -1,0 +1,6 @@
+{
+  "word": "mistaken",
+  "analysis": "### 分析词义\n\"Mistaken\" 是一个形容词，意思是“错误的”或“误解的”。它通常用来描述某人或某事是基于错误的理解或判断。\n\n### 列举例句\n1. **场景一：日常对话**\n   - \"I'm sorry, I was mistaken about the time of the meeting.\"\n     - 中文翻译：“对不起，我误解了会议的时间。”\n   \n2. **场景二：学术讨论**\n   - \"The researcher realized he had made a mistaken assumption in his hypothesis.\"\n     - 中文翻译：“研究人员意识到他在假设中做出了错误的假设。”\n   \n3. **场景三：法律情境**\n   - \"The judge declared the defendant not guilty due to mistaken identity.\"\n     - 中文翻译：“法官因身份错误宣布被告无罪。”\n\n### 词根分析\n- **词根**: \"take\"（拿，取）\n- **衍生单词**: \n  - \"mistake\"（名词，错误）\n  - \"mistakenly\"（副词，错误地）\n  - \"take\"（动词，拿）\n  - \"taking\"（名词，拿取的行为）\n\n### 词缀分析\n- **前缀**: 无特殊前缀。\n- **后缀**: \"-en\"（用于将动词转化为形容词形式）。例如：\"broken\"（打破的），\"spoken\"（说过的）。\n- **其他使用相同后缀的单词**: \"broken\", \"spoken\", \"written\".\n\n### 发展历史和文化背景\n\"Mistake\"一词源自中古英语的“mistakien”，进一步追溯到古法语的“mistakier”，意为“混淆”或“误解”。在现代英语中，这个词常用于描述由于理解错误或判断失误而导致的错误行为或状态。在欧美文化中，承认错误并纠正它们被视为个人成长和成熟的重要部分。因此，表达和处理误解和错误的方式在社会交往中具有重要意义。",
+  "draw_explain": "通过展示一个明显的错误场景，例如一个指向错误方向的箭头或一个拼写错误的单词，可以直观地帮助记忆'mistaken'这个单词的含义。这种视觉线索直接关联到单词的'错误的'或'弄错的'含义，使得记忆更加深刻。",
+  "draw_prompt": "A large arrow pointing in the wrong direction, with a red 'X' mark on it, set against a minimalist white background."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "mechanism",
+  "analysis": "### 分析词义\n\n**Mechanism** 是一个名词，指的是一种机械装置或系统，用于执行特定功能或过程。它也可以指某种方法、程序或策略，用于实现某个目标。在科学和工程领域，mechanism 通常用来描述物理或化学反应的详细过程。\n\n### 列举例句\n\n1. **The clock's mechanism is very complex.**  \n   - 这座钟的机械装置非常复杂。  \n2. **The company developed a new mechanism to reduce costs.**  \n   - 公司开发了一种新机制来降低成本。  \n3. **Scientists are studying the mechanism of photosynthesis.**  \n   - 科学家们正在研究光合作用的机制。\n\n### 词根分析\n\n- **词根**: *mechan-* (来自希腊语 *mekhane*，意为“机器”或“工具”)  \n- **衍生词**:  \n  - **mechanical**: 机械的，自动的  \n  - **mechanics**: 力学，机械学  \n  - **mechanize**: 使机械化  \n  - **mechanic**: 技工，机械师  \n\n### 词缀分析\n\n- **后缀**: *-ism* (表示“行为”、“状态”或“理论”)  \n- **相同后缀的单词**:  \n  - **socialism**: 社会主义  \n  - **capitalism**: 资本主义  \n  - **criticism**: 批评，批判主义  \n\n### 发展历史和文化背景\n\n**Mechanism**一词源自希腊语 *mekhane*，最初指的是“工具”或“机器”。随着工业革命的到来，这个词在英语中得到了广泛应用，尤其是在描述机械装置和自动化系统时。在科学领域，mechanism逐渐被用来描述复杂的物理和化学过程，成为研究自然现象的重要概念之一。在现代科技中，mechanism的概念被广泛应用于机器人学、自动化和生物学等领域。",
+  "draw_explain": "通过展示一个复杂的机械装置，如齿轮和杠杆的组合，可以直观地体现'mechanism'这个词的含义。机械装置的内部结构和工作原理直接关联到'机制'或'机能'的概念，使得记忆更加直观和深刻。",
+  "draw_prompt": "A highly detailed illustration of an intricate mechanical device, featuring interlocking gears, levers, and springs, set against a dark background with subtle metallic textures."
+}

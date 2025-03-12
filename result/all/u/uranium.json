@@ -1,0 +1,6 @@
+{
+  "word": "uranium",
+  "analysis": "### 分析词义\n**Uranium** 是指一种化学元素，符号为 U，原子序数为 92。它是一种银白色的金属，具有放射性。铀主要用于核能发电和制造核武器。\n\n### 列举例句\n1. **Scientists discovered a new method to extract uranium from seawater.**  \n   科学家们发现了一种从海水中提取铀的新方法。  \n2. **The reactor uses enriched uranium to generate electricity.**  \n   反应堆使用浓缩铀来发电。  \n3. **Uranium is a key material in the development of nuclear technology.**  \n   铀是核技术发展中的关键材料。\n\n### 词根分析\n- **词根**: uran- (源自希腊语 \"ouranos\"，意为“天空”或“天体”)  \n- **衍生词**:  \n  - Uranus (天王星)  \n  - Uranography (天体图学)  \n  - Uranology (天文学)  \n\n### 词缀分析\n- **词缀**: -ium (后缀，表示化学元素的名称)  \n- **相同词缀的单词**:  \n  - Sodium (钠)  \n  - Platinum (铂)  \n  - Radium (镭)  \n\n### 发展历史和文化背景\n铀的名字来源于天王星（Uranus），这是因为它是在天王星被发现后不久被发现的。铀在1789年由德国化学家马丁·海因里希·克拉普罗特（Martin Heinrich Klaproth）首次分离出来，但直到20世纪初，其放射性才被发现。铀在二战期间成为核武器开发的关键材料，尤其是在曼哈顿计划中。如今，铀主要用于核电站发电，但也因其潜在的军事用途而受到国际社会的严格监管。\n\n### 单词变形\n- **名词**: uranium (铀)  \n- **复数形式**: uraniums (但通常不使用复数形式，因为它是不可数名词)  \n- **形容词**: uranic (与铀有关的)  \n- **固定搭配**: enriched uranium (浓缩铀), depleted uranium (贫化铀), uranium ore (铀矿石)  \n\n### 记忆辅助",
+  "draw_explain": "铀是一种放射性金属元素，常用于核能和核武器。通过提示生成一个具有放射性标志的黄色和黑色三叶草形状的图案，以及一块闪闪发光的金属块，可以帮助记忆者将'uranium'与这些视觉元素联系起来，从而更容易记住这个单词。",
+  "draw_prompt": "A glowing yellow and black radioactive symbol shaped like a three-leaf clover, placed next to a shiny metallic block."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "context",
+  "analysis": "### 分析词义\n\n**Context** 是一个名词，意思是“上下文”或“语境”。它指的是在特定情况下，词语、句子或事件所处的背景信息。理解上下文对于准确解释和使用语言至关重要，因为它提供了理解特定词语或句子的必要背景信息。\n\n### 列举例句\n\n1. **In the context of the meeting, the CEO emphasized the importance of teamwork.**  \n   *在会议的背景下，首席执行官强调了团队合作的重要性。*\n\n2. **Without knowing the context, it's difficult to understand the full meaning of the statement.**  \n   *不了解上下文，很难理解这句话的全部含义。*\n\n3. **The teacher provided additional context to help students grasp the historical significance of the event.**  \n   *老师提供了额外的背景信息，以帮助学生理解该事件的历史意义。*\n\n### 词根分析\n\n- **词根**: con-text  \n  - **con-**: 表示“一起”或“共同”。  \n  - **text**: 表示“编织”或“结构”，源自拉丁语“texere”，意为“编织”。  \n\n- **衍生单词**:  \n  - **textile**: 纺织品  \n  - **texture**: 质地，纹理  \n  - **intertextual**: 互文的  \n\n### 词缀分析\n\n- **词缀**: context  \n  - **con-**: 前缀，表示“一起”或“共同”。  \n  - **text**: 词根，表示“编织”或“结构”。  \n\n- **相同词缀的单词**:  \n  - **contact**: 接触，联系  \n  - **construct**: 构建，建造  \n  - **contextual**: 上下文的，语境的  \n\n### 发展历史和文化背景",
+  "draw_explain": "通过展示一个包含多个元素的复杂场景，如城市景观或历史事件的描绘，可以直观地展示'context'（背景，环境）的概念。这样的图像能够帮助记忆者理解单词的含义，因为它直接关联到一个具体的、视觉上丰富的环境背景。",
+  "draw_prompt": "A detailed cityscape at sunset, with various buildings, streets, and people, capturing the essence of a bustling urban environment."
+}

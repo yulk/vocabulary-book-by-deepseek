@@ -1,0 +1,6 @@
+{
+  "word": "decimal",
+  "analysis": "### 分析词义\n\n\"Decimal\" 是一个形容词，表示“十进位的”或“小数的”。它也可以用作名词，表示“小数”。\n\n### 列举例句\n\n1. **场景一：数学课**  \n   - **例句**: \"The teacher explained how to convert fractions into decimal numbers.\"  \n   - **中文翻译**: 老师解释了如何将分数转换为小数。\n\n2. **场景二：购物**  \n   - **例句**: \"The price of the item is $19.99, which is a decimal representation of its cost.\"  \n   - **中文翻译**: 这件商品的价格是19.99美元，这是其成本的小数表示。\n\n3. **场景三：编程**  \n   - **例句**: \"In the code, we used a decimal data type to store precise monetary values.\"  \n   - **中文翻译**: 在代码中，我们使用了小数数据类型来存储精确的货币值。\n\n### 词根分析\n\n- **词根**: \"dec-\" 来自拉丁语 \"decem\"，意思是“十”。\n- **衍生单词**: \n  - decade (十年)\n  - decathlon (十项全能)\n  - December (十二月，原意为第十个月)\n\n### 词缀分析\n\n- **后缀**: \"-imal\" 是一个后缀，表示“与...有关的”或“属于...的”。它通常与数字相关的词根结合使用。\n- **相同后缀的单词**: \n  - minimal (最小的)\n  - maximal (最大的)\n  - optimal (最佳的)\n\n### 发展历史和文化背景\n\n\"Decimal\"一词源自拉丁语 \"decimus\"，意思是“第十”。十进制系统是基于10的数字系统，广泛应用于全球的数学和金融领域。这种系统的普及与人类使用十个手指计数有关，因此在文化上具有普遍性和实用性。在现代科技中，十进制系统仍然是计算机科学和金融计算的基础。",
+  "draw_explain": "通过展示一个包含十进制数和刻度尺的图像，可以直观地帮助记忆'decimal'这个词的含义。刻度尺上的标记和数字清晰地展示了十进制的概念，而图像的风格简洁明了，易于理解和记忆。",
+  "draw_prompt": "A clean, minimalist image of a ruler with decimal numbers (0.1, 0.2, 0.3) marked on it, set against a white background."
+}

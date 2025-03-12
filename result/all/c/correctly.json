@@ -1,0 +1,6 @@
+{
+  "word": "correctly",
+  "analysis": "### 分析词义\n\n\"Correctly\" 是一个副词，意思是“正确地”或“准确地”。它用于描述某人或某事以正确的方式或按照正确的标准执行某项任务或表达某个观点。\n\n### 列举例句\n\n1. **场景：考试**\n   - She answered the question correctly.\n   - 她正确地回答了问题。\n\n2. **场景：烹饪**\n   - He followed the recipe correctly and made a delicious cake.\n   - 他按照食谱正确地制作了一个美味的蛋糕。\n\n3. **场景：编程**\n   - The program runs correctly when the syntax is error-free.\n   - 当语法没有错误时，程序能正确运行。\n\n### 词根分析\n\n- **词根**: \"rect\" 来自拉丁语 \"rectus\"，意思是“直的”或“正确的”。\n- **衍生单词**: \n  - Correct (形容词) - 正确的\n  - Correction (名词) - 改正，纠正\n  - Rectify (动词) - 改正，矫正\n\n### 词缀分析\n\n- **后缀**: \"-ly\" 是一个常见的副词后缀，用于将形容词转换为副词。例如：quick -> quickly, happy -> happily。\n- **相同后缀的单词**: \n  - Quickly (迅速地) - quick + ly\n  - Happily (快乐地) - happy + ly\n  - Slowly (缓慢地) - slow + ly\n\n### 发展历史和文化背景\n\n\"Correctly\" 源自拉丁语 \"correctus\"，意为“纠正的”或“正确的”。在英语中，它最初用于描述某事物是正确的或被纠正过的。随着时间的推移，它逐渐演变为一个副词，用于描述行为或动作的正确性。在现代英语中，\"correctly\" 广泛应用于各种场景，从学术到日常生活，强调准确性和正确性。\n}",
+  "draw_explain": "通过展示一个正确拼写的单词和一个错误拼写的单词，并突出显示正确拼写的单词，可以帮助记忆'correctly'这个单词的含义。视觉上，正确拼写的单词被标记为绿色，错误拼写的单词被标记为红色，这种对比强烈的颜色可以有效地传达'正确地'这一概念。",
+  "draw_prompt": "A close-up of two handwritten words side by side: one word is spelled correctly and highlighted in green, the other is misspelled and highlighted in red. The scene is minimalist with a clean white background."
+}

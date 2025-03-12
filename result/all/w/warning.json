@@ -1,0 +1,6 @@
+{
+  "word": "warning",
+  "analysis": "### 分析词义\n\n**Warning** 是一个名词，表示“警告”或“警示”。它指的是一种提醒或通知，通常用于告知潜在的危险、风险或不良后果。警告可以是口头的、书面的或通过其他方式传达的。\n\n### 列举例句\n\n1. **场景一：交通标志**\n   - The warning sign on the road said, \"Danger: Falling Rocks.\"\n   - 路边的警告标志上写着：“危险：落石。”\n\n2. **场景二：学校通知**\n   - The teacher gave a warning to the students about the upcoming exam.\n   - 老师向学生们发出了关于即将到来的考试的警告。\n\n3. **场景三：产品说明**\n   - The product manual contains a warning about potential hazards when using the device.\n   - 产品手册中包含使用该设备时可能存在的危险的警告。\n\n### 词根分析\n\n- **词根**: warn (来自古英语 *warnian*，意为“警告”)\n- **衍生单词**: \n  - **warn**: 动词，表示“警告”。\n  - **warning**: 名词，表示“警告”。\n  - **warned**: 动词的过去式和过去分词形式，表示“已警告”。\n  - **warner**: 名词，表示“发出警告的人”。\n\n### 词缀分析\n\n- **后缀**: -ing (构成现在分词或形容词) + -ing (构成名词) = warning (名词)。后缀 \"-ing\" 通常用于将动词转换为名词或形容词形式。例如：running (跑步), building (建筑物)。\n- **相同后缀的单词**: learning (学习), teaching (教学), thinking (思考)。",
+  "draw_explain": "为了帮助记忆单词'warning'，选择了一个与警告标志相关的视觉线索。警告标志通常是黄色背景，带有黑色边框和黑色符号，这种设计非常醒目且易于识别。通过生成一个带有警告标志的图像，可以直观地与'warning'这个词的含义联系起来，从而加深记忆。",
+  "draw_prompt": "a vivid yellow warning sign with a black border and a bold black exclamation mark, set against a simple white background, designed in a modern, minimalist style."
+}

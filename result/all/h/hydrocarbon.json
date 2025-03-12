@@ -1,0 +1,6 @@
+{
+  "word": "hydrocarbon",
+  "analysis": "### 分析词义\n\n**Hydrocarbon** 是由两个词根组成的复合词：\n- **Hydro-** 来自希腊语，意思是“水”或“氢”。\n- **Carbon** 来自拉丁语，意思是“碳”。\n\n因此，**hydrocarbon** 指的是由氢（hydrogen）和碳（carbon）两种元素组成的化合物。这类化合物在自然界中广泛存在，包括石油、天然气和许多有机化合物。\n\n### 列举例句\n\n1. **Petroleum is a complex mixture of hydrocarbons.**  \n   - 石油是多种碳氢化合物的复杂混合物。\n   \n2. **The combustion of hydrocarbons releases energy and produces carbon dioxide and water.**  \n   - 碳氢化合物的燃烧会释放能量并产生二氧化碳和水。\n   \n3. **Many plastics are made from hydrocarbons found in crude oil.**  \n   - 许多塑料是由原油中的碳氢化合物制成的。\n\n### 词根分析\n\n- **Hydro-**: 表示“水”或“氢”，如：hydrogen（氢气）、hydrate（水合物）。\n- **Carbon**: 表示“碳”，如：carbon dioxide（二氧化碳）、carbonate（碳酸盐）。\n\n### 词缀分析\n\n- **Hydrocarbon** 没有明显的词缀，它是一个复合词，由两个独立的词根组成。类似的复合词还有：hydroelectric（水电的）、hydrotherapy（水疗法）。\n\n### 发展历史和文化背景\n\n**Hydrocarbon** 这个词最早出现在19世纪的化学文献中，随着对有机化学的研究深入，科学家们开始系统地研究由氢和碳组成的化合物。石油工业的发展使得hydrocarbon成为重要的研究对象，因为石油和天然气主要由这些化合物组成。在现代社会中，hydrocarbons不仅是能源的重要来源，也是塑料、药品等许多工业产品的基础原料。在欧美文化中，由于对环境保护的关注增加，减少对hydrocarbons的依赖和控制其排放成为重要的议题。",
+  "draw_explain": "这个prompt通过展示一个由碳原子（黑色球体）和氢原子（白色球体）组成的分子结构，直观地展示了'hydrocarbon'的化学组成。这种视觉表示法直接关联到单词的定义，即碳氢化合物，有助于记忆。",
+  "draw_prompt": "A molecular structure composed of black spheres (carbon atoms) bonded to white spheres (hydrogen atoms), resembling a simple hydrocarbon molecule."
+}

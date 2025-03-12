@@ -1,0 +1,6 @@
+{
+  "word": "tuberculosis",
+  "analysis": "### 分析词义\n\n**Tuberculosis (TB)** 是一种由结核分枝杆菌引起的传染病，主要影响肺部，但也可能影响其他器官。它通常通过空气传播，当感染者咳嗽、打喷嚏或说话时，释放的微小飞沫中含有细菌。\n\n### 列举例句\n\n1. **Medical Context:**\n   - \"Early diagnosis and treatment are crucial in combating tuberculosis.\"\n     - 早期诊断和治疗对于抗击结核病至关重要。\n\n2. **Public Health Context:**\n   - \"The government has launched a campaign to raise awareness about tuberculosis prevention.\"\n     - 政府发起了一场提高结核病预防意识的运动。\n\n3. **Historical Context:**\n   - \"In the 19th century, tuberculosis was often referred to as 'the white plague.'\"\n     - 在19世纪，结核病常被称为“白色瘟疫”。\n\n### 词根分析\n\n- **词根:** tubercle (结节) + osis (病症)\n- **衍生词:** 无明显衍生词，但 \"tuberculin\" (结核菌素) 与该词根相关。\n\n### 词缀分析\n\n- **后缀:** -osis (表示病症或状态)\n- **相同后缀的单词:** \n  - \"neurosis\" (神经症)\n  - \"arthrosis\" (关节病)\n  - \"hypnosis\" (催眠状态)\n\n### 发展历史和文化背景\n\n**Tuberculosis** 的历史可以追溯到古代文明，如埃及和希腊。在19世纪和20世纪初，它是一种常见的致命疾病，尤其在城市贫民窟中流行。由于其症状包括苍白的面色和消瘦的身体，它被称为“白色瘟疫”。随着抗生素的发现和公共卫生措施的改进，TB的发病率显著下降，但在某些地区仍是一个严重的公共卫生问题。在文学和艺术中，TB常被浪漫化，成为一种象征性的疾病。\n\n### 单词变形\n\n- **名词形式:** tuberculosis (结核病) [不可数名词]",
+  "draw_explain": "通过描绘一个肺部X光片中显示的结节状阴影，可以直观地与'tuberculosis'（结核病）相关联。这种图像直接反映了结核病的典型特征，即肺部的病变，有助于记忆该单词。",
+  "draw_prompt": "A detailed X-ray image of a human lung showing nodular shadows, in a clinical and realistic style."
+}

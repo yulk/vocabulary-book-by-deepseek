@@ -1,0 +1,6 @@
+{
+  "word": "spatial",
+  "analysis": "### 分析词义\n\"Spatial\" 是一个形容词，用来描述与空间、位置或区域相关的特性。它通常用于描述物体、环境或概念在空间中的关系和排列。\n\n### 列举例句\n1. **场景一：建筑设计**  \n   - The architect focused on creating a spatial layout that maximizes natural light.  \n     *建筑师专注于创造一个最大化自然光的空间布局。*\n   \n2. **场景二：地理学**  \n   - The spatial distribution of population in this region is uneven.  \n     *这个地区的人口空间分布不均匀。*\n   \n3. **场景三：艺术**  \n   - The artist used spatial awareness to create depth in the painting.  \n     *艺术家利用空间意识在画作中创造了深度。*\n\n### 词根分析\n- **词根**：\"space\"（空间）是 \"spatial\" 的核心词根，表示与空间相关的事物。\n- **衍生词**：  \n  - **spacious**（宽敞的）  \n  - **spacing**（间距）  \n  - **spaceman**（宇航员）  \n  - **spacetime**（时空）  \n  - **spacecraft**（航天器）  \n  - **spaceship**（宇宙飞船）  \n  - **spacewalk**（太空行走）  \n  - **space station**（空间站）  \n  - **space exploration**（太空探索）  \n  - **space-saving**（节省空间的）  \n  - **space-time continuum**（时空连续体）  \n  - **spatial awareness**（空间意识）  \n  - **spatial reasoning**（空间推理）  \n  - **spatial memory**（空间记忆）  \n  - **spatial orientation**（空间定向）  \n  - **spatial distribution**（空间分布）  ",
+  "draw_explain": "通过展示一个包含多个层次和空间关系的3D立方体，用户可以直观地理解'spatial'这个单词的含义，即与空间相关的。立方体的多维结构和不同角度的视图能够帮助用户记忆这个单词的空间特性。",
+  "draw_prompt": "A 3D cube with multiple layers and spatial relationships, viewed from various angles, in a minimalist and clean style."
+}

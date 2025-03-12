@@ -1,0 +1,6 @@
+{
+  "word": "dedicate",
+  "analysis": "### 分析词义\n\n\"Dedicate\" 是一个动词，意思是“奉献”、“致力于”或“献给”。它通常用于表示将时间、精力、生命等投入到某个目标、事业或人身上，表达一种强烈的承诺和奉献精神。\n\n### 列举例句\n\n1. **场景一：个人承诺**\n   - **例句**: She decided to dedicate her life to helping the poor.\n   - **中文翻译**: 她决定将自己的一生奉献给帮助穷人。\n\n2. **场景二：书籍献词**\n   - **例句**: The author dedicated his new book to his wife.\n   - **中文翻译**: 作者将他的新书献给了他的妻子。\n\n3. **场景三：工作投入**\n   - **例句**: He dedicated all his free time to studying for the exam.\n   - **中文翻译**: 他将所有的空闲时间都用来准备考试。\n\n### 词根分析\n\n- **词根**: \"dic\" (来自拉丁语 \"dicere\"，意思是“说”或“宣布”)。\n- **衍生单词**: \n  - Indicate (指示)\n  - Dictate (口述)\n  - Dictionary (字典)\n  - Predicate (断言)\n\n### 词缀分析\n\n- **前缀**: \"de-\" (表示“向下”或“完全”)。\n- **后缀**: \"-ate\" (表示动词形式)。\n- **相同词缀的单词**: \n  - Degrade (降级)\n  - Decompose (分解)\n  - Dehydrate (脱水)\n  - Decorate (装饰)\n\n### 发展历史和文化背景\n\n\"Dedicate\" 源自拉丁语 \"dedicare\"，由 \"de-\"（向下）和 \"dicare\"（宣布）组成，最初的意思是“宣布归属”或“献祭”。在宗教仪式中，人们会将物品或建筑物献给神灵，这种行为逐渐演变为现代意义上的“奉献”或“致力于”。在文学和艺术领域，作者常常会将作品献给某个人，以表达敬意或感激之情。这种传统在欧美文化中非常普遍，体现了对个人成就和人际关系的重视。",
+  "draw_explain": "通过描绘一个人将蜡烛放在祭坛上，象征性地表达了对某个目标或理想的奉献和献身。蜡烛的燃烧代表持续的努力和热情，祭坛则象征着崇高的目标或信仰。这种视觉线索直接关联到'dedicate'的含义，即全身心投入和奉献。",
+  "draw_prompt": "A person placing a burning candle on an altar, with a serene and focused expression, in a dimly lit, reverent atmosphere."
+}

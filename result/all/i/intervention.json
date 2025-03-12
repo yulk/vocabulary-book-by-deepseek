@@ -1,0 +1,6 @@
+{
+  "word": "intervention",
+  "analysis": "### 分析词义\n\n**Intervention** 是一个名词，指的是介入、干预或干涉的行为。它可以指在某个情况或过程中进行干预，以改变其结果或方向。通常，这种行为是为了帮助解决问题、防止不良后果或促进积极变化。\n\n### 列举例句\n\n1. **场景一：医疗干预**\n   - The doctor's intervention saved the patient's life.\n   - 医生的干预挽救了病人的生命。\n\n2. **场景二：政治干预**\n   - The international community called for immediate intervention to stop the conflict.\n   - 国际社会呼吁立即干预以停止冲突。\n\n3. **场景三：教育干预**\n   - Early intervention programs can help children with learning difficulties.\n   - 早期干预计划可以帮助有学习困难的儿童。\n\n### 词根分析\n\n- **词根**: *inter-* + *-ven-* + *-tion*\n  - *inter-*: 表示“在……之间”或“相互”。\n  - *-ven-*: 来自拉丁语 *venire*，意思是“来”或“到达”。\n  - *-tion*: 名词后缀，表示行为或状态。\n\n**衍生单词**:\n- intervene (动词): 介入，干涉。\n- interventionist (形容词): 支持干预的。\n- intervener (名词): 介入者。\n\n### 词缀分析\n\n- **前缀**: *inter-*（在……之间）。\n- **后缀**: *-tion*（名词后缀）。\n  \n**相同词缀的单词**:  \n- international (形容词): 国际的。  \n- interaction (名词): 互动。  \n- interconnection (名词): 相互连接。  \n- interpretation (名词): 解释。  \n- interruption (名词): 中断。  \n- intersection (名词): 交叉点。  \n- interview (名词/动词): 面试/采访。  ",
+  "draw_explain": "该prompt通过描绘一个明显的干涉场景，即一个人用手阻挡另一个人的行动，来帮助记忆'intervention'这个单词。视觉上，手的动作和阻挡的姿态非常直观，能够直接关联到'干涉'的含义。",
+  "draw_prompt": "A hand reaching out to stop another person from performing an action, with a clear and bold visual style emphasizing the blocking motion."
+}

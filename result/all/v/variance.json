@@ -1,0 +1,6 @@
+{
+  "word": "variance",
+  "analysis": "### 分析词义\n\n\"Variance\" 是一个名词，主要表示以下几种含义：\n1. **统计学中的方差**：用来衡量一组数据的离散程度，即数据点与平均值之间的差异。\n2. **变化；差异**：指事物之间的不同或变化。\n3. **许可；批准**：在某些情况下，指获得批准或允许。\n\n### 列举例句\n\n1. **统计学中的方差**：\n   - The variance of the test scores was quite high, indicating a wide range of performance levels.  \n     （测试成绩的方差很高，表明成绩水平差异很大。）\n   \n2. **变化；差异**：\n   - There is a significant variance in the prices of houses in this neighborhood.  \n     （这个社区的房价差异很大。）\n   \n3. **许可；批准**：\n   - The company has applied for a variance to extend the construction deadline by two months.  \n     （公司已申请延长施工期限两个月的许可。）\n\n### 词根分析\n\n- **词根**：vari- (来自拉丁语 \"varius\"，意思是“不同的”)。  \n- **衍生单词**：  \n  - Variable (可变的)  \n  - Variety (多样性)  \n  - Various (各种各样的)  \n  - Variation (变化)  \n  - Varied (多样的)  \n  - Variant (变体)  \n  - Vary (改变，变化)  \n  - Diversity (多样性)  \n  - Invariant (不变的)  \n  - Variability (可变性)  \n  - Varies (复数形式，表示不同的东西或人)  \n  - Variant (变体，变种)  \n  - Variance analysis (方差分析)  \n  - Variance inflation factor (方差膨胀因子，统计学术语)  ",
+  "draw_explain": "通过展示一系列不同形状、颜色和大小的物体，可以直观地展示'variance'（不同）的概念。这种视觉对比强烈且易于理解，有助于记忆单词的含义。",
+  "draw_prompt": "A vibrant collage of various objects, each with distinct shapes, colors, and sizes, arranged in a dynamic and contrasting manner."
+}

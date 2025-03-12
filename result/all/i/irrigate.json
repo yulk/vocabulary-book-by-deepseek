@@ -1,0 +1,6 @@
+{
+  "word": "irrigate",
+  "analysis": "### 分析词义\n\n**Irrigate** 是一个动词，意思是“灌溉”或“冲洗”。主要用于描述通过人工方式将水引入土地或身体部位，以促进生长或清洁。\n\n### 列举例句\n\n1. **农业场景**：  \n   - The farmer irrigates his fields to ensure that the crops grow well.  \n   - 农民灌溉他的田地，以确保庄稼长得好。\n\n2. **医学场景**：  \n   - The doctor irrigated the wound to prevent infection.  \n   - 医生冲洗伤口以防止感染。\n\n3. **环境场景**：  \n   - The government plans to irrigate the desert areas to make them fertile.  \n   - 政府计划灌溉沙漠地区，使其变得肥沃。\n\n### 词根分析\n\n- **词根**：irr- (源自拉丁语 \"irrigare\"，意为“浇水”) + -ig- (来自 \"agere\"，意为“做”) + -ate (动词后缀)。  \n- **衍生单词**：irrigation (名词，灌溉), irrigable (形容词，可灌溉的), irrigative (形容词，灌溉的)。\n\n### 词缀分析\n\n- **后缀**：-ate (动词后缀，表示“做某事”)。  \n- **相同后缀的单词**：activate (激活), calculate (计算), educate (教育)。\n\n### 发展历史和文化背景\n\n- **来源**：irrigate 源自拉丁语 \"irrigare\"，意为“浇水”或“灌溉”。这个词在农业和医学领域广泛使用，尤其是在干旱地区和水资源管理中。在古代文明中，如埃及和美索不达米亚，灌溉系统是农业发展的关键。现代医学中，冲洗伤口是常见的治疗手段。\n\n### 单词变形\n\n- **名词形式**：irrigation (灌溉)。  \n- **形容词形式**：irrigative (灌溉的)。  \n- **固定搭配**：irrigate fields (灌溉田地), irrigate wounds (冲洗伤口)。  \n- **组词**：irrigation system (灌溉系统), irrigation canal (灌溉渠)。",
+  "draw_explain": "该prompt通过展示一个灌溉系统来帮助记忆'irrigate'这个词。图像中包括一个喷水器和一个农田，这些元素直接关联到灌溉的概念，使得记忆更加直观和具体。",
+  "draw_prompt": "A vibrant image of a modern irrigation system with a rotating sprinkler spraying water over a lush green field, under a clear blue sky."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "summon",
+  "analysis": "### 分析词义\n\n**Summon** 是一个动词，意思是“召唤”或“召集”。它可以指通过某种方式（如呼叫、命令或请求）使某人或某物出现或到达某个地方。这个词通常带有一定的正式性或紧迫感。\n\n### 列举例句\n\n1. **场景：法庭**\n   - The judge summoned the witness to the stand.\n   - 法官传唤证人到证人席。\n\n2. **场景：紧急情况**\n   - The lifeguard summoned help when he saw the swimmer in trouble.\n   - 救生员看到游泳者遇到麻烦时呼叫了帮助。\n\n3. **场景：魔法**\n   - The wizard tried to summon a dragon with his magic spell.\n   - 巫师试图用他的魔法咒语召唤一条龙。\n\n### 词根分析\n\n- **词根：sum-** 来自拉丁语，意为“在上面”或“在顶部”。在summon中，它与词缀结合，表示“使某物或某人出现在某个地方”。\n- **衍生单词：** sum, summit, summary, consummate.\n\n### 词缀分析\n\n- **前缀：无** summon没有明显的前缀。\n- **后缀：-mon** 来自拉丁语，表示“警告”或“召唤”的动作。这个后缀在英语中不常见，但在summon中起到了关键作用。\n- **相同词缀的单词：无** summon的后缀在英语中相对独特，没有太多其他单词使用相同的后缀。\n\n### 发展历史和文化背景\n\nSummon这个词起源于古法语的“summuner”，最终源自拉丁语的“summo”（最高）和“monere”（警告）。在中世纪的欧洲，summon常用于法律文书和宗教仪式中，表示正式的传唤或召唤。在现代英语中，summon保留了其正式和紧急的含义，尤其在法律和魔法相关的语境中使用较多。在魔法文化中，summon常与召唤超自然生物（如恶魔、精灵等）相关联，增加了其神秘和神奇的色彩。",
+  "draw_explain": "这个prompt通过描绘一个神秘的魔法阵和一位魔法师召唤生物的场景，能够直观地帮助记忆'summon'这个单词的含义。魔法阵和召唤生物的动作直接关联到'召唤'这个概念，而魔法师的形象则可以联想到'鼓起勇气'的情境，因为魔法师在施法时需要集中精神和勇气。",
+  "draw_prompt": "A mystical magic circle glowing with blue light, a wizard in a flowing robe standing in the center, raising his staff and summoning a mythical creature, dramatic lighting, fantasy art style."
+}

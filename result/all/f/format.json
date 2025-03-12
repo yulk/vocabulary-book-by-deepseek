@@ -1,0 +1,6 @@
+{
+  "word": "format",
+  "analysis": "### 分析词义\n\n**format** 是一个多义词，既可以作为名词，也可以作为动词使用。\n\n- **名词**：指某种特定的样式、结构或布局，通常用于描述文档、书籍、电视节目等的组织方式。例如，一本书的格式可能包括章节、页码和标题的排列方式。\n  \n- **动词**：指对某物进行格式化，即改变其结构或布局以适应特定的需求。例如，格式化硬盘意味着清除所有数据并重新组织存储空间。\n\n### 列举例句\n\n1. **名词用法**：\n   - The book's format is very user-friendly, with clear headings and subheadings.  \n     *这本书的格式非常用户友好，有清晰的标题和副标题。*\n   \n2. **动词用法**：\n   - You need to format the USB drive before you can use it.  \n     *你需要在使用前格式化U盘。*\n   \n3. **名词用法**：\n   - The TV show has a unique format that combines comedy and drama.  \n     *这个电视节目有一个独特的格式，结合了喜剧和戏剧。*\n\n### 词根分析\n\n- **词根**：form  \n  - **含义**：形状、形式  \n  - **衍生词**：formation（形成）, formula（公式）, reform（改革）, perform（执行）等。  \n  - **解释**：format 中的 form 表示“形式”或“结构”，而 at 是后缀，表示动作或状态。因此，format 可以理解为“设定形式”或“安排结构”。\n\n### 词缀分析\n\n- **前缀**：无  \n- **后缀**：-at (表示动作或状态)  \n- **其他带有相同后缀的单词**：rotate（旋转）, translate（翻译）, calculate（计算）等。  \n- **解释**：后缀 -at 通常用于动词中，表示某种动作或状态的变化。在 format 中，它表示“设定”或“安排”某种形式或结构的动作。",
+  "draw_explain": "该prompt通过展示一个书籍的版式和开本，直观地展示了'format'这个单词的含义。书籍的版式和开本是最容易与'format'相关联的视觉线索，能够帮助记忆该单词。",
+  "draw_prompt": "A close-up of a book page showing different text layouts and page sizes, with a clean and modern design style."
+}

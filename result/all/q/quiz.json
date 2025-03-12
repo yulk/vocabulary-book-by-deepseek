@@ -1,0 +1,6 @@
+{
+  "word": "quiz",
+  "analysis": "### 分析词义\n\"Quiz\" 是一个名词，指的是一种简短的测验或考试，通常用于测试学生对某一特定主题的知识。它也可以作为动词使用，表示对某人进行测验或提问。\n\n### 列举例句\n1. **场景一：学校**  \n   - The teacher gave us a quiz on the Civil War today.  \n   - 老师今天给我们做了一个关于内战的测验。\n\n2. **场景二：电视节目**  \n   - The TV show is a quiz competition where contestants answer questions to win prizes.  \n   - 这个电视节目是一个问答比赛，参赛者通过回答问题来赢取奖品。\n\n3. **场景三：朋友之间**  \n   - We had a quiz night at my friend's house last weekend.  \n   - 上周末我们在朋友家举行了一个问答之夜。\n\n### 词根分析\n- **词根**: \"quis-\" 来自拉丁语，意思是“询问”或“寻找”。这个单词的词源可以追溯到拉丁语的 \"quaerere\"，意思是“询问”或“寻找”。\n- **衍生单词**:  \n  - **query** (询问)  \n  - **acquire** (获得)  \n  - **require** (要求)  \n  - **inquisition** (调查)  \n  - **question** (问题)\n\n### 词缀分析\n- **前缀**: 无特殊前缀。  \n- **后缀**: \"-z\" 是英语中的一个后缀，用于表示名词的单数形式。例如，\"quiz\"（测验）是名词的单数形式。  \n- **相同词缀的其他单词**:  \n  - \"quiz\" (测验)  \n  - \"fizz\" (嘶嘶声)  \n  - \"buzz\" (嗡嗡声)  \n  - \"fuzz\" (绒毛)  \n  - \"whiz\" (能手)",
+  "draw_explain": "选择'课堂测验'作为视觉线索，因为它是'quiz'最常见和易于联想的含义。通过描绘一个典型的课堂环境，包括学生、老师和试卷，可以直观地帮助记忆单词的含义。简洁的场景和常见的元素使得这个视觉线索易于理解和记忆。",
+  "draw_prompt": "A classroom scene with students sitting at desks, a teacher standing at the front holding a stack of papers, and a close-up of a quiz paper with questions and answer spaces."
+}

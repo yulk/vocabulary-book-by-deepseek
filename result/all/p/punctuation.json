@@ -1,0 +1,6 @@
+{
+  "word": "punctuation",
+  "analysis": "### 分析词义\n\"Punctuation\" 是一个名词，指的是书写或印刷中用于标示句子结构和语气的一组符号，如句号、逗号、问号、感叹号等。它帮助读者理解文本的节奏、语气和意义。\n\n### 列举例句\n1. **场景：写作指导**\n   - \"Proper punctuation is essential for clear communication.\"\n   - 中文翻译：“正确的标点符号对于清晰沟通至关重要。”\n\n2. **场景：编辑校对**\n   - \"The editor carefully checked the punctuation in the manuscript.\"\n   - 中文翻译：“编辑仔细检查了手稿中的标点符号。”\n\n3. **场景：语言学习**\n   - \"Learning punctuation rules can improve your writing skills.\"\n   - 中文翻译：“学习标点规则可以提高你的写作技能。”\n\n### 词根分析\n- **词根**：punct- (来自拉丁语 \"punctum\"，意为“点”或“刺”)\n- **衍生单词**：\n  - punctual (准时的)\n  - punctuate (加标点；强调)\n  - puncture (刺穿)\n\n### 词缀分析\n- **后缀**：-ation (表示动作或过程的名词后缀)\n- **相同后缀的单词**：\n  - education (教育)\n  - celebration (庆祝)\n  - consideration (考虑)\n\n### 发展历史和文化背景\n\"Punctuation\" 一词源自拉丁语 \"punctuatio\"，由 \"punctus\"（点）和后缀 \"-atio\"（动作）组成。在古希腊和罗马时期，标点符号主要用于区分词语和句子。随着语言的发展，标点符号的种类和使用规则逐渐丰富，成为现代书面语言不可或缺的一部分。在欧美文化中，正确的标点使用被视为良好教育和专业素养的体现。",
+  "draw_explain": "该prompt通过展示一个充满各种标点符号的场景，帮助记忆'punctuation'这个单词。图像中包含多种常见的标点符号，如句号、逗号、问号等，这些符号被放大并置于一个色彩鲜艳的背景中，形成强烈的视觉冲击。这样的设计不仅直观地展示了单词的含义，还通过视觉上的多样性和吸引力增强了记忆效果。",
+  "draw_prompt": "A vibrant background filled with enlarged, colorful punctuation marks such as periods, commas, question marks, and exclamation points, arranged in a visually appealing pattern."
+}

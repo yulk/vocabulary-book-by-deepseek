@@ -1,0 +1,6 @@
+{
+  "word": "tile",
+  "analysis": "### 分析词义\n\n**Tile** 是一个名词，主要指“瓷砖”或“瓦片”，通常用于建筑和装饰领域。它也可以指某些游戏中的“方块”或“棋子”。\n\n### 列举例句\n\n1. **The bathroom floor was covered with blue tiles.**  \n   *浴室的地板铺满了蓝色的瓷砖。*\n   \n2. **She arranged the Scrabble tiles on the table.**  \n   *她把拼字游戏的方块在桌子上排列好。*\n   \n3. **The roof of the house was made of red clay tiles.**  \n   *房子的屋顶是由红色陶瓦制成的。*\n\n### 词根分析\n\n- **词根**: -til- (来自拉丁语的 \"tela\"，意思是“网”或“织物”)  \n- **衍生词**: 例如 \"entitle\" (给予权利)，\"tiling\" (铺瓷砖)。\n\n### 词缀分析\n\n- **词缀**: 无明显前缀或后缀，单词本身较为基础。  \n- **相关词**: \"tiling\" (名词，铺瓷砖的行为)。\n\n### 发展历史和文化背景\n\n**Tile** 一词源自拉丁语的 \"tessella\"，意为“小方块”或“小石块”。瓷砖在古代文明中被广泛使用，如古罗马和古希腊的建筑中就有大量使用瓷砖进行装饰的例子。在现代建筑中，瓷砖不仅用于美观装饰，还具有防水和耐用的特性。在游戏领域，tile 也常用于描述棋盘游戏中的方块或棋子，如拼字游戏（Scrabble）中的字母方块。\n\n### 单词变形\n\n- **名词形式**: tile (单数), tiles (复数)  \n- **动词形式**: tile (铺瓷砖), tiled, tiling  \n- **形容词形式**: tiled (铺有瓷砖的)  \n- **固定搭配**: \"tile floor\" (瓷砖地板), \"tile roof\" (瓦屋顶)  \n- **组词**: \"tiling pattern\" (铺砖图案), \"ceramic tile\" (陶瓷砖)  \n- **中文翻译**: 瓷砖, 铺瓷砖, 瓦片, 拼字游戏方块等。",
+  "draw_explain": "通过展示一个铺满瓷砖的浴室场景，可以直观地联想到单词'tile'的含义。瓷砖的重复图案和光滑表面是该物品的显著特征，易于记忆。",
+  "draw_prompt": "a bathroom with a floor and walls covered in glossy white tiles, each tile showing a subtle pattern, photographed in soft natural light"
+}

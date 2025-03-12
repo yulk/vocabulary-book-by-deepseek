@@ -1,0 +1,6 @@
+{
+  "word": "pendulum",
+  "analysis": "### 分析词义\n\n**Pendulum** 是一个名词，指的是一个悬挂在固定点上的物体，可以在重力作用下来回摆动。它通常由一个重量较大的物体（称为摆锤）和一个连接到固定点的细线或杆组成。\n\n### 列举例句\n\n1. **例句：** The old grandfather clock had a pendulum that swung back and forth, marking the passage of time.  \n   **中文翻译：** 那台老式落地钟有一个摆锤，来回摆动，标志着时间的流逝。\n\n2. **例句：** The scientist used a pendulum to demonstrate the principles of gravity and motion.  \n   **中文翻译：** 科学家用一个摆锤来演示重力和运动的原理。\n\n3. **例句：** The pendulum of public opinion often swings between extremes.  \n   **中文翻译：** 公众意见往往在极端之间摇摆不定。\n\n### 词根分析\n\n- **词根：** pend-  \n  - **含义：** hang（悬挂）  \n  - **衍生词：**  \n    - **append**（附加）  \n    - **depend**（依赖）  \n    - **suspend**（悬挂，暂停）  \n    - **impending**（即将发生的）  \n    - **pending**（待定的）  \n    - **appendix**（附录）  \n    - **pendant**（吊坠）  \n    - **pendent**（悬挂的）  \n    - **expend**（花费）  \n    - **expenditure**（支出）  \n    - **dispense**（分配，分发）  \n    - **indispensable**（不可或缺的）  \n    - **pensive**（沉思的）  \n    - **compensate**（补偿）  \n    - **compensation**（补偿金）  \n    - **perpendicular**（垂直的）  \n    - **suspender**（吊带，悬挂装置）",
+  "draw_explain": "钟摆是'pendulum'最常见的视觉表现，通过描绘一个悬挂的金属球在两个点之间摆动，可以直观地展示其作为计时工具的特性。这种图像简单且易于记忆，能够帮助用户快速联想到'pendulum'的含义。",
+  "draw_prompt": "A metallic spherical pendulum hanging from a thin wire, swinging back and forth between two fixed points in a minimalist clock mechanism."
+}

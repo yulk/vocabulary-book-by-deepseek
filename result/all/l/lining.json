@@ -1,0 +1,6 @@
+{
+  "word": "lining",
+  "analysis": "### 分析词义\n\"Lining\" 是一个名词，通常指的是覆盖在物体内部的一层材料。它可以用于描述衣物内部的衬里、容器的内衬，或者机械部件的内部保护层。\n\n### 列举例句\n1. **Clothing**: The coat has a soft fleece lining to keep you warm.  \n   - 这件外套有柔软的羊毛衬里，让你保持温暖。\n   \n2. **Containers**: The inside of the box was lined with bubble wrap for extra protection.  \n   - 盒子的内部用泡沫包装纸进行了加固保护。\n   \n3. **Mechanics**: The engine's metal parts are lined with a special coating to prevent rust.  \n   - 发动机的金属部件涂有特殊涂层以防止生锈。\n\n### 词根分析\n- **Line**: \"Line\" 是词根，表示“线”或“线条”。在 \"lining\" 中，它指的是覆盖在物体内部的一层材料。\n- **衍生词**:  \n  - **Lineage** (血统)  \n  - **Linear** (线性的)  \n  - **Outline** (轮廓)  \n\n### 词缀分析\n- **后缀**: \"-ing\" 是动名词后缀，表示动作的结果或状态。例如：\"building\"（建筑物）、\"painting\"（画作）。在 \"lining\" 中，它表示“覆盖”的结果或状态。\n- **相同后缀的单词**:  \n  - **Filling** (填充物)  \n  - **Binding** (装订)  \n  - **Mailing** (邮寄)  \n\n### 发展历史和文化背景\n\"Lining\" 这个词源于古英语的 \"linung\"，意为“覆盖”或“衬里”。它在工业和日常生活中广泛使用，特别是在服装和包装行业中，用来描述内部的保护层或装饰层。在欧美文化中，衣物内部的衬里通常被视为提高舒适度和耐用性的重要部分。例如，西装内部的丝绸衬里不仅增加了舒适感，还提升了整体质感。\n\n### 单词变形",
+  "draw_explain": "通过展示一件衣服的内部，特别是其衬里部分，可以直观地帮助记忆'lining'这个单词。衬里通常是衣服内部的一层材料，用于增加舒适度或保护外层。这个prompt要求生成一个详细的图像，强调衣服内部的衬里，从而直接关联到单词的定义。",
+  "draw_prompt": "A close-up image of the inside of a jacket, highlighting the soft, smooth fabric lining that covers the inner surface, with a subtle texture and neutral color palette."
+}

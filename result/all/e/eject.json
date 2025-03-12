@@ -1,0 +1,6 @@
+{
+  "word": "eject",
+  "analysis": "### 分析词义\n\n**eject** 是一个动词，意思是“驱逐、弹出、喷射”。它可以指将某人或某物从某个地方强制移除，也可以指物体从某个系统中被弹出或喷射出来。\n\n### 列举例句\n\n1. **场景一：驱逐**\n   - The security guard **ejected** the unruly customer from the store.\n   - 保安将不守规矩的顾客从商店里驱逐出去。\n\n2. **场景二：弹出**\n   - The DVD player **ejected** the disc when it detected a malfunction.\n   - DVD播放器在检测到故障时弹出了光盘。\n\n3. **场景三：喷射**\n   - The volcano **ejected** molten lava and ash into the sky.\n   - 火山喷射出熔岩和灰烬到天空中。\n\n### 词根分析\n\n- **词根**: *jec-* (源自拉丁语 *jacere*，意思是“投掷”)。\n- **衍生单词**: \n  - **inject**: 注射（in- 表示“进入”，jec- 表示“投掷”）。\n  - **project**: 项目（pro- 表示“向前”，jec- 表示“投掷”）。\n  - **reject**: 拒绝（re- 表示“回”，jec- 表示“投掷”）。\n\n### 词缀分析\n\n- **前缀**: *e-* (表示“向外”)。\n- **后缀**: *t* (动词后缀)。\n- **相同前缀的单词**: 例如 *emit* (发出), *exit* (出口)。\n- **相同后缀的单词**: *connect* (连接), *protect* (保护)。\n\n### 发展历史和文化背景\n\n**eject** 源自拉丁语 *ejicere*，由前缀 *e-*（向外）和词根 *jacere*（投掷）组成。在英语中，这个词最初用于描述物理上的投掷或喷射动作，后来扩展到指驱逐或弹出的行为。在现代科技中，\"eject\"常用于描述光盘驱动器或类似设备中物体的弹出动作。在社会文化中，\"eject\"也常用于描述将人从某个场所强制移除的行为，如警察驱逐抗议者等。",
+  "draw_explain": "选择喷射作为视觉线索，因为喷射是一个动态且易于视觉化的动作，能够直观地与'eject'的含义相关联。通过描述一个火山喷发的场景，利用强烈的视觉效果和动态的元素来帮助记忆单词'eject'。",
+  "draw_prompt": "A dramatic volcanic eruption with molten lava and ash being violently ejected into the sky, creating a powerful and dynamic visual scene."
+}

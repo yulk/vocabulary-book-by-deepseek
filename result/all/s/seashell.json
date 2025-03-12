@@ -1,0 +1,6 @@
+{
+  "word": "seashell",
+  "analysis": "### 分析词义\n\n\"Seashell\" 是一个名词，指的是海洋生物（如贝类）的外壳。这些外壳通常在海滩上被发现，因其美丽和独特的形状而受到人们的喜爱。\n\n### 列举例句\n\n1. **场景一：海滩漫步**\n   - **例句**: \"She collected seashells along the beach during her vacation.\"\n   - **中文翻译**: \"她在度假期间沿着海滩收集贝壳。\"\n   \n2. **场景二：艺术创作**\n   - **例句**: \"The artist used seashells to decorate the picture frame.\"\n   - **中文翻译**: \"艺术家用贝壳装饰了相框。\"\n   \n3. **场景三：科学研究**\n   - **例句**: \"The marine biologist examined the structure of the seashell under a microscope.\"\n   - **中文翻译**: \"海洋生物学家在显微镜下研究了贝壳的结构。\"\n\n### 词根分析\n\n- **词根**: shell（外壳）是这个词的核心部分，表示物体的硬质外层。sea（海洋）是前缀，表示与海洋相关。\n- **衍生词**: shellfish（贝类）, shell（炮弹）, seashell（贝壳）。\n\n### 词缀分析\n\n- **前缀**: sea- 表示与海洋相关。例如：seaside（海边）, seawater（海水）。\n- **后缀**: -shell 表示外壳或硬质部分。例如：eggshell（蛋壳）, nutshell（坚果壳）。\n- **相同词缀的其他单词**: seabed（海床）, seashore（海岸线）, shellfish（贝类）。\n\n### 发展历史和文化背景\n\n\"Seashell\" 这个词来源于古英语的 \"seolh\"，意为“海中的外壳”。在许多文化中，贝壳被视为财富和好运的象征，尤其在太平洋岛屿文化中，贝壳常被用作货币或装饰品。在西方文化中，贝壳也常与海滩度假和放松联系在一起。随着时间的推移，这个词逐渐演变为指代所有类型的海洋生物外壳，并在现代英语中广泛使用。",
+  "draw_explain": "该prompt通过描述一个沙滩上的贝壳，结合阳光和海浪的元素，创造了一个生动的视觉场景，使'seashell'这个词与海滩和自然元素紧密关联，便于记忆。",
+  "draw_prompt": "A smooth, colorful seashell lying on a sandy beach, with gentle waves lapping at the shore and sunlight filtering through the clouds."
+}

@@ -1,0 +1,6 @@
+{
+  "word": "subscribe",
+  "analysis": "### 分析词义\n\n\"Subscribe\" 是一个动词，意思是“订阅”或“签署”。它通常用于表示同意或承诺参与某项服务、计划或协议。例如，订阅杂志、报纸、网站服务，或者签署合同、请愿书等。\n\n### 列举例句\n\n1. **订阅服务**  \n   - I subscribed to the online newspaper to get daily updates.  \n   - 我订阅了这份在线报纸，以获取每日更新。\n\n2. **签署协议**  \n   - The company subscribed to the new contract last week.  \n   - 公司上周签署了新合同。\n\n3. **支持请愿**  \n   - Many people have subscribed to the petition to save the local park.  \n   - 许多人已经签署了请愿书，以拯救当地的公园。\n\n### 词根分析\n\n- **词根**: \"scrib/script\" 来自拉丁语 \"scribere\" 或 \"scriptum\"，意思是“写”。  \n- **衍生单词**:  \n  - Describe (描述)  \n  - Inscribe (题写)  \n  - Manuscript (手稿)  \n  - Prescribe (开处方)  \n  - Resubmit (重新提交)  \n  - Script (剧本)  \n  - Scribble (涂鸦)  \n  - Subscription (订阅)  \n  - Transcript (成绩单)  \n  - Postscript (附言)  \n  - Scripture (经文)  \n- **词缀分析**: \"sub-\"（前缀）表示“在下面”或“从属”，\"-scribe\"（词根）表示“写”。因此，\"subscribe\" 的字面意思是“写下自己的名字以表示同意或承诺”。类似词缀的单词包括：describe, inscribe, transcribe, prescribe, manuscript, postscript, scripture, etc.",
+  "draw_explain": "选择'订阅'作为主要含义，因为它是'subscribe'最常用且最容易视觉化的意思。通过描绘一个用户界面中的订阅按钮，结合邮件图标和杂志图片，可以直观地展示订阅的概念。这种视觉线索直接关联到单词的含义，有助于记忆。",
+  "draw_prompt": "A sleek, modern user interface displaying a highlighted 'Subscribe' button, next to an envelope icon and a stack of glossy magazines, all in a clean, minimalist design style."
+}

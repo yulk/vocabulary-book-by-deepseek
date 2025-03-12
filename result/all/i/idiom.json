@@ -1,0 +1,6 @@
+{
+  "word": "idiom",
+  "analysis": "### 分析词义\n\n**Idiom** 是一个英语单词，指的是“习语”或“成语”。它是一种固定的短语或表达方式，通常不能通过字面意思来理解。习语在语言中具有特定的文化背景和含义，常常是语言学习中的一个难点。\n\n### 列举例句\n\n1. **例句 1**: \"It's raining cats and dogs.\"  \n   **中文翻译**: “下着倾盆大雨。”  \n   **场景**: 描述天气非常糟糕的情况。\n\n2. **例句 2**: \"Break a leg!\"  \n   **中文翻译**: “祝你好运！”  \n   **场景**: 在表演前祝愿某人成功。\n\n3. **例句 3**: \"Once in a blue moon.\"  \n   **中文翻译**: “千载难逢。”  \n   **场景**: 描述某件事情非常罕见。\n\n### 词根分析\n\n- **词根**: idio-  \n  - **含义**: 表示“个人的”、“独特的”或“特殊的”。例如：**idiosyncrasy**（特质），**idiosyncratic**（特质的）。\n  \n### 词缀分析\n\n- **后缀**: -om (来自希腊语的 -oma)  \n  - **含义**: 表示状态或情况。例如：**idiom**（习语），**idiomatic**（符合习语的）。\n  \n### 发展历史和文化背景\n\n- **来源**: Idiom一词源自希腊语的“idios”（个人的）和“hodos”（路径），最初指的是个人的表达方式或习惯用语。后来，这个词逐渐演变为指代一种固定的、具有特定文化含义的短语。习语在英语中非常常见，它们不仅丰富了语言表达，还反映了特定文化背景下的思维方式和价值观。例如，英语中的许多习语都与历史事件、宗教信仰或日常生活密切相关。学习习语是深入理解英语文化和语言的重要途径之一。\n  \n### 单词变形及固定搭配、组词等：\n- **名词形式**: idiom (习语)  \n- **形容词形式**: idiomatic (符合习语的)  \n- **固定搭配**: idiomatic expression (地道的表达), to understand an idiom (理解一个习语)  \n- **组词**: idiomatic phrases (地道的短语), idiomatic usage (地道的用法)  ",
+  "draw_explain": "通过展示一个包含成语的书籍页面，结合一个老者在阅读的场景，能够直观地传达'idiom'的含义。书籍和阅读者都是与成语紧密相关的元素，能够帮助记忆。",
+  "draw_prompt": "A close-up of an old book page displaying a Chinese idiom, with an elderly person reading it in a cozy, dimly lit room, featuring warm tones and vintage textures."
+}

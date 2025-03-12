@@ -1,0 +1,6 @@
+{
+  "word": "altogether",
+  "analysis": "### 分析词义\n\n\"Altogether\" 是一个副词，主要用于表示“完全地”、“总体上”或“总共”。它也可以用来表示“总之”或“总而言之”。\n\n### 列举例句\n\n1. **场景一：总结**\n   - \"Altogether, the project was a success.\"\n   - 中文翻译：“总的来说，这个项目是成功的。”\n\n2. **场景二：完全地**\n   - \"I don't altogether agree with your opinion.\"\n   - 中文翻译：“我并不完全同意你的观点。”\n\n3. **场景三：总共**\n   - \"There were altogether 50 people at the party.\"\n   - 中文翻译：“总共有50个人参加了派对。”\n\n### 词根分析\n\n- **词根**: \"alt-\" 来自拉丁语 \"altus\"，意为“高”或“全部”。\n- **衍生单词**: \"altitude\"（高度）, \"altar\"（祭坛）。\n\n### 词缀分析\n\n- **前缀**: \"al-\" 是一个缩写形式，通常表示“全部”或“整个”。\n- **后缀**: \"-together\" 表示“一起”或“共同”。\n- **相同词缀的单词**: \"alongside\"（在旁边）, \"altogether\"（总共）。\n\n### 发展历史和文化背景\n\n\"Altogether\" 源自中古英语 \"altogeder\"，进一步追溯到古英语 \"ælce gedere\"，意为“每一个一起”。这个词在现代英语中广泛用于总结性陈述或强调整体性。在欧美文化中，它常用于正式或非正式的交流中，以强调观点或总结讨论。\n\n### 单词变形\n\n- **副词**: altogether（总共）\n- **固定搭配**: \"altogether different\"（完全不同）, \"altogether now\"（大家一起来）。\n\n### 记忆辅助\n\n1. **联想记忆**: 将 \"altogether\" 与“一起”或“全部”联系起来，想象一群人在一起做某事，强调整体性。\n2. **重复使用**: 在不同的句子中多次使用 \"altogether\"，以加深记忆。例如：在日记中写下使用该词的句子。",
+  "draw_explain": "通过展示一个完全被涂成一种颜色的房间，以及房间内所有物品的总数，可以直观地理解'altogether'的三个含义：完全地、总共和总而言之。这种视觉线索简洁明了，易于记忆。",
+  "draw_prompt": "A completely monochromatic room filled with various objects, with a visible count of all the items inside, emphasizing the total number."
+}

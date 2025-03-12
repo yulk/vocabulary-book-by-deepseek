@@ -1,0 +1,6 @@
+{
+  "word": "astrophysics",
+  "analysis": "### 分析词义\n\n**Astrophysics** 是天体物理学的意思，它结合了天文学和物理学的知识，研究宇宙中的天体和现象的物理性质。这个领域涵盖了恒星、行星、星系、黑洞等天体的物理特性，以及它们之间的相互作用。\n\n### 列举例句\n\n1. **例句**: Astrophysics helps us understand the life cycle of stars.  \n   **翻译**: 天体物理学帮助我们理解恒星的生命周期。\n   \n2. **例句**: She is studying astrophysics to explore the mysteries of the universe.  \n   **翻译**: 她正在学习天体物理学，以探索宇宙的奥秘。\n   \n3. **例句**: The research in astrophysics has led to many groundbreaking discoveries.  \n   **翻译**: 天体物理学的研究已经带来了许多突破性的发现。\n\n### 词根分析\n\n- **词根**: -astro- (表示“星星”或“天体”) + -physics- (表示“物理学”)  \n- **衍生单词**:  \n  - astronomy (天文学)  \n  - astronaut (宇航员)  \n  - astrophotography (天文摄影)  \n  - astrobiology (天体生物学)  \n  - asteroid (小行星)  \n  - astrochemistry (天文化学)  \n  - astrometry (天体测量学)  \n  - astrogeology (天文地质学)  \n  - astroparticle physics (天文粒子物理学)  \n  - astrophotometry (天文光度测量学)  \n  - astrometry (天体测量学)  \n  - astrometry (天体测量学)  \n  - astrometry (天体测量学)  ",
+  "draw_explain": "为了记住'astrophysics'这个单词，我们可以通过视觉线索来关联其含义。天体物理学涉及宇宙中的天体和物理现象，因此选择一个展示星系、恒星和物理公式交织的场景。这样的图像不仅直观地展示了天体物理学的研究对象，还通过物理公式的加入强调了其科学性。简洁的画面风格有助于快速记忆和联想。",
+  "draw_prompt": "A minimalist illustration of a galaxy with swirling stars and planets, intertwined with mathematical and physical equations floating in the background, all rendered in a clean, modern art style."
+}

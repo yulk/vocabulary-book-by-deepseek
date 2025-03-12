@@ -1,0 +1,6 @@
+{
+  "word": "discriminate",
+  "analysis": "### 分析词义\n\n**Discriminate** 是一个动词，意思是区分、辨别或区别对待。它可以指在不同事物之间做出区分，也可以指根据某些标准或偏见对人们进行不公平的对待。\n\n### 列举例句\n\n1. **场景一：学术讨论**\n   - \"It's important to discriminate between fact and opinion when analyzing a text.\"\n   - 中文翻译：“在分析文本时，区分事实和观点很重要。”\n\n2. **场景二：社会问题**\n   - \"The company was accused of discriminating against women in their hiring practices.\"\n   - 中文翻译：“该公司被指控在招聘实践中歧视女性。”\n\n3. **场景三：日常决策**\n   - \"She learned to discriminate between good and bad investments.\"\n   - 中文翻译：“她学会了区分好的和坏的投资。”\n\n### 词根分析\n\n- **词根**: *scrutin* (来自拉丁语 *scrutinium*，意为“仔细检查”)。\n- **衍生词**: scrutiny (名词，意为“详细审查”)。\n- **衍生词**: scrutinize (动词，意为“仔细检查”)。\n- **衍生词**: scrutinizer (名词，意为“检查者”)。\n- **衍生词**: scrutinizing (形容词，意为“仔细检查的”)。\n- **衍生词**: scrutinizable (形容词，意为“可仔细检查的”)。",
+  "draw_explain": "该prompt通过展示一个明显的歧视场景来帮助记忆单词'discriminate'。图中的人物因为肤色不同而被区别对待，这种直观的视觉线索能够强烈地关联到单词的含义。同时，使用黑白对比的插画风格强调了歧视中的对立和差异，进一步加深记忆。",
+  "draw_prompt": "A black-and-white illustration of a person being denied entry to a building while another person of a different skin color is allowed in, with bold contrasting lines and expressive facial expressions."
+}

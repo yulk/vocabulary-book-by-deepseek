@@ -1,0 +1,6 @@
+{
+  "word": "astronomy",
+  "analysis": "### 分析词义\n\n**Astronomy** 是一个名词，指的是研究宇宙、天体（如恒星、行星、彗星、星系等）以及宇宙现象（如黑洞、星云等）的科学。它是天文学的一个分支，主要关注天体的物理性质、位置、运动和演化。\n\n### 列举例句\n\n1. **Scientists use telescopes to study astronomy.**  \n   *科学家使用望远镜来研究天文学。*\n\n2. **Astronomy is one of the oldest sciences in human history.**  \n   *天文学是人类历史上最古老的科学之一。*\n\n3. **She has a deep interest in astronomy and dreams of becoming an astronaut one day.**  \n   *她对天文学有着浓厚的兴趣，梦想有一天成为一名宇航员。*\n\n### 词根分析\n\n- **词根**: `astro-` 表示“星星”或“天体”，`-nomy` 表示“学科”或“规则”。  \n  - `astro-` 衍生词: `astronaut`（宇航员）, `astrology`（占星术）, `asteroid`（小行星）。  \n  - `-nomy` 衍生词: `economy`（经济学）, `agronomy`（农学）, `taxonomy`（分类学）。\n\n### 词缀分析\n\n- **前缀**: 无前缀。  \n- **后缀**: `-nomy`，表示“学科”或“规则”。  \n  - 相同后缀的单词: `economy`（经济学）, `agronomy`（农学）, `taxonomy`（分类学）。  \n  例如：  \n  - **Economy**：研究资源分配和管理的学科。  \n  - **Taxonomy**：研究生物分类的学科。  \n  - **Agronomy**：研究农业生产的学科。  \n    这些单词都使用了后缀 `-nomy`，表示与某种规则或学科相关的内容。",
+  "draw_explain": "天文学是研究宇宙和天体的科学，因此选择与星空、望远镜和宇宙相关的视觉线索来生成图像，能够直接关联到'astronomy'这个词。简洁的场景和图片风格有助于记忆。",
+  "draw_prompt": "A detailed illustration of a starry night sky with a large telescope pointed at a distant galaxy, surrounded by constellations and planets, in a realistic and vibrant style."
+}

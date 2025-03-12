@@ -1,0 +1,6 @@
+{
+  "word": "duplicate",
+  "analysis": "### 分析词义\n\n**duplicate** 是一个多义词，既可以作动词也可以作名词和形容词。\n\n- **动词**：复制、重复、使成双。\n- **名词**：副本、复制品。\n- **形容词**：完全一样的、复制的。\n\n### 列举例句\n\n1. **场景一：办公室文件处理**\n   - **例句**: Please make a duplicate of this document before we submit it.  \n   - **中文翻译**: 在我们提交之前，请先复制这份文件。\n   \n2. **场景二：图书馆借书**\n   - **例句**: I need a duplicate of this book because I lost the original one.  \n   - **中文翻译**: 我需要这本书的副本，因为我把原书弄丢了。\n   \n3. **场景三：技术讨论**\n   - **例句**: The software can detect and remove duplicate files automatically.  \n   - **中文翻译**: 该软件可以自动检测并删除重复的文件。\n   \n### 词根分析\n\n- **词根**: -plic- (来自拉丁语，意为“折叠”或“倍增”)。  \n- **衍生单词**:  \n  - replicate (复制)  \n  - complicate (使复杂化)  \n  - imply (暗示)  \n  - explicit (明确的)  \n  - multiplication (乘法)  \n  - duplicity (欺骗)  \n  - replication (复制)  \n  - complicacy (复杂性)  \n  - implicate (牵连)  \n  - explicate (解释)  \n  - multiplicate (增加)  ",
+  "draw_explain": "通过展示一个原始物品和它的精确复制品，用户可以直观地理解'duplicate'的含义。这种视觉对比强调了复制品与原物品的相似性，从而帮助记忆。",
+  "draw_prompt": "A pristine original book placed next to its exact replica, both open to the same page, showcasing identical text and illustrations. The scene is set in a modern, minimalist library with soft lighting, emphasizing the subtle differences and similarities between the two copies."
+}

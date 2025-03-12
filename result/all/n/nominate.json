@@ -1,0 +1,6 @@
+{
+  "word": "nominate",
+  "analysis": "### 分析词义\n\n**nominate** 是一个动词，意思是“提名”或“任命”。它通常用于正式场合，表示推荐某人担任某个职位或获得某个奖项。\n\n### 列举例句\n\n1. **例句**: The committee decided to nominate her for the position of chairperson.  \n   **翻译**: 委员会决定提名她担任主席职位。\n\n2. **例句**: He was nominated for the Best Actor award at the Oscars.  \n   **翻译**: 他被提名为奥斯卡最佳男演员奖。\n\n3. **例句**: The president nominated a new ambassador to the United Nations.  \n   **翻译**: 总统任命了一位新的联合国大使。\n\n### 词根分析\n\n- **词根**: -nomin- (表示“名字”或“提名”)  \n- **衍生单词**:  \n  - nomination (名词，提名)  \n  - nominee (名词，被提名者)  \n  - denominate (动词，命名)  \n  - nominal (形容词，名义上的)  \n  - nominate (动词，提名)  \n  - nominator (名词，提名人)  \n  - nomenclature (名词，命名法)  \n  - renomination (名词，重新提名)  \n  - denominate (动词，命名)  \n  - denomination (名词，命名)  \n  - denominational (形容词，教派的)  \n  - denominator (名词，分母)  \n  - nominate (动词，提名)  \n  - nominator (名词，提名人)  \n  - nomenclature (名词，命名法)  \n  - renomination (名词，重新提名)  \n  - denominate (动词，命名)  ",
+  "draw_explain": "为了帮助记忆单词'nominate'，这个prompt设计了一个视觉场景，其中一个人正在将一张写有名字的纸条放入一个透明的投票箱中。这个场景直接关联到'提名'的动作，通过视觉线索强化了单词的含义。透明的投票箱和纸条上的名字都是易于识别的元素，能够帮助用户在看到类似场景时联想到'nominate'这个单词。",
+  "draw_prompt": "A person placing a paper with a name on it into a clear, glass ballot box, in a simple, clean style with bold lines and minimal details."
+}

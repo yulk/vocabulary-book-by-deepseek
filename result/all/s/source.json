@@ -1,0 +1,6 @@
+{
+  "word": "source",
+  "analysis": "### 分析词义\n\n\"Source\" 是一个多义词，主要用作名词，表示“来源”、“源头”或“出处”。它可以指信息的来源、事物的起源，也可以指某物的供应源或生产地。此外，\"source\" 还可以用作动词，表示“寻找来源”或“获取资源”。\n\n### 列举例句\n\n1. **信息来源**  \n   - The news article cited an anonymous source.  \n     *这篇新闻文章引用了一个匿名来源。*  \n   \n2. **事物起源**  \n   - The river is the source of drinking water for the village.  \n     *这条河是村里饮用水的源头。*  \n   \n3. **获取资源**  \n   - We need to source more materials for the project.  \n     *我们需要为项目寻找更多材料。*  \n   \n4. **供应源**  \n   - This company is a major source of funding for the university.  \n     *这家公司是大学的主要资金来源。*  \n   \n5. **出处**  \n   - The source of this quote is unknown.  \n     *这句话的出处未知。*  \n   \n6. **动词用法**  \n   - She sourced the ingredients for the recipe online.  \n     *她在网上找到了食谱所需的材料。*",
+  "draw_explain": "选择一个水源作为视觉线索，因为'source'的定义是'来源'，而水源是最直观和易于理解的来源之一。水从泉眼中涌出的画面能够直接与单词的含义相关联，帮助记忆。",
+  "draw_prompt": "A clear spring of water gushing out from a rocky ground, surrounded by lush green vegetation, in a natural and serene style."
+}

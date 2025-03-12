@@ -1,0 +1,6 @@
+{
+  "word": "entity",
+  "analysis": "### 分析词义\n\n**Entity** 是一个名词，指的是一个独立存在的个体或事物。它可以是具体的物体，也可以是抽象的概念。在法律和商业领域，entity 通常指公司、组织或法人实体。\n\n### 列举例句\n\n1. **The company is a legal entity, separate from its owners.**  \n   - 这家公司是一个独立的法人实体，与所有者分开。\n\n2. **Each entity in the database has a unique identifier.**  \n   - 数据库中的每个实体都有一个唯一的标识符。\n\n3. **The concept of an entity is fundamental to understanding object-oriented programming.**  \n   - 实体的概念是理解面向对象编程的基础。\n\n### 词根分析\n\n- **词根**: *ent-* (来自拉丁语 *ens*, *entis*，意为“存在”或“实体”)\n- **衍生词**:  \n  - **Essential**: 本质的  \n  - **Existent**: 存在的  \n  - **Essence**: 本质  \n  - **Entity**: 实体  \n\n### 词缀分析\n\n- **后缀**: *-ity* (表示状态、性质或行为)  \n- **相同后缀的单词**:  \n  - **Equality**: 平等  \n  - **Reality**: 现实  \n  - **Responsibility**: 责任  \n  - **Activity**: 活动  \n\n### 发展历史和文化背景\n\n**Entity**一词源自拉丁语 *entitas*，意为“存在”或“实质”。它在哲学和神学中被广泛使用，用来描述独立存在的个体或事物。在现代英语中，entity常用于法律、商业和技术领域，指代公司、组织或数据库中的对象等。在西方文化中，entity的概念强调个体独立性和独特性。",
+  "draw_explain": "通过展示一个独特的、独立存在的物体，可以帮助记忆'entity'这个单词的含义。选择一个具有明显特征且容易与'实体'概念相关联的物体，如一座孤立的山峰，能够直观地传达'独立存在体'的概念。",
+  "draw_prompt": "A solitary mountain peak rising above a flat, featureless landscape, with dramatic lighting and a minimalist style to emphasize its solitary existence."
+}

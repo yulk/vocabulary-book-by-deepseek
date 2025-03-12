@@ -1,0 +1,6 @@
+{
+  "word": "alternatively",
+  "analysis": "### 分析词义\n\n**Alternatively** 是一个副词，意思是“或者”、“作为替代”、“另一方面”。它通常用于提供一个替代方案或选择，或者在两种可能性之间进行切换。\n\n### 列举例句\n\n1. **场景一：旅行计划**\n   - You can take the train, or alternatively, you can rent a car.\n   - 你可以坐火车，或者你可以租一辆车。\n\n2. **场景二：饮食选择**\n   - You can have chicken for dinner, alternatively, you can choose fish.\n   - 你可以吃鸡肉作为晚餐，或者你可以选择鱼。\n\n3. **场景三：工作安排**\n   - We could meet on Monday, alternatively, we could reschedule for Tuesday.\n   - 我们可以在周一见面，或者我们可以改到周二。\n\n### 词根分析\n\n- **词根**: alter (改变) + native (属于) → alternative (可选择的) + ly (副词后缀) → alternatively (作为替代地)。\n- **衍生单词**: alternative (形容词/名词), alteration (名词), altercation (名词)。\n\n### 词缀分析\n\n- **前缀**: 无。\n- **后缀**: -ly (副词后缀)。类似的单词有: really, quickly, slowly。\n- **中缀**: 无。\n\n### 发展历史和文化背景\n\n**Alternatively** 源自拉丁语 \"alternativus\"，意为“交替的”或“替换的”。这个词在中世纪拉丁语中被引入英语，并在16世纪开始广泛使用。在现代英语中，它常用于提供选择或替代方案，特别是在决策和计划中。在欧美文化中，它强调了灵活性和多样性，鼓励人们在面对选择时考虑不同的可能性。",
+  "draw_explain": "这个prompt通过展示两个对立的图像来帮助记忆'alternatively'的含义，即'二选一地；非此即彼'。通过视觉上明显的对比，用户可以轻松地将单词的含义与图像联系起来，从而增强记忆效果。",
+  "draw_prompt": "A split-screen image showing a bright sunny day on one side and a dark stormy night on the other, with a clear contrast between the two scenes."
+}

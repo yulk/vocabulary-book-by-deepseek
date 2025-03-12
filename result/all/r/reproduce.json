@@ -1,0 +1,6 @@
+{
+  "word": "reproduce",
+  "analysis": "### 分析词义\n\n**Reproduce** 是一个动词，意思是“复制”、“再生”或“繁殖”。它可以指生物学上的繁殖，也可以指通过某种方式复制或再现某个事物，例如声音、图像或文本。\n\n### 列举例句\n\n1. **Scientists are trying to reproduce the experiment under the same conditions.**  \n   科学家们正试图在相同条件下重复这个实验。\n   \n2. **The machine can reproduce the original sound with high fidelity.**  \n   这台机器可以高保真地再现原始声音。\n   \n3. **Some plants reproduce by sending out seeds.**  \n   一些植物通过散发种子来繁殖。\n\n### 词根分析\n\n- **词根**: *-pro-* (向前) + *-duce-* (引导)  \n  - *Pro-* 表示“向前”或“在前”。  \n  - *Duce* 来自拉丁语，意为“引导”或“带领”。  \n  因此，*reproduce* 的字面意思是“再次引导向前”，引申为“复制”或“再生”。  \n  \n- **衍生词**:  \n  - **Produce**: v. 生产；n. 农产品  \n  - **Production**: n. 生产；制作  \n  - **Productive**: adj. 多产的；富有成效的  \n  - **Productivity**: n. 生产力；生产率  \n  这些词都与“引导”或“生产”有关。\n\n### 词缀分析\n- **前缀**: *re-* (再次) + *-pro-* (向前) + *-duce-* (引导)  \n- **后缀**: / (无后缀)  \n- **其他单词**:  \n  - **Reduce**: v. 减少；降低（*re-* + *-duce-*）  \n  - **Induce**: v. 引诱；导致（*in-* + *-duce-*）  \n  - **Conduct**: v. & n. 引导；管理（*con-* + *-duce-*）  ",
+  "draw_explain": "通过展示一个细胞分裂的过程，可以直观地理解'reproduce'的含义，即复制和再生。细胞分裂是一个生物学上常见的现象，易于与单词的含义相关联。",
+  "draw_prompt": "A detailed illustration of a cell dividing into two identical cells, showing the process of mitosis with clear visual cues such as chromosomes and cell membranes, in a clean and scientific style."
+}

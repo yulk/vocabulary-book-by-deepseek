@@ -1,0 +1,6 @@
+{
+  "word": "footnote",
+  "analysis": "### 分析词义\n\"Footnote\" 是一个名词，指的是在书籍、文章或其他文本的页面底部添加的注释或参考信息。它通常用于提供额外的解释、引用来源或补充说明，而不打断主要文本的流畅性。\n\n### 列举例句\n1. The historian added a footnote to clarify the source of his information.  \n   （历史学家加了一个脚注来澄清信息的来源。）\n   \n2. The professor asked the students to include footnotes in their research papers.  \n   （教授要求学生在研究论文中加入脚注。）\n   \n3. The footnote at the bottom of the page provided additional context for the passage.  \n   （页面底部的脚注为这段文字提供了额外的背景信息。）\n\n### 词根分析\n- **foot-**：源自拉丁语 \"pes\"，意为“脚”，在这里指的是页面底部。\n- **note**：源自拉丁语 \"nota\"，意为“注释”或“标记”。\n\n衍生单词：  \n- **notebook**：笔记本  \n- **noteworthy**：值得注意的  \n- **notable**：显著的，著名的  \n\n### 词缀分析\n- **foot-**：前缀，表示“底部”或“脚”。  \n- **note**：词根，表示“注释”或“标记”。  \n- **-e**：后缀，用于构成名词。  \n\n相同词缀的其他单词：  \n- **footprint**：脚印  \n- **footnote**：脚注  \n- **footwear**：鞋类  \n\n### 发展历史和文化背景\n\"Footnote\" 这个词最早出现在17世纪的英语中，源自拉丁语 \"nota\"（注释）和 \"pes\"（脚）。在印刷术发明后，书籍和文章的页面上开始出现脚注，以便读者在不中断阅读的情况下获取额外的信息。随着学术写作的发展，脚注成为了引用和提供额外信息的标准方式。在现代学术文化中，脚注被广泛用于学术论文、书籍和文章中，以确保信息的准确性和可追溯性。",
+  "draw_explain": "注脚通常出现在书籍或文档的底部，用于提供额外的解释或参考。通过提示生成一个包含书籍页面的图像，并在页面底部放置一个小注释，可以直观地帮助记忆'footnote'这个单词的含义。",
+  "draw_prompt": "A close-up of a book page with a small note placed at the bottom, resembling a footnote, in a clean and minimalistic style."
+}

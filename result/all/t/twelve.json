@@ -1,0 +1,6 @@
+{
+  "word": "twelve",
+  "analysis": "### 分析词义\n\"Twelve\" 是一个基数词，表示数字12。它用于计数或表示顺序，是比11大1、比13小1的数字。\n\n### 列举例句\n1. **场景一：时间**  \n   - It's twelve o'clock.  \n     - 现在是十二点。\n2. **场景二：年龄**  \n   - She is twelve years old.  \n     - 她十二岁。\n3. **场景三：数量**  \n   - There are twelve apples on the table.  \n     - 桌子上有十二个苹果。\n\n### 词根分析\n- **词根**：\"twelv-\" 源自拉丁语 \"duodecim\"，意思是“十二”。  \n- **衍生词**：无常见衍生词，但与数字相关的单词如 \"twelfth\"（第十二）是它的序数形式。\n\n### 词缀分析\n- **前缀**：无前缀。  \n- **后缀**：无后缀。  \n- **序数形式**：\"twelfth\"（第十二）是它的序数形式，后缀 \"-th\" 表示顺序。\n\n### 发展历史和文化背景\n- \"Twelve\" 在许多文化中具有特殊意义，例如：  \n  - **十二个月**：一年有十二个月。  \n  - **十二生肖**：中国传统文化中有十二生肖。  \n  - **十二使徒**：基督教中有耶稣的十二门徒。  \n- 在英语中，\"twelve\" 是一个基本的基数词，历史悠久，源于古老的语言体系。\n\n### 单词变形和固定搭配\n- **名词形式**：无名词形式，但可以与其他名词组合，如 \"twelve o'clock\"（十二点）。  \n- **序数形式**：twelfth（第十二）。  \n- **固定搭配**：  \n  - Twelve o'clock（十二点）；Twelve months（十二个月）；Twelve apostles（十二门徒）。  \n- **中文翻译**：无变形和固定搭配的中文翻译需要根据具体语境调整。例如“Twelve o'clock”翻译为“十二点”，“Twelve months”翻译为“十二个月”等。",
+  "draw_explain": "选择一个与数字12相关的视觉元素，如时钟，因为时钟通常有12个小时刻度，这样的图像能够直观地与'twelve'这个单词联系起来。简洁的描述和具体的视觉元素有助于记忆。",
+  "draw_prompt": "A vintage clock face with all twelve numbers clearly marked, set against a soft, warm background with subtle golden highlights."
+}

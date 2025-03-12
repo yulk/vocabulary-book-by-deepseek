@@ -1,0 +1,6 @@
+{
+  "word": "melody",
+  "analysis": "### 分析词义\n\n\"Melody\" 是一个名词，指的是音乐中的旋律，即一系列音符按照一定的节奏和音高排列组合而成的音乐线条。旋律是音乐作品中最基本的元素之一，通常能够传达情感和主题。\n\n### 列举例句\n\n1. **场景：音乐会**\n   - The pianist played a beautiful melody that brought tears to the audience's eyes.\n   - 钢琴家演奏了一首美丽的旋律，让观众感动得流下了眼泪。\n\n2. **场景：日常对话**\n   - She hummed a familiar melody while cooking dinner.\n   - 她在做晚饭时哼唱了一首熟悉的旋律。\n\n3. **场景：创作音乐**\n   - The composer spent hours crafting the perfect melody for his new song.\n   - 作曲家花了几个小时为他的新歌创作完美的旋律。\n\n### 词根分析\n\n- **词根**: \"mel-\" 来自希腊语 \"melos\"，意思是“歌曲”或“旋律”。\n- **衍生词**: \n  - **Melodic**: 形容词，表示“旋律的”或“有旋律的”。\n  - **Melodious**: 形容词，表示“悦耳的”或“有旋律的”。\n  - **Melodrama**: 名词，表示“情节剧”或“ melodramatic（戏剧性的）”。\n\n### 词缀分析\n\n- **后缀**: \"-ody\" 是后缀，表示“过程”或“状态”，在这里特指“旋律”。\n- **相同后缀的单词**:\n  - **Biography**: 传记（bio-生命 + -graphy书写）。\n  - **Monody**: 独唱曲（mono-单一 + -dy旋律）。\n\n### 发展历史和文化背景\n\n\"Melody\" 这个词源自希腊语 \"melos\"，意为“歌曲”或“旋律”。在古典音乐中，旋律是音乐作品的核心部分，通常由主旋律（theme）和副旋律（counter-theme）组成。在流行音乐中，旋律往往是歌曲中最容易被记住和传唱的部分。在西方文化中，旋律被认为是音乐表达情感和讲述故事的重要手段。\n }",
+  "draw_explain": "通过描绘一个音乐家在演奏钢琴的场景，结合飘浮的音符和柔和的光线，能够直观地传达'melody'作为旋律和曲调的含义。钢琴作为音乐创作的象征，音符则直接关联到旋律，而柔和的光线增添了艺术氛围，帮助记忆。",
+  "draw_prompt": "A musician playing a grand piano, surrounded by floating musical notes, with soft, warm lighting in the background."
+}

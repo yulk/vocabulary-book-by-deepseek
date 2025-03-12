@@ -1,0 +1,6 @@
+{
+  "word": "unable",
+  "analysis": "### 分析词义\n\"Unable\" 是一个形容词，表示“不能”或“无法”。它通常用来描述某人或某物没有能力做某事。\n\n### 列举例句\n1. **场景一：工作场景**  \n   - 例句：She is unable to attend the meeting due to a sudden illness.  \n   - 中文翻译：由于突然生病，她无法参加会议。\n\n2. **场景二：学习场景**  \n   - 例句：The student was unable to solve the math problem on his own.  \n   - 中文翻译：那个学生无法自己解决数学问题。\n\n3. **场景三：日常生活**  \n   - 例句：He is unable to lift the heavy box without help.  \n   - 中文翻译：没有帮助，他无法举起那个沉重的箱子。\n\n### 词根分析\n- **词根**：-able (表示“能够”)  \n- **衍生单词**：enable (使能够), disable (使不能), capable (有能力的)\n\n### 词缀分析\n- **前缀**：un- (表示否定)  \n- **后缀**：-able (表示“能够”)  \n- **相同词缀的单词**：unhappy (不高兴), unable (不能), unfair (不公平)\n\n### 发展历史和文化背景\n\"Unable\" 源自中古英语的 \"unabl,\"，其中 \"un-\" 是拉丁语前缀，表示否定，而 \"-able\" 源自拉丁语的 \"-abilis\"，表示“能够”。在现代英语中，\"unable\" 广泛用于描述缺乏能力或技能的情况。在西方文化中，它常用于表达个人或事物的局限性。\n\n### 单词变形\n- **形容词**：unable (不能的)  \n- **固定搭配**：be unable to do something (无法做某事)  \n- **组词**：unable person (无能的人), unable situation (无能为力的局面)  \n- **其他变形**：无（因为它是形容词，没有动词、名词等变形）。",
+  "draw_explain": "通过展示一个明显无法完成某项任务的场景，如一个人试图举起一个巨大的石头却无法移动它，可以直观地传达'unable'的含义。这种视觉线索直接关联到单词的定义，即'不能的，不会的'，有助于记忆。",
+  "draw_prompt": "A person trying to lift a massive boulder but failing to move it, with a frustrated expression on their face, set in a rugged outdoor environment with dramatic lighting."
+}

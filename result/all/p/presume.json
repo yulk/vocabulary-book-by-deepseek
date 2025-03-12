@@ -1,0 +1,6 @@
+{
+  "word": "presume",
+  "analysis": "### 分析词义\n\n**Presume** 是一个动词，意思是“假设”、“推测”或“冒昧地做某事”。它通常表示在没有确凿证据的情况下做出某种假设或推断，或者在未经允许的情况下采取某种行动。\n\n### 列举例句\n\n1. **场景一：日常对话**\n   - **例句**: \"I presume you're here for the meeting.\"\n   - **中文翻译**: \"我猜你是来参加会议的。\"\n\n2. **场景二：学术讨论**\n   - **例句**: \"We can presume that the data is accurate unless proven otherwise.\"\n   - **中文翻译**: \"我们可以假设数据是准确的，除非有相反的证据。\"\n\n3. **场景三：礼貌请求**\n   - **例句**: \"May I presume to offer a suggestion?\"\n   - **中文翻译**: \"我可以冒昧地提个建议吗？\"\n\n### 词根分析\n\n- **词根**: *sum* (来自拉丁语，意思是“拿取”或“采取”)\n- **衍生单词**: \n  - *assume* (假设)\n  - *consumption* (消费)\n  - *resume* (恢复)\n\n### 词缀分析\n\n- **前缀**: *pre-* (表示“在…之前”或“预先”)\n- **后缀**: 无后缀，原形为动词。\n- **相同前缀的单词**: \n  - *predict* (预测)\n  - *prepare* (准备)\n  - *preschool* (学前班)\n\n### 发展历史和文化背景\n\n**Presume** 源自拉丁语 *praesumere*，由 *prae-*（前）和 *sumere*（拿取）组成。在中世纪英语中，这个词逐渐演变为现代英语中的 *presume*。在法律和学术领域，*presume* 常用于表示在没有相反证据的情况下做出的假设。在日常用语中，它也常用于表示礼貌的推测或请求。",
+  "draw_explain": "通过展示一个科学家在实验室中使用显微镜观察样本的场景，可以很好地关联到'presume'这个单词的含义。实验室环境中的科学假设和实验过程与'假定，假设，揣测'的概念紧密相关。显微镜作为科学研究的工具，象征着通过观察和分析来形成假设的过程。",
+  "draw_prompt": "A scientist in a laboratory, peering through a microscope at a sample, with a thoughtful expression, surrounded by scientific instruments and charts, in a clean and modern lab setting."
+}

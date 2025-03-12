@@ -1,0 +1,6 @@
+{
+  "word": "scope",
+  "analysis": "### 分析词义\n\n**Scope** 是一个多义词，主要有两个常见的意思：\n\n1. **范围**：指某个事物或活动的界限或领域。例如，在项目管理中，\"scope\" 指的是项目的具体目标和任务范围。\n2. **视野、望远镜**：在物理学或天文学中，\"scope\" 可以指望远镜，用于观察远处的物体。\n\n### 列举例句\n\n1. **范围**：\n   - The scope of the project includes both software development and testing.  \n     *这个项目的范围包括软件开发和测试。*\n   - This book provides a broad scope of information on ancient history.  \n     *这本书提供了关于古代历史的广泛信息。*\n   \n2. **视野、望远镜**：\n   - We used a telescope to observe the stars in the night sky.  \n     *我们用望远镜观察夜空中的星星。*\n   - The binoculars gave us a better scope of the distant mountains.  \n     *双筒望远镜让我们更好地看到了远处的山脉。*\n   \n3. **可能性**：（较少见）\n   - The new technology opens up a whole new scope of possibilities.  \n     *这项新技术开辟了全新的可能性。*\n   \n### 词根分析\n\n- **词根**: \"scop-\" 源自拉丁语 \"scopum\"，意思是“观察”或“看”。这个词根与“观察”和“视野”有关。\n- **衍生词**: 由 \"scop-\" 衍生出的单词包括：  \n  - **Telescope**: 望远镜（tele- 表示“远”，scop- 表示“看”）  \n  - **Microscope**: 显微镜（micro- 表示“小”，scop- 表示“看”）  \n  - **Horoscope**: 星象（hora- 表示“时间”，scop- 表示“观察”）  \n    *注：虽然 \"horoscope\" 中的 \"scop-\" 与观察有关，但这个词的现代意义更多与占星术相关。*",
+  "draw_explain": "选择望远镜作为视觉线索，因为望远镜能够放大视野，与'scope'（范围）的含义紧密相关。通过望远镜观察广阔的天空，可以直观地理解'范围'的概念。",
+  "draw_prompt": "A detailed image of a telescope pointed at a starry night sky, emphasizing the wide field of view and the vastness of space."
+}

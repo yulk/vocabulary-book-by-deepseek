@@ -1,0 +1,6 @@
+{
+  "word": "theme",
+  "analysis": "### 分析词义\n\n**Theme** 是一个名词，主要表示“主题”或“主旋律”。它可以指一篇文章、演讲、讨论或艺术作品中的核心思想或主要话题。此外，在音乐中，**theme** 也可以指一段重复出现的旋律。\n\n### 列举例句\n\n1. **The theme of the conference was \"Sustainable Development.\"**  \n   *会议的主题是“可持续发展”。*\n\n2. **The movie's theme song became very popular.**  \n   *这部电影的主题曲变得非常流行。*\n\n3. **In literature, the theme often reflects the author's view on life.**  \n   *在文学中，主题通常反映了作者对生活的看法。*\n\n### 词根分析\n\n- **词根**: The- (来自希腊语的“放置”或“设定”)  \n- **衍生词**:  \n  - Thematic (形容词，表示“主题的”)  \n  - Thematize (动词，表示“使成为主题”)  \n  - Thematics (名词，表示“主题学”)  \n\n### 词缀分析\n\n- **后缀**: -e (在单词末尾，用于辅助发音或构成名词)  \n- **相同后缀的单词**:  \n  - Home (家)  \n  - Game (游戏)  \n  - Name (名字)  \n\n### 发展历史和文化背景\n\n**Theme** 这个词源自希腊语的 **thema**，意为“放置”或“设定”。在古希腊哲学中，它被用来描述一个被设定为讨论或研究的核心问题。随着时间的推移，这个词逐渐被引入到文学、音乐和艺术领域中，用来描述作品的核心思想或旋律。在现代英语中，它广泛应用于各种场合，如学术讨论、电影、音乐等。在欧美文化中，强调主题的重要性是普遍的，尤其是在艺术和文学创作中。一个清晰的主题可以帮助观众或读者更好地理解作品的深层含义。",
+  "draw_explain": "这个prompt通过展示一个音乐会场景中的主旋律乐谱，以及一个演讲中的主题幻灯片，来帮助记忆'theme'这个单词。音乐和演讲是两个常见的场景，其中'theme'分别代表主旋律和主题，这样的视觉线索能够直观地关联到单词的含义。",
+  "draw_prompt": "A concert scene with a prominent musical score displaying the main melody, accompanied by a presentation slide showing the central topic of a speech."
+}

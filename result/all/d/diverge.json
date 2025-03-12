@@ -1,0 +1,6 @@
+{
+  "word": "diverge",
+  "analysis": "### 分析词义\n\n**Diverge** 是一个动词，意思是“偏离”、“分叉”或“产生分歧”。它通常用于描述两个或多个事物在方向、观点或路径上逐渐分离。\n\n### 列举例句\n\n1. **The two paths diverge at the fork in the road.**  \n   - 两条小路在岔路口分开了。\n2. **Our opinions on this matter have diverged significantly.**  \n   - 我们在这个问题上的意见已经明显分歧。\n3. **The conversation diverged from the main topic to a related issue.**  \n   - 谈话从主要话题偏离到了一个相关的问题。\n\n### 词根分析\n\n- **词根**: *di-* (表示“分开”或“离开”) + *-verge* (表示“转向”或“倾斜”)  \n- **衍生单词**:  \n  - **Converge**: 收敛，聚集  \n  - **Vergence**: 转向，倾斜  \n  - **Divergence**: 分歧，偏离（名词形式）  \n\n### 词缀分析\n\n- **前缀**: *di-* (表示“分开”或“离开”)  \n- **后缀**: *-ge* (无特定含义，辅助发音)  \n- **相同前缀的单词**:  \n  - **Divide**: 分开，划分  \n  - **Differ**: 不同，有区别  \n- **相同后缀的单词**:  \n  - **Merge**: 合并，融合  \n  - **Emerge**: 出现，浮现  \n\n### 发展历史和文化背景\n\n**Diverge**源自拉丁语 *divergere*，其中 *di-* 意为“分开”，*vergere* 意为“转向”。这个词在中世纪拉丁语中首次出现，后来通过法语进入英语。在现代英语中，它常用于描述观点、路径或趋势的分歧。在科学和数学领域，\"divergence\"（发散）是一个重要的概念，用于描述向量场的性质。在日常生活中，\"diverge\"常用于描述意见分歧或路线分离的情况。欧美文化中，这个词常与个人主义和多样性联系在一起，强调不同观点和选择的尊重。",
+  "draw_explain": "这个prompt通过展示一条道路分岔成两条不同的路径，直观地展示了'diverge'的含义。道路的分岔是'diverge'最直接的视觉表现，易于理解和记忆。",
+  "draw_prompt": "A straight road splitting into two distinct paths, surrounded by lush green trees, in a serene countryside setting."
+}

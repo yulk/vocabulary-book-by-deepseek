@@ -1,0 +1,6 @@
+{
+  "word": "engagement",
+  "analysis": "### 分析词义\n\n**Engagement** 是一个名词，主要含义包括：\n1. **订婚**：指两个人正式宣布他们打算结婚的状态。\n2. **参与、投入**：指某人积极参与某项活动或工作。\n3. **约定、契约**：指双方之间的正式协议或承诺。\n\n### 列举例句\n\n1. **订婚场景**：\n   - She announced her engagement to John last week.  \n     *她上周宣布与约翰订婚。*\n   \n2. **工作参与**：\n   - The team showed great engagement during the project.  \n     *团队在项目中展现了极大的投入。*\n   \n3. **契约协议**：\n   - The company has an engagement with a marketing firm to promote their new product.  \n     *公司与一家营销公司签订了推广新产品的协议。*\n\n### 词根分析\n\n- **词根**：-engag- 源自法语单词 \"engagier\"，意为“束缚、约束”。\n- **衍生词**：engage（动词，参与、订婚）、engaged（形容词，忙碌的、已订婚的）。\n\n### 词缀分析\n\n- **后缀**：-ment 是名词后缀，表示行为、状态或结果。例如：achievement（成就）、movement（运动）。\n- **相同后缀的单词**：enjoyment（享受）、development（发展）。\n\n### 发展历史和文化背景\n\n- **造词来源**：engagement 源自法语 \"engagier\"，最初意为“束缚”或“约束”，后来逐渐演变为表示“订婚”和“参与”等含义。在西方文化中，订婚（engagement）通常伴随着戒指交换仪式，象征着双方的承诺和未来的婚姻关系。工作中的engagement则强调个人的积极参与和责任感。\n   - 在现代商业环境中，engagement也常用于描述员工对工作的投入程度，或客户与品牌之间的互动关系。例如，企业会通过各种方式提高员工的engagement，以提升工作效率和满意度。",
+  "draw_explain": "通过展示一对情侣在浪漫餐厅中交换戒指的场景，这个prompt能够直观地传达'engagement'（约会）的概念。戒指作为订婚的象征，与约会紧密相关，而浪漫的餐厅环境则强化了约会的氛围。这样的视觉线索易于记忆，且与单词的含义直接相关。",
+  "draw_prompt": "A romantic couple exchanging rings in a dimly lit, elegant restaurant, with soft candlelight reflecting off the shiny metal of the rings, creating a warm and intimate atmosphere."
+}

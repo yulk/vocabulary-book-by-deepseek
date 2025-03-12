@@ -1,0 +1,6 @@
+{
+  "word": "deflection",
+  "analysis": "### 分析词义\n\n**Deflection** 是一个名词，指的是物体偏离其原本路径或方向的动作或状态。它通常用于描述物理现象，如光线、子弹或物体在受到外力作用时的偏转。此外，这个词也可以用于比喻，表示某人避免直接回答问题或转移话题。\n\n### 列举例句\n\n1. **Physical Phenomenon**: The scientist observed the deflection of the laser beam as it passed through the prism.  \n   *中文翻译*: 科学家观察到激光束通过棱镜时的偏转。\n\n2. **Avoiding Questions**: When asked about his opinion on the new policy, he gave a deflection by talking about unrelated topics.  \n   *中文翻译*: 当被问及对新政策的看法时，他通过谈论不相关的话题来转移话题。\n\n3. **Sports**: The goalkeeper made a brilliant deflection to prevent the ball from entering the net.  \n   *中文翻译*: 守门员做出了精彩的偏转动作，阻止了球进入球门。\n\n### 词根分析\n\n- **词根**: -flect- (来自拉丁语 \"flectere\"，意为 \"to bend\" 或 \"to turn\")  \n- **衍生词**:  \n  - Reflect (反射)  \n  - Flexible (灵活的)  \n  - Inflection (词尾变化)  \n  - Reflection (反射)  \n  - Deflect (动词形式，偏转)  \n\n### 词缀分析\n\n- **前缀**: de- (表示 \"离开\" 或 \"向下\")  \n- **后缀**: -ion (表示名词形式)  \n- **相同词缀的单词**:  \n  - Decline (下降)  \n  - Defect (缺陷)  \n  - Define (定义)  \n  - Definition (定义)  \n  - Deformation (变形)  \n\n### 发展历史和文化背景",
+  "draw_explain": "通过使用箭头偏离目标的图像，可以直观地展示'deflection'（偏斜，歪斜）的含义。箭头偏离目标的路径清晰地展示了物体或方向的偏差，这种视觉线索易于理解和记忆。",
+  "draw_prompt": "A sharp arrow visibly veering off its intended path towards a target, set against a minimalist background with soft gradients."
+}

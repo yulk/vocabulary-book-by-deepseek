@@ -1,0 +1,6 @@
+{
+  "word": "spaghetti",
+  "analysis": "### 分析词义\n\n\"Spaghetti\" 是一个意大利语单词，指的是一种细长的意大利面食，通常由小麦粉和水制成。它是意大利美食中非常受欢迎的一种面食，通常与各种酱料搭配食用，如番茄酱、肉酱或海鲜酱。\n\n### 列举例句\n\n1. **场景一：家庭聚餐**\n   - **例句**: \"We had spaghetti with meatballs for dinner last night.\"\n   - **中文翻译**: \"昨晚我们晚餐吃了肉丸意大利面。\"\n\n2. **场景二：餐厅点餐**\n   - **例句**: \"Can I have the spaghetti carbonara, please?\"\n   - **中文翻译**: \"请给我来一份卡邦尼意大利面。\"\n\n3. **场景三：烹饪教程**\n   - **例句**: \"First, boil the spaghetti until it's al dente.\"\n   - **中文翻译**: \"首先，将意大利面煮至有嚼劲。\"\n\n### 词根分析\n\n- **词根**: \"spaghett-\" 源自意大利语，意为“细绳”或“细线”。\n- **衍生单词**: 由于 \"spaghetti\" 是一个专有名词，没有直接的衍生单词，但可以与其他词组合形成新的词汇，如 \"spaghetti Bolognese\"（博洛尼亚肉酱面）。\n\n### 词缀分析\n\n- **词缀**: \"spaghetti\" 没有明显的词缀结构，它是一个独立的单词。\n- **相同词缀的单词**: 由于 \"spaghetti\" 没有词缀，因此没有相关联的单词。\n\n### 发展历史和文化背景\n\n\"Spaghetti\" 起源于意大利，具体来说是在西西里岛。它的历史可以追溯到12世纪，当时阿拉伯人将面条引入意大利。随着时间的推移，意大利面逐渐成为意大利美食的代表之一，并在全球范围内广受欢迎。在欧美文化中，\"spaghetti\" 常常与家庭聚餐、节日庆祝以及浪漫的晚餐联系在一起。它不仅是食物，更是一种文化的象征。",
+  "draw_explain": "选择意大利式细面条作为视觉线索，因为它是'spaghetti'这个词的核心含义，且易于通过图像识别。通过描述一碗热气腾腾的意大利面，配以番茄酱和奶酪，能够直观地展示出'spaghetti'的实际应用场景，帮助记忆。",
+  "draw_prompt": "A steaming bowl of Italian spaghetti with tomato sauce and melted cheese, served on a rustic wooden table, in a warm and cozy kitchen setting."
+}

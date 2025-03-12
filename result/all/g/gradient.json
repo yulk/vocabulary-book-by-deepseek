@@ -1,0 +1,6 @@
+{
+  "word": "gradient",
+  "analysis": "### 分析词义\n\n**Gradient** 是一个名词，主要用于描述某种变化的程度或速率。它可以指物理上的斜率、温度或颜色的渐变，也可以用于数学中表示函数的变化率。\n\n### 列举例句\n\n1. **The gradient of the mountain road was steep.**  \n   山路的坡度很陡。\n\n2. **The gradient of the temperature was noticeable as we climbed higher.**  \n   随着我们攀登得越来越高，温度的变化很明显。\n\n3. **The gradient in the painting creates a sense of depth.**  \n   画中的渐变创造出一种深度感。\n\n### 词根分析\n\n- **词根**: grad (来自拉丁语，意思是“走”或“步”)  \n- **衍生词**:  \n  - **grade**: 等级，年级  \n  - **gradual**: 逐渐的  \n  - **degrade**: 降解，退化  \n  - **upgrade**: 升级，提升  \n  - **degrade**: 降级，退化  \n  - **aggressive**: (来自 ag- = ad- + grad, \"to go to\") 侵略性的  \n  等等。\n\n### 词缀分析\n\n- **前缀**: 无前缀  \n- **后缀**: -ent (形容词后缀)  \n- **同后缀单词**:  \n  - different: 不同的  \n  - efficient: 高效的  \n  - significant: 重要的  等等。",
+  "draw_explain": "通过生成一个斜坡的图像，可以直观地帮助记忆'gradient'这个单词的含义。斜坡是一个常见的、易于理解的视觉形象，能够直接与'gradient'的定义'斜坡'相关联。",
+  "draw_prompt": "A steep, natural slope covered in grass, with a clear path leading down, under a bright sunny sky."
+}
