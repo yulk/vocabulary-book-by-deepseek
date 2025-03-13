@@ -2,7 +2,12 @@ import os
 import sys
 import json
 import time
-from provider_siliconflow import call_siliconflow_chat
+
+if os.environ.get('CHAT_PROVIDER', 'bytedance') == "bytedance":
+    from provider_bytedance import call_bytedance_chat as call_chat
+else:
+    from provider_siliconflow import call_siliconflow_chat as call_chat
+
 
 import logging
 
@@ -82,23 +87,29 @@ word_draw_json_format = """
 def process_word(word, word_mean):
     #print(word_draw_prompt.format(word=word, mean=word_mean, json_format=word_draw_json_format % word))
     #sys.exit()
-    res_text = call_siliconflow_chat(word, system=word_system_prompt)
+    res_text = call_chat(word, system=word_system_prompt)
     while res_text == None:
         print(f"ERROR:  res_text({word}) is None, retrying...")
         time.sleep(5)
-        res_text = call_siliconflow_chat(word, system=word_system_prompt)
+        res_text = call_chat(word, system=word_system_prompt)
 
     while True:  
-        draw_res_text = call_siliconflow_chat(word_draw_prompt.format(word=word, mean=word_mean, json_format=word_draw_json_format % word), system=word_draw_system, format="json_object")
+        draw_res_text = call_chat(word_draw_prompt.format(word=word, mean=word_mean, json_format=word_draw_json_format % word), system=word_draw_system, format="json_object")
         if draw_res_text == None:
             print(f"ERROR:  draw_res_text({word}) is None, retrying...")
             time.sleep(5)
             continue
+        draw_res_text = draw_res_text.strip()
+        if draw_res_text.startswith("```json"):
+            draw_res_text = draw_res_text[7:]
+        if draw_res_text.endswith("```"):
+            draw_res_text = draw_res_text[:-3]
+
         try:
             draw_res = json.loads(draw_res_text)
             return res_text, draw_res['explanation'] , draw_res['prompt']
         except Exception as e:
-            print(f"ERROR:  draw_res_text({word}) is not valid json, retrying...")
+            print(f"ERROR:  draw_res_text({word}) is not valid json({draw_res_text}), retrying...")
             continue
     
     return None, None, None
@@ -166,7 +177,8 @@ def main(word_letter=None):
                 "word": word_name,
                 "analysis": analysis,
                 "draw_explain": draw_explain,
-                "draw_prompt": draw_prompt
+                "draw_prompt": draw_prompt,
+                "model": "deepseek-r1" if os.environ.get('CHAT_PROVIDER', 'bytedance') == "bytedance" else "deepseek-v2.5" ,
             }, f, ensure_ascii=False, indent=2)
         
     logging.info(f"finish process {word_list_path}")
