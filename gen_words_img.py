@@ -14,6 +14,7 @@ def process_word_file(file_path: str) -> None:
     for word_info in data_words:
         word = word_info.get("word")
         if not word:
+            logging.error(f"word field not found in {word_info}")
             continue
         
         first_letter = word[0].lower()
@@ -25,11 +26,12 @@ def process_word_file(file_path: str) -> None:
         if not os.path.exists(img_dir):
             os.makedirs(img_dir, exist_ok=True)
         
-        img_file = f"{word}.jpg" if word[0].islower() else f"{word}2.jpg"
-        img_path = os.path.join(img_dir, img_file)
+        img_file_without_ext = f"{word}" if word[0].islower() else f"{word}2"
+        img_path_png = os.path.join(img_dir, img_file_without_ext) + ".png"
+        img_path_jpg = os.path.join(img_dir, img_file_without_ext) + ".jpg"
         
         # 检查文件是否存在
-        if os.path.exists(img_path):
+        if os.path.exists(img_path_png) or os.path.exists(img_path_jpg):
             logging.info(f"Skipping {word} as image already exists.")
             continue
 
@@ -43,15 +45,23 @@ def process_word_file(file_path: str) -> None:
             word_ana = json.load(f)
         
         # 调用replicate接口生成图片
-        from provider_replicate import replicate_run
+        provider = os.environ.get("IMAGE_PROVIDER", "replicate")
+        logging.info(f"Generating image for {word} using {provider}")
+        
+        if provider == "replicate":
+            from provider_replicate import image_gen
+        elif provider == "dashscope":
+            from provider_aliyun import image_gen
+        else:
+            logging.error(f"Unknown provider: {provider}")
+            raise ValueError(f"Unknown provider: {provider}")
+
         try:
-            output, cost_second = replicate_run(word_ana["draw_prompt"])
+            output, cost = image_gen(word_ana["draw_prompt"], img_path_png)
             if not output:
                 raise ValueError("Failed to generate image")
             
-            with open(img_path, "wb") as f:
-                f.write(output[0].read())
-            logging.info(f"Generated image for {word} saved at {img_path}")
+            logging.info(f"Generated image for {word} saved at {img_path_png}")
         except Exception as e:
             logging.error(f"Error generating image for {word}: {str(e)}")
 

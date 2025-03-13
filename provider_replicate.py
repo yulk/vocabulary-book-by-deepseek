@@ -33,6 +33,14 @@ def replicate_run( prompt):
     print(f"cost time: {cost_second}s")
     return output, cost_second
 
+def image_gen(input_prompt, dst_path):
+    output, cost_second = replicate_run(input_prompt)
+    if not output:
+        return None, None
+    with open(dst_path, "wb") as f:
+        f.write(output[0].read())
+    logging.info(f"Generated image saved at {dst_path}")
+    return output, cost_second
 
 if __name__ == "__main__":
     output, cost_second = replicate_run( "a photo of a cat")
