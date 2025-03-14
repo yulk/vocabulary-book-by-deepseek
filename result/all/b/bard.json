@@ -1,0 +1,7 @@
+{
+  "word": "bard",
+  "analysis": "\n\n请提供一个需要分析的英文单词，我将按照您要求的格式详细解答。例如：individual, entrepreneur, photosynthesis等。",
+  "draw_explain": "这个prompt通过描绘中世纪风格的吟游诗人手持竖琴、穿着斗篷的形象，以及象征诗歌创作的旧书和自然场景，强化了'bard'的核心定义。木制乐器和磨损的斗篷暗示流浪表演者的身份，幻想水彩风格增强了与传说故事的联系，而避开复杂背景确保视觉焦点集中在核心元素上。",
+  "draw_prompt": "A cloaked medieval bard with a wooden lute sits on a mossy stone in a forest clearing, strumming strings while an open leather-bound book rests nearby. Fantasy watercolor style with soft golden lighting and faint musical notes floating in the air.",
+  "model": "deepseek-r1"
+}

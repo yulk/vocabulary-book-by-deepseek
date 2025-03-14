@@ -1,0 +1,7 @@
+{
+  "word": "ocher",
+  "analysis": "\n\n### 分析词义\nOcher（赭石色）是一种天然矿物颜料，颜色介于黄色和棕色之间，由含铁氧化物构成。在艺术和建筑中常用于呈现温暖的大地色调。\n\n### 列举例句\n1. The ancient cave paintings used ocher to depict animals.（古代洞穴壁画用赭石色描绘动物）  \n2. She painted her bedroom walls in a warm ocher tone.（她把卧室墙壁刷成温暖的赭石色）  \n3. The desert at sunset glowed with deep ocher hues.（日落时沙漠泛着深赭色光芒）\n\n### 词根分析\n词根：希腊语 \"ōchra\"（意为淡黄色），源自原始印欧语 \"*h₂eḱ-\"（尖锐/边缘）。  \n衍生词：ochreous（赭色的）、ochroid（类似赭石的）\n\n### 词缀分析\n无典型词缀结构，整体为单一词根演变而来。  \n相似颜色词缀：-sienna（如raw sienna生赭色）、-umber（如burnt umber焦赭色）\n\n### 发展历史与文化\n- 公元前30万年：非洲原始人用赭石涂抹身体  \n- 古埃及：用于壁画和木乃伊防腐  \n- 文艺复兴：提香等画家用赭石创作肤色  \n- 现代象征：常与大地、质朴、自然美学相关联\n\n### 单词变形\n名词：ocher（单数）/ochers（复数）  \n形容词：ocher（赭色的）  \n无动词形式  \n固定搭配：ocher pigment（赭石颜料）、ocher deposits（赭石矿床）\n\n### 记忆辅助\n1. 联想记忆：\"Oh! Her裙子是赭石色\"（谐音）  \n2. 颜色联想：想象秋日落叶堆的颜色  \n3. 拆分记忆：o（圆）+ cher（法语\"亲爱的\"）= 亲爱的圆形太阳的暮色\n\n### 小故事\nThe artist dipped her brush into the ocher pigment. As she stroked the canvas, the desert landscape emerged – golden dunes under amber sky. A jackal's silhouette stood still, blending with the earthy tones.  \n（艺术家将画笔浸入赭色颜料。随着笔触挥洒，沙漠景象浮现——琥珀色天空下的金色沙丘。一只豺狼的剪影静立，与大地色调融为一体。）",
+  "draw_explain": "该提示通过展现富含赭石色调的沙漠景观，直接关联'ocher'作为自然土壤颜色的定义。风蚀的沙丘造型和天然颜料质感的笔触强化了'黄褐色'的视觉特征，阳光投射的暖调阴影进一步突出色彩层次，易于通过地貌与色彩的对应关系建立记忆锚点。",
+  "draw_prompt": "A vast desert landscape with wind-swept dunes in rich earthy tones of yellow-brown and reddish-brown, under a bright sun casting warm shadows, rendered in textured brushstrokes mimicking natural pigments.",
+  "model": "deepseek-r1"
+}

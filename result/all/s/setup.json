@@ -1,0 +1,7 @@
+{
+  "word": "setup",
+  "analysis": "\n\n已准备好根据您的需求提供专业英语单词解析服务。请提供您想学习的英文单词，我将按照以下结构为您详细解析：\n\n（以下为示例模板，实际解析将根据具体单词调整）\n\n### 1. 词义分析\n[简明中文释义 + 英文释义]\n\n### 2. 场景例句\n| 使用场景 | 英文例句 | 中文翻译 |\n|---------|----------|---------|\n| 场景1   | ...      | ...     |\n| 场景2   | ...      | ...     |\n| 场景3   | ...      | ...     |\n\n### 3. 词根解析\n词根：`[词根]`（含义）\n派生词：word1, word2, word3\n\n### 4. 词缀解析\n前缀：`[前缀]`（含义）\n后缀：`[后缀]`（含义）\n同缀词：wordA, wordB, wordC\n\n### 5. 文化词源\n[约200字的历史演变说明]\n\n### 6. 变形与搭配\n| 类型       | 形式           | 中文 |\n|------------|----------------|------|\n| 名词       | ...            | ...  |\n| 动词变形   | ...            | ...  |\n| 固定搭配   | ...            | ...  |\n\n### 7. 记忆技巧\n[联想记忆法/对比记忆法等]\n\n### 8. 双语故事\n[英文故事（带目标单词）]\n↓\n[中文翻译]\n\n请提供您需要学习的单词，我会立即开始解析！",
+  "draw_explain": "该prompt通过展示带有工具和蓝图的工作台，直观表现'setup'的装备、安装和计划三重含义。工具箱体现'装备'，组装中的书架体现'安装'，展开的蓝图对应'计划'，所有元素在统一场景中形成视觉关联。金属工具与纸张的材质对比增强记忆点，动态的组装动作暗示正在进行安装过程。",
+  "draw_prompt": "A well-lit workshop table with an open toolbox containing screwdrivers and wrenches, next to blueprints of a bookshelf. In the background, hands assembling wooden shelves with visible screw joints, ruler and measuring tape on crumpled paper, sharp shadows emphasizing industrial aesthetics.",
+  "model": "deepseek-r1"
+}

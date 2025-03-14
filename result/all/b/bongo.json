@@ -1,0 +1,7 @@
+{
+  "word": "bongo",
+  "analysis": "\n\n以下是对单词 \"bongo\" 的详细解析：\n\n（一）词义分析\n▸ 乐器：起源于古巴的打击乐器，由两个相连的小鼓组成，用手拍击发声\n▸ 动物：非洲大型森林羚羊（学名 Tragelaphus eurycerus），有红棕色皮毛和白色条纹\n\n（二）场景例句\n1. 音乐场景\nThe street performer played lively rhythms on his bongos. \n街头艺人用手拍打邦戈鼓演奏欢快的节奏。\n\n2. 教育场景\nOur music teacher taught us how to hold the bongo drums properly.\n音乐老师教我们正确持握邦戈鼓的方法。\n\n3. 自然场景\nWe spotted a rare bongo antelope during the safari in Kenya.\n在肯尼亚的游猎旅行中，我们发现了珍稀的邦戈羚羊。\n\n（三）词源解析\n词源：源自非洲班图语 \"mbongo\"，原指一种羚羊，后借用来命名类似羚羊角形状的鼓\n\n（四）文化内涵\n▸ 音乐：在古巴音乐、萨尔萨舞曲中具有重要地位，《教父》电影配乐中突出使用\n▸ 动物：刚果民主共和国国宝，象征森林的神秘与生命力\n\n（五）单词变形\n▸ 复数：bongos（乐器）/ bongo（动物）\n▸ 相关词：bongoist（邦戈鼓手）, bongohead（鼓乐爱好者俚语）\n\n（六）记忆技巧\n联想记忆：想象拍打鼓面发出\"邦！GO！\"的声音，或羚羊在鼓面上跳跃的画面\n\n（七）微型故事\nThe full moon lit the savannah as Jamal tapped his bongo drums. From the bushes emerged a striped bongo antelope, its horns glowing in the moonlight. The rhythmic beats seemed to echo the antelope's graceful movements. \n\n月光下的草原，贾马尔轻拍邦戈鼓。树丛中走出一只条纹邦戈羚羊，它的犄角在月光下发光。鼓点节奏仿佛应和着羚羊优雅的步伐。\n\n（八）冷知识\n▸ 邦戈羚羊是非洲唯一在蹄子上长有特殊腺体标记领地的羚羊\n▸ 爵士乐大师Dizzy Gillespie将bongo鼓引入现代爵士乐编曲",
+  "draw_explain": "这个prompt通过将大羚羊的条纹皮毛与小鼓的鼓面图案结合，同时展现两种定义的核心特征。红褐色羚羊的独特斑纹与非洲草原背景暗示动物定义，而木质双鼓的造型和敲击动作呼应乐器定义。鲜艳的卡通风格能强化视觉记忆，鼓面花纹与皮毛图案的镜像设计创造关联性。",
+  "draw_prompt": "A vibrant red-brown antelope with spiral horns and white stripes standing on savanna, beside a pair of wooden hand drums whose surfaces mirror the animal's stripe patterns, in a bold cartoon style with warm golden light.",
+  "model": "deepseek-r1"
+}

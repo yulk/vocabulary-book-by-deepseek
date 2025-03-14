@@ -1,0 +1,7 @@
+{
+  "word": "overview",
+  "analysis": "\n\n好的！请提供您需要分析的英文单词，我会按照以上模板为您详细解析，帮助您更好地理解和记忆该单词。",
+  "draw_explain": "鸟瞰视角的城市景观象征'概述'的宏观视角，展开的羊皮纸地图呼应'梗概'的具象载体。极简线条和淡色调突出核心元素而不分心细节，蓝白色调营造冷静的分析感，强化对整体结构的关注。",
+  "draw_prompt": "A minimalist aerial view of a cityscape drawn on unfurled parchment, with faint blue contour lines connecting major landmarks, rendered in soft watercolor washes with white negative space emphasizing simplicity.",
+  "model": "deepseek-r1"
+}

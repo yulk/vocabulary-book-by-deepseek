@@ -1,0 +1,7 @@
+{
+  "word": "aie",
+  "analysis": "\n\n您提供的单词 \"aie\" 在标准英语词典中并未被收录。这可能是由于拼写错误、罕见缩写或非英语词汇导致的。以下是几种可能性分析及建议：\n\n---\n\n### 🧐 可能性分析\n1. **拼写错误**  \n   - 可能您想输入的是：  \n     ✅ **age**（年龄）  \n     ✅ **aide**（助手）  \n     ✅ **ace**（王牌）  \n     ✅ **ache**（疼痛）  \n\n2. **法语词汇**  \n   - 法语中 \"aïe\" 是感叹词，类似英语的 \"ouch!\"（哎哟！），例如：  \n     *\"Aïe! Je me suis pincé le doigt.\"*（哎哟！我夹到手指了。）\n\n3. **缩写形式**  \n   - 可能代表某个专业领域的缩写，例如：  \n     *AIE = Artificial Intelligence Engine*（人工智能引擎）  \n     *AIE = Association of International Education*（国际教育协会）\n\n---\n\n### 📝 建议下一步\n1. 请检查单词拼写并重新输入。\n2. 提供更多上下文（例如：您在哪里看到这个词？）。\n3. 尝试以下高频替代词学习：\n\n| 单词   | 词性       | 中文释义       | 例句（英文 ↔ 中文） |\n|--------|------------|----------------|--------------------|\n| **ace** | 名词/动词  | 王牌；得满分    | She **aced** the exam. ↔ 她考试得了满分。 |\n| **aide** | 名词       | 助手            | The president's **aide** took notes. ↔ 总统助手做了记录。 |\n| **aisle** | 名词       | 过道            | The bride walked down the **aisle**. ↔ 新娘走过红毯。 |\n\n---\n\n### 🎯 记忆技巧\n1. **联想记忆法**：  \n   - \"aide\"（助手）→ 发音类似中文的 \"爱的\"，想象「有爱心的助手」。\n2. **视觉记忆法**：  \n   - \"aisle\"（过道）→ 字母组合 \"ai-s-l-e\" 像一个人在过道里走\"S\"形路线。\n\n---\n\n需要进一步帮助？请提供更多细节，我将为您定制详细解析！ 🌟",
+  "draw_explain": "该prompt通过展示一个发光的半透明大脑轮廓，周围环绕红色颗粒，直观表现'急性炎症'和'包涵体'特征。医学插图风格强化专业术语的严肃性，橙色光芒暗示急性发作，黑色背景聚焦核心元素。红色颗粒既象征病毒/异常蛋白包涵体，又形成视觉记忆点。",
+  "draw_prompt": "A glowing semi-transparent human brain with inflamed orange veins, surrounded by red particulate matter floating in dark space, medical illustration style with sharp focus on pathological details",
+  "model": "deepseek-r1"
+}

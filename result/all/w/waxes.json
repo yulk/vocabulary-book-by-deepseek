@@ -1,0 +1,7 @@
+{
+  "word": "waxes",
+  "analysis": "\n\n### 分析词义\nwaxes 是动词 wax 的第三人称单数形式，也是名词 wax 的复数形式：\n1. 动词：涂蜡（如打蜡地板）；逐渐增加/增强（如情绪高涨）\n2. 名词：蜡（如蜂蜡、蜡烛蜡）\n\n### 列举例句\n1. Beauty: She waxes her legs every month.  \n   她每月给腿涂蜡脱毛。\n\n2. Astronomy: The moon waxes from new to full.  \n   月亮从新月渐盈到满月。\n\n3. Art: The sculptor waxes the clay model to make it smooth.  \n   雕塑家给黏土模型打蜡使其光滑。\n\n### 词根分析\n词根 *waks-（古英语 weaxan）\n衍生词：waxen (蜡制的)，waxiness (蜡质感)，beeswax (蜂蜡)\n\n### 词缀分析\n基本单词无典型词缀，但动词变化体现古英语强变化动词特征：wax-waxes-waxed\n\n### 发展历史和文化背景\n源自古英语 weaxan（生长/增大）和 weax（蜡）。在西方文化中：\n- 罗马用蜡板书写重要文件\n- 中世纪教堂蜡烛象征神圣\n- \"wax poetic\" 表达诗意情感的增强\n\n### 单词变形\n名词：wax（蜡）→ waxes（复数）  \n动词：wax（原形）→ waxes（三单）→ waxed（过去式）→ waxing（现在分词）  \n形容词：waxy（蜡质的）  \n副词：waxily（如蜡般）  \n搭配：ear wax（耳垢），candle wax（烛蜡），wax and wane（盛衰）\n\n### 记忆辅助\n1. 联想法：地板打蜡（wax）后像蜡像馆（wax museum）般光亮\n2. 对比法：wax（渐满）vs wane（渐缺）形容月相变化\n3. 词源法：古英语 weaxan 既指\"生长\"又指\"蜡\"，关联\"蜡烛燃烧时蜡液流动\"的意象\n\n### 小故事\nThe full moon waxes brightly over the beauty salon. Inside, Lisa waxes her client's eyebrows carefully. \"When the moon waxes,\" she says, \"people's desire for beauty waxes too.\" The client smiles, watching golden candle wax drip slowly nearby.  \n满月照亮美容院。丽莎细心给客人修眉：\"月亮渐圆时，人们对美的渴望也在增长。\"客人微笑，看着身旁蜡烛缓缓滴落金黄的蜡。",
+  "draw_explain": "该prompt通过金色蜂巢的融化蜡滴展现'蜡'的物质形态（名词），同时抛光的木纹表面反光暗示'上蜡'的动作结果（动词）。超写实的暖光细节强化蜡的质感和应用场景，蜂蜡和木地板两种载体帮助形成双重记忆锚点。",
+  "draw_prompt": "Macro shot of golden honeycomb oozing melted wax droplets onto polished wood grain glowing with amber reflections, hyper-realistic details with warm lighting",
+  "model": "deepseek-r1"
+}

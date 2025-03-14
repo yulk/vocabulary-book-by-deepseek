@@ -1,0 +1,7 @@
+{
+  "word": "reset",
+  "analysis": "\n\n好的，我已重置对话。请告诉我您需要分析的英文单词，我将按照以下模块为您详细解析：\n\n1. **词义分析** - 用最简明的语言解释核心含义\n2. **场景例句** - 3个不同语境的应用示例（中英对照）\n3. **词根拆解** - 词源解析 + 衍生词家族\n4. **词缀密码** - 前缀/后缀含义 + 同缀词汇\n5. **文化脉络** - 历史演变与文化内涵\n6. **变形矩阵** - 所有词性变形 + 常用搭配\n7. **记忆锦囊** - 联想/谐音/图像记忆法\n8. **微小说** - 100词情景故事（中英对照）\n\n请提供您想学习的单词，让我们开始高效记忆之旅吧！(◕ᴗ◕✿)",
+  "draw_explain": "该提示通过展示积木从混乱到有序的排列过程，直观体现'重新安排'的核心含义。左边散落的积木代表需要重置的状态，右边整齐的排列象征新设定，中间移动的手部动作强化'reset'的动态过程。简约背景和柔和色彩确保焦点集中在概念传达上。",
+  "draw_prompt": "A split image showing wooden blocks: left side scattered chaotically, right side neatly arranged in a pyramid. A hand mid-motion transferring blocks between sections, with vivid contrasting sections on a clean, minimalistic background, rendered in bright, pastel colors.",
+  "model": "deepseek-r1"
+}
