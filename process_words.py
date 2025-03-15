@@ -140,11 +140,31 @@ def main(word_letter=None):
     # 对 words 做一次合法性校验，确保每个单词都有 word 和 translations 、seq字段。每个单词均由小写字母组成
     
     with open(word_list_path, 'r', encoding='utf-8') as f:
-        words = json.load(f)["words"]
+        all_data = json.load(f)
+        words = all_data["words"]
+        junior_words_count = len(all_data["junior_words"])
+        senior_words_count = len(all_data["senior_words"])
+        cet4_words_count = len(all_data["cet4_words"])
+        cet6_words_count = len(all_data["cet6_words"])
+        postgrad_words_count = len(all_data["postgrad_words"])
+        toefl_words_count = len(all_data["toefl_words"])
+
+
     
     for word in words:
         word_check_valide(word)
     logging.info(f"文件校验通过：{word_list_path}")
+
+    if word_letter == "stats":
+        logging.info(f"total_words_count: {len(words)}")
+        logging.info(f"junior_words_count: {junior_words_count}")
+        logging.info(f"senior_words_count: {senior_words_count}")
+        logging.info(f"cet4_words_count: {cet4_words_count}")
+        logging.info(f"cet6_words_count: {cet6_words_count}")
+        logging.info(f"postgrad_words_count: {postgrad_words_count}")
+        logging.info(f"toefl_words_count: {toefl_words_count}")
+        return
+
 
     # 处理每个单词
     for word in words:
