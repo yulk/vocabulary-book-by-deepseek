@@ -11,6 +11,7 @@ logging.basicConfig(
 word_data_path = 'data/all/global-words.json'
 word_analysis_dir = 'result/all'
 article_dir = 'result/articles'
+search_json_path = "web/search.json"
 
 
 def gen_letter_article_content(letter, words_data_map, letter_words, subdir, title_tag):
@@ -42,7 +43,7 @@ tags:
             continue
         #logging.info(f"Processing word: {word}, data: {word_org_data}")
         analysis = word_org_data.get('analysis', '')
-        content += f"""## {i+1}. {word}
+        content += f"""## {word}
 
 **释义**：{word_org_data['translations'][0]["translation"]}
 
@@ -108,6 +109,19 @@ def main():
     }
     for article_name, article_data in all_articles.items():
         gen_articles(words_data_map, words_data[article_name], article_data["subdir"], article_data["title"])
+    
+    # gen search.json
+    search_json = []
+    for article_name, article_data in all_articles.items():
+        for word in words_data[article_name]:
+            search_json.append({
+                "title": article_data["title"],
+                "tags": word,
+                "url": f"/2025/02/11/{article_data['subdir']}-{word[0].lower()}"
+            })
+    with open(search_json_path, 'w', encoding='utf-8') as f:
+        json.dump(search_json, f, ensure_ascii=False, indent=2)
+    logging.info(f"Generate search.json: {search_json_path}")
 
 if __name__ == "__main__":
     main()

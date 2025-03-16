@@ -6,7 +6,7 @@
 
 生成的词库手册最终效果如下：
 
-- [小智晖的AI单词库](https://word.vxiaozhi.com/)
+- [小智晖的AI单词库](https://word.vxiaozhi.com/) (（共收录 12655 个单词）)
   - [初中词汇](https://word.vxiaozhi.com/2025/02/11/junior-a/)
   - [高中词汇](https://word.vxiaozhi.com/2025/02/11/senior-a/)
   - [四级词汇](https://word.vxiaozhi.com/2025/02/11/cet4-a/)
@@ -18,10 +18,11 @@
 
 ## 功能规划
 
+- ✅ 初高中词库
 - ✅ 英语四级词库
-- 英语六级词库
-- 考研
-- 托福
+- ✅ 英语六级词库
+- ✅ 考研词库
+- ✅ 托福词库
 - 单词搜索
 - 生成anki卡片
 - 生成PDF
