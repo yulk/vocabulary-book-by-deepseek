@@ -19,9 +19,6 @@ with open(word_data_file, "r", encoding="utf-8") as f:
 
 unit_list = sorted(set([word["unit"] for word in words_data]))
 
-with open("DictionaryByGPT4.json", "r", encoding="utf-8") as f:
-    DictionaryByGPT4 = json.load(f)
-
 # words_data
 # [{
 #   "unit": "Unit1 Animal Friends",
@@ -84,19 +81,7 @@ for target_unit in unit_list:
 """
 
         else:
-            DictionaryByGPT4_flag = 0
-            for gpt4word in DictionaryByGPT4:
-                if gpt4word["word"] == cur_word["word"]:
-                    content += f"""
-[FROM DictionaryByGPT4:]
-{gpt4word["content"]}
-"""
-                    DictionaryByGPT4_flag = 1
-                    break
-            if DictionaryByGPT4_flag == 0:
-                """找不到时"""
-                print("[待完善]")
-                content += """
+            content += """
 [待完善]
 """
 
